@@ -37,6 +37,16 @@ body>.global-navigation .global-label{flex:0 0 auto;white-space:nowrap}
 body>.global-navigation .global-links{display:flex;flex-wrap:nowrap;gap:8px}
 body>.global-navigation .global-links a{display:inline-flex;align-items:center;justify-content:center;white-space:nowrap;min-height:40px;box-sizing:border-box}
 @media(max-width:750px){body>header.site-shell .shell-inner{min-height:112px;padding:16px!important}body>header.site-shell .shell-title{font-size:21px}body>header.site-shell .shell-status{display:none}body>.global-navigation .global-inner{padding:10px 16px!important;min-height:60px;flex-wrap:wrap}body>.global-navigation .global-label{display:none}body>.global-navigation .global-links{width:100%;gap:5px}body>.global-navigation .global-links a{flex:1;white-space:normal;text-align:center;font-size:11px;padding:7px 5px}}
+
+/* Navigation geometry correction: prevent inherited typography and scrollbar shifts */
+html{scrollbar-gutter:stable;scroll-padding-top:76px}
+body>.global-navigation{font-family:system-ui,Segoe UI,Arial,sans-serif!important;font-size:13px!important;line-height:20px!important}
+body>.global-navigation .global-inner{height:66px!important;min-height:66px!important;padding:12px 20px!important;max-width:1240px!important}
+body>.global-navigation .global-label{font:700 11px/20px system-ui,Segoe UI,Arial,sans-serif!important}
+body>.global-navigation .global-links a{font:600 13px/20px system-ui,Segoe UI,Arial,sans-serif!important;padding:9px 13px!important;height:40px!important;min-height:40px!important;border-width:1px!important}
+body>header.site-shell{height:112px!important;min-height:112px!important}
+body>header.site-shell .shell-inner{height:112px!important;min-height:112px!important}
+@media(max-width:750px){body>.global-navigation .global-inner{height:60px!important;min-height:60px!important;padding:10px 16px!important}body>.global-navigation .global-links a{font-size:11px!important;padding:7px 5px!important}body>header.site-shell,body>header.site-shell .shell-inner{height:112px!important;min-height:112px!important}}
 </style><style>
 .feed-grid{display:grid;grid-template-columns:1fr 1fr;gap:16px}.feed-list .item{margin-bottom:8px}.feed-source{font-size:11px;color:#9fb7d4}.attention-label{display:inline-block;color:#ffcb85;border:1px solid #a36b2c;padding:2px 7px;border-radius:8px;font-size:11px;margin-left:6px}.feed-note{color:#9eb0ca;font-size:12px;margin:8px 0 14px}@media(max-width:850px){.feed-grid{grid-template-columns:1fr}}
 .feed-expand{margin-top:14px;width:100%;font-size:13px}.feed-list .item{padding:10px 0}.feed-list .item strong{font-size:13px;line-height:1.5}.feed-source{font-size:11px}
