@@ -28,6 +28,9 @@ jobs:
       - name: Retrieve public intelligence and security feeds
         run: python scripts/collect.py
 
+      - name: Build normalized intelligence and briefings
+        run: python scripts/intelligence.py
+
       - name: Commit updated public data
         run: |
           git config user.name "github-actions[bot]"
