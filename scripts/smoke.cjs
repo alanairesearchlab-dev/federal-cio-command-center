@@ -20,9 +20,9 @@ const sleep = ms => new Promise(resolve => setTimeout(resolve, ms));
     for (const path of ['/', '/intelligence.html', '/about.html']) {
       await page.goto(base+path, {waitUntil:'networkidle', timeout:45000});
       assert(await page.locator('header').count(), path+' missing header');
-      assert(await page.locator('a[href="index.html"]').count(), path+' missing dashboard link');
-      assert(await page.locator('a[href="intelligence.html"]').count(), path+' missing intelligence link');
-      assert(await page.locator('a[href="about.html"]').count(), path+' missing about link');
+      assert(await page.locator('nav a[href^="./index.html"]').count(), path+' missing dashboard link');
+      assert(await page.locator('nav a[href^="./intelligence.html"]').count(), path+' missing intelligence link');
+      assert(await page.locator('nav a[href^="./about.html"]').count(), path+' missing about link');
       if (path==='/') {
         await page.waitForTimeout(1500);
         const status=await page.locator('#v92-status').innerText();
