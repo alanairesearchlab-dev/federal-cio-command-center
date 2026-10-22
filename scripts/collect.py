@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Collect PUBLIC federal intelligence. No credentials, no agency data."""
-import json, pathlib, urllib.request, datetime, os
+import json, pathlib, urllib.request, datetime, os, xml.etree.ElementTree as ET, re, html, hashlib
+from urllib.parse import urlparse
 from collections import Counter
 ROOT=pathlib.Path(__file__).resolve().parents[1]
 OUT=ROOT/'data'; OUT.mkdir(exist_ok=True)
@@ -69,6 +70,78 @@ try:
  record_source('policy_insights',True,len(fresh))
 except Exception as e:
  record_source('policy_insights',False,error=e)
+
+# Public RSS/Atom intelligence. A feed failure never deletes the last successful snapshot.
+FEEDS={
+ 'cisa_all':('CISA Advisories','official','https://www.cisa.gov/cybersecurity-advisories/all.xml'),
+ 'cisa_alerts':('CISA Alerts','official','https://www.cisa.gov/cybersecurity-advisories/alerts.xml'),
+ 'bleepingcomputer':('BleepingComputer','news','https://www.bleepingcomputer.com/feed/'),
+ 'krebs':('Krebs on Security','news','https://krebsonsecurity.com/feed/'),
+ 'hackernews':('The Hacker News','news','https://feeds.feedburner.com/TheHackersNews'),
+}
+def feed_text(el,name):
+ node=el.find(name)
+ return ''.join(node.itertext()).strip() if node is not None else ''
+def strip_markup(value):
+ return re.sub(r'\s+',' ',html.unescape(re.sub(r'<[^>]+>',' ',value or ''))).strip()[:420]
+def parse_feed(payload, source, kind):
+ root=ET.fromstring(payload)
+ items=[]
+ # RSS and Atom are supported without third-party packages.
+ if root.tag.endswith('rss') or root.find('channel') is not None:
+  nodes=root.findall('./channel/item')
+  for el in nodes:
+   title=feed_text(el,'title'); link=feed_text(el,'link'); date=feed_text(el,'pubDate')
+   desc=strip_markup(feed_text(el,'description'))
+   if title and link:items.append({'title':title[:240],'url':link,'published':date,'summary':desc,'source':source,'kind':kind})
+ else:
+  ns='{http://www.w3.org/2005/Atom}'
+  for el in root.findall(ns+'entry'):
+   title=feed_text(el,ns+'title'); date=feed_text(el,ns+'published') or feed_text(el,ns+'updated')
+   desc=strip_markup(feed_text(el,ns+'summary') or feed_text(el,ns+'content'))
+   links=[n.get('href','') for n in el.findall(ns+'link') if n.get('rel','alternate')=='alternate']
+   link=(links or [n.get('href','') for n in el.findall(ns+'link')])[:1]
+   if title and link:items.append({'title':title[:240],'url':link[0],'published':date,'summary':desc,'source':source,'kind':kind})
+ return items[:65]
+def urgency(item):
+ # A keyword flag is a research cue, never an official severity designation.
+ t=(item['title']+' '+item['summary']).lower()
+ terms=['immediate patch','patch immediately','urgent patch','actively exploited','active exploitation','zero-day','zero day','critical vulnerabilit','emergency directive','take offline','disconnect from the internet']
+ return any(x in t for x in terms)
+feed_items=[]; successes=0
+for key,(source,kind,url) in FEEDS.items():
+ try:
+  req=urllib.request.Request(url,headers={'User-Agent':'PublicCIOResearchDashboard/1.1 (public feeds; no auth)','Accept':'application/rss+xml, application/atom+xml, application/xml, text/xml'})
+  with urllib.request.urlopen(req,timeout=25) as response:
+   payload=response.read(2_500_000)
+  items=parse_feed(payload,source,kind)
+  if not items:raise ValueError('No RSS/Atom entries returned')
+  # Restrict article URLs to HTTPS. Titles and summaries are rendered as escaped text.
+  items=[i for i in items if urlparse(i['url']).scheme=='https']
+  if not items:raise ValueError('No HTTPS article links')
+  feed_items.extend(items);successes+=1
+  record_source(key,True,len(items))
+ except Exception as e:
+  record_source(key,False,error=e)
+if successes:
+ old=read('security-feeds.json',{}).get('items',[])
+ # Keep previous source items when that source temporarily fails.
+ healthy={source for key,(source,kind,url) in FEEDS.items() if status['sources'][key]['ok']}
+ feed_items.extend(i for i in old if i.get('source') not in healthy)
+ unique={}
+ for i in feed_items:
+  k=i['url'].split('?')[0].rstrip('/')
+  if k not in unique:unique[k]=i
+ from email.utils import parsedate_to_datetime
+ def timestamp(i):
+  try:return parsedate_to_datetime(i['published']).timestamp()
+  except Exception:
+   try:return datetime.datetime.fromisoformat(i['published'].replace('Z','+00:00')).timestamp()
+   except Exception:return 0
+ items=sorted(unique.values(),key=timestamp,reverse=True)[:180]
+ for i in items:i['attention_keyword']=urgency(i)
+ write('security-feeds.json',{'retrieved_at':NOW,'sources':list(FEEDS),'items':items,'note':'Attention flags are automated keyword matches, not CISA severity ratings or environment-specific findings.'})
+record_source('security_feeds',bool(successes),len(feed_items) if successes else None,error=None if successes else 'All security RSS sources failed; previous snapshot retained')
 
 write('status.json',status)
 print(json.dumps(status,indent=2))
