@@ -27,6 +27,16 @@ body>.global-navigation .global-label{flex:0 0 auto;white-space:nowrap}
 body>.global-navigation .global-links{display:flex;flex-wrap:nowrap;gap:8px}
 body>.global-navigation .global-links a{display:inline-flex;align-items:center;justify-content:center;white-space:nowrap;min-height:40px;box-sizing:border-box}
 @media(max-width:750px){body>header.site-shell .shell-inner{min-height:112px;padding:16px!important}body>header.site-shell .shell-title{font-size:21px}body>header.site-shell .shell-status{display:none}body>.global-navigation .global-inner{padding:10px 16px!important;min-height:60px;flex-wrap:wrap}body>.global-navigation .global-label{display:none}body>.global-navigation .global-links{width:100%;gap:5px}body>.global-navigation .global-links a{flex:1;white-space:normal;text-align:center;font-size:11px;padding:7px 5px}}
+
+/* Navigation geometry correction: prevent inherited typography and scrollbar shifts */
+html{scrollbar-gutter:stable;scroll-padding-top:76px}
+body>.global-navigation{font-family:system-ui,Segoe UI,Arial,sans-serif!important;font-size:13px!important;line-height:20px!important}
+body>.global-navigation .global-inner{height:66px!important;min-height:66px!important;padding:12px 20px!important;max-width:1240px!important}
+body>.global-navigation .global-label{font:700 11px/20px system-ui,Segoe UI,Arial,sans-serif!important}
+body>.global-navigation .global-links a{font:600 13px/20px system-ui,Segoe UI,Arial,sans-serif!important;padding:9px 13px!important;height:40px!important;min-height:40px!important;border-width:1px!important}
+body>header.site-shell{height:112px!important;min-height:112px!important}
+body>header.site-shell .shell-inner{height:112px!important;min-height:112px!important}
+@media(max-width:750px){body>.global-navigation .global-inner{height:60px!important;min-height:60px!important;padding:10px 16px!important}body>.global-navigation .global-links a{font-size:11px!important;padding:7px 5px!important}body>header.site-shell,body>header.site-shell .shell-inner{height:112px!important;min-height:112px!important}}
 </style></head><body>
 <header class="site-shell"><div class="shell-inner"><div class="shell-copy"><div class="shell-eyebrow">Independent public-source research</div><h1 class="shell-title">Federal CIO Intelligence Command Center</h1><p class="shell-subtitle">Cybersecurity · Federal policy · Technology intelligence</p></div><div class="shell-status" >Public-source intelligence</div></div></header><nav class="global-navigation" aria-label="Primary navigation"><div class="global-inner"><span class="global-label">Explore the Command Center</span><div class="global-links"><a href="./index.html" >Dashboard</a><a href="./intelligence.html" aria-current="page">Intelligence Workspace</a><a href="./about.html" >About &amp; Methodology</a></div></div></nav>
 <main class="wrap"><div class="notice"><strong>Interpretation boundary:</strong> Automated attention indicators are research cues, not official severity ratings, legal determinations, or evidence of any organization's exposure. Validate every conclusion at its original source.</div>
