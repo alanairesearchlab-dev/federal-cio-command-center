@@ -17,13 +17,22 @@ const sleep = ms => new Promise(resolve => setTimeout(resolve, ms));
     const page=await browser.newPage();
     const errors=[];
     page.on('pageerror', err => errors.push(err.message));
-    for (const path of ['/', '/intelligence.html', '/about.html']) {
+    for (const path of ['/', '/briefing.html', '/intelligence.html', '/about.html']) {
       await page.goto(base+path, {waitUntil:'networkidle', timeout:45000});
       assert(await page.locator('header').count(), path+' missing header');
       assert(await page.locator('nav a[href^="./index.html"]').count(), path+' missing dashboard link');
       assert(await page.locator('nav a[href^="./intelligence.html"]').count(), path+' missing intelligence link');
       assert(await page.locator('nav a[href^="./about.html"]').count(), path+' missing about link');
+      assert(await page.locator('nav a[href="./briefing.html"]').count(), path+' missing briefing link');
+      if (path==='/briefing.html') {
+        await page.waitForTimeout(1500);
+        assert(await page.locator('#v92-assessments .v92-card').count()>0, 'Briefing assessment cards missing');
+        assert((await page.locator('#v92-brief').innerText()).length>100, 'Briefing text missing');
+        assert(await page.locator('#v91-new-list').count(), 'Change review missing');
+        assert(await page.locator('#v91-deadlines').count(), 'Action calendar missing');
+      }
       if (path==='/') {
+        assert(await page.locator('a[href="./briefing.html"]').count()>0, 'Dashboard briefing shortcut missing');
         await page.waitForTimeout(1500);
         const status=await page.locator('#v92-status').innerText();
         assert(!status.includes('Assessment unavailable'), 'Assessment failed: '+status);
