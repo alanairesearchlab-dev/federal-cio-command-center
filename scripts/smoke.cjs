@@ -30,6 +30,8 @@ const sleep = ms => new Promise(resolve => setTimeout(resolve, ms));
         assert((await page.locator('#v92-brief').innerText()).length>100, 'Briefing text missing');
         assert(await page.locator('#v91-new-list').count(), 'Change review missing');
         assert(await page.locator('#v91-deadlines').count(), 'Action calendar missing');
+        assert(await page.locator('.tabbar').count()===0, 'Dashboard tabs leaked into Executive Briefing');
+        assert(await page.locator('[id^="view-"]').count()===0, 'Dashboard workspaces leaked into Executive Briefing');
       }
       if (path==='/') {
         assert(await page.locator('a[href="./briefing.html"]').count()>0, 'Dashboard briefing shortcut missing');
