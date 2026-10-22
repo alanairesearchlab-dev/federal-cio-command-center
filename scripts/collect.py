@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 """Collect PUBLIC federal intelligence. No credentials, no agency data."""
 import json, pathlib, urllib.request, urllib.error, datetime, os, xml.etree.ElementTree as ET, re, html, hashlib, time
+from html.parser import HTMLParser
+from urllib.parse import urljoin
 from urllib.parse import urlparse
 from collections import Counter
 ROOT=pathlib.Path(__file__).resolve().parents[1]
@@ -163,6 +165,43 @@ if successes:
  for i in items:i['attention_keyword']=urgency(i)
  write('security-feeds.json',{'retrieved_at':NOW,'sources':list(FEEDS),'items':items,'note':'Attention flags are automated keyword matches, not CISA severity ratings or environment-specific findings.'})
 record_source('security_feeds',bool(successes),len(feed_items) if successes else None,error=None if successes else 'All security RSS sources failed; previous snapshot retained')
+
+
+# OMB memorandum discovery from the official public index.
+# A listing is not proof of current applicability, rescission status, or a new obligation.
+OMB_INDEX='https://www.whitehouse.gov/omb/information-resources/guidance/memoranda/'
+class MemoLinks(HTMLParser):
+ def __init__(self):
+  super().__init__();self.href=None;self.parts=[];self.links=[]
+ def handle_starttag(self,tag,attrs):
+  if tag=='a':
+   self.href=dict(attrs).get('href','');self.parts=[]
+ def handle_data(self,data):
+  if self.href is not None:self.parts.append(data)
+ def handle_endtag(self,tag):
+  if tag=='a' and self.href is not None:
+   self.links.append((' '.join(' '.join(self.parts).split()),self.href))
+   self.href=None;self.parts=[]
+try:
+ parser=MemoLinks()
+ parser.feed(fetch_bytes(OMB_INDEX,'text/html',timeout=30,limit=4_000_000).decode('utf-8','replace'))
+ memos={}
+ for title,href in parser.links:
+  match=re.search(r'\\bM-(2[0-9])-(\\d{2})\\b',title,re.I)
+  if not match:continue
+  number=match.group(0).upper();url=urljoin(OMB_INDEX,href)
+  host=urlparse(url).hostname or ''
+  if not (url.startswith('https://') and (host=='whitehouse.gov' or host.endswith('.whitehouse.gov'))):continue
+  memos[number]={'number':number,'title':title[:300],'url':url,'source':'OMB memorandum index'}
+ if len(memos)<5:raise ValueError('OMB index returned too few memorandum links; page format may have changed')
+ ordered=sorted(memos.values(),key=lambda m:tuple(map(int,m['number'][2:].split('-'))),reverse=True)
+ prior=read('omb-memoranda.json',{}).get('items',[])
+ prior_numbers={m.get('number') for m in prior}
+ fresh=[m for m in ordered if m['number'] not in prior_numbers] if prior else []
+ write('omb-memoranda.json',{'retrieved_at':NOW,'source':OMB_INDEX,'count':len(ordered),'comparison_available':bool(prior),'new_count':len(fresh),'new_items':fresh,'items':ordered,'note':'Index discovery only. Verify the memorandum, applicability, effective date, amendments and rescissions at the original source.'})
+ record_source('omb_memos',True,len(ordered))
+except Exception as e:
+ record_source('omb_memos',False,error=e)
 
 write('status.json',status)
 print(json.dumps(status,indent=2))
