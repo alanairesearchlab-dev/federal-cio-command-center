@@ -11,8 +11,24 @@
 .tabbar{overflow-x:visible!important;flex-wrap:wrap!important}
 .section-label{font-size:11px;text-transform:uppercase;letter-spacing:.1em;color:#a6bdd3;font-weight:700;margin:18px 0 -10px}
 @media(max-width:560px){.global-navigation .global-inner{align-items:flex-start}.global-navigation .global-links{width:100%}.global-navigation .global-links a{flex:1;justify-content:center;padding:9px 7px;font-size:12px}}
+
+/* v9.0 persistent visual shell: identical geometry across pages */
+:root{--shell-width:1240px;--shell-bg:#101b30;--shell-border:#304b67}
+body>header.site-shell{box-sizing:border-box;background:var(--shell-bg);border-bottom:1px solid var(--shell-border);padding:0!important;margin:0!important;min-height:112px;position:relative}
+body>header.site-shell .shell-inner{max-width:var(--shell-width);margin:0 auto;padding:18px 20px!important;min-height:112px;display:flex;align-items:center;justify-content:space-between;gap:20px;box-sizing:border-box}
+body>header.site-shell .shell-copy{min-width:0}
+body>header.site-shell .shell-eyebrow{font:700 11px/1.3 system-ui,Segoe UI,sans-serif;letter-spacing:.12em;text-transform:uppercase;color:#79c9ff;margin:0 0 7px}
+body>header.site-shell .shell-title{font:700 26px/1.25 system-ui,Segoe UI,sans-serif;color:#eaf2ff;margin:0!important}
+body>header.site-shell .shell-subtitle{font:400 12px/1.5 system-ui,Segoe UI,sans-serif;color:#a6bdd3;margin:5px 0 0}
+body>header.site-shell .shell-status{font:500 12px/1.3 system-ui,Segoe UI,sans-serif;border:1px solid #3a5578;border-radius:20px;padding:7px 12px;color:#b5d6f0;white-space:nowrap}
+body>.global-navigation{position:sticky;top:0;z-index:100;background:#101f35;border-bottom:1px solid #304b67;box-sizing:border-box}
+body>.global-navigation .global-inner{max-width:var(--shell-width);margin:0 auto;padding:12px 20px!important;min-height:66px;display:flex;align-items:center;justify-content:space-between;gap:12px;box-sizing:border-box;flex-wrap:nowrap}
+body>.global-navigation .global-label{flex:0 0 auto;white-space:nowrap}
+body>.global-navigation .global-links{display:flex;flex-wrap:nowrap;gap:8px}
+body>.global-navigation .global-links a{display:inline-flex;align-items:center;justify-content:center;white-space:nowrap;min-height:40px;box-sizing:border-box}
+@media(max-width:750px){body>header.site-shell .shell-inner{min-height:112px;padding:16px!important}body>header.site-shell .shell-title{font-size:21px}body>header.site-shell .shell-status{display:none}body>.global-navigation .global-inner{padding:10px 16px!important;min-height:60px;flex-wrap:wrap}body>.global-navigation .global-label{display:none}body>.global-navigation .global-links{width:100%;gap:5px}body>.global-navigation .global-links a{flex:1;white-space:normal;text-align:center;font-size:11px;padding:7px 5px}}
 </style></head><body>
-<header><div class="muted small">Independent public-source research · v9.0 navigation preview</div><h1>Federal CIO Intelligence Workspace</h1><div class="muted">Prioritization · Policy change watch · Executive briefings · Vendor signals</div></header><nav class="global-navigation" aria-label="Primary navigation"><div class="global-inner"><span class="global-label">Explore the Command Center</span><div class="global-links"><a href="./index.html" >Dashboard</a><a href="./intelligence.html" aria-current="page">Intelligence Workspace</a><a href="./about.html" >About &amp; Methodology</a></div></div></nav>
+<header class="site-shell"><div class="shell-inner"><div class="shell-copy"><div class="shell-eyebrow">Independent public-source research</div><h1 class="shell-title">Federal CIO Intelligence Command Center</h1><p class="shell-subtitle">Cybersecurity · Federal policy · Technology intelligence</p></div><div class="shell-status" >Public-source intelligence</div></div></header><nav class="global-navigation" aria-label="Primary navigation"><div class="global-inner"><span class="global-label">Explore the Command Center</span><div class="global-links"><a href="./index.html" >Dashboard</a><a href="./intelligence.html" aria-current="page">Intelligence Workspace</a><a href="./about.html" >About &amp; Methodology</a></div></div></nav>
 <main class="wrap"><div class="notice"><strong>Interpretation boundary:</strong> Automated attention indicators are research cues, not official severity ratings, legal determinations, or evidence of any organization's exposure. Validate every conclusion at its original source.</div>
 <div class="grid" style="margin-top:16px"><div class="panel"><div class="muted small">Normalized records</div><div class="metric" id="total">…</div></div><div class="panel"><div class="muted small">Priority intelligence signals</div><div class="metric" id="attention">…</div></div><div class="panel"><div class="muted small">Newly observed security</div><div class="metric" id="newsec">…</div></div><div class="panel"><div class="muted small">Cross-source CVE matches</div><div class="metric" id="matches">…</div></div></div>
 <div class="muted small" id="updated">Loading normalized public data…</div>
