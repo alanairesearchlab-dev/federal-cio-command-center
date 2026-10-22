@@ -187,7 +187,7 @@ try:
  parser.feed(fetch_bytes(OMB_INDEX,'text/html',timeout=30,limit=4_000_000).decode('utf-8','replace'))
  memos={}
  for title,href in parser.links:
-  match=re.search(r'\\bM-(2[0-9])-(\\d{2})\\b',title,re.I)
+  match=re.search(r'\bM-(2[0-9])-(\d{2})\b',title,re.I)
   if not match:continue
   number=match.group(0).upper();url=urljoin(OMB_INDEX,href)
   host=urlparse(url).hostname or ''
