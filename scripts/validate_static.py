@@ -10,7 +10,7 @@ import sys
 import tempfile
 
 ROOT = Path(__file__).resolve().parents[1]
-PAGES = ("index.html", "intelligence.html", "about.html")
+PAGES = ("index.html", "briefing.html", "intelligence.html", "about.html")
 
 class ScriptExtractor(HTMLParser):
     def __init__(self):
@@ -46,7 +46,7 @@ def main():
             html = path.read_text(encoding="utf-8")
             if 'class="global-navigation"' not in html:
                 failures.append(f"{page}: primary navigation missing")
-            for destination in ("index.html", "intelligence.html", "about.html"):
+            for destination in ("index.html", "briefing.html", "intelligence.html", "about.html"):
                 if destination not in html:
                     failures.append(f"{page}: link to {destination} missing")
             parser = ScriptExtractor()
