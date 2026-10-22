@@ -87,3 +87,11 @@ Do not submit confidential information, personal credentials, access tokens, pri
 ## Independence Statement
 
 This project is independently developed for public-interest technology research. References to government organizations, publications, or technologies are informational and do not imply affiliation, sponsorship, or endorsement.
+
+## Security advisories and cybersecurity news (v7)
+
+The Cyber Intelligence workspace includes official CISA alerts and advisories, and separate public headlines from BleepingComputer, Krebs on Security, and The Hacker News. The Executive Overview includes an automated keyword-based Priority Watch. Keyword matches are **not** verified severity ratings, recommendations to take systems offline, or assessments of any organization's exposure.
+
+The public collection workflow checks these feeds every four hours, subject to GitHub Actions scheduling delays. If individual sources fail, their last successfully retrieved items are retained and the source status records the error. RSS providers may restrict automated requests or change feed formats; check the Actions log and `data/status.json` when a source fails.
+
+Articles remain on their publishers' websites. The dashboard displays headlines, dates, attribution, and outbound links, not full-text copies.
