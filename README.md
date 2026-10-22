@@ -55,8 +55,10 @@ intelligence.html           Intelligence Workspace
 about.html                  Methodology and limitations
 scripts/collect.py          Public-source collectors
 scripts/intelligence.py     Normalized intelligence generation
+scripts/validate_static.py Static HTML and inline JavaScript syntax checks
 data/                       Generated public-source JSON snapshots
 .github/workflows/collect.yml  Scheduled collection and data commits
+.github/workflows/validate.yml HTML/script validation on changes
 README.md                   Project documentation
 ```
 
@@ -78,6 +80,17 @@ python scripts/intelligence.py
 ```
 
 These collection scripts make outbound public network requests.
+
+## Build validation
+
+The **Validate static application** GitHub Actions workflow checks Python syntax, inline JavaScript syntax (using Node.js), and the presence of navigation links across the three pages. It runs on relevant pushes and pull requests, and can be triggered manually. To run locally with Python 3.12+ and Node.js 20+:
+
+```bash
+python -m compileall -q scripts
+python scripts/validate_static.py
+```
+
+These are **static checks**, not browser integration tests. They do not detect undefined JavaScript variables at runtime or guarantee correct data rendering. Live-page verification remains necessary.
 
 ## Deploy with GitHub Pages
 
