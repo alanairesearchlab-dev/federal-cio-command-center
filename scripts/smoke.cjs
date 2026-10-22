@@ -3,6 +3,10 @@
 const { chromium } = require('playwright');
 const { spawn } = require('node:child_process');
 const assert = require('node:assert/strict');
+const fs = require('node:fs');
+const pathUtil = require('node:path');
+const artifactDir = pathUtil.resolve('artifacts/browser');
+fs.mkdirSync(artifactDir, { recursive: true });
 const base = 'http://127.0.0.1:8765';
 const server = spawn('python3', ['-m', 'http.server', '8765', '--bind', '127.0.0.1'], { stdio: 'ignore' });
 const sleep = ms => new Promise(resolve => setTimeout(resolve, ms));
@@ -14,7 +18,7 @@ const sleep = ms => new Promise(resolve => setTimeout(resolve, ms));
       await sleep(250);
     }
     browser=await chromium.launch({headless:true});
-    const page=await browser.newPage();
+    const page=await browser.newPage({ viewport: { width: 1440, height: 900 }, deviceScaleFactor: 1 });
     const errors=[];
     page.on('pageerror', err => errors.push(err.message));
     for (const path of ['/', '/briefing.html', '/intelligence.html', '/about.html']) {
@@ -50,7 +54,24 @@ const sleep = ms => new Promise(resolve => setTimeout(resolve, ms));
         const updated=await page.locator('#updated').innerText();
         assert(!updated.includes('unavailable'), 'Intelligence data failed: '+updated);
       }
+      const slug=path==='/'?'dashboard':path.slice(1).replace('.html','');
+      await page.screenshot({path:pathUtil.join(artifactDir,slug+'-desktop.png'),fullPage:true,animations:'disabled'});
+      const overflow=await page.evaluate(()=>document.documentElement.scrollWidth>window.innerWidth+3);
+      assert(!overflow,path+' has horizontal overflow on desktop');
+      const navigation=await page.locator('.global-navigation').boundingBox();
+      assert(navigation && navigation.width>500,path+' navigation layout missing');
       console.log('PASS '+path);
+    }
+    // Repeat at mobile width. Screenshots are retained even when a layout assertion fails.
+    await page.setViewportSize({width:390,height:844});
+    for(const path of ['/', '/briefing.html', '/intelligence.html', '/about.html']){
+      await page.goto(base+path,{waitUntil:'networkidle',timeout:45000});
+      const slug=path==='/'?'dashboard':path.slice(1).replace('.html','');
+      await page.screenshot({path:pathUtil.join(artifactDir,slug+'-mobile.png'),fullPage:true,animations:'disabled'});
+      const overflow=await page.evaluate(()=>document.documentElement.scrollWidth>window.innerWidth+3);
+      assert(!overflow,path+' has horizontal overflow on mobile');
+      assert(await page.locator('.global-navigation a').count()===4,path+' mobile primary navigation incomplete');
+      console.log('PASS mobile '+path);
     }
     assert.deepEqual(errors, [], 'Uncaught browser errors: '+errors.join('; '));
     console.log('All browser smoke tests passed');
