@@ -56,9 +56,10 @@ about.html                  Methodology and limitations
 scripts/collect.py          Public-source collectors
 scripts/intelligence.py     Normalized intelligence generation
 scripts/validate_static.py Static HTML and inline JavaScript syntax checks
+scripts/smoke.cjs         Chromium browser runtime smoke tests
 data/                       Generated public-source JSON snapshots
 .github/workflows/collect.yml  Scheduled collection and data commits
-.github/workflows/validate.yml HTML/script validation on changes
+.github/workflows/validate.yml HTML/script and Chromium browser tests on changes
 README.md                   Project documentation
 ```
 
@@ -83,14 +84,18 @@ These collection scripts make outbound public network requests.
 
 ## Build validation
 
-The **Validate static application** GitHub Actions workflow checks Python syntax, inline JavaScript syntax (using Node.js), and the presence of navigation links across the three pages. It runs on relevant pushes and pull requests, and can be triggered manually. To run locally with Python 3.12+ and Node.js 20+:
+The **Validate static application** GitHub Actions workflow runs Python compilation, inline JavaScript syntax checks, navigation checks, and a **real Chromium browser smoke test** on relevant pushes and pull requests. Browser tests load all three pages, verify navigation, exercise dashboard assessment and brief rendering, load the intelligence workspace, and fail on uncaught browser errors.
+
+To run the static checks locally with Python 3.12+ and Node.js 20+:
 
 ```bash
 python -m compileall -q scripts
 python scripts/validate_static.py
 ```
 
-These are **static checks**, not browser integration tests. They do not detect undefined JavaScript variables at runtime or guarantee correct data rendering. Live-page verification remains necessary.
+To run the browser smoke test locally, install Playwright and Chromium, then run `node scripts/smoke.cjs`. The test starts its own local HTTP server. Passing smoke tests are not a substitute for source accuracy review, accessibility testing, or complete end-to-end testing.
+
+The collector retries transient HTTP 429/5xx and network failures, with bounded response sizes. HTTP 403 access denials are **not** bypassed or silently reported as successful; the last successful feed snapshot is retained when available.
 
 ## Deploy with GitHub Pages
 
