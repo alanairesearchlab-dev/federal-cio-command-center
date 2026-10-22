@@ -117,7 +117,7 @@ function renderFr(){$('frlist').innerHTML=fr.slice(0,12).map(d=>`<article class=
   fetch('data/omb-memoranda.json?v='+Date.now(),{cache:'no-store'}).then(r=>{if(!r.ok)throw Error('No OMB snapshot yet');return r.json()}).then(data=>{
     const items=Array.isArray(data.items)?data.items.slice(0,15):[];
     document.getElementById('omb-memo-status').textContent=(data.count||items.length)+' indexed memoranda · Last successful retrieval: '+(data.retrieved_at||'Unknown')+' · '+(data.comparison_available?(data.new_count||0)+' first observed since previous collection':'Initial baseline; no change claims');
-    const safe=t=>String(t??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;','\\'':'&#39;'}[c]));
+    const safe=t=>String(t??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
     document.getElementById('omb-memo-list').innerHTML=items.map(i=>/^https:\/\//.test(i.url||'')?'<article class="item"><strong><a href="'+safe(i.url)+'" target="_blank" rel="noopener noreferrer">'+safe(i.title)+'</a></strong></article>':'').join('')||'<p class="muted">No validated memorandum links.</p>';
   }).catch(()=>{document.getElementById('omb-memo-status').textContent='No successful OMB index collection yet. Use the official OMB portal above.'});
 
