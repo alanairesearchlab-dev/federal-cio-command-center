@@ -1,22 +1,22 @@
 # Federal CIO Intelligence Command Center
 
-**Current application release: v9.4**
+**Current application release: v9.5**
 
 An independent, open-source, public-source intelligence dashboard for federal IT leadership. It brings together cybersecurity developments, federal policy publications, technology intelligence, and evidence-linked executive review.
 
 **Independent research project. Not an official U.S. government website, product, or service. Not affiliated with or endorsed by any federal agency.**
 
-**[Open the Command Center](https://alanairesearchlab-dev.github.io/federal-cio-command-center/)** · [Intelligence Workspace](https://alanairesearchlab-dev.github.io/federal-cio-command-center/intelligence.html) · [About & Methodology](https://alanairesearchlab-dev.github.io/federal-cio-command-center/about.html)
+**[Open the Command Center](https://alanairesearchlab-dev.github.io/federal-cio-command-center/)** · [Executive Briefing](https://alanairesearchlab-dev.github.io/federal-cio-command-center/briefing.html) · [Intelligence Workspace](https://alanairesearchlab-dev.github.io/federal-cio-command-center/intelligence.html) · [About & Methodology](https://alanairesearchlab-dev.github.io/federal-cio-command-center/about.html)
 
 ## What is available
 
 | Area | Capabilities |
 | --- | --- |
-| **Dashboard** (`index.html`) | Executive overview, CISA KEV and cyber news, Federal Register monitoring, vendor comparisons, source health, executive assessment cards, and copyable executive brief |
+| **Dashboard** (`index.html`) | Operational overview, CISA KEV, Federal Register monitoring, vendor comparisons, source health, and federal policy watch |\n| **Executive Briefing** (`briefing.html`) | Prioritized intelligence assessment, five-minute brief, change review, and source-reported action calendar |
 | **Intelligence Workspace** (`intelligence.html`) | Intelligence triage, policy change tracker, executive briefing, vendor intelligence, CVE correlations, and browser-local preferences |
 | **About & Methodology** (`about.html`) | Sources, collection approach, interpretation guidance, and limitations |
 
-The three pages share a consistent navigation shell. The project is a static GitHub Pages application, not an authenticated agency system.
+The four pages share a consistent navigation shell. The project is a static GitHub Pages application, not an authenticated agency system.
 
 ### Executive intelligence (v9.1–v9.4)
 
@@ -138,3 +138,9 @@ This is **public information for independent research**. It is not a government 
 Contributions and issue reports should use public, non-sensitive examples only.
 
 See [About & Methodology](about.html) for further interpretation guidance.
+
+## Browser visual quality checks
+
+Every HTML/script change triggers Chromium checks at desktop (1440 × 900) and mobile (390 × 844) widths. The workflow captures full-page screenshots of all four pages, verifies navigation, checks horizontal overflow, and exercises key application behavior. Screenshots are uploaded as a downloadable **browser-screenshots** artifact in the [Validate static application workflow](https://github.com/alanairesearchlab-dev/federal-cio-command-center/actions/workflows/validate.yml), including on test failure when images are available. Artifacts are retained for 14 days.
+
+These screenshots provide a review trail, **not yet automated pixel-difference regression detection**. Dynamic feed content and timestamps make unmasked pixel baselines noisy; a future approved, stable baseline can add targeted screenshot comparisons. The tests run against the checked-out GitHub Pages site locally, not against the currently deployed production URL.
