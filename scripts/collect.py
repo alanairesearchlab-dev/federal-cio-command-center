@@ -14,7 +14,7 @@ URLS={
 }
 def fetch_bytes(url, accept, timeout=35, limit=5_000_000):
  """Retry transient public-source errors; do not retry access-denied responses."""
- req=urllib.request.Request(url,headers={'User-Agent':'PublicCIOResearchDashboard/1.1 (public data; no auth)','Accept':accept})
+ req=urllib.request.Request(url,headers={'User-Agent':'FederalCIOCommandCenter/1.2 (+https://github.com/alanairesearchlab-dev/federal-cio-command-center; public-data-only)','Accept':accept})
  for attempt in range(3):
   try:
    with urllib.request.urlopen(req,timeout=timeout) as response:
