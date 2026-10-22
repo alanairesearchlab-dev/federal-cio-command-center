@@ -96,6 +96,8 @@ FEEDS={
  'bleepingcomputer':('BleepingComputer','news','https://www.bleepingcomputer.com/feed/'),
  'krebs':('Krebs on Security','news','https://krebsonsecurity.com/feed/'),
  'hackernews':('The Hacker News','news','https://feeds.feedburner.com/TheHackersNews'),
+ 'nist_cyber':('NIST Cybersecurity','research','https://www.nist.gov/news-events/cybersecurity/rss.xml'),
+ 'nist_it':('NIST Information Technology','research','https://www.nist.gov/news-events/information%20technology/rss.xml'),
 }
 def feed_text(el,name):
  node=el.find(name)
@@ -135,6 +137,9 @@ for key,(source,kind,url) in FEEDS.items():
   # Restrict article URLs to HTTPS. Titles and summaries are rendered as escaped text.
   items=[i for i in items if urlparse(i['url']).scheme=='https']
   if not items:raise ValueError('No HTTPS article links')
+  if kind=='research':
+   items=[i for i in items if urlparse(i['url']).hostname in ('www.nist.gov','nist.gov','csrc.nist.gov')]
+   if not items:raise ValueError('No official NIST article links')
   feed_items.extend(items);successes+=1
   record_source(key,True,len(items))
  except Exception as e:
