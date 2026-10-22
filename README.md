@@ -30,6 +30,8 @@ The three pages share a consistent navigation shell. The project is a static Git
 
 ## Public data sources
 
+NIST cybersecurity and information technology RSS updates are collected as a separate research category, not as binding directives. Newly added feeds appear after the next successful collection.
+
 - **CISA Known Exploited Vulnerabilities (KEV):** Official catalog; the collector may use CISA's own public GitHub KEV mirror if the primary endpoint fails.
 - **Federal Register:** Public documents API, using broad keyword discovery. A matching document is not necessarily applicable to federal CIOs.
 - **CISA alerts/advisories:** Public feed collection is attempted; some CISA RSS endpoints may block automated access. Failures are recorded rather than silently presented as successful collection.
