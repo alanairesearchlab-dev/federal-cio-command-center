@@ -4,7 +4,7 @@ An independent, open-source intelligence dashboard that collects and visualizes 
 
 **This is an independent research project. It is not an official government website, product, or service and is not affiliated with or endorsed by any federal agency.**
 
-## v8.2 Intelligence Workspace
+## v8.0 Intelligence Workspace
 
 Open [Intelligence Workspace](intelligence.html) from the dashboard for explainable public-source triage, newly observed Federal Register records, downloadable executive briefings, cross-source CVE matches, and browser-local source/headline preferences. The Python workflow builds `data/intelligence.json` from the existing public feeds. No paid AI API, private data, or authentication is used. Automated classifications are heuristic and do not determine official severity, legal applicability, or agency exposure.
 
@@ -36,7 +36,7 @@ Public information is retrieved through scheduled GitHub Actions workflows and s
 
 The collection process supports historical comparisons, identification of newly observed records, and monitoring of source availability.
 
-Automated collection is scheduled every four hours, at minute 23 UTC. Actual execution times may vary due to GitHub scheduling.
+Automated collection runs daily at approximately 10:23 UTC. Actual execution times may vary due to GitHub scheduling.
 
 For additional information about sources, methodology, and limitations, see the [About & Methodology](about.html) page.
 
