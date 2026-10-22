@@ -37,3 +37,11 @@ jobs:
           npx playwright install --with-deps chromium
       - name: Browser runtime smoke test
         run: node scripts/smoke.cjs
+      - name: Upload desktop and mobile browser screenshots
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: browser-screenshots
+          path: artifacts/browser/*.png
+          if-no-files-found: warn
+          retention-days: 14
