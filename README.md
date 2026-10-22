@@ -1,114 +1,120 @@
 # Federal CIO Intelligence Command Center
 
-An independent, open-source intelligence dashboard that collects and visualizes publicly available federal cybersecurity, technology, and policy information.
+**Current application release: v9.4**
 
-**This is an independent research project. It is not an official government website, product, or service and is not affiliated with or endorsed by any federal agency.**
+An independent, open-source, public-source intelligence dashboard for federal IT leadership. It brings together cybersecurity developments, federal policy publications, technology intelligence, and evidence-linked executive review.
 
-## v8.0 Intelligence Workspace
+**Independent research project. Not an official U.S. government website, product, or service. Not affiliated with or endorsed by any federal agency.**
 
-Open [Intelligence Workspace](intelligence.html) from the dashboard for explainable public-source triage, newly observed Federal Register records, downloadable executive briefings, cross-source CVE matches, and browser-local source/headline preferences. The Python workflow builds `data/intelligence.json` from the existing public feeds. No paid AI API, private data, or authentication is used. Automated classifications are heuristic and do not determine official severity, legal applicability, or agency exposure.
+**[Open the Command Center](https://alanairesearchlab-dev.github.io/federal-cio-command-center/)** · [Intelligence Workspace](https://alanairesearchlab-dev.github.io/federal-cio-command-center/intelligence.html) · [About & Methodology](https://alanairesearchlab-dev.github.io/federal-cio-command-center/about.html)
 
-## Overview
+## What is available
 
-The Federal CIO Intelligence Command Center provides a centralized interface for exploring publicly available information relevant to federal information technology, cybersecurity, and emerging technology.
+| Area | Capabilities |
+| --- | --- |
+| **Dashboard** (`index.html`) | Executive overview, CISA KEV and cyber news, Federal Register monitoring, vendor comparisons, source health, executive assessment cards, and copyable executive brief |
+| **Intelligence Workspace** (`intelligence.html`) | Intelligence triage, policy change tracker, executive briefing, vendor intelligence, CVE correlations, and browser-local preferences |
+| **About & Methodology** (`about.html`) | Sources, collection approach, interpretation guidance, and limitations |
 
-Current capabilities include:
+The three pages share a consistent navigation shell. The project is a static GitHub Pages application, not an authenticated agency system.
 
-- CISA Known Exploited Vulnerabilities (KEV) intelligence.
-- Vendor-level vulnerability analysis and filtering.
-- Historical vulnerability catalog tracking.
-- Federal Register publication monitoring.
-- Executive intelligence summaries and downloadable briefings.
-- Automated data collection and source freshness reporting.
+### Executive intelligence (v9.1–v9.4)
 
-## Data Sources
+- **v9.1, Since Your Last Review:** Compare currently collected public records with a checkpoint saved in this browser. A user must explicitly select **Mark as reviewed**; opening the page does not mark items reviewed. The initial visit establishes a baseline rather than labeling the entire existing catalog as new.
+- **v9.1, Executive Action Calendar:** Show source-reported CISA KEV due dates over 7-day or 30-day horizons. Dates are not a determination of organizational applicability, exposure, or compliance.
+- **v9.2, Executive Intelligence Assessment:** Generate rule-based cards describing what changed, why it matters, considerations for review, evidence confidence, and links to underlying public sources. Assemble a copyable executive brief.
+- **v9.3, Federal Relevance Layer:** Separate threat significance from estimated federal enterprise relevance. Recognized enterprise technologies receive a relevance boost; consumer-oriented technologies may be surfaced in **Technology Watch** rather than dominate the executive assessment. This is heuristic categorization, **not** evidence that any agency deploys or does not deploy a product.
+- **v9.4, Executive Responsibility Routing:** Suggest a functional review area, such as network security, enterprise applications, identity, acquisition and supply chain, infrastructure, or federal policy. Routing labels are suggestions, not official assignments.
 
-The dashboard currently uses:
+**Important:** The assessment score is a **review-priority heuristic**, not a vulnerability severity score, risk calculation, legal determination, or measurement of agency exposure. Classifications use fields available in collected feeds, including titles and catalog metadata; they do not constitute a full-text review of every linked source. Verify consequential decisions against primary sources.
 
-- **Cybersecurity and Infrastructure Security Agency (CISA):** Public Known Exploited Vulnerabilities catalog.
-- **Federal Register:** Public documents API, using broad keyword-based discovery.
+## Public data sources
 
-Additional authoritative public sources may be incorporated as the project evolves.
+- **CISA Known Exploited Vulnerabilities (KEV):** Official catalog; the collector may use CISA's own public GitHub KEV mirror if the primary endpoint fails.
+- **Federal Register:** Public documents API, using broad keyword discovery. A matching document is not necessarily applicable to federal CIOs.
+- **CISA alerts/advisories:** Public feed collection is attempted; some CISA RSS endpoints may block automated access. Failures are recorded rather than silently presented as successful collection.
+- **Cybersecurity reporting:** Public headlines and outbound links from BleepingComputer, Krebs on Security, and The Hacker News. These are third-party reports, not government directives.
 
-## Data Collection and Methodology
+Sources can fail, change format, or become stale. Review source-health information and the linked original documents before taking action.
 
-Public information is retrieved through scheduled GitHub Actions workflows and stored as structured JSON within the repository.
+## How it works
 
-The collection process supports historical comparisons, identification of newly observed records, and monitoring of source availability.
+1. `.github/workflows/collect.yml` runs on a schedule (every four hours, subject to GitHub Actions delays) and on manual dispatch.
+2. `scripts/collect.py` retrieves public-source material and writes JSON snapshots under `data/`.
+3. `scripts/intelligence.py` derives normalized, explainable intelligence data and cross-source relationships.
+4. GitHub Pages serves `index.html`, `intelligence.html`, `about.html`, and the committed JSON files.
+5. Dashboard assessments and review tracking are generated client-side from the available snapshots. Review checkpoints and preferences stay in browser storage, not in a hosted user account.
 
-Automated collection runs daily at approximately 10:23 UTC. Actual execution times may vary due to GitHub scheduling.
+No paid AI API, authentication, private agency records, or internal government connection is required. The dashboard does not scan endpoints or establish which products any organization uses.
 
-For additional information about sources, methodology, and limitations, see the [About & Methodology](about.html) page.
+## Repository layout
 
-## Interpretation and Limitations
+```text
+index.html                  Executive dashboard
+intelligence.html           Intelligence Workspace
+about.html                  Methodology and limitations
+scripts/collect.py          Public-source collectors
+scripts/intelligence.py     Normalized intelligence generation
+data/                       Generated public-source JSON snapshots
+.github/workflows/collect.yml  Scheduled collection and data commits
+README.md                   Project documentation
+```
 
-This dashboard is intended for research and informational purposes.
+## Run locally
 
-- Vulnerability catalog counts do not represent the number of unpatched systems or provide a comparative measure of vendor security.
-- Newly observed records are not necessarily newly discovered vulnerabilities.
-- Federal Register keyword matches do not establish regulatory applicability or legal obligations.
-- Automated classifications and summaries should be independently verified against authoritative sources.
-- Information may be delayed, incomplete, or temporarily unavailable.
+From the repository root:
 
-The dashboard does not perform system vulnerability assessments or determine organizational compliance.
+```bash
+python -m http.server 8000
+```
 
-## Deployment
+Open `http://localhost:8000/`. The application uses relative paths to its JSON data. Local preview does not require additional Python packages.
 
-The project is designed for deployment using GitHub Pages and GitHub Actions.
+To refresh the data locally, run:
 
-1. Create a public GitHub repository.
-2. Upload the project files, preserving the `.github/workflows/collect.yml` structure.
-3. Enable GitHub Pages under **Settings → Pages**, selecting the `main` branch and repository root.
-4. Run the **Collect public intelligence** workflow from the Actions tab to initialize the data.
-5. Access the published dashboard at `https://USERNAME.github.io/REPOSITORY/`.
+```bash
+python scripts/collect.py
+python scripts/intelligence.py
+```
 
-If the workflow cannot commit updated data, review repository workflow permissions under **Settings → Actions → General**.
+These collection scripts make outbound public network requests.
 
-GitHub may delay scheduled jobs or disable inactive workflows.
+## Deploy with GitHub Pages
 
-## Local Preview
+1. Fork or clone this public repository.
+2. In **Settings → Pages**, publish the `main` branch from the repository root.
+3. Enable GitHub Actions with permission to commit generated data, if using the included collector.
+4. Manually run **Collect public intelligence** once to populate snapshots.
+5. Open the published GitHub Pages URL.
 
-Run the following command from the project directory:
+GitHub Pages deployments and scheduled Actions may be delayed. Static assets and browser caches can also delay the appearance of a newly committed release.
 
-`python -m http.server 8000`
+## Release history
 
-Then open `http://localhost:8000/` in your browser.
+| Release | Main change |
+| --- | --- |
+| **v9.4** | Executive responsibility routing and rationale |
+| **v9.3** | Federal enterprise relevance and Technology Watch distinction |
+| **v9.2** | Executive assessments, transparent scoring, copyable briefing |
+| **v9.1** | Since Your Last Review and CISA KEV action calendar |
+| **v9.0** | Unified three-page navigation and consistent application shell |
+| **v8.2** | Vendor intelligence usability, tailored briefings, CISA mirror fallback |
+| **v8.1** | Explainable triage, policy filtering, vendor watchlists |
+| **v8.0** | Intelligence Workspace and normalized intelligence data |
+| **v7** | Security news and advisory feeds |
 
-No additional Python packages are required for the local preview.
+## Accuracy, security, and independence
 
-## Hosting and Costs
+This is **public information for independent research**. It is not a government system or a compliance service. The software does not know an organization's asset inventory, patch state, exposure, authorizing decisions, contracts, or applicable legal obligations.
 
-The project is designed to operate using free GitHub services, subject to GitHub's current usage limits and policies.
+- A KEV listing signals known exploitation, not confirmed exposure in any specific environment.
+- A CISA catalog due date must be interpreted with the applicable directive and current guidance.
+- A Federal Register publication date is not automatically an effective date or compliance deadline.
+- Automated attention, relevance, and routing labels can be wrong or incomplete.
+- Browser-local settings may be lost when storage is cleared and are not synchronized across devices.
+- Source feeds may be delayed or unavailable; retain appropriate skepticism about freshness.
+- Do not add credentials, private records, confidential data, or nonpublic agency information to this repository.
 
-No custom domain, paid API subscription, or dedicated server is required.
+Contributions and issue reports should use public, non-sensitive examples only.
 
-## Public Information Policy
-
-This repository is intended exclusively for publicly available information and supporting application code.
-
-Do not submit confidential information, personal credentials, access tokens, private records, or other nonpublic material.
-
-## Independence Statement
-
-This project is independently developed for public-interest technology research. References to government organizations, publications, or technologies are informational and do not imply affiliation, sponsorship, or endorsement.
-
-## Security advisories and cybersecurity news (v7)
-
-The Cyber Intelligence workspace includes official CISA alerts and advisories, and separate public headlines from BleepingComputer, Krebs on Security, and The Hacker News. The Executive Overview includes an automated keyword-based Priority Watch. Keyword matches are **not** verified severity ratings, recommendations to take systems offline, or assessments of any organization's exposure.
-
-The public collection workflow checks these feeds every four hours, subject to GitHub Actions scheduling delays. If individual sources fail, their last successfully retrieved items are retained and the source status records the error. RSS providers may restrict automated requests or change feed formats; check the Actions log and `data/status.json` when a source fails.
-
-Articles remain on their publishers' websites. The dashboard displays headlines, dates, attribution, and outbound links, not full-text copies.
-
-
-## v8.1 test release
-
-Includes explainable security triage, policy-topic filtering, time-scoped briefings with printable output, vendor KEV drilldowns, explicit CVE-to-KEV cross-references, and browser-local vendor watchlists. CISA RSS feeds may still return HTTP 403 from GitHub Actions; source health explicitly reports failures. All attention signals are heuristics, not determinations of exposure or legal applicability.
-
-
-## v8.2 acceptance changes
-
-- Vendor Intelligence now uses a scroll-contained vendor selector and adjacent details, with 7-day, 30-day, and historical filters, product/CVE search, and ten-at-a-time pagination.
-- Executive briefing leadership considerations are tailored to security reports, KEV records, and policy documents. The briefing applies a stricter title-based policy exclusion filter.
-- The collector can fall back to CISA's official GitHub KEV mirror if the primary CISA KEV endpoint fails. CISA advisory RSS HTTP 403 failures remain visible in source health; no unofficial replacement is claimed.
-- Public-source research only. No user identity, organizational assets, or authenticated government resources.
+See [About & Methodology](about.html) for further interpretation guidance.
