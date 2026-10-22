@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Collect PUBLIC federal intelligence. No credentials, no agency data."""
-import json, pathlib, urllib.request, datetime, os, xml.etree.ElementTree as ET, re, html, hashlib
+import json, pathlib, urllib.request, urllib.error, datetime, os, xml.etree.ElementTree as ET, re, html, hashlib, time
 from urllib.parse import urlparse
 from collections import Counter
 ROOT=pathlib.Path(__file__).resolve().parents[1]
@@ -10,9 +10,22 @@ URLS={
  'kev':'https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json',
  'register':'https://www.federalregister.gov/api/v1/documents.json?per_page=100&order=newest&conditions%5Bterm%5D=cybersecurity%20OR%20artificial%20intelligence%20OR%20information%20technology'
 }
+def fetch_bytes(url, accept, timeout=35, limit=5_000_000):
+ """Retry transient public-source errors; do not retry access-denied responses."""
+ req=urllib.request.Request(url,headers={'User-Agent':'PublicCIOResearchDashboard/1.1 (public data; no auth)','Accept':accept})
+ for attempt in range(3):
+  try:
+   with urllib.request.urlopen(req,timeout=timeout) as response:
+    payload=response.read(limit+1)
+    if len(payload)>limit:raise ValueError('Public-source response exceeds size limit')
+    return payload
+  except urllib.error.HTTPError as e:
+   if e.code not in (429,500,502,503,504) or attempt==2:raise
+  except (urllib.error.URLError,TimeoutError):
+   if attempt==2:raise
+  time.sleep(2**attempt)
 def get(url):
- req=urllib.request.Request(url,headers={'User-Agent':'PublicCIOResearchDashboard/1.0 (public data; no auth)','Accept':'application/json'})
- with urllib.request.urlopen(req,timeout=35) as r: return json.load(r)
+ return json.loads(fetch_bytes(url,'application/json'))
 def read(name,default):
  try:return json.loads((OUT/name).read_text())
  except (OSError,ValueError):return default
@@ -116,9 +129,7 @@ def urgency(item):
 feed_items=[]; successes=0
 for key,(source,kind,url) in FEEDS.items():
  try:
-  req=urllib.request.Request(url,headers={'User-Agent':'PublicCIOResearchDashboard/1.1 (public feeds; no auth)','Accept':'application/rss+xml, application/atom+xml, application/xml, text/xml'})
-  with urllib.request.urlopen(req,timeout=25) as response:
-   payload=response.read(2_500_000)
+  payload=fetch_bytes(url,'application/rss+xml, application/atom+xml, application/xml, text/xml',timeout=25,limit=2_500_000)
   items=parse_feed(payload,source,kind)
   if not items:raise ValueError('No RSS/Atom entries returned')
   # Restrict article URLs to HTTPS. Titles and summaries are rendered as escaped text.
