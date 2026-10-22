@@ -203,6 +203,27 @@ try:
 except Exception as e:
  record_source('omb_memos',False,error=e)
 
+
+# Executive Orders: official Federal Register API, not White House HTML scraping.
+# Discovery is deliberately separate from policy applicability or effective-date analysis.
+try:
+ eo_url='https://www.federalregister.gov/api/v1/documents.json?conditions%5Bpresidential_document_type%5D=executive_order&order=newest&per_page=40'
+ eo_data=get(eo_url)
+ records=[]
+ for d in eo_data.get('results',[]):
+  url=d.get('html_url','')
+  if urlparse(url).hostname not in ('www.federalregister.gov','federalregister.gov'):continue
+  if d.get('type')!='PRESDOCU':continue
+  records.append({'document_number':d.get('document_number'),'title':d.get('title','')[:300],'url':url,'publication_date':d.get('publication_date'),'signing_date':d.get('signing_date'),'executive_order_number':d.get('executive_order_number'),'source':'Federal Register API','classification':'Executive Order'})
+ if len(records)<5:raise ValueError('Insufficient validated Executive Order results')
+ old=read('executive-orders.json',{})
+ seen={x.get('document_number') for x in old.get('items',[])}
+ new=[x for x in records if x['document_number'] not in seen] if old.get('items') else []
+ write('executive-orders.json',{'retrieved_at':NOW,'source':eo_url,'items':records,'count':len(records),'comparison_available':bool(old.get('items')),'new_count':len(new),'new_items':new,'note':'Official Federal Register publication discovery. Publication, signature, effective date, applicability, amendment, and revocation are distinct questions.'})
+ record_source('executive_orders',True,len(records))
+except Exception as e:
+ record_source('executive_orders',False,error=e)
+
 write('status.json',status)
 print(json.dumps(status,indent=2))
 if not (status['sources']['kev']['ok'] or status['sources']['register']['ok']):raise SystemExit('All public feeds failed; keeping previously collected data')
