@@ -32,6 +32,7 @@ const sleep = ms => new Promise(resolve => setTimeout(resolve, ms));
         assert(await page.locator('#v92-copy').isEnabled(), 'Copy executive brief disabled');
         await page.locator('button[data-tab="policy"]').click();
         assert(await page.locator('#omb-memo-status').count(), 'OMB memorandum watch missing');
+        assert(await page.locator('#eo-watch-status').count(), 'Executive Order watch missing');
         assert(await page.locator('#view-policy a[href="https://www.acquisition.gov/news"]').count(), 'Acquisition policy portal missing');
       }
       if (path==='/intelligence.html') {
