@@ -123,9 +123,10 @@ const wrap=document.querySelector('#view-alerts');
 const overview=document.querySelector('#view-overview') || document.querySelector('[data-view="overview"]');
 function section(title,description,id){const e=document.createElement('section');e.className='panel';e.innerHTML='<h2>'+title+'</h2><p class="feed-note">'+description+'</p><div id="'+id+'" class="feed-list muted">Loading public headlines…</div>';return e}
 const official=section('CISA Security Alerts & Advisories','Official CISA publications. Highlighted keywords are automated attention cues, not official severity ratings.','cisa-advisories');
+const research=section('NIST Standards & Research','Official NIST cybersecurity and information technology publications. Research updates are not binding directives.','nist-research');
 const news=section('Cybersecurity News','Public reporting from independent publishers. Headlines link to the original articles.','cyber-news');
 const priority=section('Priority Watch | Public Signals','Recent CISA items matching urgency-related terms. Not an applicability or vulnerability assessment.','priority-watch');
-if(wrap){wrap.appendChild(official);wrap.appendChild(news)}
+if(wrap){wrap.appendChild(official);wrap.appendChild(research);wrap.appendChild(news)}
 if(overview)overview.appendChild(priority);
 function addExpand(panel,containerId){
   const btn=document.createElement('button');btn.type='button';btn.className='feed-expand';btn.hidden=true;
@@ -133,6 +134,7 @@ function addExpand(panel,containerId){
   return btn;
 }
 const officialMore=addExpand(official,'cisa-advisories');
+const researchMore=addExpand(research,'nist-research');
 const newsMore=addExpand(news,'cyber-news');
 function renderCollapsible(el,items,button){
   let expanded=false;
@@ -143,7 +145,7 @@ function renderCollapsible(el,items,button){
 }
 
 function renderRows(el,items,max){if(!el)return;el.innerHTML=items.slice(0,max).map(i=>{let link=String(i.url||'');if(!/^https:\/\//.test(link))return '';return '<article class="item"><div class="feed-source">'+escFeed(i.source)+' · '+escFeed(i.published||'Publication date unavailable')+(i.attention_keyword?'<span class="attention-label">Keyword watch</span>':'')+'</div><strong><a href="'+escFeed(link)+'" target="_blank" rel="noopener noreferrer">'+escFeed(i.title)+'</a></strong></article>'}).join('')||'<div class="muted small">No items available. Check the collector status and source links.</div>'}
-fetch('data/security-feeds.json?v='+Date.now(),{cache:'no-store'}).then(r=>{if(!r.ok)throw Error('No feed snapshot');return r.json()}).then(data=>{const items=Array.isArray(data.items)?data.items:[];const gov=items.filter(i=>i.kind==='official'),press=items.filter(i=>i.kind==='news');renderCollapsible(document.getElementById('cisa-advisories'),gov,officialMore);renderCollapsible(document.getElementById('cyber-news'),press,newsMore);renderRows(document.getElementById('priority-watch'),gov.filter(i=>i.attention_keyword),6)}).catch(()=>{['cisa-advisories','cyber-news','priority-watch'].forEach(id=>{let e=document.getElementById(id);if(e)e.textContent='Awaiting first successful security feed collection.'})});
+fetch('data/security-feeds.json?v='+Date.now(),{cache:'no-store'}).then(r=>{if(!r.ok)throw Error('No feed snapshot');return r.json()}).then(data=>{const items=Array.isArray(data.items)?data.items:[];const gov=items.filter(i=>i.kind==='official'),researchItems=items.filter(i=>i.kind==='research'),press=items.filter(i=>i.kind==='news');renderCollapsible(document.getElementById('cisa-advisories'),gov,officialMore);renderCollapsible(document.getElementById('nist-research'),researchItems,researchMore);renderCollapsible(document.getElementById('cyber-news'),press,newsMore);renderRows(document.getElementById('priority-watch'),gov.filter(i=>i.attention_keyword),6)}).catch(()=>{['cisa-advisories','nist-research','cyber-news','priority-watch'].forEach(id=>{let e=document.getElementById(id);if(e)e.textContent='Awaiting first successful security feed collection.'})});
 })();
 </script><script>
 /* v9.1: public-source-only, browser-local review state */
