@@ -4,7 +4,7 @@ name: Collect public intelligence
 on:
   workflow_dispatch:
   schedule:
-    - cron: '23 10 * * *'
+    - cron: '23 0,4,8,12,16,20 * * *'
 
 permissions:
   contents: write
@@ -25,7 +25,7 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Retrieve public CISA and Federal Register feeds
+      - name: Retrieve public intelligence and security feeds
         run: python scripts/collect.py
 
       - name: Commit updated public data
