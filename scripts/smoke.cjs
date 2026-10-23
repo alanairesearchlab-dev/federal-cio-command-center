@@ -59,6 +59,11 @@ const sleep = ms => new Promise(resolve => setTimeout(resolve, ms));
         assert(await page.locator('#view-policy a[href="https://www.acquisition.gov/news"]').count(), 'Acquisition policy portal missing');
       }
       if (path==='/intelligence.html') {
+        assert(await page.locator('button[data-view="technology"]').count(), 'Technology newsroom tab missing');
+        await page.locator('button[data-view="technology"]').click();
+        assert(await page.locator('#tech-topic').count(), 'Technology topic filter missing');
+        assert(await page.locator('#tech-list').count(), 'Technology story list missing');
+        assert(await page.locator('#tech-directory-toggle').count(), 'Publisher directory missing');
         const updated=await page.locator('#updated').innerText();
         assert(!updated.includes('unavailable'), 'Intelligence data failed: '+updated);
       }
