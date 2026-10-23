@@ -1,0 +1,15 @@
+# Local dependencies, generated test artifacts, and credentials
+node_modules/
+artifacts/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.log
+.DS_Store
+Thumbs.db
