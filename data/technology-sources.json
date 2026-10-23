@@ -1,0 +1,372 @@
+{
+  "retrieved_at": "2026-10-23T00:28:09+00:00",
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "category": "Journalism",
+      "url": "https://feeds.arstechnica.com/arstechnica/index",
+      "checked_at": "2026-10-23T00:28:09+00:00",
+      "last_success_at": "2026-10-23T00:28:09+00:00",
+      "ok": true,
+      "count": 20
+    },
+    {
+      "name": "The Register",
+      "category": "Journalism",
+      "url": "https://www.theregister.com/headlines.atom",
+      "checked_at": "2026-10-23T00:28:09+00:00",
+      "last_success_at": "2026-10-23T00:28:09+00:00",
+      "ok": true,
+      "count": 25
+    },
+    {
+      "name": "TechCrunch",
+      "category": "Journalism",
+      "url": "https://techcrunch.com/feed/",
+      "checked_at": "2026-10-23T00:28:09+00:00",
+      "last_success_at": "2026-10-23T00:28:09+00:00",
+      "ok": true,
+      "count": 20
+    },
+    {
+      "name": "WIRED",
+      "category": "Journalism",
+      "url": "https://www.wired.com/feed/rss",
+      "checked_at": "2026-10-23T00:28:09+00:00",
+      "last_success_at": "2026-10-23T00:28:09+00:00",
+      "ok": true,
+      "count": 25
+    },
+    {
+      "name": "ZDNET",
+      "category": "Journalism",
+      "url": "https://www.zdnet.com/news/rss.xml",
+      "checked_at": "2026-10-23T00:28:09+00:00",
+      "last_success_at": "2026-10-23T00:28:09+00:00",
+      "ok": true,
+      "count": 25
+    },
+    {
+      "name": "InfoWorld",
+      "category": "Journalism",
+      "url": "https://www.infoworld.com/feed/",
+      "checked_at": "2026-10-23T00:28:09+00:00",
+      "last_success_at": "2026-10-23T00:28:09+00:00",
+      "ok": true,
+      "count": 20
+    },
+    {
+      "name": "VentureBeat",
+      "category": "Journalism",
+      "url": "https://venturebeat.com/feed/",
+      "checked_at": "2026-10-23T00:28:09+00:00",
+      "last_success_at": null,
+      "ok": false,
+      "count": 0,
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "IEEE Spectrum",
+      "category": "Research",
+      "url": "https://spectrum.ieee.org/feeds/feed.rss",
+      "checked_at": "2026-10-23T00:28:09+00:00",
+      "last_success_at": "2026-10-23T00:28:09+00:00",
+      "ok": true,
+      "count": 25
+    },
+    {
+      "name": "MIT Technology Review",
+      "category": "Research",
+      "url": "https://www.technologyreview.com/feed/",
+      "checked_at": "2026-10-23T00:28:09+00:00",
+      "last_success_at": "2026-10-23T00:28:09+00:00",
+      "ok": true,
+      "count": 10
+    },
+    {
+      "name": "Microsoft Azure",
+      "category": "Vendor",
+      "url": "https://azure.microsoft.com/en-us/blog/feed/",
+      "checked_at": "2026-10-23T00:28:09+00:00",
+      "last_success_at": "2026-10-23T00:28:09+00:00",
+      "ok": true,
+      "count": 10
+    },
+    {
+      "name": "Microsoft Security",
+      "category": "Vendor",
+      "url": "https://www.microsoft.com/en-us/security/blog/feed/",
+      "checked_at": "2026-10-23T00:28:09+00:00",
+      "last_success_at": "2026-10-23T00:28:09+00:00",
+      "ok": true,
+      "count": 10
+    },
+    {
+      "name": "AWS News",
+      "category": "Vendor",
+      "url": "https://aws.amazon.com/blogs/aws/feed/",
+      "checked_at": "2026-10-23T00:28:09+00:00",
+      "last_success_at": "2026-10-23T00:28:09+00:00",
+      "ok": true,
+      "count": 20
+    },
+    {
+      "name": "AWS Security",
+      "category": "Vendor",
+      "url": "https://aws.amazon.com/blogs/security/feed/",
+      "checked_at": "2026-10-23T00:28:09+00:00",
+      "last_success_at": "2026-10-23T00:28:09+00:00",
+      "ok": true,
+      "count": 20
+    },
+    {
+      "name": "Google Cloud",
+      "category": "Vendor",
+      "url": "https://cloud.google.com/blog/rss",
+      "checked_at": "2026-10-23T00:28:09+00:00",
+      "last_success_at": null,
+      "ok": false,
+      "count": 0,
+      "error": "syntax error: line 1, column 0"
+    },
+    {
+      "name": "Google Security",
+      "category": "Research",
+      "url": "https://security.googleblog.com/feeds/posts/default",
+      "checked_at": "2026-10-23T00:28:09+00:00",
+      "last_success_at": "2026-10-23T00:28:09+00:00",
+      "ok": true,
+      "count": 25
+    },
+    {
+      "name": "Cloudflare",
+      "category": "Vendor",
+      "url": "https://blog.cloudflare.com/rss/",
+      "checked_at": "2026-10-23T00:28:09+00:00",
+      "last_success_at": "2026-10-23T00:28:09+00:00",
+      "ok": true,
+      "count": 20
+    },
+    {
+      "name": "GitHub Blog",
+      "category": "Vendor",
+      "url": "https://github.blog/feed/",
+      "checked_at": "2026-10-23T00:28:09+00:00",
+      "last_success_at": "2026-10-23T00:28:09+00:00",
+      "ok": true,
+      "count": 10
+    },
+    {
+      "name": "Red Hat",
+      "category": "Vendor",
+      "url": "https://www.redhat.com/en/rss/blog",
+      "checked_at": "2026-10-23T00:28:09+00:00",
+      "last_success_at": "2026-10-23T00:28:09+00:00",
+      "ok": true,
+      "count": 10
+    },
+    {
+      "name": "Cisco Blogs",
+      "category": "Vendor",
+      "url": "https://blogs.cisco.com/feed",
+      "checked_at": "2026-10-23T00:28:09+00:00",
+      "last_success_at": "2026-10-23T00:28:09+00:00",
+      "ok": true,
+      "count": 9
+    },
+    {
+      "name": "Cisco Talos",
+      "category": "Research",
+      "url": "https://blog.talosintelligence.com/rss/",
+      "checked_at": "2026-10-23T00:28:09+00:00",
+      "last_success_at": "2026-10-23T00:28:09+00:00",
+      "ok": true,
+      "count": 15
+    },
+    {
+      "name": "Palo Alto Unit 42",
+      "category": "Research",
+      "url": "https://unit42.paloaltonetworks.com/feed/",
+      "checked_at": "2026-10-23T00:28:09+00:00",
+      "last_success_at": "2026-10-23T00:28:09+00:00",
+      "ok": true,
+      "count": 15
+    },
+    {
+      "name": "SANS Internet Storm Center",
+      "category": "Research",
+      "url": "https://isc.sans.edu/rssfeed.xml",
+      "checked_at": "2026-10-23T00:28:09+00:00",
+      "last_success_at": "2026-10-23T00:28:09+00:00",
+      "ok": true,
+      "count": 10
+    },
+    {
+      "name": "Schneier on Security",
+      "category": "Research",
+      "url": "https://www.schneier.com/feed/atom/",
+      "checked_at": "2026-10-23T00:28:09+00:00",
+      "last_success_at": "2026-10-23T00:28:09+00:00",
+      "ok": true,
+      "count": 10
+    },
+    {
+      "name": "BleepingComputer",
+      "category": "Journalism",
+      "url": "https://www.bleepingcomputer.com/feed/",
+      "checked_at": "2026-10-23T00:28:09+00:00",
+      "last_success_at": "2026-10-23T00:28:09+00:00",
+      "ok": true,
+      "count": 15
+    },
+    {
+      "name": "Krebs on Security",
+      "category": "Journalism",
+      "url": "https://krebsonsecurity.com/feed/",
+      "checked_at": "2026-10-23T00:28:09+00:00",
+      "last_success_at": "2026-10-23T00:28:09+00:00",
+      "ok": true,
+      "count": 10
+    },
+    {
+      "name": "The Hacker News",
+      "category": "Journalism",
+      "url": "https://feeds.feedburner.com/TheHackersNews",
+      "checked_at": "2026-10-23T00:28:09+00:00",
+      "last_success_at": "2026-10-23T00:28:09+00:00",
+      "ok": true,
+      "count": 25
+    },
+    {
+      "name": "Dark Reading",
+      "category": "Journalism",
+      "url": "https://www.darkreading.com/rss.xml",
+      "checked_at": "2026-10-23T00:28:09+00:00",
+      "last_success_at": "2026-10-23T00:28:09+00:00",
+      "ok": true,
+      "count": 25
+    },
+    {
+      "name": "FedScoop",
+      "category": "Federal IT",
+      "url": "https://fedscoop.com/feed/",
+      "checked_at": "2026-10-23T00:28:09+00:00",
+      "last_success_at": "2026-10-23T00:28:09+00:00",
+      "ok": true,
+      "count": 10
+    },
+    {
+      "name": "Nextgov/FCW",
+      "category": "Federal IT",
+      "url": "https://www.nextgov.com/rss/",
+      "checked_at": "2026-10-23T00:28:09+00:00",
+      "last_success_at": null,
+      "ok": false,
+      "count": 0,
+      "error": "not well-formed (invalid token): line 22, column 42"
+    },
+    {
+      "name": "Federal News Network",
+      "category": "Federal IT",
+      "url": "https://federalnewsnetwork.com/feed/",
+      "checked_at": "2026-10-23T00:28:09+00:00",
+      "last_success_at": "2026-10-23T00:28:09+00:00",
+      "ok": true,
+      "count": 15
+    },
+    {
+      "name": "MeriTalk",
+      "category": "Federal IT",
+      "url": "https://www.meritalk.com/feed/",
+      "checked_at": "2026-10-23T00:28:09+00:00",
+      "last_success_at": "2026-10-23T00:28:09+00:00",
+      "ok": true,
+      "count": 25
+    },
+    {
+      "name": "GSA Technology",
+      "category": "Federal IT",
+      "url": "https://www.gsa.gov/blog/feed",
+      "checked_at": "2026-10-23T00:28:09+00:00",
+      "last_success_at": null,
+      "ok": false,
+      "count": 0,
+      "error": "HTTP Error 500: Internal Server Error"
+    },
+    {
+      "name": "NIST News",
+      "category": "Federal IT",
+      "url": "https://www.nist.gov/news-events/news/rss.xml",
+      "checked_at": "2026-10-23T00:28:09+00:00",
+      "last_success_at": "2026-10-23T00:28:09+00:00",
+      "ok": true,
+      "count": 25
+    },
+    {
+      "name": "CISA News",
+      "category": "Federal IT",
+      "url": "https://www.cisa.gov/news-events/news.xml",
+      "checked_at": "2026-10-23T00:28:09+00:00",
+      "last_success_at": null,
+      "ok": false,
+      "count": 0,
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "name": "OpenAI News",
+      "category": "Vendor",
+      "url": "https://openai.com/news/rss.xml",
+      "checked_at": "2026-10-23T00:28:09+00:00",
+      "last_success_at": "2026-10-23T00:28:09+00:00",
+      "ok": true,
+      "count": 25
+    },
+    {
+      "name": "Google DeepMind",
+      "category": "Research",
+      "url": "https://deepmind.google/blog/rss.xml",
+      "checked_at": "2026-10-23T00:28:09+00:00",
+      "last_success_at": "2026-10-23T00:28:09+00:00",
+      "ok": true,
+      "count": 25
+    },
+    {
+      "name": "Hugging Face",
+      "category": "Vendor",
+      "url": "https://huggingface.co/blog/feed.xml",
+      "checked_at": "2026-10-23T00:28:09+00:00",
+      "last_success_at": "2026-10-23T00:28:09+00:00",
+      "ok": true,
+      "count": 25
+    },
+    {
+      "name": "Linux Foundation",
+      "category": "Research",
+      "url": "https://www.linuxfoundation.org/blog/rss.xml",
+      "checked_at": "2026-10-23T00:28:09+00:00",
+      "last_success_at": "2026-10-23T00:28:09+00:00",
+      "ok": true,
+      "count": 10
+    },
+    {
+      "name": "CNCF",
+      "category": "Research",
+      "url": "https://www.cncf.io/feed/",
+      "checked_at": "2026-10-23T00:28:09+00:00",
+      "last_success_at": null,
+      "ok": false,
+      "count": 0,
+      "error": "Feed exceeds size limit"
+    },
+    {
+      "name": "Kubernetes",
+      "category": "Research",
+      "url": "https://kubernetes.io/feed.xml",
+      "checked_at": "2026-10-23T00:28:09+00:00",
+      "last_success_at": "2026-10-23T00:28:09+00:00",
+      "ok": true,
+      "count": 25
+    }
+  ],
+  "note": "Candidate RSS endpoints are validated on each collection. Failures remain visible; no bypassing publisher access controls."
+}

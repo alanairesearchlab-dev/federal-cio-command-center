@@ -1,0 +1,1473 @@
+{
+  "retrieved_at": "2026-10-23T00:28:09+00:00",
+  "candidate_sources": 40,
+  "successful_sources": 34,
+  "collected_articles": 589,
+  "items": [
+    {
+      "title": "The First Federal Guidance on AI Agents Is Here. Most Agencies Can’t Meet It Yet.",
+      "url": "https://www.meritalk.com/the-first-federal-guidance-on-ai-agents-is-here-most-agencies-cant-meet-it-yet/",
+      "published": "Wed, 29 Jul 2026 13:00:18 +0000",
+      "summary": "By: Larry Kovalsky, Director, Federal Solutions Engineering, Netskope In May 2026, the Cybersecurity and Infrastructure Security Agency (CISA) and the National Security Agency (NSA), together with Five Eyes partners, published the first guidance written specifically for agentic artificial intelligence (AI): Careful Adoption of Agentic AI Services. ",
+      "source": "MeriTalk",
+      "source_category": "Federal IT",
+      "topic": "Cybersecurity",
+      "score": 10,
+      "sources": [
+        {
+          "name": "MeriTalk",
+          "url": "https://www.meritalk.com/the-first-federal-guidance-on-ai-agents-is-here-most-agencies-cant-meet-it-yet/"
+        }
+      ]
+    },
+    {
+      "title": "Two critical PHP flaws put the web on alert as emergency patches arrive",
+      "url": "https://www.infoworld.com/article/4238778/two-critical-php-flaws-put-the-web-on-alert-as-emergency-patches-arrive-2.html",
+      "published": "Wed, 21 Oct 2026 22:54:34 +0000",
+      "summary": "Organizations are scrambling to protect themselves following the disclosure of two critical vulnerabilities in commonly used code that powers much of the internet. The flaws discovered in the PHP scripting language could allow attackers to perform unauthenticated remote code execution (RCE). On Wednesday morning, the PHP Foundation released patches",
+      "source": "InfoWorld",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 10,
+      "sources": [
+        {
+          "name": "InfoWorld",
+          "url": "https://www.infoworld.com/article/4238778/two-critical-php-flaws-put-the-web-on-alert-as-emergency-patches-arrive-2.html"
+        },
+        {
+          "name": "The Hacker News",
+          "url": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html"
+        },
+        {
+          "name": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/"
+        },
+        {
+          "name": "The Hacker News",
+          "url": "https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html"
+        }
+      ]
+    },
+    {
+      "title": "How AI is changing software pricing",
+      "url": "https://www.infoworld.com/article/4237997/how-ai-is-changing-software-pricing.html",
+      "published": "Wed, 21 Oct 2026 09:00:00 +0000",
+      "summary": "In 2026, the AI monetization conversation has shifted quickly from one concern to the next. Early in the year, fears that AI agents would erode software seats helped trigger a selloff of software stocks dubbed the “SaaSpocalypse.” Since then, attention has turned to a different disruption, as AI leaders including Anthropic , OpenAI, and GitHub lean",
+      "source": "InfoWorld",
+      "source_category": "Journalism",
+      "topic": "AI & Emerging Tech",
+      "score": 10,
+      "sources": [
+        {
+          "name": "InfoWorld",
+          "url": "https://www.infoworld.com/article/4237997/how-ai-is-changing-software-pricing.html"
+        }
+      ]
+    },
+    {
+      "title": "US bans DeepSeek across federal agencies, putting AI supply chains under scrutiny",
+      "url": "https://www.infoworld.com/article/4238150/us-bans-deepseek-across-federal-agencies-putting-ai-supply-chains-under-scrutiny-3.html",
+      "published": "Wed, 21 Oct 2026 01:59:19 +0000",
+      "summary": "DeepSeek has been dealt a huge blow in the US, even as it continues to innovate and keep pace with, or in some cases outperform, rival models from American labs. The US Secretary of Homeland Security has issued an order banning all DeepSeek products and services from federal agencies. Government organizations must purge their IT systems of it withi",
+      "source": "InfoWorld",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 10,
+      "sources": [
+        {
+          "name": "InfoWorld",
+          "url": "https://www.infoworld.com/article/4238150/us-bans-deepseek-across-federal-agencies-putting-ai-supply-chains-under-scrutiny-3.html"
+        }
+      ]
+    },
+    {
+      "title": "IEEE Report Predicts Tech That Will Transform Lives",
+      "url": "https://spectrum.ieee.org/ieee-report-predicts-tech",
+      "published": "Wed, 07 Oct 2026 18:00:02 +0000",
+      "summary": "By 2028, genetic engineering and gene therapy will be used frequently to treat a variety of diseases, thanks to advances in artificial intelligence, according to the recently released 2030 Technology Megatrends Report from IEEE. “We are seeing a fundamental shift in how technology evolves,” says IEEE Fellow Dejan Milojicic , chair of the IEEE Futur",
+      "source": "IEEE Spectrum",
+      "source_category": "Research",
+      "topic": "Cybersecurity",
+      "score": 10,
+      "sources": [
+        {
+          "name": "IEEE Spectrum",
+          "url": "https://spectrum.ieee.org/ieee-report-predicts-tech"
+        }
+      ]
+    },
+    {
+      "title": "Scaling Kubernetes Workloads with Node Swap",
+      "url": "https://kubernetes.io/blog/2026/10/05/scaling-kubernetes-workloads-with-node-swap/",
+      "published": "Mon, 05 Oct 2026 10:00:00 -0800",
+      "summary": "Memory is often the first hard limit a Kubernetes cluster hits. Nodes run out of RAM long before they run out of CPU, and the new wave of agentic AI workloads makes this worse. These workloads demand large memory footprints to start up and run untrusted code, then sit idle waiting for the next prompt. That idle but resident memory is expensive, and",
+      "source": "Kubernetes",
+      "source_category": "Research",
+      "topic": "Cybersecurity",
+      "score": 10,
+      "sources": [
+        {
+          "name": "Kubernetes",
+          "url": "https://kubernetes.io/blog/2026/10/05/scaling-kubernetes-workloads-with-node-swap/"
+        }
+      ]
+    },
+    {
+      "title": "Kubernetes v1.37: KubeletInUserNamespace (aka Rootless mode) Graduates to Beta",
+      "url": "https://kubernetes.io/blog/2026/09/04/kubernetes-v1-37-rootless-beta/",
+      "published": "Fri, 04 Sep 2026 10:30:00 -0800",
+      "summary": "Kubernetes v1.37 promotes the KubeletInUserNamespace feature gate to beta. With this feature enabled, all of the node components (kubelet, CRI and OCI runtimes, CNI plugins, and kube-proxy) can run as a non-root user on the host, using a Linux user namespace . This technique is also known as rootless mode . The work started as an experiment in 2018",
+      "source": "Kubernetes",
+      "source_category": "Research",
+      "topic": "Cybersecurity",
+      "score": 10,
+      "sources": [
+        {
+          "name": "Kubernetes",
+          "url": "https://kubernetes.io/blog/2026/09/04/kubernetes-v1-37-rootless-beta/"
+        }
+      ]
+    },
+    {
+      "title": "Marvell, Microsoft & Oracle Work to Standardize Data Center Hardware Security",
+      "url": "https://www.darkreading.com/cloud-security/marvell-microsoft-oracle-standardize-data-center-hardware-security",
+      "published": "Wed, 21 Oct 2026 20:14:42 GMT",
+      "summary": "The effort is aimed at standardizing a NIST FIPS 140-3 Level 3 integrated HSM for cloud and hyperscale data center infrastructure.",
+      "source": "Dark Reading",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 9,
+      "sources": [
+        {
+          "name": "Dark Reading",
+          "url": "https://www.darkreading.com/cloud-security/marvell-microsoft-oracle-standardize-data-center-hardware-security"
+        }
+      ]
+    },
+    {
+      "title": "CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/",
+      "published": "Wed, 21 Oct 2026 14:34:42 -0400",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are actively exploiting four vulnerabilities in Plex Media Server. [...]",
+      "source": "BleepingComputer",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 9,
+      "sources": [
+        {
+          "name": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/"
+        }
+      ]
+    },
+    {
+      "title": "Why Is My Kubernetes Job Still Pending? Tracing Kueue Admission with Headlamp",
+      "url": "https://kubernetes.io/blog/2026/10/14/tracing-kueue-admission-with-headlamp/",
+      "published": "Wed, 14 Oct 2026 10:35:00 -0800",
+      "summary": "You submit a Kubernetes Job and wait for its Pods to appear. A minute passes. Then another. The Job is still suspended, there are no application logs, and there may not even be a Pod to inspect. In a cluster managed by Kueue , this can be completely normal. Kueue may still be deciding whether the Job can use the requested resources. The useful ques",
+      "source": "Kubernetes",
+      "source_category": "Research",
+      "topic": "Cloud & Infrastructure",
+      "score": 9,
+      "sources": [
+        {
+          "name": "Kubernetes",
+          "url": "https://kubernetes.io/blog/2026/10/14/tracing-kueue-admission-with-headlamp/"
+        }
+      ]
+    },
+    {
+      "title": "The FedRAMP High Supply Crisis Is a Federal Security Problem – Not a Procurement Footnote",
+      "url": "https://www.meritalk.com/the-fedramp-high-supply-crisis-is-a-federal-security-problem-not-a-procurement-footnote/",
+      "published": "Tue, 24 Mar 2026 19:40:14 +0000",
+      "summary": "Federal agencies spent $11 billion on cloud services in 2024. Roughly 40 percent of that spending supported high-impact systems, platforms carrying national security operations, law enforcement coordination, emergency services, healthcare records, and financial infrastructure. The data on those systems cannot tolerate compromise. And yet the cloud ",
+      "source": "MeriTalk",
+      "source_category": "Federal IT",
+      "topic": "Cybersecurity",
+      "score": 9,
+      "sources": [
+        {
+          "name": "MeriTalk",
+          "url": "https://www.meritalk.com/the-fedramp-high-supply-crisis-is-a-federal-security-problem-not-a-procurement-footnote/"
+        }
+      ]
+    },
+    {
+      "title": "Transforming Federal Cybersecurity Through Private Sector Innovation",
+      "url": "https://www.meritalk.com/transforming-federal-cybersecurity-through-private-sector-innovation/",
+      "published": "Thu, 15 Jan 2026 16:47:51 +0000",
+      "summary": "By: Darren Guccione, CEO and co-founder, Keeper Security The United States is at a pivotal moment in its efforts to defend against modern cyber threats. Advanced Persistent Threats (APTs) from nation-states and organized cybercriminals continue to grow in both sophistication and scale, while many federal agencies operate with legacy acquisition mod",
+      "source": "MeriTalk",
+      "source_category": "Federal IT",
+      "topic": "Cybersecurity",
+      "score": 9,
+      "sources": [
+        {
+          "name": "MeriTalk",
+          "url": "https://www.meritalk.com/transforming-federal-cybersecurity-through-private-sector-innovation/"
+        }
+      ]
+    },
+    {
+      "title": "The government learned the hard lessons of cloud. It should apply them to AI now.",
+      "url": "https://federalnewsnetwork.com/commentary/2026/10/the-government-learned-the-hard-lessons-of-cloud-it-should-apply-them-to-ai-now/",
+      "published": "Wed, 21 Oct 2026 21:19:41 +0000",
+      "summary": "Agencies should apply cloud-era disciplines to models, prompts and agents now, and shift from \"human in the loop\" to \"human in the lead.”",
+      "source": "Federal News Network",
+      "source_category": "Federal IT",
+      "topic": "AI & Emerging Tech",
+      "score": 8,
+      "sources": [
+        {
+          "name": "Federal News Network",
+          "url": "https://federalnewsnetwork.com/commentary/2026/10/the-government-learned-the-hard-lessons-of-cloud-it-should-apply-them-to-ai-now/"
+        }
+      ]
+    },
+    {
+      "title": "How Wikipedia’s Editors Keep the Online Encyclopedia Human-Written",
+      "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+      "published": "Wed, 21 Oct 2026 13:00:02 +0000",
+      "summary": "Ellia Lebleu is a founding member of the WikiProject AI Cleanup , a volunteer effort launched in 2023 to find and remove AI-generated material from Wikipedia that breaks the website’s guidelines. When the cleanup began, AI writing was often betrayed by conspicuous clichés. Today, the project’s volunteers are developing tools to detect subtler forms",
+      "source": "IEEE Spectrum",
+      "source_category": "Research",
+      "topic": "AI & Emerging Tech",
+      "score": 8,
+      "sources": [
+        {
+          "name": "IEEE Spectrum",
+          "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup"
+        }
+      ]
+    },
+    {
+      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+      "published": "Wed, 14 Oct 2026 02:00:14 +0000",
+      "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+      "source": "Google DeepMind",
+      "source_category": "Research",
+      "topic": "AI & Emerging Tech",
+      "score": 8,
+      "sources": [
+        {
+          "name": "Google DeepMind",
+          "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/"
+        }
+      ]
+    },
+    {
+      "title": "Changing Your Career Isn’t Easy",
+      "url": "https://spectrum.ieee.org/career-pivots-for-software-engineers",
+      "published": "Wed, 07 Oct 2026 17:04:02 +0000",
+      "summary": "This article is crossposted from IEEE Spectrum ’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written i n partnership with tech career development company Parsity and delivered to your inbox for free! When I changed careers at 30 to become a software engineer, I expected it to be hard. I expected to",
+      "source": "IEEE Spectrum",
+      "source_category": "Research",
+      "topic": "AI & Emerging Tech",
+      "score": 8,
+      "sources": [
+        {
+          "name": "IEEE Spectrum",
+          "url": "https://spectrum.ieee.org/career-pivots-for-software-engineers"
+        }
+      ]
+    },
+    {
+      "title": "NIST Mathematical Proof Supports Transition to a Continuous-Monitor-and-Update Security Model for AI Systems",
+      "url": "https://www.nist.gov/news-events/news/2026/06/nist-mathematical-proof-supports-transition-continuous-monitor-and-update",
+      "published": "Tue, 09 Jun 2026 12:00:00 +0000",
+      "summary": "The proof extends to AI the logic used by famed mathematician Kurt Gödel, whose incompleteness theorems have had a profound effect on math for nearly a century.",
+      "source": "NIST News",
+      "source_category": "Federal IT",
+      "topic": "Cybersecurity",
+      "score": 8,
+      "sources": [
+        {
+          "name": "NIST News",
+          "url": "https://www.nist.gov/news-events/news/2026/06/nist-mathematical-proof-supports-transition-continuous-monitor-and-update"
+        }
+      ]
+    },
+    {
+      "title": "Proactive cyber defense for governments and enterprises",
+      "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+      "published": "Wed, 02 Sep 2026 16:24:24 +0000",
+      "summary": "",
+      "source": "Google DeepMind",
+      "source_category": "Research",
+      "topic": "Federal IT & Policy",
+      "score": 7,
+      "sources": [
+        {
+          "name": "Google DeepMind",
+          "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/"
+        }
+      ]
+    },
+    {
+      "title": "NIST Finalizes Guidelines on Protecting Online Identity and Access Tokens From Misuse",
+      "url": "https://www.nist.gov/news-events/news/2026/09/nist-finalizes-guidelines-protecting-online-identity-and-access-tokens",
+      "published": "Tue, 15 Sep 2026 12:00:00 +0000",
+      "summary": "The finalized publication is designed to help organizations take effective steps to avoid exposing tokens to attackers.",
+      "source": "NIST News",
+      "source_category": "Federal IT",
+      "topic": "Federal IT & Policy",
+      "score": 7,
+      "sources": [
+        {
+          "name": "NIST News",
+          "url": "https://www.nist.gov/news-events/news/2026/09/nist-finalizes-guidelines-protecting-online-identity-and-access-tokens"
+        }
+      ]
+    },
+    {
+      "title": "NIST Joins National Genesis Mission to Accelerate AI Innovation",
+      "url": "https://www.nist.gov/news-events/news/2026/08/nist-joins-national-genesis-mission-accelerate-ai-innovation",
+      "published": "Tue, 04 Aug 2026 12:00:00 +0000",
+      "summary": "NIST will execute two of its efforts through its Centers for AI in Manufacturing and Critical Infrastructure.",
+      "source": "NIST News",
+      "source_category": "Federal IT",
+      "topic": "AI & Emerging Tech",
+      "score": 7,
+      "sources": [
+        {
+          "name": "NIST News",
+          "url": "https://www.nist.gov/news-events/news/2026/08/nist-joins-national-genesis-mission-accelerate-ai-innovation"
+        }
+      ]
+    },
+    {
+      "title": "AI-Powered Espionage Campaign Targets Government Linux Infrastructure",
+      "url": "https://unit42.paloaltonetworks.com/ai-campaign-targets-linux-infrastructure/",
+      "published": "Thu, 15 Oct 2026 22:00:09 +0000",
+      "summary": "Our analysis an AI-powered espionage campaign targeting government Linux infrastructure with custom malware, web shells, and advanced credential theft. The post AI-Powered Espionage Campaign Targets Government Linux Infrastructure appeared first on Unit 42 .",
+      "source": "Palo Alto Unit 42",
+      "source_category": "Research",
+      "topic": "Cybersecurity",
+      "score": 7,
+      "sources": [
+        {
+          "name": "Palo Alto Unit 42",
+          "url": "https://unit42.paloaltonetworks.com/ai-campaign-targets-linux-infrastructure/"
+        }
+      ]
+    },
+    {
+      "title": "Preparing governments for an era of interconnected cyber risk",
+      "url": "https://blogs.microsoft.com/on-the-issues/2026/10/01/preparing-governments-for-an-era-of-interconnected-cyber-risk/",
+      "published": "Thu, 01 Oct 2026 14:00:00 +0000",
+      "summary": "According to this year’s Microsoft Digital Defense Report, government agencies and services were the sector most impacted by cyber threats in 2026, accounting for 27% of observed activity, up from 17% in 2025. The post Preparing governments for an era of interconnected cyber risk appeared first on Microsoft Security Blog .",
+      "source": "Microsoft Security",
+      "source_category": "Vendor",
+      "topic": "Cybersecurity",
+      "score": 7,
+      "sources": [
+        {
+          "name": "Microsoft Security",
+          "url": "https://blogs.microsoft.com/on-the-issues/2026/10/01/preparing-governments-for-an-era-of-interconnected-cyber-risk/"
+        }
+      ]
+    },
+    {
+      "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
+      "url": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
+      "published": "Sat, 10 Oct 2026 00:17:42 +0000",
+      "summary": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSecurity.",
+      "source": "Krebs on Security",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 7,
+      "sources": [
+        {
+          "name": "Krebs on Security",
+          "url": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/"
+        }
+      ]
+    },
+    {
+      "title": "NeedyMantis: Unpacking a post-compromise malware family used in targeted operations",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/28/needymantis-unpacking-a-post-compromise-malware-family-used-in-targeted-operations/",
+      "published": "Mon, 28 Sep 2026 15:00:00 +0000",
+      "summary": "Microsoft Threat Intelligence identified NeedyMantis, a modular post-compromise malware framework used in targeted intrusions that combines custom loaders, encrypted archives, and extensible components to maintain long-term access and support follow-on operations. The post NeedyMantis: Unpacking a post-compromise malware family used in targeted ope",
+      "source": "Microsoft Security",
+      "source_category": "Vendor",
+      "topic": "Cybersecurity",
+      "score": 7,
+      "sources": [
+        {
+          "name": "Microsoft Security",
+          "url": "https://www.microsoft.com/en-us/security/blog/2026/09/28/needymantis-unpacking-a-post-compromise-malware-family-used-in-targeted-operations/"
+        }
+      ]
+    },
+    {
+      "title": "OnlyFans Copyright Takedowns Expose Compromised Websites",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/onlyfans-copyright-takedowns-expose-compromised-websites",
+      "published": "Mon, 19 Oct 2026 14:28:11 GMT",
+      "summary": "Copyright takedown requests tied to OnlyFans and other adult content creators are revealing how attackers exploit vulnerable university and government websites to manipulate search results. UpGuard's Greg Pollock explains what universities, government websites, and security teams need to think about next.",
+      "source": "Dark Reading",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 7,
+      "sources": [
+        {
+          "name": "Dark Reading",
+          "url": "https://www.darkreading.com/vulnerabilities-threats/onlyfans-copyright-takedowns-expose-compromised-websites"
+        }
+      ]
+    },
+    {
+      "title": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site",
+      "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
+      "published": "Mon, 19 Oct 2026 13:48:56 +0000",
+      "summary": "U.S. federal investigators pursuing the ShinyHunters hacking group that recently stole highly sensitive data from the FBI have identified executives at two different ransomware negotiation firms who maintained unusually close relations with the extortion group, KrebsOnSecurity has learned. Sources close to the investigation say one of the executive",
+      "source": "Krebs on Security",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 7,
+      "sources": [
+        {
+          "name": "Krebs on Security",
+          "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/"
+        }
+      ]
+    },
+    {
+      "title": "​​Secure what’s next: Your guide to Microsoft Security at Microsoft Ignite 2026",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/30/secure-whats-next-your-guide-to-microsoft-security-at-microsoft-ignite-2026/",
+      "published": "Wed, 30 Sep 2026 19:31:00 +0000",
+      "summary": "This year at Microsoft Ignite, we spotlight our AI-first, end-to-end security platform designed to protect identities, devices, data, applications, clouds, infrastructure, and the AI agents now working alongside your teams. The post ​​Secure what’s next: Your guide to Microsoft Security at Microsoft Ignite 2026 appeared first on Microsoft Security ",
+      "source": "Microsoft Security",
+      "source_category": "Vendor",
+      "topic": "Cybersecurity",
+      "score": 6,
+      "sources": [
+        {
+          "name": "Microsoft Security",
+          "url": "https://www.microsoft.com/en-us/security/blog/2026/09/30/secure-whats-next-your-guide-to-microsoft-security-at-microsoft-ignite-2026/"
+        }
+      ]
+    },
+    {
+      "title": "Linux Foundation Newsletter: October 2026",
+      "url": "https://www.linuxfoundation.org/blog/linux-foundation-newsletter-october-2026",
+      "published": "Wed, 21 Oct 2026 18:00:00 GMT",
+      "summary": "Welcome to the October 2026 edition of the Linux Foundation Newsletter Cybersecurity Awareness Month is ending, and LF Education is discounting training for a limited time. You can save 40% on eligible cybersecurity training and certifications, and you can save 35% on other training and certifications. A THRIVE-ONE Annual subscription is 30% off. T",
+      "source": "Linux Foundation",
+      "source_category": "Research",
+      "topic": "Cybersecurity",
+      "score": 6,
+      "sources": [
+        {
+          "name": "Linux Foundation",
+          "url": "https://www.linuxfoundation.org/blog/linux-foundation-newsletter-october-2026"
+        },
+        {
+          "name": "Linux Foundation",
+          "url": "https://www.linuxfoundation.org/blog/linux-foundation-newsletter-september-2026"
+        }
+      ]
+    },
+    {
+      "title": "Cisco and Fortanix help make confidential AI verifiable from data to Kubernetes",
+      "url": "https://blogs.cisco.com/datacenter/cisco-and-fortanix-help-make-confidential-ai-verifiable-from-data-to-kubernetes",
+      "published": "Wed, 21 Oct 2026 14:26:54 +0000",
+      "summary": "Fortanix Confidential AI now supports CNCF Confidential Containers. Discover how Cisco, Fortanix, and VAST Data help enterprises run secure frontier AI, ensuring sensitive models and data remain protected and verifiable while in use.",
+      "source": "Cisco Blogs",
+      "source_category": "Vendor",
+      "topic": "AI & Emerging Tech",
+      "score": 6,
+      "sources": [
+        {
+          "name": "Cisco Blogs",
+          "url": "https://blogs.cisco.com/datacenter/cisco-and-fortanix-help-make-confidential-ai-verifiable-from-data-to-kubernetes"
+        }
+      ]
+    },
+    {
+      "title": "Securing AI agents in the enterprise AI factory: NVIDIA BlueField and DOCA Argus on Red Hat OpenShift",
+      "url": "https://www.redhat.com/en/blog/securing-ai-agents-enterprise-ai-factory-nvidia-bluefield-doca-argus-red-hat-openshift",
+      "published": "Wed, 21 Oct 2026 00:00:00 +0000",
+      "summary": "The agent problem at scaleAutonomous agents are powerful because they act. But when instructions are ambiguous, when tools don't behave as expected, or when a complex task takes an unexpected turn, the agent makes judgment calls. You can't expect an agent to fully police its own behavior.This is exactly what makes them an entirely new category of i",
+      "source": "Red Hat",
+      "source_category": "Vendor",
+      "topic": "AI & Emerging Tech",
+      "score": 6,
+      "sources": [
+        {
+          "name": "Red Hat",
+          "url": "https://www.redhat.com/en/blog/securing-ai-agents-enterprise-ai-factory-nvidia-bluefield-doca-argus-red-hat-openshift"
+        }
+      ]
+    },
+    {
+      "title": "Configuring your AI vulnerability harness, Part 2: The steering file",
+      "url": "https://aws.amazon.com/blogs/security/configuring-your-ai-vulnerability-harness-part-2-the-steering-file/",
+      "published": "Wed, 07 Oct 2026 21:49:50 +0000",
+      "summary": "This post shows you how to configure an AI model to perform structured, evidence-based vulnerability triage with the consistency of a seasoned security analyst. You’ll learn the design decisions behind five configuration sections that enforce structural verification, evidence-based scoring, and infrastructure-aware prioritization across every analy",
+      "source": "AWS Security",
+      "source_category": "Vendor",
+      "topic": "Cybersecurity",
+      "score": 6,
+      "sources": [
+        {
+          "name": "AWS Security",
+          "url": "https://aws.amazon.com/blogs/security/configuring-your-ai-vulnerability-harness-part-2-the-steering-file/"
+        },
+        {
+          "name": "AWS Security",
+          "url": "https://aws.amazon.com/blogs/security/building-your-ai-vulnerability-harness-part-1/"
+        }
+      ]
+    },
+    {
+      "title": "One breach, please, and make no mistakes",
+      "url": "https://blog.talosintelligence.com/one-breach-please-and-make-no-mistakes/",
+      "published": "Wed, 07 Oct 2026 10:00:25 GMT",
+      "summary": "The cybersecurity community has seen examples of autonomous agents, built inside AI labs, attacking public infrastructure. How you prepare for agentic threats is what makes the difference during real incidents.",
+      "source": "Cisco Talos",
+      "source_category": "Research",
+      "topic": "Cybersecurity",
+      "score": 6,
+      "sources": [
+        {
+          "name": "Cisco Talos",
+          "url": "https://blog.talosintelligence.com/one-breach-please-and-make-no-mistakes/"
+        }
+      ]
+    },
+    {
+      "title": "Now on Amazon CloudWatch Omni: collaborative AI-powered observability for your applications",
+      "url": "https://aws.amazon.com/blogs/aws/introducing-amazon-cloudwatch-omni-collaborative-ai-powered-observability-for-your-applications/",
+      "published": "Tue, 22 Sep 2026 22:23:14 +0000",
+      "summary": "Amazon CloudWatch Omni is the next evolution of CloudWatch — unified observability that brings your applications and AI agents into one reimagined experience, with auto-discovered topology, natural language queries, and AI-guided investigation powered by AWS DevOps Agent.",
+      "source": "AWS News",
+      "source_category": "Vendor",
+      "topic": "AI & Emerging Tech",
+      "score": 6,
+      "sources": [
+        {
+          "name": "AWS News",
+          "url": "https://aws.amazon.com/blogs/aws/introducing-amazon-cloudwatch-omni-collaborative-ai-powered-observability-for-your-applications/"
+        }
+      ]
+    },
+    {
+      "title": "Advancing digital sovereignty with greater control and choice",
+      "url": "https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/",
+      "published": "Tue, 20 Oct 2026 17:34:47 +0000",
+      "summary": "Across conversations with leaders in government, critical infrastructure and regulated industries, one priority consistently rises to the top: putting technology to work on the most important systems while maintaining the control those systems require. The post Advancing digital sovereignty with greater control and choice appeared first on Microsof",
+      "source": "Microsoft Azure",
+      "source_category": "Vendor",
+      "topic": "Cloud & Infrastructure",
+      "score": 6,
+      "sources": [
+        {
+          "name": "Microsoft Azure",
+          "url": "https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/"
+        }
+      ]
+    },
+    {
+      "title": "Can government and industry prove they’re ready for a cyberattack?",
+      "url": "https://fedscoop.com/federal-government-agencies-industry-cybera/",
+      "published": "Tue, 20 Oct 2026 15:00:00 +0000",
+      "summary": "Shared exercise criteria can help agencies and critical infrastructure operators prove they can act on threat intelligence together. The post Can government and industry prove they’re ready for a cyberattack? appeared first on FedScoop .",
+      "source": "FedScoop",
+      "source_category": "Federal IT",
+      "topic": "Cybersecurity",
+      "score": 6,
+      "sources": [
+        {
+          "name": "FedScoop",
+          "url": "https://fedscoop.com/federal-government-agencies-industry-cybera/"
+        }
+      ]
+    },
+    {
+      "title": "How Delta Air Lines scaled AI-native development to 1,200 engineers with cloud development environments",
+      "url": "https://www.redhat.com/en/blog/how-delta-air-lines-scaled-ai-native-development-1200-engineers-cloud-development-environments",
+      "published": "Tue, 20 Oct 2026 00:00:00 +0000",
+      "summary": "When Delta Air Lines' Developer Experience team started measuring its Net Promoter Score (NPS), they faced a brutal reality: It was very low. Two years later, after deploying cloud development environments (CDEs) to more than 1,200 developers, that same team achieved:NPS improvement.Performance gains for developers switching from virtual desktop in",
+      "source": "Red Hat",
+      "source_category": "Vendor",
+      "topic": "AI & Emerging Tech",
+      "score": 6,
+      "sources": [
+        {
+          "name": "Red Hat",
+          "url": "https://www.redhat.com/en/blog/how-delta-air-lines-scaled-ai-native-development-1200-engineers-cloud-development-environments"
+        }
+      ]
+    },
+    {
+      "title": "Celebrating 35 Years of Linux: The Open Source Engine Powering Three Decades of Global Innovation and Infrastructure",
+      "url": "https://www.linuxfoundation.org/blog/celebrating-35-years-of-linux-the-open-source-engine-powering-three-decades-of-global-innovation-and-infrastructure",
+      "published": "Tue, 06 Oct 2026 19:15:00 GMT",
+      "summary": "Thirty-five years ago, a modest post on a newsgroup announced a hobby project that would forever change the landscape of modern technology. Today, we are thrilled to reflect on the impact of the Linux kernel as we share our newest report, 35 Years of Linux: The Open Source Engine of Global Infrastructure and Innovation . From underpinning the cloud",
+      "source": "Linux Foundation",
+      "source_category": "Research",
+      "topic": "Cloud & Infrastructure",
+      "score": 6,
+      "sources": [
+        {
+          "name": "Linux Foundation",
+          "url": "https://www.linuxfoundation.org/blog/celebrating-35-years-of-linux-the-open-source-engine-powering-three-decades-of-global-innovation-and-infrastructure"
+        }
+      ]
+    },
+    {
+      "title": "Identity-aware AI data agents with AWS Lake Formation and Trusted Identity Propagation",
+      "url": "https://aws.amazon.com/blogs/security/identity-aware-ai-data-agents-with-aws-lake-formation-and-trusted-identity-propagation/",
+      "published": "Tue, 06 Oct 2026 16:07:06 +0000",
+      "summary": "You’re building a data agent that lets business users ask questions about lakehouse data in natural language. You’ve already built governance policies that control who can access which datasets. The challenge is making the agent respect those rules without rebuilding them in your application code. When a user asks a question, the agent maps it […]",
+      "source": "AWS Security",
+      "source_category": "Vendor",
+      "topic": "AI & Emerging Tech",
+      "score": 6,
+      "sources": [
+        {
+          "name": "AWS Security",
+          "url": "https://aws.amazon.com/blogs/security/identity-aware-ai-data-agents-with-aws-lake-formation-and-trusted-identity-propagation/"
+        }
+      ]
+    },
+    {
+      "title": "ThreatsDay: AI Secrets Leak, PingCAP Source Theft, Signal Hang-Up Flaw, Laravel Auth Bypass + 21 More",
+      "url": "https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html",
+      "published": "Thu, 22 Oct 2026 23:15:44 +0530",
+      "summary": "This week has already been rough for cybersecurity. Critical PHP and GitLab RCE flaws, serious Linux security bugs, compromised eMudhra certificates, a Node.js RCE flaw, a hacked LiteLLM release, and hundreds of hijacked Tor relays. That's a lot to deal with in just a few days. And the week isn't even over yet. But those big headlines are only half",
+      "source": "The Hacker News",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 6,
+      "sources": [
+        {
+          "name": "The Hacker News",
+          "url": "https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html"
+        }
+      ]
+    },
+    {
+      "title": "AWS Continuum for code vulnerabilities is now generally available",
+      "url": "https://aws.amazon.com/blogs/aws/aws-continuum-for-code-vulnerabilities-is-now-generally-available/",
+      "published": "Thu, 22 Oct 2026 20:33:10 +0000",
+      "summary": "AWS Continuum for code vulnerabilities is a new security service that uses AI to automatically find, validate, and prioritize code vulnerabilities in your environment, then delivers ready-to-review fixes as pull requests replacing what previously took hours of manual investigation and days of cross-team coordination.",
+      "source": "AWS News",
+      "source_category": "Vendor",
+      "topic": "Cybersecurity",
+      "score": 6,
+      "sources": [
+        {
+          "name": "AWS News",
+          "url": "https://aws.amazon.com/blogs/aws/aws-continuum-for-code-vulnerabilities-is-now-generally-available/"
+        }
+      ]
+    },
+    {
+      "title": "China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack",
+      "url": "https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html",
+      "published": "Thu, 22 Oct 2026 09:51:26 +0530",
+      "summary": "Microsoft on Wednesday disclosed that a China state-aligned actor dubbed Storm-0940 was behind the recent supply chain compromise of the ConnectWise Cloud Backup application. During the incident, Storm-0940 used ARTEX, a Go-based agentic AI penetration testing framework that was made closed-source in the wake of its abuse in cyber attacks targeting",
+      "source": "The Hacker News",
+      "source_category": "Journalism",
+      "topic": "AI & Emerging Tech",
+      "score": 6,
+      "sources": [
+        {
+          "name": "The Hacker News",
+          "url": "https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html"
+        }
+      ]
+    },
+    {
+      "title": "Evolving the cloud-native foundation for the next generation of AI",
+      "url": "https://azure.microsoft.com/en-us/blog/evolving-the-cloud-native-foundation-for-the-next-generation-of-ai/",
+      "published": "Thu, 15 Oct 2026 16:00:00 +0000",
+      "summary": "Discover how Azure is advancing cloud-native infrastructure to help organizations build, run, and optimize applications and agents at scale. The post Evolving the cloud-native foundation for the next generation of AI appeared first on Microsoft Azure Blog .",
+      "source": "Microsoft Azure",
+      "source_category": "Vendor",
+      "topic": "AI & Emerging Tech",
+      "score": 6,
+      "sources": [
+        {
+          "name": "Microsoft Azure",
+          "url": "https://azure.microsoft.com/en-us/blog/evolving-the-cloud-native-foundation-for-the-next-generation-of-ai/"
+        }
+      ]
+    },
+    {
+      "title": "Announcing AWS Well-Architected Agent, an AI-powered intelligence to optimize your cloud environment (preview)",
+      "url": "https://aws.amazon.com/blogs/aws/announcing-aws-well-architected-agent-an-ai-powered-intelligence-to-optimize-your-cloud-environment-preview/",
+      "published": "Thu, 01 Oct 2026 20:04:04 +0000",
+      "summary": "Introducing the public preview of AWS Well-Architected Agent, an AI-powered service that analyzes your AWS environment to deliver targeted, contextual recommendations for improving your applications' cost, security, performance, and resilience—with ready-to-implement fixes aligned to your business goals.",
+      "source": "AWS News",
+      "source_category": "Vendor",
+      "topic": "Cybersecurity",
+      "score": 6,
+      "sources": [
+        {
+          "name": "AWS News",
+          "url": "https://aws.amazon.com/blogs/aws/announcing-aws-well-architected-agent-an-ai-powered-intelligence-to-optimize-your-cloud-environment-preview/"
+        }
+      ]
+    },
+    {
+      "title": "Transforming Bedrock Guardrails events into OCSF with CloudWatch",
+      "url": "https://aws.amazon.com/blogs/security/transforming-bedrock-guardrails-events-into-ocsf-with-cloudwatch/",
+      "published": "Mon, 21 Sep 2026 15:33:25 +0000",
+      "summary": "Security teams investigating possible AI-related security events need guardrail intervention data alongside their existing security telemetry. When a guardrail identifies or blocks a prompt injection attempt or redacts sensitive data, that intervention carries additional investigative value comparable to a failed sign-in or a network intrusion aler",
+      "source": "AWS Security",
+      "source_category": "Vendor",
+      "topic": "Cybersecurity",
+      "score": 6,
+      "sources": [
+        {
+          "name": "AWS Security",
+          "url": "https://aws.amazon.com/blogs/security/transforming-bedrock-guardrails-events-into-ocsf-with-cloudwatch/"
+        }
+      ]
+    },
+    {
+      "title": "Designing for sovereign AI: A shared foundation from edge to cloud",
+      "url": "https://azure.microsoft.com/en-us/blog/designing-for-sovereign-ai-a-shared-foundation-from-edge-to-cloud/",
+      "published": "Mon, 19 Oct 2026 19:00:00 +0000",
+      "summary": "A flexible sovereign architecture allows organizations to place each workload in the right environment, apply the controls it requires, and maintain consistency. The post Designing for sovereign AI: A shared foundation from edge to cloud appeared first on Microsoft Azure Blog .",
+      "source": "Microsoft Azure",
+      "source_category": "Vendor",
+      "topic": "AI & Emerging Tech",
+      "score": 6,
+      "sources": [
+        {
+          "name": "Microsoft Azure",
+          "url": "https://azure.microsoft.com/en-us/blog/designing-for-sovereign-ai-a-shared-foundation-from-edge-to-cloud/"
+        }
+      ]
+    },
+    {
+      "title": "Reflections on the 2026 Open Data Infrastructure Report",
+      "url": "https://www.linuxfoundation.org/blog/reflections-on-the-2026-open-data-infrastructure-report",
+      "published": "Fri, 02 Oct 2026 23:26:23 GMT",
+      "summary": "When my co-authors Csilla Zsigri, Adrienn Lawson, and I set out to map the state of global data infrastructure on the fifth anniversary of OpenSearch, we sought to capture more than just market statistics. We wanted to document how a prominent open source software project is maturing alongside the rapid, pervasive shift toward enterprise artificial",
+      "source": "Linux Foundation",
+      "source_category": "Research",
+      "topic": "AI & Emerging Tech",
+      "score": 6,
+      "sources": [
+        {
+          "name": "Linux Foundation",
+          "url": "https://www.linuxfoundation.org/blog/reflections-on-the-2026-open-data-infrastructure-report"
+        }
+      ]
+    },
+    {
+      "title": "LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor",
+      "url": "https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html",
+      "published": "Wed, 21 Oct 2026 23:31:57 +0530",
+      "summary": "The popular LiteLLM Python package has been compromised as part of a software supply chain attack that delivered a credential stealer and a backdoor, according to reports from SafeDep, Socket, StepSecurity, and Upwind. The compromise affects LiteLLM 1.107.0, distributed through PyPI wheels and Docker images. The Python package has since been quaran",
+      "source": "The Hacker News",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 5,
+      "sources": [
+        {
+          "name": "The Hacker News",
+          "url": "https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html"
+        }
+      ]
+    },
+    {
+      "title": "PHP blames supply chain security biz Chainguard for putting huge chunks of the web at risk",
+      "url": "https://www.theregister.com/security/2026/10/22/php-blames-supply-chain-security-biz-chainguard-for-putting-huge-chunks-of-the-web-at-risk/5304611",
+      "published": "Wed, 21 Oct 2026 23:02:57 +0000",
+      "summary": "'Coordinated vulnerability disclosure, unless there's evidence of active exploits in the wild,' Chainguard CEO tells The Reg",
+      "source": "The Register",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 5,
+      "sources": [
+        {
+          "name": "The Register",
+          "url": "https://www.theregister.com/security/2026/10/22/php-blames-supply-chain-security-biz-chainguard-for-putting-huge-chunks-of-the-web-at-risk/5304611"
+        }
+      ]
+    },
+    {
+      "title": "Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected",
+      "url": "https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/",
+      "published": "Wed, 21 Oct 2026 17:43:27 -0400",
+      "summary": "Hackers compromised the infrastructure of Onamae Desktop Cloud, a popular provider of VPS services in Japan, and installed malware on up to 26,739 customers' servers. [...]",
+      "source": "BleepingComputer",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 5,
+      "sources": [
+        {
+          "name": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/"
+        }
+      ]
+    },
+    {
+      "title": "Lazarus hackers use post-quantum cryptography for malware delivery",
+      "url": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/",
+      "published": "Wed, 21 Oct 2026 16:31:48 -0400",
+      "summary": "North Korean hackers are using a post-quantum cryptographic mechanism to secure malicious payload delivery in new operations that combine old and new malware. [...]",
+      "source": "BleepingComputer",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 5,
+      "sources": [
+        {
+          "name": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/"
+        }
+      ]
+    },
+    {
+      "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
+      "url": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
+      "published": "Wed, 21 Oct 2026 15:26:07 +0000",
+      "summary": "Expect to see quite a few websites serving \"404\" or \"Page Not Found\" errors today: Nearly 70 percent of websites need to update their core software to fix a pair of vulnerabilities that allow an attacker to seize full control over affected servers. Experts say there are working exploits for the flaws, and that these critical bugs are already being ",
+      "source": "Krebs on Security",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 5,
+      "sources": [
+        {
+          "name": "Krebs on Security",
+          "url": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/"
+        }
+      ]
+    },
+    {
+      "title": "Evolution of Web3 in Cloud Supply Chain Attacks",
+      "url": "https://unit42.paloaltonetworks.com/web3-cloud-supply-chain-attacks/",
+      "published": "Wed, 07 Oct 2026 22:00:16 +0000",
+      "summary": "Unit 42 details how threat actors leverage Web3 infrastructure and open-source supply chain attacks to breach enterprise cloud environments The post Evolution of Web3 in Cloud Supply Chain Attacks appeared first on Unit 42 .",
+      "source": "Palo Alto Unit 42",
+      "source_category": "Research",
+      "topic": "Cybersecurity",
+      "score": 5,
+      "sources": [
+        {
+          "name": "Palo Alto Unit 42",
+          "url": "https://unit42.paloaltonetworks.com/web3-cloud-supply-chain-attacks/"
+        }
+      ]
+    },
+    {
+      "title": "OperTraitors: How Kubernetes Operators Betray Your Security Posture",
+      "url": "https://unit42.paloaltonetworks.com/agentic-ai-kubernetes-operator-risks/",
+      "published": "Tue, 29 Sep 2026 10:00:48 +0000",
+      "summary": "We introduce OperTraitor, a tool to audit privileges of Kubernetes operators, identify excessive RBAC risks, and secure non-human identities. The post OperTraitors: How Kubernetes Operators Betray Your Security Posture appeared first on Unit 42 .",
+      "source": "Palo Alto Unit 42",
+      "source_category": "Research",
+      "topic": "Cybersecurity",
+      "score": 5,
+      "sources": [
+        {
+          "name": "Palo Alto Unit 42",
+          "url": "https://unit42.paloaltonetworks.com/agentic-ai-kubernetes-operator-risks/"
+        }
+      ]
+    },
+    {
+      "title": "HHS to make sole-source award to Anthropic ahead of broader AI competition",
+      "url": "https://fedscoop.com/hhs-sole-source-award-anthropic-ai-claude/",
+      "published": "Tue, 20 Oct 2026 23:08:03 +0000",
+      "summary": "The health department initially rolled out Claude to all of its workers in December 2025. Anthropic’s discounted deal with the government ends Oct. 31. The post HHS to make sole-source award to Anthropic ahead of broader AI competition appeared first on FedScoop .",
+      "source": "FedScoop",
+      "source_category": "Federal IT",
+      "topic": "AI & Emerging Tech",
+      "score": 5,
+      "sources": [
+        {
+          "name": "FedScoop",
+          "url": "https://fedscoop.com/hhs-sole-source-award-anthropic-ai-claude/"
+        }
+      ]
+    },
+    {
+      "title": "Pentagon sued over data breach affecting more than 3 million people",
+      "url": "https://federalnewsnetwork.com/defense-news/2026/10/pentagon-sued-over-data-breach-affecting-more-than-3-million-people/",
+      "published": "Thu, 22 Oct 2026 23:03:20 +0000",
+      "summary": "The lawsuit argues that DoD knew about problems with its cybersecurity practices but continued to “intentionally disregard its cybersecurity responsibilities.”",
+      "source": "Federal News Network",
+      "source_category": "Federal IT",
+      "topic": "Cybersecurity",
+      "score": 5,
+      "sources": [
+        {
+          "name": "Federal News Network",
+          "url": "https://federalnewsnetwork.com/defense-news/2026/10/pentagon-sued-over-data-breach-affecting-more-than-3-million-people/"
+        }
+      ]
+    },
+    {
+      "title": "Rivian buys world model startup to accelerate self-driving ambitions",
+      "url": "https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions/",
+      "published": "Thu, 22 Oct 2026 21:05:05 +0000",
+      "summary": "Third Dimension's technology uses AI to match the physical world, which when combined with Rivian's reams of data could turn into a valuable simulator.",
+      "source": "TechCrunch",
+      "source_category": "Journalism",
+      "topic": "AI & Emerging Tech",
+      "score": 5,
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions/"
+        }
+      ]
+    },
+    {
+      "title": "Hackers pile on PHP2Shell as AWS reveals attacks began before disclosure",
+      "url": "https://www.theregister.com/cyber-crime/2026/10/22/hackers-pile-on-php2shell-as-aws-reveals-attacks-began-before-disclosure/5304749",
+      "published": "Thu, 22 Oct 2026 12:15:00 +0000",
+      "summary": "Cloudflare reports millions of exploit attempts, while Amazon spotted attackers trying their luck four days before patches landed",
+      "source": "The Register",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 5,
+      "sources": [
+        {
+          "name": "The Register",
+          "url": "https://www.theregister.com/cyber-crime/2026/10/22/hackers-pile-on-php2shell-as-aws-reveals-attacks-began-before-disclosure/5304749"
+        }
+      ]
+    },
+    {
+      "title": "From buzzword to blueprint: Implementing zero trust on Red Hat OpenShift with the Layered Zero Trust Validated Pattern",
+      "url": "https://www.redhat.com/en/blog/buzzword-blueprint-implementing-zero-trust-red-hat-openshift-layered-zero-trust-validated-pattern",
+      "published": "Thu, 22 Oct 2026 00:00:00 +0000",
+      "summary": "Part 4 of a series on implementing zero trust security in Red Hat OpenShift with the Layered Zero Trust Validated Pattern.Zero trust is easy to describe. The hard part is making it repeatable.Zero trust is often described succinctly in a memorable sentence: never trust, always verify. The principle is sound and easy enough to describe, but that sho",
+      "source": "Red Hat",
+      "source_category": "Vendor",
+      "topic": "Cybersecurity",
+      "score": 5,
+      "sources": [
+        {
+          "name": "Red Hat",
+          "url": "https://www.redhat.com/en/blog/buzzword-blueprint-implementing-zero-trust-red-hat-openshift-layered-zero-trust-validated-pattern"
+        }
+      ]
+    },
+    {
+      "title": "New data show cleared employees are bigger targets than ever",
+      "url": "https://federalnewsnetwork.com/cybersecurity/2026/10/new-data-show-cleared-employees-are-bigger-targets-than-ever/",
+      "published": "Wed, 21 Oct 2026 19:56:24 +0000",
+      "summary": "The FBI alerted contractors that North Korean IT workers are trying to obtain positions with cleared defense companies and others with government contracts.",
+      "source": "Federal News Network",
+      "source_category": "Federal IT",
+      "topic": "Federal IT & Policy",
+      "score": 4,
+      "sources": [
+        {
+          "name": "Federal News Network",
+          "url": "https://federalnewsnetwork.com/cybersecurity/2026/10/new-data-show-cleared-employees-are-bigger-targets-than-ever/"
+        }
+      ]
+    },
+    {
+      "title": "What’s new in Homeland Security’s updated AI policy",
+      "url": "https://fedscoop.com/dhs-ai-policy-updates/",
+      "published": "Wed, 21 Oct 2026 19:53:33 +0000",
+      "summary": "Experts are sounding the alarm on a new provision allowing DHS’s chief AI officer to waive any requirement outlined in the directive, including prohibited use cases. The post What’s new in Homeland Security’s updated AI policy appeared first on FedScoop .",
+      "source": "FedScoop",
+      "source_category": "Federal IT",
+      "topic": "Cybersecurity",
+      "score": 4,
+      "sources": [
+        {
+          "name": "FedScoop",
+          "url": "https://fedscoop.com/dhs-ai-policy-updates/"
+        }
+      ]
+    },
+    {
+      "title": "How Commerce.com and Cloudflare are getting storefronts ready for AI agents",
+      "url": "https://blog.cloudflare.com/webmcp-commerce/",
+      "published": "Wed, 21 Oct 2026 13:00:00 GMT",
+      "summary": "Almost 100,000 Commerce.com domains now give AI agents real shopping tools through WebMCP on Cloudflare. Here's how we turned it on across every store at once, while keeping each merchant in control.",
+      "source": "Cloudflare",
+      "source_category": "Vendor",
+      "topic": "AI & Emerging Tech",
+      "score": 4,
+      "sources": [
+        {
+          "name": "Cloudflare",
+          "url": "https://blog.cloudflare.com/webmcp-commerce/"
+        }
+      ]
+    },
+    {
+      "title": "Securing AI Agents Across the AI Factory",
+      "url": "https://blogs.cisco.com/news/securing-ai-agents-across-the-ai-factory",
+      "published": "Wed, 21 Oct 2026 11:31:17 +0000",
+      "summary": "Cisco is exploring DPU-based security to help enterprises scale AI agents, control access and data flows, isolate inference workloads, and improve visibility.",
+      "source": "Cisco Blogs",
+      "source_category": "Vendor",
+      "topic": "Cybersecurity",
+      "score": 4,
+      "sources": [
+        {
+          "name": "Cisco Blogs",
+          "url": "https://blogs.cisco.com/news/securing-ai-agents-across-the-ai-factory"
+        }
+      ]
+    },
+    {
+      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+      "published": "Wed, 21 Oct 2026 07:00:00 GMT",
+      "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+      "source": "OpenAI News",
+      "source_category": "Vendor",
+      "topic": "Cybersecurity",
+      "score": 4,
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities"
+        }
+      ]
+    },
+    {
+      "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+      "url": "https://openai.com/index/empowering-cyber-defenders",
+      "published": "Wed, 21 Oct 2026 00:00:00 GMT",
+      "summary": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
+      "source": "OpenAI News",
+      "source_category": "Vendor",
+      "topic": "Cybersecurity",
+      "score": 4,
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/empowering-cyber-defenders"
+        }
+      ]
+    },
+    {
+      "title": "Break the silence: Kazakhstan-nexus UAT-6275 targets CIS government organizations",
+      "url": "https://blog.talosintelligence.com/break-the-silence-kazakhstan-nexus-uat-6275-targets-cis-government-organizations/",
+      "published": "Wed, 14 Oct 2026 14:00:00 GMT",
+      "summary": "Talos and Recorded Future identified UAT-6275 activity targeting government organizations across the Commonwealth of Independent States. Recovered artifacts show additional interest in water resources and energy.",
+      "source": "Cisco Talos",
+      "source_category": "Research",
+      "topic": "Federal IT & Policy",
+      "score": 4,
+      "sources": [
+        {
+          "name": "Cisco Talos",
+          "url": "https://blog.talosintelligence.com/break-the-silence-kazakhstan-nexus-uat-6275-targets-cis-government-organizations/"
+        }
+      ]
+    },
+    {
+      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+      "url": "https://openai.com/index/third-moment-research",
+      "published": "Wed, 14 Oct 2026 07:00:00 GMT",
+      "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+      "source": "OpenAI News",
+      "source_category": "Vendor",
+      "topic": "Cybersecurity",
+      "score": 4,
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/third-moment-research"
+        }
+      ]
+    },
+    {
+      "title": "Close Identity Gaps in Software Development Before Unleashing AI",
+      "url": "https://www.darkreading.com/application-security/close-identity-gaps-sdlc-before-ai",
+      "published": "Tue, 20 Oct 2026 15:35:45 GMT",
+      "summary": "Artificial intelligence is complicating security in the software development life cycle, but a Dark Reading roundtable found collaboration, better identity visibility, and reduced testing costs offer CISOs a way ahead.",
+      "source": "Dark Reading",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 4,
+      "sources": [
+        {
+          "name": "Dark Reading",
+          "url": "https://www.darkreading.com/application-security/close-identity-gaps-sdlc-before-ai"
+        }
+      ]
+    },
+    {
+      "title": "Designing an AI serving harness built to last",
+      "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+      "published": "Thu, 22 Oct 2026 21:17:29 +0000",
+      "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows, higher benchmark scores. Those advances have…",
+      "source": "MIT Technology Review",
+      "source_category": "Research",
+      "topic": "AI & Emerging Tech",
+      "score": 4,
+      "sources": [
+        {
+          "name": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/"
+        }
+      ]
+    },
+    {
+      "title": "The Google Home Speaker Has Been Secretly Eating My Wi-Fi Data",
+      "url": "https://www.wired.com/story/google-home-speaker-bug-oct-2026/",
+      "published": "Thu, 22 Oct 2026 20:05:51 +0000",
+      "summary": "My Google Home Speaker had been burning through more data than all the rest of my devices combined. As I looked into it further, I found other smart home devices that had the same problem.",
+      "source": "WIRED",
+      "source_category": "Journalism",
+      "topic": "Federal IT & Policy",
+      "score": 4,
+      "sources": [
+        {
+          "name": "WIRED",
+          "url": "https://www.wired.com/story/google-home-speaker-bug-oct-2026/"
+        }
+      ]
+    },
+    {
+      "title": "PHP2Shell puts dozens of UK government services out of service",
+      "url": "https://www.theregister.com/security/2026/10/22/php2shell-puts-dozens-of-uk-government-services-out-of-service/5304840",
+      "published": "Thu, 22 Oct 2026 16:05:53 +0000",
+      "summary": "Ministers report 32 unavailable and four partly disrupted, but no confirmed compromise",
+      "source": "The Register",
+      "source_category": "Journalism",
+      "topic": "Federal IT & Policy",
+      "score": 4,
+      "sources": [
+        {
+          "name": "The Register",
+          "url": "https://www.theregister.com/security/2026/10/22/php2shell-puts-dozens-of-uk-government-services-out-of-service/5304840"
+        }
+      ]
+    },
+    {
+      "title": "Making the case for context-aware AI",
+      "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+      "published": "Thu, 22 Oct 2026 10:00:00 +0000",
+      "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one. As companies look to move AI from experimentation into everyda",
+      "source": "MIT Technology Review",
+      "source_category": "Research",
+      "topic": "AI & Emerging Tech",
+      "score": 4,
+      "sources": [
+        {
+          "name": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/"
+        }
+      ]
+    },
+    {
+      "title": "Cloudflare and OpenAI: Making AI discovery better for everyone",
+      "url": "https://blog.cloudflare.com/cloudflare-openai-discovery-agentic-web/",
+      "published": "Thu, 15 Oct 2026 13:00:00 GMT",
+      "summary": "How Cloudflare and OpenAI are working together to help AI find useful content, keep up with changes, and make fewer wasted requests — making the experience better for users and website owners alike.",
+      "source": "Cloudflare",
+      "source_category": "Vendor",
+      "topic": "AI & Emerging Tech",
+      "score": 4,
+      "sources": [
+        {
+          "name": "Cloudflare",
+          "url": "https://blog.cloudflare.com/cloudflare-openai-discovery-agentic-web/"
+        }
+      ]
+    },
+    {
+      "title": "Small Agents, Smaller Blast Radius: Controlling What AI Can Do, (Fri, Oct 16th)",
+      "url": "https://isc.sans.edu/diary/rss/33430",
+      "published": "Fri, 16 Oct 2026 00:46:35 GMT",
+      "summary": "I believe the cybersecurity industry may be approaching AI security the wrong way.",
+      "source": "SANS Internet Storm Center",
+      "source_category": "Research",
+      "topic": "Cybersecurity",
+      "score": 4,
+      "sources": [
+        {
+          "name": "SANS Internet Storm Center",
+          "url": "https://isc.sans.edu/diary/rss/33430"
+        }
+      ]
+    },
+    {
+      "title": "ServiceNow and Nvidia launch Arc, a new AI agent for enterprise",
+      "url": "https://www.zdnet.com/innovation/exclusive-servicenow-and-nvidia-launch-arc-a-new-ai-agent-for-enterprise/",
+      "published": "2026-10-21T11:30:00Z",
+      "summary": "The two companies are trying to solve the AI agent security conundrum with multiple layers of real-time security checks.",
+      "source": "ZDNET",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 4,
+      "sources": [
+        {
+          "name": "ZDNET",
+          "url": "https://www.zdnet.com/innovation/exclusive-servicenow-and-nvidia-launch-arc-a-new-ai-agent-for-enterprise/"
+        }
+      ]
+    },
+    {
+      "title": "Critical PHP Vulnerability (CVE-2026-109618, CVE-2026-109619) [infocon yellow], (Wed, Oct 21st)",
+      "url": "https://isc.sans.edu/diary/rss/33440",
+      "published": "Wed, 21 Oct 2026 21:02:43 GMT",
+      "summary": "PHP.net announced that it will release a critical update today. We decided to change the infoCon to YELLOW due to the widespread use of PHP, the expected severity of the flaw (CVSS 9.4), and the availability of early PoC exploits before the patch became available.",
+      "source": "SANS Internet Storm Center",
+      "source_category": "Research",
+      "topic": "Cybersecurity",
+      "score": 3,
+      "sources": [
+        {
+          "name": "SANS Internet Storm Center",
+          "url": "https://isc.sans.edu/diary/rss/33440"
+        }
+      ]
+    },
+    {
+      "title": "A Blank Slate in Buffalo: How the Bills Built the NFL’s First Complete Wi-Fi 7 Stadium",
+      "url": "https://blogs.cisco.com/industries/a-blank-slate-in-buffalo-how-the-bills-built-the-nfls-first-complete-wi-fi-7-stadium",
+      "published": "Wed, 21 Oct 2026 19:03:13 +0000",
+      "summary": "Shaun Handley, Director of Stadium Technology for the Buffalo Bills, on building Highmark Stadium’s network and security from a blank slate.",
+      "source": "Cisco Blogs",
+      "source_category": "Vendor",
+      "topic": "Cybersecurity",
+      "score": 3,
+      "sources": [
+        {
+          "name": "Cisco Blogs",
+          "url": "https://blogs.cisco.com/industries/a-blank-slate-in-buffalo-how-the-bills-built-the-nfls-first-complete-wi-fi-7-stadium"
+        }
+      ]
+    },
+    {
+      "title": "Eufy Security Wall Light Cam S4 Deal: Save $80 on This Versatile Gadget",
+      "url": "https://www.wired.com/story/eufy-security-camera-deals-october-2026/",
+      "published": "Wed, 21 Oct 2026 18:46:49 +0000",
+      "summary": "This feature-packed security camera is the perfect way to keep an eye on your home and fam from afar.",
+      "source": "WIRED",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 3,
+      "sources": [
+        {
+          "name": "WIRED",
+          "url": "https://www.wired.com/story/eufy-security-camera-deals-october-2026/"
+        }
+      ]
+    },
+    {
+      "title": "Two critical RCEs in PHP core",
+      "url": "https://blog.talosintelligence.com/two-critical-rces-in-php-core/",
+      "published": "Wed, 21 Oct 2026 15:10:53 GMT",
+      "summary": "Two critical remote code execution vulnerabilities in PHP core could have implications across its wider ecosystem. Talos has published a blog to explain what we know so far, and details the Snort coverage available, including rules in the Community Ruleset.",
+      "source": "Cisco Talos",
+      "source_category": "Research",
+      "topic": "Cybersecurity",
+      "score": 3,
+      "sources": [
+        {
+          "name": "Cisco Talos",
+          "url": "https://blog.talosintelligence.com/two-critical-rces-in-php-core/"
+        }
+      ]
+    },
+    {
+      "title": "Introducing full transaction detection for Cloudflare WAF",
+      "url": "https://blog.cloudflare.com/full-transaction-waf/",
+      "published": "Wed, 21 Oct 2026 14:10:42 GMT",
+      "summary": "Cloudflare's web application firewall can now correlate an HTTP request with its response. Full transaction detection helps every customer find successful exploits, data exposure, and risky misconfigurations that request-only inspection can miss.",
+      "source": "Cloudflare",
+      "source_category": "Vendor",
+      "topic": "Cybersecurity",
+      "score": 3,
+      "sources": [
+        {
+          "name": "Cloudflare",
+          "url": "https://blog.cloudflare.com/full-transaction-waf/"
+        }
+      ]
+    },
+    {
+      "title": "Switch 2 security takes a hit as hackers unlock homebrew access",
+      "url": "https://arstechnica.com/gaming/2026/10/switch-2-jailbreak-gives-hackers-new-ways-to-run-homebrew-and-mod-games/",
+      "published": "Thu, 22 Oct 2026 22:25:33 +0000",
+      "summary": "\"Userland\" exploit relies on integer overflow found in \"SmileBasic\" interpreter.",
+      "source": "Ars Technica",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 3,
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/gaming/2026/10/switch-2-jailbreak-gives-hackers-new-ways-to-run-homebrew-and-mod-games/"
+        }
+      ]
+    },
+    {
+      "title": "How bug bounty sharpens one researcher’s security skills",
+      "url": "https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/",
+      "published": "Thu, 22 Oct 2026 17:21:30 +0000",
+      "summary": "As Cybersecurity Awareness Month continues, the GitHub Bug Bounty team spotlights @r31n, diving into their research approach, favorite bug classes, and advice for aspiring hackers. The post How bug bounty sharpens one researcher’s security skills appeared first on The GitHub Blog .",
+      "source": "GitHub Blog",
+      "source_category": "Vendor",
+      "topic": "Cybersecurity",
+      "score": 3,
+      "sources": [
+        {
+          "name": "GitHub Blog",
+          "url": "https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/"
+        }
+      ]
+    },
+    {
+      "title": "Uber puts all 30,000 employees on ChatGPT Work",
+      "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+      "published": "Thu, 22 Oct 2026 16:00:00 +0000",
+      "summary": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.",
+      "source": "TechCrunch",
+      "source_category": "Journalism",
+      "topic": "Enterprise Technology",
+      "score": 3,
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/"
+        },
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/uber-chatgpt-work-rollout"
+        }
+      ]
+    },
+    {
+      "title": "Hackers got a four-day head start on epic PHP2Shell vulnerability",
+      "url": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/",
+      "published": "Thu, 22 Oct 2026 15:25:02 +0000",
+      "summary": "Hackers were already probing the bug before defenders were told it existed.",
+      "source": "Ars Technica",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 3,
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/"
+        }
+      ]
+    },
+    {
+      "title": "Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched",
+      "url": "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/",
+      "published": "Thu, 22 Oct 2026 02:24:17 +0000",
+      "summary": "Amazon Web Services logged attempts to leverage the internet-melting PHP2Shell bugs four days ago. They’re now being “broadly exploited” across the internet.",
+      "source": "WIRED",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 3,
+      "sources": [
+        {
+          "name": "WIRED",
+          "url": "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/"
+        }
+      ]
+    },
+    {
+      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+      "published": "Fri, 02 Oct 2026 04:01:31 GMT",
+      "summary": "",
+      "source": "Hugging Face",
+      "source_category": "Vendor",
+      "topic": "Enterprise Technology",
+      "score": 3,
+      "sources": [
+        {
+          "name": "Hugging Face",
+          "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata"
+        }
+      ]
+    },
+    {
+      "title": "New Serious PHP Vulnerabilities Released and Patched",
+      "url": "https://www.schneier.com/blog/archives/2026/10/new-serious-php-vulnerabilities-released-and-patched.html",
+      "published": "2026-10-22T13:26:51Z",
+      "summary": "PHP maintainers have released fixes for two critical vulnerabilities: PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 fix two critical vulnerabilities that can allow unauthenticated remote code execution. All PHP users are strongly encouraged to update immediately. Who is at risk: all PHP installations serving web requests, including PHP-FPM, Apache with mod",
+      "source": "Schneier on Security",
+      "source_category": "Research",
+      "topic": "Cybersecurity",
+      "score": 3,
+      "sources": [
+        {
+          "name": "Schneier on Security",
+          "url": "https://www.schneier.com/blog/archives/2026/10/new-serious-php-vulnerabilities-released-and-patched.html"
+        }
+      ]
+    },
+    {
+      "title": "Workshop on Economics and Information Security (WEIS) Archive",
+      "url": "https://www.schneier.com/blog/archives/2026/10/workshop-on-economics-and-information-security-weis-archive.html",
+      "published": "2026-10-21T11:02:22Z",
+      "summary": "There’s a new archive of all the papers from twenty-five years of the Workshop on Economics and Information Security (WEIS). Really nice resource. It’s fun to reread my 2002 essay on the economics of information security.",
+      "source": "Schneier on Security",
+      "source_category": "Research",
+      "topic": "Cybersecurity",
+      "score": 3,
+      "sources": [
+        {
+          "name": "Schneier on Security",
+          "url": "https://www.schneier.com/blog/archives/2026/10/workshop-on-economics-and-information-security-weis-archive.html"
+        }
+      ]
+    },
+    {
+      "title": "Latest Windows update disables key security setting – but there’s a workaround",
+      "url": "https://www.zdnet.com/tech/microsoft-october-windows-update-disables-security-setting-workaround/",
+      "published": "2026-10-20T14:26:05Z",
+      "summary": "A bug in Microsoft’s October Windows update prevents you from turning on a security setting that blocks malicious or suspicious apps. A Registry hack fixes the glitch.",
+      "source": "ZDNET",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 3,
+      "sources": [
+        {
+          "name": "ZDNET",
+          "url": "https://www.zdnet.com/tech/microsoft-october-windows-update-disables-security-setting-workaround/"
+        }
+      ]
+    },
+    {
+      "title": "Friday Squid Blogging: Squid Before the Chicxulub Meteor Impact",
+      "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-squid-before-the-chicxulub-meteor-impact.html",
+      "published": "2026-10-16T21:06:47Z",
+      "summary": "New research shows that squid lived all around the globe even before the Cretaceous-Paleogene mass extinction event. As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered. Blog moderation policy.",
+      "source": "Schneier on Security",
+      "source_category": "Research",
+      "topic": "Cybersecurity",
+      "score": 3,
+      "sources": [
+        {
+          "name": "Schneier on Security",
+          "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-squid-before-the-chicxulub-meteor-impact.html"
+        }
+      ]
+    },
+    {
+      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+      "published": "Wed, 21 Oct 2026 16:04:43 GMT",
+      "summary": "",
+      "source": "Hugging Face",
+      "source_category": "Vendor",
+      "topic": "Cloud & Infrastructure",
+      "score": 2,
+      "sources": [
+        {
+          "name": "Hugging Face",
+          "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1"
+        }
+      ]
+    }
+  ],
+  "note": "Automated topic/ranking and approximate title clustering. No source or report is an endorsement; verify original reporting."
+}

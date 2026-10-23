@@ -1,0 +1,55 @@
+{
+  "retrieved_at": "2026-10-23T00:28:09+00:00",
+  "items": [
+    {
+      "cve": "CVE-2026-96652",
+      "vendor": "Plex",
+      "product": "Media Server",
+      "date_added": "2026-10-20",
+      "sources": [
+        {
+          "title": "CISA Orders Federal Agencies to Patch Exploited Plex2Shell, Siemens, and SiteGuard Flaws",
+          "url": "https://thehackernews.com/2026/10/cisa-orders-federal-agencies-to-patch.html",
+          "source": "The Hacker News",
+          "kind": "news"
+        }
+      ],
+      "source_count": 1,
+      "note": "Exact CVE reference correlation, not independent confirmation of claims or agency exposure."
+    },
+    {
+      "cve": "CVE-2026-110936",
+      "vendor": "Siemens",
+      "product": "Software Center",
+      "date_added": "2026-10-20",
+      "sources": [
+        {
+          "title": "ClickFix Attackers Exploit Siemens Software Center Flaw to Deploy Remote Access Trojan",
+          "url": "https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html",
+          "source": "The Hacker News",
+          "kind": "news"
+        }
+      ],
+      "source_count": 1,
+      "note": "Exact CVE reference correlation, not independent confirmation of claims or agency exposure."
+    },
+    {
+      "cve": "CVE-2026-0257",
+      "vendor": "Palo Alto Networks",
+      "product": "PAN-OS",
+      "date_added": "2026-05-29",
+      "sources": [
+        {
+          "title": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
+          "url": "https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html",
+          "source": "The Hacker News",
+          "kind": "news"
+        }
+      ],
+      "source_count": 1,
+      "note": "Exact CVE reference correlation, not independent confirmation of claims or agency exposure."
+    }
+  ],
+  "count": 3,
+  "note": "Exact CVE matching only. Multiple reports about one CVE do not represent multiple vulnerabilities."
+}
