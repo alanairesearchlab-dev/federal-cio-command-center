@@ -60,6 +60,12 @@ const sleep = ms => new Promise(resolve => setTimeout(resolve, ms));
       }
       if (path==='/intelligence.html') {
         assert(await page.locator('button[data-view="technology"]').count(), 'Technology newsroom tab missing');
+        assert(await page.locator('a[href="./briefing.html"]').count(), 'Leadership briefing link missing');
+        await page.goto(base+'/intelligence.html#policy', {waitUntil:'networkidle'});
+        assert(await page.locator('#tabs button[data-view="policy"]').getAttribute('aria-selected')==='true', 'Policy deep link did not open');
+        await page.goto(base+'/intelligence.html#technology', {waitUntil:'networkidle'});
+        assert(await page.locator('#tabs button[data-view="technology"]').getAttribute('aria-selected')==='true', 'Technology deep link did not open');
+
         await page.locator('button[data-view="technology"]').click();
         assert(await page.locator('#tech-topic').count(), 'Technology topic filter missing');
         assert(await page.locator('#tech-list').count(), 'Technology story list missing');
