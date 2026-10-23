@@ -87,7 +87,7 @@ for name,kind,url in SOURCES:
  entry={'name':name,'category':kind,'url':url,'checked_at':NOW,'last_success_at':prior_meta.get('last_success_at'),'ok':False,'count':0}
  try:
   req=urllib.request.Request(url,headers={'User-Agent':'FederalCIOCommandCenter/1.3 (+https://github.com/alanairesearchlab-dev/federal-cio-command-center)','Accept':'application/rss+xml, application/atom+xml, application/xml'})
-  with urllib.request.urlopen(req,timeout=12) as response:
+  with urllib.request.urlopen(req,timeout=7) as response:
    payload=response.read(1_500_001)
   if len(payload)>1_500_000:raise ValueError('Feed exceeds size limit')
   records=parse(payload)
