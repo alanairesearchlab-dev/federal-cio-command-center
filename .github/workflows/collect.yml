@@ -2,6 +2,13 @@
 name: Collect public intelligence
 
 on:
+  push:
+    paths:
+      - 'scripts/technology.py'
+      - 'scripts/collect.py'
+      - 'scripts/intelligence.py'
+      - 'scripts/enrich.py'
+      - '.github/workflows/collect.yml'
   workflow_dispatch:
   schedule:
     - cron: '23 0,4,8,12,16,20 * * *'
