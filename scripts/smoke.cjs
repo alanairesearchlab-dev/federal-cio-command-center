@@ -20,6 +20,7 @@ const sleep = ms => new Promise(resolve => setTimeout(resolve, ms));
     browser=await chromium.launch({headless:true});
     const page=await browser.newPage({ viewport: { width: 1440, height: 900 }, deviceScaleFactor: 1 });
     const errors=[];
+    const desktopNavBoxes=[];
     page.on('pageerror', err => errors.push(err.message));
     for (const path of ['/', '/briefing.html', '/intelligence.html', '/about.html']) {
       await page.goto(base+path, {waitUntil:'networkidle', timeout:45000});
@@ -29,6 +30,7 @@ const sleep = ms => new Promise(resolve => setTimeout(resolve, ms));
       assert(await page.locator('nav a[href^="./about.html"]').count(), path+' missing about link');
       assert(await page.locator('nav a[href="./briefing.html"]').count(), path+' missing briefing link');
       if (path==='/briefing.html') {
+        assert(await page.locator('#v96-print').count(), 'Executive PDF export missing');
         await page.waitForTimeout(1500);
         assert(await page.locator('#v92-assessments .v92-card').count()>0, 'Briefing assessment cards missing');
         assert((await page.locator('#v92-brief').innerText()).length>100, 'Briefing text missing');
@@ -48,6 +50,12 @@ const sleep = ms => new Promise(resolve => setTimeout(resolve, ms));
         await page.locator('button[data-tab="policy"]').click();
         assert(await page.locator('#omb-memo-status').count(), 'OMB memorandum watch missing');
         assert(await page.locator('#eo-watch-status').count(), 'Executive Order watch missing');
+        assert(await page.locator('#lifecycle-results').count(), 'Policy lifecycle panel missing');
+        await page.locator('button[data-tab="cyber"]').click();
+        assert(await page.locator('#correlation-results').count(), 'Cross-source correlation panel missing');
+        await page.locator('button[data-tab="overview"]').click();
+        assert(await page.locator('#collection-diagnostics').count(), 'Collection diagnostics panel missing');
+        await page.locator('button[data-tab="policy"]').click();
         assert(await page.locator('#view-policy a[href="https://www.acquisition.gov/news"]').count(), 'Acquisition policy portal missing');
       }
       if (path==='/intelligence.html') {
@@ -59,8 +67,15 @@ const sleep = ms => new Promise(resolve => setTimeout(resolve, ms));
       const overflow=await page.evaluate(()=>document.documentElement.scrollWidth>window.innerWidth+3);
       assert(!overflow,path+' has horizontal overflow on desktop');
       const navigation=await page.locator('.global-navigation').boundingBox();
+      desktopNavBoxes.push({path,top:navigation?.y,height:navigation?.height});
       assert(navigation && navigation.width>500,path+' navigation layout missing');
       console.log('PASS '+path);
+    }
+    // Structural visual regression: all four desktop pages must retain the same navigation geometry.
+    const reference=desktopNavBoxes[0];
+    for(const box of desktopNavBoxes){
+      assert(Math.abs(box.top-reference.top)<=2,'Navigation vertical shift on '+box.path);
+      assert(Math.abs(box.height-reference.height)<=2,'Navigation height shift on '+box.path);
     }
     // Repeat at mobile width. Screenshots are retained even when a layout assertion fails.
     await page.setViewportSize({width:390,height:844});
