@@ -27,6 +27,8 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
+      - name: Scan tracked files for identifying details and secrets
+        run: python scripts/privacy_scan.py
       - name: Validate Python syntax
         run: python -m compileall -q scripts
       - name: Validate inline JavaScript and navigation
