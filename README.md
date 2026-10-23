@@ -1,6 +1,6 @@
 # Federal CIO Intelligence Command Center
 
-**Current application release: v9.5**
+**Current application release: v9.6**
 
 An independent, open-source, public-source intelligence dashboard for federal IT leadership. It brings together cybersecurity developments, federal policy publications, technology intelligence, and evidence-linked executive review.
 
@@ -144,3 +144,13 @@ See [About & Methodology](about.html) for further interpretation guidance.
 Every HTML/script change triggers Chromium checks at desktop (1440 × 900) and mobile (390 × 844) widths. The workflow captures full-page screenshots of all four pages, verifies navigation, checks horizontal overflow, and exercises key application behavior. Screenshots are uploaded as a downloadable **browser-screenshots** artifact in the [Validate static application workflow](https://github.com/alanairesearchlab-dev/federal-cio-command-center/actions/workflows/validate.yml), including on test failure when images are available. Artifacts are retained for 14 days.
 
 These screenshots provide a review trail, **not yet automated pixel-difference regression detection**. Dynamic feed content and timestamps make unmasked pixel baselines noisy; a future approved, stable baseline can add targeted screenshot comparisons. The tests run against the checked-out GitHub Pages site locally, not against the currently deployed production URL.
+
+## v9.6: Decision support and quality controls
+
+- **Policy lifecycle signals:** Combine the collected Executive Order and OMB indexes into a policy watch. Title terms such as amend, revoke, rescind, and supersede are **review cues only**, not confirmed legal relationships or status determinations. Missing sources remain explicitly unavailable.
+- **Cross-source intelligence correlation:** Group public security reports by exact CVE identifier when the same CVE appears in CISA KEV. Reports are grouped, not counted as additional vulnerabilities.
+- **Collection diagnostics:** Display per-source check time, last successful retrieval, and errors. A failed source is not treated as a clean result.
+- **Executive export:** Executive Briefing includes a Print / Save as PDF control with a print stylesheet. PDF generation uses the browser's print dialog.
+- **Structural visual regression:** Chromium checks shared navigation geometry across all four desktop pages, alongside mobile overflow checks and eight desktop/mobile screenshots. Pixel-difference baseline comparisons are not yet implemented.
+
+Policy and CVE enrichment is generated after the four-hour public collector runs. The first successful run establishes the initial derived snapshots. This project never assumes an organization's asset inventory, obligations, or exposure.
