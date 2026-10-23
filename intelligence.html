@@ -105,11 +105,11 @@ function federalRender(){
 }
 function addFederal(items,type){
  for(const x of items){
-  const url=x.url||x.html_url||x.link||'';
+  const url=x.url||x.html_url||x.link||(type==='CISA KEV'&&x.cve?'https://www.cisa.gov/known-exploited-vulnerabilities-catalog':'');
   const agency=officialSource({url});
   if(!agency)continue;
-  const title=x.title||x.document_title||x.name||x.cveID||x.vulnerabilityName||'Official record';
-  federalItems.push({url,title,agency,type,published:x.publication_date||x.published||x.dateAdded||x.date||''});
+  const title=x.title||x.document_title||x.name||x.cve||x.cveID||x.vulnerabilityName||'Official record';
+  federalItems.push({url,title,agency,type,published:x.publication_date||x.published||x.dateAdded||x.added||x.date||''});
  }
  federalItems=[...new Map(federalItems.map(x=>[x.url,x])).values()].slice(0,160);
  federalRender();
