@@ -11,6 +11,7 @@ patterns={
 }
 fails=[]
 for name in paths:
+ if name == 'scripts/privacy_scan.py':continue  # Pattern definitions are not disclosures.
  p=ROOT/name
  if not p.is_file() or p.suffix.lower() in {'.png','.jpg','.jpeg','.gif','.zip','.pdf'}:continue
  try:s=p.read_text(encoding='utf-8')
