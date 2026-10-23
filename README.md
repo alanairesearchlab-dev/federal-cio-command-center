@@ -172,3 +172,7 @@ The Intelligence Workspace now has a dedicated Technology Intelligence section w
 - Renamed the detailed workspace export to **Research Brief Builder** to distinguish it from the authoritative executive-facing **Executive Briefing** page.
 - Expanded browser checks to verify that direct links select the expected section.
 - Preserved existing functionality and the four-page navigation. Further data retention and source-quality review remain separate maintenance work; this pass does not claim a complete refactor or history scrub.
+
+### Dashboard decision-first sweep
+
+The Dashboard now opens with four concise decision shortcuts: leadership priorities, security investigation, federal policy, and technology changes. These link directly to the relevant workspace section without duplicating its content. The redundant executive-briefing shortcut panel was removed. Chromium checks enforce the shortcut links and absence of that duplicate panel.
