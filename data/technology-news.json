@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-10-23T00:28:09+00:00",
+  "retrieved_at": "2026-10-23T01:09:02+00:00",
   "candidate_sources": 40,
   "successful_sources": 34,
   "collected_articles": 589,
@@ -385,22 +385,6 @@
       ]
     },
     {
-      "title": "NeedyMantis: Unpacking a post-compromise malware family used in targeted operations",
-      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/28/needymantis-unpacking-a-post-compromise-malware-family-used-in-targeted-operations/",
-      "published": "Mon, 28 Sep 2026 15:00:00 +0000",
-      "summary": "Microsoft Threat Intelligence identified NeedyMantis, a modular post-compromise malware framework used in targeted intrusions that combines custom loaders, encrypted archives, and extensible components to maintain long-term access and support follow-on operations. The post NeedyMantis: Unpacking a post-compromise malware family used in targeted ope",
-      "source": "Microsoft Security",
-      "source_category": "Vendor",
-      "topic": "Cybersecurity",
-      "score": 7,
-      "sources": [
-        {
-          "name": "Microsoft Security",
-          "url": "https://www.microsoft.com/en-us/security/blog/2026/09/28/needymantis-unpacking-a-post-compromise-malware-family-used-in-targeted-operations/"
-        }
-      ]
-    },
-    {
       "title": "OnlyFans Copyright Takedowns Expose Compromised Websites",
       "url": "https://www.darkreading.com/vulnerabilities-threats/onlyfans-copyright-takedowns-expose-compromised-websites",
       "published": "Mon, 19 Oct 2026 14:28:11 GMT",
@@ -445,6 +429,22 @@
         {
           "name": "Microsoft Security",
           "url": "https://www.microsoft.com/en-us/security/blog/2026/09/30/secure-whats-next-your-guide-to-microsoft-security-at-microsoft-ignite-2026/"
+        }
+      ]
+    },
+    {
+      "title": "AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/",
+      "published": "Wed, 21 Oct 2026 18:23:55 +0000",
+      "summary": "Storm-0940 used ARTEX agentic AI to accelerate a ConnectWise supply chain compromise, enabling application credential abuse across Microsoft 365 environments. The post AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise appeared first on Microsoft Security Blog .",
+      "source": "Microsoft Security",
+      "source_category": "Vendor",
+      "topic": "Cybersecurity",
+      "score": 6,
+      "sources": [
+        {
+          "name": "Microsoft Security",
+          "url": "https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/"
         }
       ]
     },
@@ -581,22 +581,6 @@
         {
           "name": "FedScoop",
           "url": "https://fedscoop.com/federal-government-agencies-industry-cybera/"
-        }
-      ]
-    },
-    {
-      "title": "How Delta Air Lines scaled AI-native development to 1,200 engineers with cloud development environments",
-      "url": "https://www.redhat.com/en/blog/how-delta-air-lines-scaled-ai-native-development-1200-engineers-cloud-development-environments",
-      "published": "Tue, 20 Oct 2026 00:00:00 +0000",
-      "summary": "When Delta Air Lines' Developer Experience team started measuring its Net Promoter Score (NPS), they faced a brutal reality: It was very low. Two years later, after deploying cloud development environments (CDEs) to more than 1,200 developers, that same team achieved:NPS improvement.Performance gains for developers switching from virtual desktop in",
-      "source": "Red Hat",
-      "source_category": "Vendor",
-      "topic": "AI & Emerging Tech",
-      "score": 6,
-      "sources": [
-        {
-          "name": "Red Hat",
-          "url": "https://www.redhat.com/en/blog/how-delta-air-lines-scaled-ai-native-development-1200-engineers-cloud-development-environments"
         }
       ]
     },
@@ -741,6 +725,22 @@
         {
           "name": "Microsoft Azure",
           "url": "https://azure.microsoft.com/en-us/blog/designing-for-sovereign-ai-a-shared-foundation-from-edge-to-cloud/"
+        }
+      ]
+    },
+    {
+      "title": "Friday Five — October 23, 2026 | Red Hat",
+      "url": "https://www.redhat.com/en/blog/friday-five-october-23-2026-red-hat",
+      "published": "Fri, 23 Oct 2026 00:00:00 +0000",
+      "summary": "Red Hat AI Factory with NVIDIA Accelerates Agentic AI Security Capabilities Across the Open Hybrid CloudRed Hat and NVIDIA expanded their collaboration around Red Hat AI Factory with NVIDIA, spanning agent security through OpenShell, optimized open weights inference, and Day 0 enablement for NVIDIA Vera Rubin infrastructure to support safer agentic",
+      "source": "Red Hat",
+      "source_category": "Vendor",
+      "topic": "Cybersecurity",
+      "score": 6,
+      "sources": [
+        {
+          "name": "Red Hat",
+          "url": "https://www.redhat.com/en/blog/friday-five-october-23-2026-red-hat"
         }
       ]
     },
@@ -997,22 +997,6 @@
         {
           "name": "Cloudflare",
           "url": "https://blog.cloudflare.com/webmcp-commerce/"
-        }
-      ]
-    },
-    {
-      "title": "Securing AI Agents Across the AI Factory",
-      "url": "https://blogs.cisco.com/news/securing-ai-agents-across-the-ai-factory",
-      "published": "Wed, 21 Oct 2026 11:31:17 +0000",
-      "summary": "Cisco is exploring DPU-based security to help enterprises scale AI agents, control access and data flows, isolate inference workloads, and improve visibility.",
-      "source": "Cisco Blogs",
-      "source_category": "Vendor",
-      "topic": "Cybersecurity",
-      "score": 4,
-      "sources": [
-        {
-          "name": "Cisco Blogs",
-          "url": "https://blogs.cisco.com/news/securing-ai-agents-across-the-ai-factory"
         }
       ]
     },
@@ -1285,6 +1269,22 @@
         {
           "name": "Cloudflare",
           "url": "https://blog.cloudflare.com/full-transaction-waf/"
+        }
+      ]
+    },
+    {
+      "title": "Turn Distributed Capacity into AI Infrastructure",
+      "url": "https://blogs.cisco.com/news/turn-distributed-capacity-into-ai-infrastructure",
+      "published": "Wed, 21 Oct 2026 11:31:30 +0000",
+      "summary": "Cisco and NVIDIA introduce an AI inference routing blueprint to help service providers turn distributed capacity into carrier-grade, sovereign AI services.",
+      "source": "Cisco Blogs",
+      "source_category": "Vendor",
+      "topic": "AI & Emerging Tech",
+      "score": 3,
+      "sources": [
+        {
+          "name": "Cisco Blogs",
+          "url": "https://blogs.cisco.com/news/turn-distributed-capacity-into-ai-infrastructure"
         }
       ]
     },
