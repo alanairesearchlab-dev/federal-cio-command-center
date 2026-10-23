@@ -40,7 +40,11 @@ const sleep = ms => new Promise(resolve => setTimeout(resolve, ms));
         assert(await page.locator('[id^="view-"]').count()===0, 'Dashboard workspaces leaked into Executive Briefing');
       }
       if (path==='/') {
-        assert(await page.locator('a[href="./briefing.html"]').count()>0, 'Dashboard briefing shortcut missing');
+        assert(await page.locator('#decision-shortcuts').count()===1, 'Decision shortcuts missing');
+        for (const anchor of ['./briefing.html','./intelligence.html#triage','./intelligence.html#policy','./intelligence.html#technology']) {
+          assert(await page.locator('#decision-shortcuts a[href="'+anchor+'"]').count()===1, 'Missing decision path: '+anchor);
+        }
+        assert(await page.locator('[aria-label="Executive briefing shortcut"]').count()===0, 'Duplicate executive shortcut remains');
         await page.waitForTimeout(1500);
         const status=await page.locator('#v92-status').innerText();
         assert(!status.includes('Assessment unavailable'), 'Assessment failed: '+status);
