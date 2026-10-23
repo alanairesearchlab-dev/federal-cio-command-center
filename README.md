@@ -1,6 +1,6 @@
 # Federal CIO Intelligence Command Center
 
-**Current application release: v9.7**
+**Current application release: v9.8 (consolidation pass)**
 
 An independent, open-source, public-source intelligence dashboard for federal IT leadership. It brings together cybersecurity developments, federal policy publications, technology intelligence, and evidence-linked executive review.
 
@@ -165,3 +165,10 @@ The Intelligence Workspace now has a dedicated Technology Intelligence section w
 - `scripts/privacy_scan.py` runs in CI against tracked files and flags explicit agency identifiers, selected staff names, private key markers and credential-shaped literals. It is a **guardrail, not a complete secret scanner or historical Git audit**.
 - The project intentionally contains no staff acknowledgments, organizational affiliation, private operational details, or internal incident information. GitHub account identity, commit author metadata, and any email addresses already associated with the GitHub account remain visible under GitHub's normal behavior.
 - Public feeds and quoted publisher names are external sources, not contributors or endorsements.
+
+## v9.8 consolidation pass
+
+- Added decision-oriented quick links in Intelligence Workspace and direct-linkable section URLs (`#technology`, `#policy`, `#triage`, `#vendor`).
+- Renamed the detailed workspace export to **Research Brief Builder** to distinguish it from the authoritative executive-facing **Executive Briefing** page.
+- Expanded browser checks to verify that direct links select the expected section.
+- Preserved existing functionality and the four-page navigation. Further data retention and source-quality review remain separate maintenance work; this pass does not claim a complete refactor or history scrub.
