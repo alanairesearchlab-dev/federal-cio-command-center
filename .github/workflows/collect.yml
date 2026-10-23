@@ -34,6 +34,9 @@ jobs:
       - name: Derive policy lifecycle and intelligence correlations
         run: python scripts/enrich.py
 
+      - name: Collect and cluster public technology reporting
+        run: python scripts/technology.py
+
       - name: Commit updated public data
         run: |
           git config user.name "github-actions[bot]"
