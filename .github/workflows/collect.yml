@@ -44,6 +44,10 @@ jobs:
       - name: Collect and cluster public technology reporting
         run: python scripts/technology.py
 
+      - name: Verify technology publisher collection
+        run: |
+          python -c "import json; from pathlib import Path; d=json.loads(Path('data/technology-news.json').read_text()); print('Successful publishers:', d['successful_sources'], '/', d['candidate_sources']); assert d['successful_sources'] > 0, 'No technology feeds succeeded'; assert len(d['items']) > 0, 'No technology stories collected'"
+
       - name: Commit updated public data
         run: |
           git config user.name "github-actions[bot]"
