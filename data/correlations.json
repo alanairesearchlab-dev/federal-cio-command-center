@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-10-23T16:56:13+00:00",
+  "retrieved_at": "2026-10-23T20:52:58+00:00",
   "items": [
     {
       "cve": "CVE-2026-96652",
@@ -10,22 +10,6 @@
         {
           "title": "CISA Orders Federal Agencies to Patch Exploited Plex2Shell, Siemens, and SiteGuard Flaws",
           "url": "https://thehackernews.com/2026/10/cisa-orders-federal-agencies-to-patch.html",
-          "source": "The Hacker News",
-          "kind": "news"
-        }
-      ],
-      "source_count": 1,
-      "note": "Exact CVE reference correlation, not independent confirmation of claims or agency exposure."
-    },
-    {
-      "cve": "CVE-2026-110936",
-      "vendor": "Siemens",
-      "product": "Software Center",
-      "date_added": "2026-10-20",
-      "sources": [
-        {
-          "title": "ClickFix Attackers Exploit Siemens Software Center Flaw to Deploy Remote Access Trojan",
-          "url": "https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html",
           "source": "The Hacker News",
           "kind": "news"
         }
@@ -50,6 +34,6 @@
       "note": "Exact CVE reference correlation, not independent confirmation of claims or agency exposure."
     }
   ],
-  "count": 3,
+  "count": 2,
   "note": "Exact CVE matching only. Multiple reports about one CVE do not represent multiple vulnerabilities."
 }
