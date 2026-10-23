@@ -78,7 +78,7 @@ const esc=t=>String(t??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&
 let items=[],limit=12;
 function render(){
 const q=$('tech-search').value.toLowerCase(),topic=$('tech-topic').value;
-const filtered=items.filter(x=>x.source_category!=='Federal IT'&&!(new URL(x.url).hostname.endsWith('.gov'))).filter(x=>(topic==='all'||x.topic===topic)&&(!q||(x.title+' '+x.summary+' '+x.source).toLowerCase().includes(q)));
+const filtered=items.filter(x=>!(new URL(x.url).hostname.endsWith('.gov'))).filter(x=>(topic==='all'||x.topic===topic)&&(!q||(x.title+' '+x.summary+' '+x.source).toLowerCase().includes(q)));
 $('tech-shown').textContent=Math.min(limit,filtered.length)+' / '+filtered.length;
 $('tech-list').innerHTML=filtered.slice(0,limit).map(x=>'<div class="item"><span class="tag">'+esc(x.topic)+'</span><span class="muted small"> · '+esc(x.source)+'</span><strong><a href="'+esc(x.url)+'" target="_blank" rel="noopener noreferrer">'+esc(x.title)+'</a></strong><p class="hint">'+esc(x.summary)+'</p><details><summary>'+x.sources.length+' linked source(s) · Why surfaced: automated relevance score '+Number(x.score||0)+'</summary>'+x.sources.map(y=>'<div><a href="'+esc(y.url)+'" target="_blank" rel="noopener noreferrer">'+esc(y.name)+'</a></div>').join('')+'</details></div>').join('')||'<p class="hint">No matching stories in the current collection.</p>';
 $('tech-more').hidden=limit>=filtered.length;
