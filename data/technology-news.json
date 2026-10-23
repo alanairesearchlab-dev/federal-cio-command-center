@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-10-23T04:54:06+00:00",
+  "retrieved_at": "2026-10-23T08:56:38+00:00",
   "candidate_sources": 40,
   "successful_sources": 34,
   "collected_articles": 589,
@@ -33,10 +33,6 @@
         {
           "name": "InfoWorld",
           "url": "https://www.infoworld.com/article/4238778/two-critical-php-flaws-put-the-web-on-alert-as-emergency-patches-arrive-2.html"
-        },
-        {
-          "name": "The Hacker News",
-          "url": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html"
         },
         {
           "name": "BleepingComputer",
@@ -1049,22 +1045,6 @@
       ]
     },
     {
-      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-      "url": "https://openai.com/index/third-moment-research",
-      "published": "Wed, 14 Oct 2026 07:00:00 GMT",
-      "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
-      "source": "OpenAI News",
-      "source_category": "Vendor",
-      "topic": "Cybersecurity",
-      "score": 4,
-      "sources": [
-        {
-          "name": "OpenAI News",
-          "url": "https://openai.com/index/third-moment-research"
-        }
-      ]
-    },
-    {
       "title": "Close Identity Gaps in Software Development Before Unleashing AI",
       "url": "https://www.darkreading.com/application-security/close-identity-gaps-sdlc-before-ai",
       "published": "Tue, 20 Oct 2026 15:35:45 GMT",
@@ -1157,6 +1137,22 @@
         {
           "name": "Cloudflare",
           "url": "https://blog.cloudflare.com/cloudflare-openai-discovery-agentic-web/"
+        }
+      ]
+    },
+    {
+      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+      "published": "Fri, 23 Oct 2026 00:00:00 GMT",
+      "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+      "source": "OpenAI News",
+      "source_category": "Vendor",
+      "topic": "Cybersecurity",
+      "score": 4,
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership"
         }
       ]
     },
