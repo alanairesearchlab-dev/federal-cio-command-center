@@ -283,4 +283,29 @@ const brief=['FEDERAL CIO | EXECUTIVE INTELLIGENCE BRIEF','Generated: '+stamp,'P
 const txt=brief.join('\n');$('v92-brief').textContent=txt;$('v92-copy').disabled=false;$('v92-copy').addEventListener('click',async()=>{try{await navigator.clipboard.writeText(txt);$('v92-copy').textContent='Copied';setTimeout(()=>$('v92-copy').textContent='Copy executive brief',2000)}catch{$('v92-copy').textContent='Select brief to copy'}});
 }).catch(e=>{$('v92-status').textContent='Assessment unavailable: '+e.message});
 })();
+</script><script>
+/* v9.6: cautious public policy lifecycle, exact-CVE correlation, and source health */
+(()=>{
+const escapeText=t=>String(t??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const get=async file=>{const r=await fetch('data/'+file,{cache:'no-store'});if(!r.ok)throw Error('No snapshot');return r.json()};
+const panel=(parent,title,id,desc)=>{const el=document.createElement('section');el.className='panel';el.innerHTML='<h2>'+title+'</h2><p class="empty-note">'+desc+'</p><div id="'+id+'" class="muted small">Awaiting first successful collection.</div>';parent.appendChild(el);return document.getElementById(id)};
+const policy=document.getElementById('view-policy');
+if(policy){
+const lifecycle=panel(policy,'Policy Lifecycle Signals','lifecycle-results','Publication and title-based relationship cues only. Amendment, rescission, and applicability require review of the original documents.');
+get('policy-lifecycle.json').then(d=>{
+const rows=(d.items||[]).filter(x=>x.requires_document_review).slice(0,12);
+lifecycle.innerHTML='<p>Indexed policies: '+Number(d.count||0)+' · EO source: '+(d.eo_available?'available':'unavailable')+' · OMB source: '+(d.omb_available?'available':'unavailable')+'</p>'+(rows.length?rows.map(x=>'<div class="item"><span class="pill">Possible '+escapeText(x.relationship_cue)+'</span><strong><a target="_blank" rel="noopener noreferrer" href="'+escapeText(x.url)+'">'+escapeText(x.title)+'</a></strong><span class="muted small">'+escapeText(x.id)+' · '+escapeText(x.status)+'</span></div>').join(''):'<p>No title-based relationship cues observed. This does not establish that no policies were amended or rescinded.</p>');
+}).catch(()=>{lifecycle.textContent='No validated lifecycle snapshot yet. Source availability is not confirmed.'});
+}
+const cyber=document.getElementById('view-cyber');
+if(cyber){
+const correlations=panel(cyber,'Cross-source CVE Correlations','correlation-results','Exact CVE identifier matches between CISA KEV and public reporting. Related reports are grouped under one vulnerability.');
+get('correlations.json').then(d=>{const rows=(d.items||[]).slice(0,12);correlations.innerHTML=rows.map(x=>'<div class="item"><strong>'+escapeText(x.cve)+' · '+escapeText(x.vendor)+' '+escapeText(x.product)+'</strong><span class="muted small">'+x.sources.length+' linked report(s), '+x.source_count+' source(s)</span><div>'+x.sources.map(y=>'<a target="_blank" rel="noopener noreferrer" href="'+escapeText(y.url)+'">'+escapeText(y.source||y.title)+'</a>').join(' · ')+'</div></div>').join('')||'No exact-CVE cross-source matches in the current snapshot.'}).catch(()=>{correlations.textContent='Correlation snapshot not yet available.'});
+}
+const overview=document.getElementById('view-overview');
+if(overview){
+const health=panel(overview,'Collection Diagnostics','collection-diagnostics','Last successful retrieval is tracked independently of the most recent attempt. Failures do not mean there were no new publications.');
+get('status.json').then(d=>{health.innerHTML=Object.entries(d.sources||{}).map(([k,v])=>'<div class="item"><strong>'+escapeText(k)+' · '+(v.ok?'Healthy':'Failed')+'</strong><span class="muted small">Checked: '+escapeText(v.checked_at||'unknown')+' · Last success: '+escapeText(v.last_success_at||'never')+(v.error?' · Error: '+escapeText(v.error):'')+'</span></div>').join('')}).catch(()=>{health.textContent='Collection diagnostics unavailable.'});
+}
+})();
 </script></body></html>
