@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-10-23T13:05:08+00:00",
+  "retrieved_at": "2026-10-23T16:56:13+00:00",
   "candidate_sources": 40,
   "successful_sources": 34,
   "collected_articles": 589,
@@ -133,22 +133,6 @@
         {
           "name": "Dark Reading",
           "url": "https://www.darkreading.com/cloud-security/marvell-microsoft-oracle-standardize-data-center-hardware-security"
-        }
-      ]
-    },
-    {
-      "title": "CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/",
-      "published": "Wed, 21 Oct 2026 14:34:42 -0400",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are actively exploiting four vulnerabilities in Plex Media Server. [...]",
-      "source": "BleepingComputer",
-      "source_category": "Journalism",
-      "topic": "Cybersecurity",
-      "score": 9,
-      "sources": [
-        {
-          "name": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/"
         }
       ]
     },
@@ -477,22 +461,6 @@
       ]
     },
     {
-      "title": "Cisco and Fortanix help make confidential AI verifiable from data to Kubernetes",
-      "url": "https://blogs.cisco.com/datacenter/cisco-and-fortanix-help-make-confidential-ai-verifiable-from-data-to-kubernetes",
-      "published": "Wed, 21 Oct 2026 14:26:54 +0000",
-      "summary": "Fortanix Confidential AI now supports CNCF Confidential Containers. Discover how Cisco, Fortanix, and VAST Data help enterprises run secure frontier AI, ensuring sensitive models and data remain protected and verifiable while in use.",
-      "source": "Cisco Blogs",
-      "source_category": "Vendor",
-      "topic": "AI & Emerging Tech",
-      "score": 6,
-      "sources": [
-        {
-          "name": "Cisco Blogs",
-          "url": "https://blogs.cisco.com/datacenter/cisco-and-fortanix-help-make-confidential-ai-verifiable-from-data-to-kubernetes"
-        }
-      ]
-    },
-    {
       "title": "Securing AI agents in the enterprise AI factory: NVIDIA BlueField and DOCA Argus on Red Hat OpenShift",
       "url": "https://www.redhat.com/en/blog/securing-ai-agents-enterprise-ai-factory-nvidia-bluefield-doca-argus-red-hat-openshift",
       "published": "Wed, 21 Oct 2026 00:00:00 +0000",
@@ -801,22 +769,6 @@
       ]
     },
     {
-      "title": "Lazarus hackers use post-quantum cryptography for malware delivery",
-      "url": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/",
-      "published": "Wed, 21 Oct 2026 16:31:48 -0400",
-      "summary": "North Korean hackers are using a post-quantum cryptographic mechanism to secure malicious payload delivery in new operations that combine old and new malware. [...]",
-      "source": "BleepingComputer",
-      "source_category": "Journalism",
-      "topic": "Cybersecurity",
-      "score": 5,
-      "sources": [
-        {
-          "name": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/"
-        }
-      ]
-    },
-    {
       "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
       "url": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
       "published": "Wed, 21 Oct 2026 15:26:07 +0000",
@@ -929,6 +881,22 @@
       ]
     },
     {
+      "title": "Amazon says PHP2Shell exploitation began 4 days before patches",
+      "url": "https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/",
+      "published": "Thu, 22 Oct 2026 09:09:12 -0400",
+      "summary": "Security researchers at Amazon Threat Intelligence say attackers began targeting the PHP2Shell flaws four days before security patches were released on Wednesday. [...]",
+      "source": "BleepingComputer",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 5,
+      "sources": [
+        {
+          "name": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/"
+        }
+      ]
+    },
+    {
       "title": "From buzzword to blueprint: Implementing zero trust on Red Hat OpenShift with the Layered Zero Trust Validated Pattern",
       "url": "https://www.redhat.com/en/blog/buzzword-blueprint-implementing-zero-trust-red-hat-openshift-layered-zero-trust-validated-pattern",
       "published": "Thu, 22 Oct 2026 00:00:00 +0000",
@@ -957,6 +925,22 @@
         {
           "name": "Cisco Blogs",
           "url": "https://blogs.cisco.com/industrial-iot/the-road-to-zero-scaling-safety-through-intelligent-infrastructure"
+        }
+      ]
+    },
+    {
+      "title": "HPE patches eight max severity RCE and auth bypass AOS flaws",
+      "url": "https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/",
+      "published": "Fri, 23 Oct 2026 08:48:00 -0400",
+      "summary": "Hewlett Packard Enterprise (HPE) released security updates to patch 72 vulnerabilities in the Aruba Operating System (ArubaOS), including eight maximum-severity authentication bypass and code execution issues. [...]",
+      "source": "BleepingComputer",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 5,
+      "sources": [
+        {
+          "name": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/"
         }
       ]
     },
@@ -1153,6 +1137,22 @@
       ]
     },
     {
+      "title": "Commonwealth Fusion Systems gets $85M to build better fusion-ready semiconductors",
+      "url": "https://techcrunch.com/2026/10/23/commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors/",
+      "published": "Fri, 23 Oct 2026 16:20:28 +0000",
+      "summary": "Top-funded fusion startup Commonwealth Fusion Systems received an $85 million award from the federal government to advance conductors for fusion power plants.",
+      "source": "TechCrunch",
+      "source_category": "Journalism",
+      "topic": "Federal IT & Policy",
+      "score": 4,
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/23/commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors/"
+        }
+      ]
+    },
+    {
       "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
       "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
       "published": "Fri, 23 Oct 2026 00:00:00 GMT",
@@ -1313,26 +1313,6 @@
       ]
     },
     {
-      "title": "Uber puts all 30,000 employees on ChatGPT Work",
-      "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
-      "published": "Thu, 22 Oct 2026 16:00:00 +0000",
-      "summary": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.",
-      "source": "TechCrunch",
-      "source_category": "Journalism",
-      "topic": "Enterprise Technology",
-      "score": 3,
-      "sources": [
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/"
-        },
-        {
-          "name": "OpenAI News",
-          "url": "https://openai.com/index/uber-chatgpt-work-rollout"
-        }
-      ]
-    },
-    {
       "title": "Hackers got a four-day head start on epic PHP2Shell vulnerability",
       "url": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/",
       "published": "Thu, 22 Oct 2026 15:25:02 +0000",
@@ -1349,9 +1329,41 @@
       ]
     },
     {
+      "title": "Unified Defense from Endpoint to Cloud: Real-Time Protection with Cisco Security, Splunk, and SentinelOne",
+      "url": "https://blogs.cisco.com/security/unified-defense-from-endpoint-to-cloud",
+      "published": "Thu, 22 Oct 2026 15:00:57 +0000",
+      "summary": "Discover how Cisco and SentinelOne work together across Splunk, Duo, Firepower and now ISE — turning endpoint detection into automated network access decisions.",
+      "source": "Cisco Blogs",
+      "source_category": "Vendor",
+      "topic": "Cybersecurity",
+      "score": 3,
+      "sources": [
+        {
+          "name": "Cisco Blogs",
+          "url": "https://blogs.cisco.com/security/unified-defense-from-endpoint-to-cloud"
+        }
+      ]
+    },
+    {
+      "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
+      "url": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
+      "published": "Fri, 23 Oct 2026 16:26:29 +0000",
+      "summary": "Daytona is building a cloud for agents that's like giving every agent its own computer. It has attracted founders of Stripe, Perplextity, Datadog, Mercor, and others as angels, it says.",
+      "source": "TechCrunch",
+      "source_category": "Journalism",
+      "topic": "Cloud & Infrastructure",
+      "score": 3,
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/"
+        }
+      ]
+    },
+    {
       "title": "PHP Vulnerability Wrap-Up, (Fri, Oct 23rd)",
       "url": "https://isc.sans.edu/diary/rss/33450",
-      "published": "Fri, 23 Oct 2026 13:02:54 GMT",
+      "published": "Fri, 23 Oct 2026 13:43:20 GMT",
       "summary": "This morning, we returned to Infocon Green. As usual, we are raising the Infocon to alert you to emerging situations requiring immediate attention. PHP fit that description. By now, you either know about it, or you probably never will, so it is time to go back to \"business as usual\".",
       "source": "SANS Internet Storm Center",
       "source_category": "Research",
@@ -1441,22 +1453,6 @@
         {
           "name": "ZDNET",
           "url": "https://www.zdnet.com/tech/microsoft-october-windows-update-disables-security-setting-workaround/"
-        }
-      ]
-    },
-    {
-      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
-      "published": "Wed, 21 Oct 2026 16:04:43 GMT",
-      "summary": "",
-      "source": "Hugging Face",
-      "source_category": "Vendor",
-      "topic": "Cloud & Infrastructure",
-      "score": 2,
-      "sources": [
-        {
-          "name": "Hugging Face",
-          "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1"
         }
       ]
     }
