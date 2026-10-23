@@ -1,6 +1,6 @@
 # Federal CIO Intelligence Command Center
 
-**Current application release: v9.6**
+**Current application release: v9.7**
 
 An independent, open-source, public-source intelligence dashboard for federal IT leadership. It brings together cybersecurity developments, federal policy publications, technology intelligence, and evidence-linked executive review.
 
@@ -13,7 +13,7 @@ An independent, open-source, public-source intelligence dashboard for federal IT
 | Area | Capabilities |
 | --- | --- |
 | **Dashboard** (`index.html`) | Operational overview, CISA KEV, Federal Register monitoring, vendor comparisons, source health, and federal policy watch |\n| **Executive Briefing** (`briefing.html`) | Prioritized intelligence assessment, five-minute brief, change review, and source-reported action calendar |
-| **Intelligence Workspace** (`intelligence.html`) | Intelligence triage, policy change tracker, executive briefing, vendor intelligence, CVE correlations, and browser-local preferences |
+| **Intelligence Workspace** (`intelligence.html`) | Technology Intelligence Hub, intelligence triage, policy change tracker, executive briefing, vendor intelligence, CVE correlations, and browser-local preferences |
 | **About & Methodology** (`about.html`) | Sources, collection approach, interpretation guidance, and limitations |
 
 The four pages share a consistent navigation shell. The project is a static GitHub Pages application, not an authenticated agency system.
@@ -154,3 +154,14 @@ These screenshots provide a review trail, **not yet automated pixel-difference r
 - **Structural visual regression:** Chromium checks shared navigation geometry across all four desktop pages, alongside mobile overflow checks and eight desktop/mobile screenshots. Pixel-difference baseline comparisons are not yet implemented.
 
 Policy and CVE enrichment is generated after the four-hour public collector runs. The first successful run establishes the initial derived snapshots. This project never assumes an organization's asset inventory, obligations, or exposure.
+
+## v9.7: Technology Intelligence Hub
+
+The Intelligence Workspace now has a dedicated Technology Intelligence section without adding another top-level page. A bounded collector checks **40 candidate public RSS/Atom publishers** every four hours. Actual successful endpoints are reported separately from candidates; blocked or missing feeds are never bypassed. Newsroom view defaults to **12 ranked story clusters**, offers six topic filters, search, progressive disclosure, and a publisher directory showing source failures and last successful retrieval. Automated clustering uses title similarity, so unrelated or distinct events may be grouped incorrectly; original publisher links are retained.
+
+## Repository hygiene and privacy
+
+- `.gitignore` excludes local dependencies, screenshots, temporary files, and common credential file types.
+- `scripts/privacy_scan.py` runs in CI against tracked files and flags explicit agency identifiers, selected staff names, private key markers and credential-shaped literals. It is a **guardrail, not a complete secret scanner or historical Git audit**.
+- The project intentionally contains no staff acknowledgments, organizational affiliation, private operational details, or internal incident information. GitHub account identity, commit author metadata, and any email addresses already associated with the GitHub account remain visible under GitHub's normal behavior.
+- Public feeds and quoted publisher names are external sources, not contributors or endorsements.
