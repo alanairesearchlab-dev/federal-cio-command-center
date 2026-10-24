@@ -1,6 +1,22 @@
 {
-  "retrieved_at": "2026-10-24T04:51:51+00:00",
+  "retrieved_at": "2026-10-24T08:52:49+00:00",
   "items": [
+    {
+      "cve": "CVE-2026-110447",
+      "vendor": "Collabora",
+      "product": "Collabora Online – Built-in CODE Server",
+      "date_added": "2026-10-23",
+      "sources": [
+        {
+          "title": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
+          "url": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
+          "source": "The Hacker News",
+          "kind": "news"
+        }
+      ],
+      "source_count": 1,
+      "note": "Exact CVE reference correlation, not independent confirmation of claims or agency exposure."
+    },
     {
       "cve": "CVE-2026-96652",
       "vendor": "Plex",
@@ -34,6 +50,6 @@
       "note": "Exact CVE reference correlation, not independent confirmation of claims or agency exposure."
     }
   ],
-  "count": 2,
+  "count": 3,
   "note": "Exact CVE matching only. Multiple reports about one CVE do not represent multiple vulnerabilities."
 }
