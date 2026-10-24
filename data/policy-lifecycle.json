@@ -1,6 +1,18 @@
 {
-  "retrieved_at": "2026-10-23T20:52:58+00:00",
+  "retrieved_at": "2026-10-24T01:12:09+00:00",
   "items": [
+    {
+      "id": "M-27-01",
+      "title": "M-27-01 Status of Documents Addressing RIFs During a Lapse",
+      "url": "https://www.whitehouse.gov/wp-content/uploads/2026/10/M-27-01-Status-of-Documents-Addressing-RIFs-During-a-Lapse.pdf",
+      "date": null,
+      "source": "OMB",
+      "document_type": "Memorandum",
+      "status": "Indexed; current status unverified",
+      "change_type": "index observation",
+      "relationship_cue": null,
+      "requires_document_review": false
+    },
     {
       "id": "M-26-19",
       "title": "M-26-19 Amendment to OMB Memorandum M-16-13",
@@ -554,7 +566,7 @@
       "requires_document_review": false
     }
   ],
-  "count": 46,
+  "count": 47,
   "eo_available": false,
   "omb_available": true,
   "note": "Titles provide relationship cues only. Never infer actual amendment, revocation, supersession, legal effect, or applicability without reading authoritative documents."
