@@ -1,8 +1,8 @@
 {
-  "retrieved_at": "2026-10-24T16:51:09+00:00",
+  "retrieved_at": "2026-10-24T20:46:24+00:00",
   "candidate_sources": 40,
-  "successful_sources": 33,
-  "collected_articles": 566,
+  "successful_sources": 34,
+  "collected_articles": 589,
   "items": [
     {
       "title": "The First Federal Guidance on AI Agents Is Here. Most Agencies Can’t Meet It Yet.",
@@ -1293,6 +1293,22 @@
       ]
     },
     {
+      "title": "Will AI expose the rickety infrastructure of the internet?",
+      "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+      "published": "Sat, 24 Oct 2026 20:15:33 +0000",
+      "summary": "The moment you realize the internet is \"held together by glue and dreams.\"",
+      "source": "TechCrunch",
+      "source_category": "Journalism",
+      "topic": "AI & Emerging Tech",
+      "score": 3,
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/"
+        }
+      ]
+    },
+    {
       "title": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
       "url": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/",
       "published": "Sat, 24 Oct 2026 11:50:28 +0000",
@@ -1433,22 +1449,6 @@
         {
           "name": "Hugging Face",
           "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1"
-        }
-      ]
-    },
-    {
-      "title": "The bridge to agent-scale Git infrastructure",
-      "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
-      "published": "Wed, 21 Oct 2026 16:00:00 +0000",
-      "summary": "We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently. The post The bridge to agent-scale Git infrastructure appeared first on The GitHub Blog .",
-      "source": "GitHub Blog",
-      "source_category": "Vendor",
-      "topic": "Cloud & Infrastructure",
-      "score": 2,
-      "sources": [
-        {
-          "name": "GitHub Blog",
-          "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/"
         }
       ]
     }
