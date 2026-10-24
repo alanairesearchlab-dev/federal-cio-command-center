@@ -1,17 +1,10 @@
 {
-  "retrieved_at": "2026-10-24T01:12:05+00:00",
+  "retrieved_at": "2026-10-24T04:51:49+00:00",
   "source": "https://www.whitehouse.gov/omb/information-resources/guidance/memoranda/",
   "count": 47,
   "comparison_available": true,
-  "new_count": 1,
-  "new_items": [
-    {
-      "number": "M-27-01",
-      "title": "M-27-01 Status of Documents Addressing RIFs During a Lapse",
-      "url": "https://www.whitehouse.gov/wp-content/uploads/2026/10/M-27-01-Status-of-Documents-Addressing-RIFs-During-a-Lapse.pdf",
-      "source": "OMB memorandum index"
-    }
-  ],
+  "new_count": 0,
+  "new_items": [],
   "items": [
     {
       "number": "M-27-01",
