@@ -1,8 +1,8 @@
 {
-  "retrieved_at": "2026-10-25T16:51:14+00:00",
+  "retrieved_at": "2026-10-25T20:47:49+00:00",
   "candidate_sources": 40,
-  "successful_sources": 34,
-  "collected_articles": 589,
+  "successful_sources": 33,
+  "collected_articles": 566,
   "items": [
     {
       "title": "The First Federal Guidance on AI Agents Is Here. Most Agencies Can’t Meet It Yet.",
@@ -273,6 +273,22 @@
         {
           "name": "Dark Reading",
           "url": "https://www.darkreading.com/cybersecurity-operations/uae-transitions-50-government-services-agentic-ai"
+        }
+      ]
+    },
+    {
+      "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
+      "url": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
+      "published": "Sun, 25 Oct 2026 22:49:46 +0530",
+      "summary": "Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the PHP2Shell vulnerabilities tracked as CVE-2026-109618 and CVE-2026-109619. \"In one case, the attackers targeted a government entity in Europe and within two hours of the initial exploitation they had success",
+      "source": "The Hacker News",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 8,
+      "sources": [
+        {
+          "name": "The Hacker News",
+          "url": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html"
         }
       ]
     },
@@ -601,22 +617,6 @@
         {
           "name": "AWS News",
           "url": "https://aws.amazon.com/blogs/aws/announcing-aws-well-architected-agent-an-ai-powered-intelligence-to-optimize-your-cloud-environment-preview/"
-        }
-      ]
-    },
-    {
-      "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
-      "url": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
-      "published": "Sun, 25 Oct 2026 12:24:29 +0530",
-      "summary": "OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal inference of its most advanced AI models. \"Based on the current state of alignment research, monitoring systems, and the security of internet infrastructure, we believe the responsible approach ",
-      "source": "The Hacker News",
-      "source_category": "Journalism",
-      "topic": "Cybersecurity",
-      "score": 6,
-      "sources": [
-        {
-          "name": "The Hacker News",
-          "url": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html"
         }
       ]
     },
@@ -1149,22 +1149,6 @@
       ]
     },
     {
-      "title": "Small Agents, Smaller Blast Radius: Controlling What AI Can Do, (Fri, Oct 16th)",
-      "url": "https://isc.sans.edu/diary/rss/33430",
-      "published": "Fri, 16 Oct 2026 00:46:35 GMT",
-      "summary": "I believe the cybersecurity industry may be approaching AI security the wrong way.",
-      "source": "SANS Internet Storm Center",
-      "source_category": "Research",
-      "topic": "Cybersecurity",
-      "score": 4,
-      "sources": [
-        {
-          "name": "SANS Internet Storm Center",
-          "url": "https://isc.sans.edu/diary/rss/33430"
-        }
-      ]
-    },
-    {
       "title": "Compromised TLS Certificates",
       "url": "https://www.schneier.com/blog/archives/2026/10/compromised-tls-certificates.html",
       "published": "2026-10-23T11:04:22Z",
@@ -1341,18 +1325,18 @@
       ]
     },
     {
-      "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
-      "url": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
-      "published": "Fri, 23 Oct 2026 16:26:29 +0000",
-      "summary": "Daytona is building a cloud for agents that's like giving every agent its own computer. It has attracted founders of Stripe, Perplextity, Datadog, Mercor, and others as angels, it says.",
-      "source": "TechCrunch",
-      "source_category": "Journalism",
-      "topic": "Cloud & Infrastructure",
+      "title": "PHP Vulnerability Wrap-Up, (Fri, Oct 23rd)",
+      "url": "https://isc.sans.edu/diary/rss/33450",
+      "published": "Fri, 23 Oct 2026 13:43:20 GMT",
+      "summary": "This morning, we returned to Infocon Green. As usual, we are raising the Infocon to alert you to emerging situations requiring immediate attention. PHP fit that description. By now, you either know about it, or you probably never will, so it is time to go back to \"business as usual\".",
+      "source": "SANS Internet Storm Center",
+      "source_category": "Research",
+      "topic": "Cybersecurity",
       "score": 3,
       "sources": [
         {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/"
+          "name": "SANS Internet Storm Center",
+          "url": "https://isc.sans.edu/diary/rss/33450"
         }
       ]
     },
@@ -1449,6 +1433,22 @@
         {
           "name": "GitHub Blog",
           "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/"
+        }
+      ]
+    },
+    {
+      "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+      "url": "https://huggingface.co/blog/hf-torchneuron",
+      "published": "Mon, 19 Oct 2026 00:00:00 GMT",
+      "summary": "",
+      "source": "Hugging Face",
+      "source_category": "Vendor",
+      "topic": "AI & Emerging Tech",
+      "score": 2,
+      "sources": [
+        {
+          "name": "Hugging Face",
+          "url": "https://huggingface.co/blog/hf-torchneuron"
         }
       ]
     }
