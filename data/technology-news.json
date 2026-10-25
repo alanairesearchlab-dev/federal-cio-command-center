@@ -1,8 +1,8 @@
 {
-  "retrieved_at": "2026-10-25T08:52:12+00:00",
+  "retrieved_at": "2026-10-25T13:00:30+00:00",
   "candidate_sources": 40,
-  "successful_sources": 33,
-  "collected_articles": 566,
+  "successful_sources": 34,
+  "collected_articles": 589,
   "items": [
     {
       "title": "The First Federal Guidance on AI Agents Is Here. Most Agencies Can’t Meet It Yet.",
@@ -1053,6 +1053,22 @@
       ]
     },
     {
+      "title": "Want to build a UK datacenter? Please hold while Whitehall transfers you",
+      "url": "https://www.theregister.com/public-sector/2026/10/25/want-to-build-a-uk-datacenter-please-hold-while-whitehall-transfers-you/5304956",
+      "published": "Sun, 25 Oct 2026 10:39:00 +0000",
+      "summary": "Minister insists responsibilities are clear as construction, telecoms, and energy fall under separate departments",
+      "source": "The Register",
+      "source_category": "Journalism",
+      "topic": "Cloud & Infrastructure",
+      "score": 4,
+      "sources": [
+        {
+          "name": "The Register",
+          "url": "https://www.theregister.com/public-sector/2026/10/25/want-to-build-a-uk-datacenter-please-hold-while-whitehall-transfers-you/5304956"
+        }
+      ]
+    },
+    {
       "title": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
       "url": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/",
       "published": "Sat, 24 Oct 2026 12:00:00 +0000",
@@ -1353,22 +1369,6 @@
         {
           "name": "TechCrunch",
           "url": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/"
-        }
-      ]
-    },
-    {
-      "title": "The ‘Exotic Physics’ Behind a Mysterious 1,000-Mile Cloud on Mars",
-      "url": "https://www.wired.com/story/the-exotic-physics-behind-a-mysterious-1000-mile-cloud-on-mars/",
-      "published": "Fri, 23 Oct 2026 09:00:00 +0000",
-      "summary": "The cloud has baffled astronomers since its discovery in 2018. Now, a new study offers a possible cause for its appearance.",
-      "source": "WIRED",
-      "source_category": "Journalism",
-      "topic": "Cloud & Infrastructure",
-      "score": 3,
-      "sources": [
-        {
-          "name": "WIRED",
-          "url": "https://www.wired.com/story/the-exotic-physics-behind-a-mysterious-1000-mile-cloud-on-mars/"
         }
       ]
     },
