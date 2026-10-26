@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-10-26T09:05:13+00:00",
+  "retrieved_at": "2026-10-26T15:00:09+00:00",
   "items": [
     {
       "cve": "CVE-2026-110447",
@@ -16,24 +16,8 @@
       ],
       "source_count": 1,
       "note": "Exact CVE reference correlation, not independent confirmation of claims or agency exposure."
-    },
-    {
-      "cve": "CVE-2026-96652",
-      "vendor": "Plex",
-      "product": "Media Server",
-      "date_added": "2026-10-20",
-      "sources": [
-        {
-          "title": "CISA Orders Federal Agencies to Patch Exploited Plex2Shell, Siemens, and SiteGuard Flaws",
-          "url": "https://thehackernews.com/2026/10/cisa-orders-federal-agencies-to-patch.html",
-          "source": "The Hacker News",
-          "kind": "news"
-        }
-      ],
-      "source_count": 1,
-      "note": "Exact CVE reference correlation, not independent confirmation of claims or agency exposure."
     }
   ],
-  "count": 2,
+  "count": 1,
   "note": "Exact CVE matching only. Multiple reports about one CVE do not represent multiple vulnerabilities."
 }
