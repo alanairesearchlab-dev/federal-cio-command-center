@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-10-26T04:57:26+00:00",
+  "retrieved_at": "2026-10-26T09:05:13+00:00",
   "candidate_sources": 40,
   "successful_sources": 34,
   "collected_articles": 589,
@@ -1053,6 +1053,22 @@
       ]
     },
     {
+      "title": "Wireless is the next security frontier, and Cisco is leading the way",
+      "url": "https://blogs.cisco.com/networking/wireless-is-the-next-security-frontier-and-cisco-is-leading-the-way",
+      "published": "Mon, 26 Oct 2026 08:00:56 +0000",
+      "summary": "With wireless serving as a key security perimeter, Cisco enhances network trust through quantum-safe secure boot and robust encryption (MACsec). We're securing the entire wireless path—from client to switch—to protect your evolving environment.",
+      "source": "Cisco Blogs",
+      "source_category": "Vendor",
+      "topic": "Cybersecurity",
+      "score": 4,
+      "sources": [
+        {
+          "name": "Cisco Blogs",
+          "url": "https://blogs.cisco.com/networking/wireless-is-the-next-security-frontier-and-cisco-is-leading-the-way"
+        }
+      ]
+    },
+    {
       "title": "Federal Movers & Shakers | October 23, 2026",
       "url": "https://federalnewsnetwork.com/leadership-connect/2026/10/federal-movers-shakers-october-23/",
       "published": "Fri, 23 Oct 2026 22:40:42 +0000",
@@ -1241,22 +1257,6 @@
         {
           "name": "GitHub Blog",
           "url": "https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/"
-        }
-      ]
-    },
-    {
-      "title": "Unified Defense from Endpoint to Cloud: Real-Time Protection with Cisco Security, Splunk, and SentinelOne",
-      "url": "https://blogs.cisco.com/security/unified-defense-from-endpoint-to-cloud",
-      "published": "Thu, 22 Oct 2026 15:00:57 +0000",
-      "summary": "Discover how Cisco and SentinelOne work together across Splunk, Duo, Firepower and now ISE — turning endpoint detection into automated network access decisions.",
-      "source": "Cisco Blogs",
-      "source_category": "Vendor",
-      "topic": "Cybersecurity",
-      "score": 3,
-      "sources": [
-        {
-          "name": "Cisco Blogs",
-          "url": "https://blogs.cisco.com/security/unified-defense-from-endpoint-to-cloud"
         }
       ]
     },
