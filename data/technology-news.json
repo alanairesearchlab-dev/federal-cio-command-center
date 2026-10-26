@@ -1,8 +1,8 @@
 {
-  "retrieved_at": "2026-10-26T01:16:28+00:00",
+  "retrieved_at": "2026-10-26T04:57:26+00:00",
   "candidate_sources": 40,
-  "successful_sources": 33,
-  "collected_articles": 566,
+  "successful_sources": 34,
+  "collected_articles": 589,
   "items": [
     {
       "title": "The First Federal Guidance on AI Agents Is Here. Most Agencies Can’t Meet It Yet.",
@@ -181,6 +181,22 @@
       ]
     },
     {
+      "title": "PHP2Shell Exploitation Attempts Continue Amid Suspected N. Korea Global Scanning Activity",
+      "url": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
+      "published": "Sun, 25 Oct 2026 22:49:46 +0530",
+      "summary": "In an update, Palo Alto Networks Unit 42 said it's retracting its earlier assessment that the post-compromise activity targeting the European government agency involved the exploitation of the PHP2Shell flaws. \"What researchers saw was an attack against a European government agency executed in the context of a vulnerable PHP application,\" a spokesp",
+      "source": "The Hacker News",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 9,
+      "sources": [
+        {
+          "name": "The Hacker News",
+          "url": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html"
+        }
+      ]
+    },
+    {
       "title": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
       "url": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
       "published": "Sat, 24 Oct 2026 11:55:57 +0530",
@@ -273,22 +289,6 @@
         {
           "name": "Dark Reading",
           "url": "https://www.darkreading.com/cybersecurity-operations/uae-transitions-50-government-services-agentic-ai"
-        }
-      ]
-    },
-    {
-      "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
-      "url": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
-      "published": "Sun, 25 Oct 2026 22:49:46 +0530",
-      "summary": "Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the PHP2Shell vulnerabilities tracked as CVE-2026-109618 and CVE-2026-109619. \"In one case, the attackers targeted a government entity in Europe and within two hours of the initial exploitation they had success",
-      "source": "The Hacker News",
-      "source_category": "Journalism",
-      "topic": "Cybersecurity",
-      "score": 8,
-      "sources": [
-        {
-          "name": "The Hacker News",
-          "url": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html"
         }
       ]
     },
@@ -957,22 +957,6 @@
       ]
     },
     {
-      "title": "PHP2Shell puts dozens of UK government services out of service",
-      "url": "https://www.theregister.com/security/2026/10/22/php2shell-puts-dozens-of-uk-government-services-out-of-service/5304840",
-      "published": "Thu, 22 Oct 2026 16:05:53 +0000",
-      "summary": "Ministers report 32 unavailable and four partly disrupted, but no confirmed compromise",
-      "source": "The Register",
-      "source_category": "Journalism",
-      "topic": "Federal IT & Policy",
-      "score": 4,
-      "sources": [
-        {
-          "name": "The Register",
-          "url": "https://www.theregister.com/security/2026/10/22/php2shell-puts-dozens-of-uk-government-services-out-of-service/5304840"
-        }
-      ]
-    },
-    {
       "title": "Machine speed attacks require machine speed detection and response",
       "url": "https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/",
       "published": "Thu, 22 Oct 2026 10:02:12 -0400",
@@ -1449,6 +1433,22 @@
         {
           "name": "Hugging Face",
           "url": "https://huggingface.co/blog/hf-torchneuron"
+        }
+      ]
+    },
+    {
+      "title": "Introducing SynthID Bio",
+      "url": "https://deepmind.google/blog/introducing-synthid-bio/",
+      "published": "Wed, 30 Sep 2026 15:03:07 +0000",
+      "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+      "source": "Google DeepMind",
+      "source_category": "Research",
+      "topic": "AI & Emerging Tech",
+      "score": 1,
+      "sources": [
+        {
+          "name": "Google DeepMind",
+          "url": "https://deepmind.google/blog/introducing-synthid-bio/"
         }
       ]
     }
