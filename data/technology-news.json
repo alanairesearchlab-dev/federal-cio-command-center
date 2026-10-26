@@ -1,8 +1,8 @@
 {
-  "retrieved_at": "2026-10-26T15:00:09+00:00",
+  "retrieved_at": "2026-10-26T17:04:08+00:00",
   "candidate_sources": 40,
-  "successful_sources": 32,
-  "collected_articles": 560,
+  "successful_sources": 34,
+  "collected_articles": 589,
   "items": [
     {
       "title": "The First Federal Guidance on AI Agents Is Here. Most Agencies Can’t Meet It Yet.",
@@ -457,22 +457,6 @@
       ]
     },
     {
-      "title": "Securing AI agents in the enterprise AI factory: NVIDIA BlueField and DOCA Argus on Red Hat OpenShift",
-      "url": "https://www.redhat.com/en/blog/securing-ai-agents-enterprise-ai-factory-nvidia-bluefield-doca-argus-red-hat-openshift",
-      "published": "Wed, 21 Oct 2026 00:00:00 +0000",
-      "summary": "The agent problem at scaleAutonomous agents are powerful because they act. But when instructions are ambiguous, when tools don't behave as expected, or when a complex task takes an unexpected turn, the agent makes judgment calls. You can't expect an agent to fully police its own behavior.This is exactly what makes them an entirely new category of i",
-      "source": "Red Hat",
-      "source_category": "Vendor",
-      "topic": "AI & Emerging Tech",
-      "score": 6,
-      "sources": [
-        {
-          "name": "Red Hat",
-          "url": "https://www.redhat.com/en/blog/securing-ai-agents-enterprise-ai-factory-nvidia-bluefield-doca-argus-red-hat-openshift"
-        }
-      ]
-    },
-    {
       "title": "Configuring your AI vulnerability harness, Part 2: The steering file",
       "url": "https://aws.amazon.com/blogs/security/configuring-your-ai-vulnerability-harness-part-2-the-steering-file/",
       "published": "Wed, 07 Oct 2026 21:49:50 +0000",
@@ -781,22 +765,6 @@
       ]
     },
     {
-      "title": "HHS to make sole-source award to Anthropic ahead of broader AI competition",
-      "url": "https://fedscoop.com/hhs-sole-source-award-anthropic-ai-claude/",
-      "published": "Tue, 20 Oct 2026 23:08:03 +0000",
-      "summary": "The health department initially rolled out Claude to all of its workers in December 2025. Anthropic’s discounted deal with the government ends Oct. 31. The post HHS to make sole-source award to Anthropic ahead of broader AI competition appeared first on FedScoop .",
-      "source": "FedScoop",
-      "source_category": "Federal IT",
-      "topic": "AI & Emerging Tech",
-      "score": 5,
-      "sources": [
-        {
-          "name": "FedScoop",
-          "url": "https://fedscoop.com/hhs-sole-source-award-anthropic-ai-claude/"
-        }
-      ]
-    },
-    {
       "title": "Pentagon sued over data breach affecting more than 3 million people",
       "url": "https://federalnewsnetwork.com/defense-news/2026/10/pentagon-sued-over-data-breach-affecting-more-than-3-million-people/",
       "published": "Thu, 22 Oct 2026 23:03:20 +0000",
@@ -809,6 +777,38 @@
         {
           "name": "Federal News Network",
           "url": "https://federalnewsnetwork.com/defense-news/2026/10/pentagon-sued-over-data-breach-affecting-more-than-3-million-people/"
+        }
+      ]
+    },
+    {
+      "title": "From buzzword to blueprint: Implementing zero trust on Red Hat OpenShift with the Layered Zero Trust Validated Pattern",
+      "url": "https://www.redhat.com/en/blog/buzzword-blueprint-implementing-zero-trust-red-hat-openshift-layered-zero-trust-validated-pattern",
+      "published": "Thu, 22 Oct 2026 00:00:00 +0000",
+      "summary": "Part 4 of a series on implementing zero trust security in Red Hat OpenShift with the Layered Zero Trust Validated Pattern.Zero trust is easy to describe. The hard part is making it repeatable.Zero trust is often described succinctly in a memorable sentence: never trust, always verify. The principle is sound and easy enough to describe, but that sho",
+      "source": "Red Hat",
+      "source_category": "Vendor",
+      "topic": "Cybersecurity",
+      "score": 5,
+      "sources": [
+        {
+          "name": "Red Hat",
+          "url": "https://www.redhat.com/en/blog/buzzword-blueprint-implementing-zero-trust-red-hat-openshift-layered-zero-trust-validated-pattern"
+        }
+      ]
+    },
+    {
+      "title": "America needs a national model for solving big problems with AI",
+      "url": "https://fedscoop.com/america-gov-national-ai-model/",
+      "published": "Mon, 26 Oct 2026 15:16:58 +0000",
+      "summary": "Launching America.gov is a start, but what’s happening behind the scenes will determine if the next era of government is successful. The post America needs a national model for solving big problems with AI appeared first on FedScoop .",
+      "source": "FedScoop",
+      "source_category": "Federal IT",
+      "topic": "AI & Emerging Tech",
+      "score": 5,
+      "sources": [
+        {
+          "name": "FedScoop",
+          "url": "https://fedscoop.com/america-gov-national-ai-model/"
         }
       ]
     },
@@ -1101,22 +1101,6 @@
       ]
     },
     {
-      "title": "Wireless is the next security frontier, and Cisco is leading the way",
-      "url": "https://blogs.cisco.com/networking/wireless-is-the-next-security-frontier-and-cisco-is-leading-the-way",
-      "published": "Mon, 26 Oct 2026 08:00:56 +0000",
-      "summary": "With wireless serving as a key security perimeter, Cisco enhances network trust through quantum-safe secure boot and robust encryption (MACsec). We're securing the entire wireless path—from client to switch—to protect your evolving environment.",
-      "source": "Cisco Blogs",
-      "source_category": "Vendor",
-      "topic": "Cybersecurity",
-      "score": 4,
-      "sources": [
-        {
-          "name": "Cisco Blogs",
-          "url": "https://blogs.cisco.com/networking/wireless-is-the-next-security-frontier-and-cisco-is-leading-the-way"
-        }
-      ]
-    },
-    {
       "title": "Federal Movers & Shakers | October 23, 2026",
       "url": "https://federalnewsnetwork.com/leadership-connect/2026/10/federal-movers-shakers-october-23/",
       "published": "Fri, 23 Oct 2026 22:40:42 +0000",
@@ -1309,6 +1293,22 @@
       ]
     },
     {
+      "title": "Unified Defense from Endpoint to Cloud: Real-Time Protection with Cisco Security, Splunk, and SentinelOne",
+      "url": "https://blogs.cisco.com/security/unified-defense-from-endpoint-to-cloud",
+      "published": "Thu, 22 Oct 2026 15:00:57 +0000",
+      "summary": "Discover how Cisco and SentinelOne work together across Splunk, Duo, Firepower and now ISE — turning endpoint detection into automated network access decisions.",
+      "source": "Cisco Blogs",
+      "source_category": "Vendor",
+      "topic": "Cybersecurity",
+      "score": 3,
+      "sources": [
+        {
+          "name": "Cisco Blogs",
+          "url": "https://blogs.cisco.com/security/unified-defense-from-endpoint-to-cloud"
+        }
+      ]
+    },
+    {
       "title": "Will AI expose the rickety infrastructure of the internet?",
       "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
       "published": "Sat, 24 Oct 2026 20:15:33 +0000",
@@ -1337,6 +1337,22 @@
         {
           "name": "Ars Technica",
           "url": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/"
+        }
+      ]
+    },
+    {
+      "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+      "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+      "published": "Mon, 26 Oct 2026 16:49:42 +0000",
+      "summary": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier.",
+      "source": "TechCrunch",
+      "source_category": "Journalism",
+      "topic": "Enterprise Technology",
+      "score": 3,
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/"
         }
       ]
     },
@@ -1433,22 +1449,6 @@
         {
           "name": "Schneier on Security",
           "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-increasing-squid-populations.html"
-        }
-      ]
-    },
-    {
-      "title": "Latest Windows update disables key security setting – but there’s a workaround",
-      "url": "https://www.zdnet.com/tech/microsoft-october-windows-update-disables-security-setting-workaround/",
-      "published": "2026-10-20T14:26:05Z",
-      "summary": "A bug in Microsoft’s October Windows update prevents you from turning on a security setting that blocks malicious or suspicious apps. A Registry hack fixes the glitch.",
-      "source": "ZDNET",
-      "source_category": "Journalism",
-      "topic": "Cybersecurity",
-      "score": 3,
-      "sources": [
-        {
-          "name": "ZDNET",
-          "url": "https://www.zdnet.com/tech/microsoft-october-windows-update-disables-security-setting-workaround/"
         }
       ]
     }
