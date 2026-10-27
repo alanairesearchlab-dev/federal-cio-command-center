@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-10-27T04:54:54+00:00",
+  "retrieved_at": "2026-10-27T09:02:18+00:00",
   "items": [
     {
       "cve": "CVE-2026-109619",
@@ -29,6 +29,12 @@
       "product": "PHP",
       "date_added": "2026-10-26",
       "sources": [
+        {
+          "title": "CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution",
+          "url": "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html",
+          "source": "The Hacker News",
+          "kind": "news"
+        },
         {
           "title": "PHP2Shell security flaws now sucessfully exploited in the wild",
           "url": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/",
