@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-10-27T09:02:18+00:00",
+  "retrieved_at": "2026-10-27T13:11:28+00:00",
   "candidate_sources": 40,
   "successful_sources": 34,
   "collected_articles": 589,
@@ -37,38 +37,6 @@
       ]
     },
     {
-      "title": "How AI is changing software pricing",
-      "url": "https://www.infoworld.com/article/4237997/how-ai-is-changing-software-pricing.html",
-      "published": "Wed, 21 Oct 2026 09:00:00 +0000",
-      "summary": "In 2026, the AI monetization conversation has shifted quickly from one concern to the next. Early in the year, fears that AI agents would erode software seats helped trigger a selloff of software stocks dubbed the “SaaSpocalypse.” Since then, attention has turned to a different disruption, as AI leaders including Anthropic , OpenAI, and GitHub lean",
-      "source": "InfoWorld",
-      "source_category": "Journalism",
-      "topic": "AI & Emerging Tech",
-      "score": 10,
-      "sources": [
-        {
-          "name": "InfoWorld",
-          "url": "https://www.infoworld.com/article/4237997/how-ai-is-changing-software-pricing.html"
-        }
-      ]
-    },
-    {
-      "title": "US bans DeepSeek across federal agencies, putting AI supply chains under scrutiny",
-      "url": "https://www.infoworld.com/article/4238150/us-bans-deepseek-across-federal-agencies-putting-ai-supply-chains-under-scrutiny-3.html",
-      "published": "Wed, 21 Oct 2026 01:59:19 +0000",
-      "summary": "DeepSeek has been dealt a huge blow in the US, even as it continues to innovate and keep pace with, or in some cases outperform, rival models from American labs. The US Secretary of Homeland Security has issued an order banning all DeepSeek products and services from federal agencies. Government organizations must purge their IT systems of it withi",
-      "source": "InfoWorld",
-      "source_category": "Journalism",
-      "topic": "Cybersecurity",
-      "score": 10,
-      "sources": [
-        {
-          "name": "InfoWorld",
-          "url": "https://www.infoworld.com/article/4238150/us-bans-deepseek-across-federal-agencies-putting-ai-supply-chains-under-scrutiny-3.html"
-        }
-      ]
-    },
-    {
       "title": "IEEE Report Predicts Tech That Will Transform Lives",
       "url": "https://spectrum.ieee.org/ieee-report-predicts-tech",
       "published": "Wed, 07 Oct 2026 18:00:02 +0000",
@@ -85,6 +53,22 @@
       ]
     },
     {
+      "title": "Digital sovereignty as a design requirement",
+      "url": "https://www.infoworld.com/article/4240607/digital-sovereignty-as-a-design-requirement.html",
+      "published": "Tue, 27 Oct 2026 09:00:00 +0000",
+      "summary": "Digital sovereignty has moved from a policy discussion to a practical enterprise cloud computing problem. For years, most organizations treated public cloud as a location-flexible utility. They placed workloads where performance, price, managed services, and availability looked best. Data residency requirements existed, of course, but they were oft",
+      "source": "InfoWorld",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 10,
+      "sources": [
+        {
+          "name": "InfoWorld",
+          "url": "https://www.infoworld.com/article/4240607/digital-sovereignty-as-a-design-requirement.html"
+        }
+      ]
+    },
+    {
       "title": "Scaling Kubernetes Workloads with Node Swap",
       "url": "https://kubernetes.io/blog/2026/10/05/scaling-kubernetes-workloads-with-node-swap/",
       "published": "Mon, 05 Oct 2026 10:00:00 -0800",
@@ -97,6 +81,22 @@
         {
           "name": "Kubernetes",
           "url": "https://kubernetes.io/blog/2026/10/05/scaling-kubernetes-workloads-with-node-swap/"
+        }
+      ]
+    },
+    {
+      "title": "PHP2Shell exposes the weakness in coordinated vulnerability disclosure",
+      "url": "https://www.infoworld.com/article/4239342/php2shell-exposes-the-weakness-in-coordinated-vulnerability-disclosure.html",
+      "published": "Fri, 23 Oct 2026 00:39:33 +0000",
+      "summary": "Two critical vulnerabilities discovered in the widely-used PHP programming language have shaken up enterprises, and the ramifications will take some time to truly understand. But one of the lesser-known stories centers around disclosure. According to The PHP Foundation , several organizations had agreed to a coordinated release detailing the critic",
+      "source": "InfoWorld",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 10,
+      "sources": [
+        {
+          "name": "InfoWorld",
+          "url": "https://www.infoworld.com/article/4239342/php2shell-exposes-the-weakness-in-coordinated-vulnerability-disclosure.html"
         }
       ]
     },
@@ -213,22 +213,6 @@
       ]
     },
     {
-      "title": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
-      "url": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
-      "published": "Sat, 24 Oct 2026 11:55:57 +0530",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two vulnerabilities impacting Collabora Online Built-in CODE Server and Arista VeloCloud Orchestrator (VCO) to its Known Exploited Vulnerabilities (KEV), citing reports of active exploitation in the wild. The critical-severity vulnerabilities are listed below - CVE-202",
-      "source": "The Hacker News",
-      "source_category": "Journalism",
-      "topic": "Cybersecurity",
-      "score": 9,
-      "sources": [
-        {
-          "name": "The Hacker News",
-          "url": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html"
-        }
-      ]
-    },
-    {
       "title": "How Wikipedia’s Editors Keep the Online Encyclopedia Human-Written",
       "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
       "published": "Wed, 21 Oct 2026 13:00:02 +0000",
@@ -273,22 +257,6 @@
         {
           "name": "MeriTalk",
           "url": "https://www.meritalk.com/building-cybersecurity-into-the-foundation-of-ai-export-controls/"
-        }
-      ]
-    },
-    {
-      "title": "Changing Your Career Isn’t Easy",
-      "url": "https://spectrum.ieee.org/career-pivots-for-software-engineers",
-      "published": "Wed, 07 Oct 2026 17:04:02 +0000",
-      "summary": "This article is crossposted from IEEE Spectrum ’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written i n partnership with tech career development company Parsity and delivered to your inbox for free! When I changed careers at 30 to become a software engineer, I expected it to be hard. I expected to",
-      "source": "IEEE Spectrum",
-      "source_category": "Research",
-      "topic": "AI & Emerging Tech",
-      "score": 8,
-      "sources": [
-        {
-          "name": "IEEE Spectrum",
-          "url": "https://spectrum.ieee.org/career-pivots-for-software-engineers"
         }
       ]
     },
@@ -357,6 +325,38 @@
       ]
     },
     {
+      "title": "What took the Internet offline in Q3 2026",
+      "url": "https://blog.cloudflare.com/q3-2026-internet-disruption-summary/",
+      "published": "Tue, 27 Oct 2026 13:00:00 GMT",
+      "summary": "An examination of global Internet disruptions observed by Cloudflare Radar during the third quarter of 2026. This review analyzes how power failures, natural disasters, and government shutdowns impacted network connectivity and traffic.",
+      "source": "Cloudflare",
+      "source_category": "Vendor",
+      "topic": "Cloud & Infrastructure",
+      "score": 7,
+      "sources": [
+        {
+          "name": "Cloudflare",
+          "url": "https://blog.cloudflare.com/q3-2026-internet-disruption-summary/"
+        }
+      ]
+    },
+    {
+      "title": "From federal SOCs to Talos: Ryan Fetterman on practical security research",
+      "url": "https://blog.talosintelligence.com/from-federal-socs-to-talos-ryan-fetterman-on-practical-security-research/",
+      "published": "Tue, 27 Oct 2026 10:00:21 GMT",
+      "summary": "What does it mean to be \"blue collar\" for the blue team? Ryan Fetterman discusses the realities of detection engineering, and shares his philosophy on building a career in security without burning out.",
+      "source": "Cisco Talos",
+      "source_category": "Research",
+      "topic": "Cybersecurity",
+      "score": 7,
+      "sources": [
+        {
+          "name": "Cisco Talos",
+          "url": "https://blog.talosintelligence.com/from-federal-socs-to-talos-ryan-fetterman-on-practical-security-research/"
+        }
+      ]
+    },
+    {
       "title": "NIST Finalizes Guidelines on Protecting Online Identity and Access Tokens From Misuse",
       "url": "https://www.nist.gov/news-events/news/2026/09/nist-finalizes-guidelines-protecting-online-identity-and-access-tokens",
       "published": "Tue, 15 Sep 2026 12:00:00 +0000",
@@ -421,6 +421,22 @@
       ]
     },
     {
+      "title": "This Hidden Device Could Free Up Gigawatts of Grid Power",
+      "url": "https://spectrum.ieee.org/variable-frequency-drives",
+      "published": "Sat, 17 Oct 2026 13:00:02 +0000",
+      "summary": "This article was originally published by Canary Media . America’s energy supply crunch is driving a surge of federal and private investment in new electricity generation —from polluting gas turbines to cleaner developments like solar farms and geothermal plants . But gigawatts of power are already available for the taking across the U.S. economy in",
+      "source": "IEEE Spectrum",
+      "source_category": "Research",
+      "topic": "Cloud & Infrastructure",
+      "score": 7,
+      "sources": [
+        {
+          "name": "IEEE Spectrum",
+          "url": "https://spectrum.ieee.org/variable-frequency-drives"
+        }
+      ]
+    },
+    {
       "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
       "url": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
       "published": "Sat, 10 Oct 2026 00:17:42 +0000",
@@ -453,10 +469,10 @@
       ]
     },
     {
-      "title": "AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise",
-      "url": "https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/",
-      "published": "Wed, 21 Oct 2026 18:23:55 +0000",
-      "summary": "Storm-0940 used ARTEX agentic AI to accelerate a ConnectWise supply chain compromise, enabling application credential abuse across Microsoft 365 environments. The post AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise appeared first on Microsoft Security Blog .",
+      "title": "​​Secure what’s next: Your guide to Microsoft Security at Microsoft Ignite 2026",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/30/secure-whats-next-your-guide-to-microsoft-security-at-microsoft-ignite-2026/",
+      "published": "Wed, 30 Sep 2026 19:31:00 +0000",
+      "summary": "This year at Microsoft Ignite, we spotlight our AI-first, end-to-end security platform designed to protect identities, devices, data, applications, clouds, infrastructure, and the AI agents now working alongside your teams. The post ​​Secure what’s next: Your guide to Microsoft Security at Microsoft Ignite 2026 appeared first on Microsoft Security ",
       "source": "Microsoft Security",
       "source_category": "Vendor",
       "topic": "Cybersecurity",
@@ -464,7 +480,7 @@
       "sources": [
         {
           "name": "Microsoft Security",
-          "url": "https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/"
+          "url": "https://www.microsoft.com/en-us/security/blog/2026/09/30/secure-whats-next-your-guide-to-microsoft-security-at-microsoft-ignite-2026/"
         }
       ]
     },
@@ -649,6 +665,22 @@
       ]
     },
     {
+      "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
+      "url": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
+      "published": "Sun, 25 Oct 2026 12:24:29 +0530",
+      "summary": "OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal inference of its most advanced AI models. \"Based on the current state of alignment research, monitoring systems, and the security of internet infrastructure, we believe the responsible approach ",
+      "source": "The Hacker News",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 6,
+      "sources": [
+        {
+          "name": "The Hacker News",
+          "url": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html"
+        }
+      ]
+    },
+    {
       "title": "Navigating Open Source Software Development in the Generative AI Era: Balancing Velocity and Community Health",
       "url": "https://www.linuxfoundation.org/blog/navigating-open-source-software-development-in-the-generative-ai-era-balancing-velocity-and-community-health",
       "published": "Mon, 26 Oct 2026 17:51:16 GMT",
@@ -745,22 +777,6 @@
       ]
     },
     {
-      "title": "The hidden network: Inside the phishing infrastructure ecosystem powering global cybercrime",
-      "url": "https://www.microsoft.com/en-us/security/blog/2026/10/14/the-hidden-network-inside-the-phishing-infrastructure-ecosystem-powering-global-cybercrime/",
-      "published": "Wed, 14 Oct 2026 13:00:00 +0000",
-      "summary": "Microsoft uncovered a Chinese-language cybercriminal ecosystem, an interconnected network of phishing kit operators (tracked as Storm-2990), and an illicit marketplace (tracked as Storm-3119) selling tools and infrastructure for large-scale phishing. In collaboration with law enforcement agencies and other partners worldwide, Microsoft’s Digital Cr",
-      "source": "Microsoft Security",
-      "source_category": "Vendor",
-      "topic": "Cybersecurity",
-      "score": 5,
-      "sources": [
-        {
-          "name": "Microsoft Security",
-          "url": "https://www.microsoft.com/en-us/security/blog/2026/10/14/the-hidden-network-inside-the-phishing-infrastructure-ecosystem-powering-global-cybercrime/"
-        }
-      ]
-    },
-    {
       "title": "Evolution of Web3 in Cloud Supply Chain Attacks",
       "url": "https://unit42.paloaltonetworks.com/web3-cloud-supply-chain-attacks/",
       "published": "Wed, 07 Oct 2026 22:00:16 +0000",
@@ -773,6 +789,22 @@
         {
           "name": "Palo Alto Unit 42",
           "url": "https://unit42.paloaltonetworks.com/web3-cloud-supply-chain-attacks/"
+        }
+      ]
+    },
+    {
+      "title": "​​Beyond source code: A path to the keys to the kingdom",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/29/beyond-source-code-a-path-to-the-keys-to-the-kingdom/",
+      "published": "Tue, 29 Sep 2026 16:00:00 +0000",
+      "summary": "Explore how Storm-3068 turned a compromised identity into broader cloud access and the steps organizations can take to defend their identities, pipelines, and cloud infrastructure. The post ​​Beyond source code: A path to the keys to the kingdom appeared first on Microsoft Security Blog .",
+      "source": "Microsoft Security",
+      "source_category": "Vendor",
+      "topic": "Cybersecurity",
+      "score": 5,
+      "sources": [
+        {
+          "name": "Microsoft Security",
+          "url": "https://www.microsoft.com/en-us/security/blog/2026/09/29/beyond-source-code-a-path-to-the-keys-to-the-kingdom/"
         }
       ]
     },
@@ -793,18 +825,34 @@
       ]
     },
     {
-      "title": "Pentagon sued over data breach affecting more than 3 million people",
-      "url": "https://federalnewsnetwork.com/defense-news/2026/10/pentagon-sued-over-data-breach-affecting-more-than-3-million-people/",
-      "published": "Thu, 22 Oct 2026 23:03:20 +0000",
-      "summary": "The lawsuit argues that DoD knew about problems with its cybersecurity practices but continued to “intentionally disregard its cybersecurity responsibilities.”",
+      "title": "UK ministers had plenty of time for AI datacenter bosses, but none for environmental groups",
+      "url": "https://www.theregister.com/on-prem/2026/10/27/uk-ministers-had-plenty-of-time-for-ai-datacenter-bosses-but-none-for-environmental-groups/5305654",
+      "published": "Tue, 27 Oct 2026 11:00:00 +0000",
+      "summary": "Investigation finds businesses dominated govt meetings while communities were left out of decisions about AI Growth Zones",
+      "source": "The Register",
+      "source_category": "Journalism",
+      "topic": "AI & Emerging Tech",
+      "score": 5,
+      "sources": [
+        {
+          "name": "The Register",
+          "url": "https://www.theregister.com/on-prem/2026/10/27/uk-ministers-had-plenty-of-time-for-ai-datacenter-bosses-but-none-for-environmental-groups/5305654"
+        }
+      ]
+    },
+    {
+      "title": "DoD issues guidance for procuring ‘unbiased’ AI systems",
+      "url": "https://federalnewsnetwork.com/contracting/2026/10/dod-issues-guidance-for-procuring-unbiased-ai-systems/",
+      "published": "Mon, 26 Oct 2026 22:51:17 +0000",
+      "summary": "New guidance advances President Donald Trump’s agenda to “prevent woke AI” in the federal government.",
       "source": "Federal News Network",
       "source_category": "Federal IT",
-      "topic": "Cybersecurity",
+      "topic": "AI & Emerging Tech",
       "score": 5,
       "sources": [
         {
           "name": "Federal News Network",
-          "url": "https://federalnewsnetwork.com/defense-news/2026/10/pentagon-sued-over-data-breach-affecting-more-than-3-million-people/"
+          "url": "https://federalnewsnetwork.com/contracting/2026/10/dod-issues-guidance-for-procuring-unbiased-ai-systems/"
         }
       ]
     },
@@ -941,6 +989,38 @@
       ]
     },
     {
+      "title": "Massive Groups of Volunteers Are Ready to Face Down ICE at the Polls",
+      "url": "https://www.wired.com/story/massive-groups-of-volunteers-are-ready-to-face-down-ice-at-the-polls/",
+      "published": "Tue, 27 Oct 2026 10:15:00 +0000",
+      "summary": "From heat maps to Signal chats to war rooms, volunteers across the US are ready to act if federal immigration agents show up on Election Day.",
+      "source": "WIRED",
+      "source_category": "Journalism",
+      "topic": "Federal IT & Policy",
+      "score": 4,
+      "sources": [
+        {
+          "name": "WIRED",
+          "url": "https://www.wired.com/story/massive-groups-of-volunteers-are-ready-to-face-down-ice-at-the-polls/"
+        }
+      ]
+    },
+    {
+      "title": "How to Hide Your Baby From the Government",
+      "url": "https://www.wired.com/story/the-rise-of-sovereign-babies/",
+      "published": "Tue, 27 Oct 2026 10:00:00 +0000",
+      "summary": "“Sovereign citizens” think they can live beyond the reach of the state. Now the movement has influencers—and they’re selling all sorts of anarchist courses to expectant families.",
+      "source": "WIRED",
+      "source_category": "Journalism",
+      "topic": "Federal IT & Policy",
+      "score": 4,
+      "sources": [
+        {
+          "name": "WIRED",
+          "url": "https://www.wired.com/story/the-rise-of-sovereign-babies/"
+        }
+      ]
+    },
+    {
       "title": "Designing an AI serving harness built to last",
       "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
       "published": "Thu, 22 Oct 2026 21:17:29 +0000",
@@ -953,22 +1033,6 @@
         {
           "name": "MIT Technology Review",
           "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/"
-        }
-      ]
-    },
-    {
-      "title": "Making the case for context-aware AI",
-      "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
-      "published": "Thu, 22 Oct 2026 10:00:00 +0000",
-      "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one. As companies look to move AI from experimentation into everyda",
-      "source": "MIT Technology Review",
-      "source_category": "Research",
-      "topic": "AI & Emerging Tech",
-      "score": 4,
-      "sources": [
-        {
-          "name": "MIT Technology Review",
-          "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/"
         }
       ]
     },
@@ -1021,6 +1085,22 @@
       ]
     },
     {
+      "title": "Government efficiency starts before the work begins",
+      "url": "https://federalnewsnetwork.com/commentary/2026/10/government-efficiency-starts-before-the-work-begins/",
+      "published": "Mon, 26 Oct 2026 22:21:35 +0000",
+      "summary": "The objective is straightforward: Stop unnecessary work at the source rather than making government more efficient at handling it.",
+      "source": "Federal News Network",
+      "source_category": "Federal IT",
+      "topic": "Federal IT & Policy",
+      "score": 4,
+      "sources": [
+        {
+          "name": "Federal News Network",
+          "url": "https://federalnewsnetwork.com/commentary/2026/10/government-efficiency-starts-before-the-work-begins/"
+        }
+      ]
+    },
+    {
       "title": "The Partners Who Set the Pace: Our FY26 Global Award Winners",
       "url": "https://blogs.cisco.com/partner/the-partners-who-set-the-pace-our-fy26-global-award-winners",
       "published": "Mon, 26 Oct 2026 22:00:01 +0000",
@@ -1049,6 +1129,22 @@
         {
           "name": "FedScoop",
           "url": "https://fedscoop.com/records-show-white-house-doge-involvement-in-national-science-foundation-grant-terminations/"
+        }
+      ]
+    },
+    {
+      "title": "Citizen reports of problems with government programs can reveal larger issues",
+      "url": "https://federalnewsnetwork.com/congress/2026/10/citizen-reports-of-problems-with-government-programs-can-reveal-larger-issues/",
+      "published": "Mon, 26 Oct 2026 21:32:18 +0000",
+      "summary": "\"We're seeing higher demand from constituents for that level of support from their elected leaders than ever before,\" said Anne Meeker.",
+      "source": "Federal News Network",
+      "source_category": "Federal IT",
+      "topic": "Federal IT & Policy",
+      "score": 4,
+      "sources": [
+        {
+          "name": "Federal News Network",
+          "url": "https://federalnewsnetwork.com/congress/2026/10/citizen-reports-of-problems-with-government-programs-can-reveal-larger-issues/"
         }
       ]
     },
@@ -1085,22 +1181,6 @@
       ]
     },
     {
-      "title": "Details emerge on revisions to paid administrative leave regulations",
-      "url": "https://federalnewsnetwork.com/federal-newscast/2026/10/details-emerge-on-revisions-to-paid-administrative-leave-regulations/",
-      "published": "Mon, 26 Oct 2026 17:59:02 +0000",
-      "summary": "OPM is expected to soon update other online resources to reflect the new regulations.",
-      "source": "Federal News Network",
-      "source_category": "Federal IT",
-      "topic": "Federal IT & Policy",
-      "score": 4,
-      "sources": [
-        {
-          "name": "Federal News Network",
-          "url": "https://federalnewsnetwork.com/federal-newscast/2026/10/details-emerge-on-revisions-to-paid-administrative-leave-regulations/"
-        }
-      ]
-    },
-    {
       "title": "Anthropic officially files for its public debut",
       "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
       "published": "Mon, 26 Oct 2026 14:35:22 +0000",
@@ -1133,22 +1213,6 @@
       ]
     },
     {
-      "title": "Federal Movers & Shakers | October 23, 2026",
-      "url": "https://federalnewsnetwork.com/leadership-connect/2026/10/federal-movers-shakers-october-23/",
-      "published": "Fri, 23 Oct 2026 22:40:42 +0000",
-      "summary": "Tracking leadership changes across the federal government",
-      "source": "Federal News Network",
-      "source_category": "Federal IT",
-      "topic": "Federal IT & Policy",
-      "score": 4,
-      "sources": [
-        {
-          "name": "Federal News Network",
-          "url": "https://federalnewsnetwork.com/leadership-connect/2026/10/federal-movers-shakers-october-23/"
-        }
-      ]
-    },
-    {
       "title": "Inside the Pentagon, the pressure is on to find a home for a new spaceport",
       "url": "https://arstechnica.com/space/2026/10/senior-commander-says-space-force-needs-new-spaceport-by-2030/",
       "published": "Fri, 23 Oct 2026 19:33:58 +0000",
@@ -1161,22 +1225,6 @@
         {
           "name": "Ars Technica",
           "url": "https://arstechnica.com/space/2026/10/senior-commander-says-space-force-needs-new-spaceport-by-2030/"
-        }
-      ]
-    },
-    {
-      "title": "Bringing post-quantum cryptography to geographically fenced key management",
-      "url": "https://blog.cloudflare.com/post-quantum-geo-key-manager/",
-      "published": "Fri, 23 Oct 2026 18:06:56 GMT",
-      "summary": "Cloudflare's new post-quantum GeoKey Manager protects geographically fenced decryption keys from harvest now, decrypt later attacks. Learn how we redesigned our cryptography stack to support strict data sovereignty in a post-quantum world.",
-      "source": "Cloudflare",
-      "source_category": "Vendor",
-      "topic": "AI & Emerging Tech",
-      "score": 4,
-      "sources": [
-        {
-          "name": "Cloudflare",
-          "url": "https://blog.cloudflare.com/post-quantum-geo-key-manager/"
         }
       ]
     },
@@ -1261,18 +1309,18 @@
       ]
     },
     {
-      "title": "Two critical RCEs in PHP core",
-      "url": "https://blog.talosintelligence.com/two-critical-rces-in-php-core/",
-      "published": "Wed, 21 Oct 2026 15:10:53 GMT",
-      "summary": "Two critical remote code execution vulnerabilities in PHP core could have implications across its wider ecosystem. Talos has published a blog to explain what we know so far, and details the Snort coverage available, including rules in the Community Ruleset.",
-      "source": "Cisco Talos",
-      "source_category": "Research",
-      "topic": "Cybersecurity",
+      "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
+      "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
+      "published": "Tue, 27 Oct 2026 13:00:00 +0000",
+      "summary": "General Compute is betting on inference chips from outside the Nvidia ecosystem.",
+      "source": "TechCrunch",
+      "source_category": "Journalism",
+      "topic": "Cloud & Infrastructure",
       "score": 3,
       "sources": [
         {
-          "name": "Cisco Talos",
-          "url": "https://blog.talosintelligence.com/two-critical-rces-in-php-core/"
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/"
         }
       ]
     },
@@ -1341,38 +1389,6 @@
       ]
     },
     {
-      "title": "Databricks co-founder shares his secrets for winning big enterprise customers",
-      "url": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/",
-      "published": "Mon, 26 Oct 2026 22:00:00 +0000",
-      "summary": "Turns out selling to big companies isn’t about having the shiniest tech: It’s about hitching a ride on a giant’s sales team.",
-      "source": "TechCrunch",
-      "source_category": "Journalism",
-      "topic": "Enterprise Technology",
-      "score": 3,
-      "sources": [
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/"
-        }
-      ]
-    },
-    {
-      "title": "Microsoft releases emergency .NET security fixes for Google Brotli bug",
-      "url": "https://www.theregister.com/security/2026/10/26/microsoft-releases-emergency-net-security-fixes-for-google-brotli-bug/5305515",
-      "published": "Mon, 26 Oct 2026 17:58:00 +0000",
-      "summary": "Redmond joins growing list of software maintainers scrambling to patch compression flaw",
-      "source": "The Register",
-      "source_category": "Journalism",
-      "topic": "Cybersecurity",
-      "score": 3,
-      "sources": [
-        {
-          "name": "The Register",
-          "url": "https://www.theregister.com/security/2026/10/26/microsoft-releases-emergency-net-security-fixes-for-google-brotli-bug/5305515"
-        }
-      ]
-    },
-    {
       "title": "(Reliable)? php2shell exploitability, (Fri, Oct 23rd)",
       "url": "https://isc.sans.edu/diary/rss/33452",
       "published": "Fri, 23 Oct 2026 20:04:47 GMT",
@@ -1433,22 +1449,6 @@
         {
           "name": "ZDNET",
           "url": "https://www.zdnet.com/tech/microsoft-october-windows-update-disables-security-setting-workaround/"
-        }
-      ]
-    },
-    {
-      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
-      "published": "Wed, 21 Oct 2026 16:04:43 GMT",
-      "summary": "",
-      "source": "Hugging Face",
-      "source_category": "Vendor",
-      "topic": "Cloud & Infrastructure",
-      "score": 2,
-      "sources": [
-        {
-          "name": "Hugging Face",
-          "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1"
         }
       ]
     }
