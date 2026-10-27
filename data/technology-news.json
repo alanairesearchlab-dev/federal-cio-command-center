@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-10-27T13:11:28+00:00",
+  "retrieved_at": "2026-10-27T17:08:30+00:00",
   "candidate_sources": 40,
   "successful_sources": 34,
   "collected_articles": 589,
@@ -17,38 +17,6 @@
         {
           "name": "MeriTalk",
           "url": "https://www.meritalk.com/the-first-federal-guidance-on-ai-agents-is-here-most-agencies-cant-meet-it-yet/"
-        }
-      ]
-    },
-    {
-      "title": "Two critical PHP flaws put the web on alert as emergency patches arrive",
-      "url": "https://www.infoworld.com/article/4238778/two-critical-php-flaws-put-the-web-on-alert-as-emergency-patches-arrive-2.html",
-      "published": "Wed, 21 Oct 2026 22:54:34 +0000",
-      "summary": "Organizations are scrambling to protect themselves following the disclosure of two critical vulnerabilities in commonly used code that powers much of the internet. The flaws discovered in the PHP scripting language could allow attackers to perform unauthenticated remote code execution (RCE). On Wednesday morning, the PHP Foundation released patches",
-      "source": "InfoWorld",
-      "source_category": "Journalism",
-      "topic": "Cybersecurity",
-      "score": 10,
-      "sources": [
-        {
-          "name": "InfoWorld",
-          "url": "https://www.infoworld.com/article/4238778/two-critical-php-flaws-put-the-web-on-alert-as-emergency-patches-arrive-2.html"
-        }
-      ]
-    },
-    {
-      "title": "IEEE Report Predicts Tech That Will Transform Lives",
-      "url": "https://spectrum.ieee.org/ieee-report-predicts-tech",
-      "published": "Wed, 07 Oct 2026 18:00:02 +0000",
-      "summary": "By 2028, genetic engineering and gene therapy will be used frequently to treat a variety of diseases, thanks to advances in artificial intelligence, according to the recently released 2030 Technology Megatrends Report from IEEE. “We are seeing a fundamental shift in how technology evolves,” says IEEE Fellow Dejan Milojicic , chair of the IEEE Futur",
-      "source": "IEEE Spectrum",
-      "source_category": "Research",
-      "topic": "Cybersecurity",
-      "score": 10,
-      "sources": [
-        {
-          "name": "IEEE Spectrum",
-          "url": "https://spectrum.ieee.org/ieee-report-predicts-tech"
         }
       ]
     },
@@ -261,6 +229,38 @@
       ]
     },
     {
+      "title": "Your Robot’s Safety Functions Already Work. What If the Input Lies?",
+      "url": "https://spectrum.ieee.org/ai-robot-safety-cybersecurity-vicone",
+      "published": "Tue, 27 Oct 2026 16:14:39 +0000",
+      "summary": "This article is brought to you by VicOne . A mobile robot slows for someone in a hallway. A collaborative arm eases its movement as a worker approaches. A humanoid pauses to let a person pass. Each response depends on information about the robot or its surroundings: a distance reading, a position estimate, or a stop signal. But what happens when on",
+      "source": "IEEE Spectrum",
+      "source_category": "Research",
+      "topic": "Cybersecurity",
+      "score": 8,
+      "sources": [
+        {
+          "name": "IEEE Spectrum",
+          "url": "https://spectrum.ieee.org/ai-robot-safety-cybersecurity-vicone"
+        }
+      ]
+    },
+    {
+      "title": "OpenAI bets on AI economics with lower-cost GPT-6.1 Terra",
+      "url": "https://www.infoworld.com/article/4241006/openai-bets-on-ai-economics-with-lower-cost-gpt-6-1-terra.html",
+      "published": "Tue, 27 Oct 2026 12:01:56 +0000",
+      "summary": "OpenAI has launched GPT-6.1 Terra, a new reasoning model that it says delivers near-frontier performance on visual reasoning, professional task execution, and computer-use benchmarks without the premium price tag. Replacing GPT-5.6 Terra, the model is aimed at organizations seeking better accuracy and automation capabilities for large-scale operati",
+      "source": "InfoWorld",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 8,
+      "sources": [
+        {
+          "name": "InfoWorld",
+          "url": "https://www.infoworld.com/article/4241006/openai-bets-on-ai-economics-with-lower-cost-gpt-6-1-terra.html"
+        }
+      ]
+    },
+    {
       "title": "NIST Mathematical Proof Supports Transition to a Continuous-Monitor-and-Update Security Model for AI Systems",
       "url": "https://www.nist.gov/news-events/news/2026/06/nist-mathematical-proof-supports-transition-continuous-monitor-and-update",
       "published": "Tue, 09 Jun 2026 12:00:00 +0000",
@@ -469,10 +469,10 @@
       ]
     },
     {
-      "title": "​​Secure what’s next: Your guide to Microsoft Security at Microsoft Ignite 2026",
-      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/30/secure-whats-next-your-guide-to-microsoft-security-at-microsoft-ignite-2026/",
-      "published": "Wed, 30 Sep 2026 19:31:00 +0000",
-      "summary": "This year at Microsoft Ignite, we spotlight our AI-first, end-to-end security platform designed to protect identities, devices, data, applications, clouds, infrastructure, and the AI agents now working alongside your teams. The post ​​Secure what’s next: Your guide to Microsoft Security at Microsoft Ignite 2026 appeared first on Microsoft Security ",
+      "title": "AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/",
+      "published": "Wed, 21 Oct 2026 18:23:55 +0000",
+      "summary": "Storm-0940 used ARTEX agentic AI to accelerate a ConnectWise supply chain compromise, enabling application credential abuse across Microsoft 365 environments. The post AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise appeared first on Microsoft Security Blog .",
       "source": "Microsoft Security",
       "source_category": "Vendor",
       "topic": "Cybersecurity",
@@ -480,7 +480,7 @@
       "sources": [
         {
           "name": "Microsoft Security",
-          "url": "https://www.microsoft.com/en-us/security/blog/2026/09/30/secure-whats-next-your-guide-to-microsoft-security-at-microsoft-ignite-2026/"
+          "url": "https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/"
         }
       ]
     },
@@ -533,6 +533,22 @@
         {
           "name": "Cisco Talos",
           "url": "https://blog.talosintelligence.com/one-breach-please-and-make-no-mistakes/"
+        }
+      ]
+    },
+    {
+      "title": "CISA confirms PHP2Shell under attack as researchers clock successful exploits",
+      "url": "https://www.theregister.com/cyber-crime/2026/10/27/cisa-confirms-php2shell-under-attack-as-researchers-clock-successful-exploits/5305681",
+      "published": "Tue, 27 Oct 2026 14:45:00 +0000",
+      "summary": "Both critical PHP flaws land on the agency’s exploited list as infosec pros confirm hackers are getting working shells",
+      "source": "The Register",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 6,
+      "sources": [
+        {
+          "name": "The Register",
+          "url": "https://www.theregister.com/cyber-crime/2026/10/27/cisa-confirms-php2shell-under-attack-as-researchers-clock-successful-exploits/5305681"
         }
       ]
     },
@@ -713,22 +729,6 @@
       ]
     },
     {
-      "title": "Transforming Bedrock Guardrails events into OCSF with CloudWatch",
-      "url": "https://aws.amazon.com/blogs/security/transforming-bedrock-guardrails-events-into-ocsf-with-cloudwatch/",
-      "published": "Mon, 21 Sep 2026 15:33:25 +0000",
-      "summary": "Security teams investigating possible AI-related security events need guardrail intervention data alongside their existing security telemetry. When a guardrail identifies or blocks a prompt injection attempt or redacts sensitive data, that intervention carries additional investigative value comparable to a failed sign-in or a network intrusion aler",
-      "source": "AWS Security",
-      "source_category": "Vendor",
-      "topic": "Cybersecurity",
-      "score": 6,
-      "sources": [
-        {
-          "name": "AWS Security",
-          "url": "https://aws.amazon.com/blogs/security/transforming-bedrock-guardrails-events-into-ocsf-with-cloudwatch/"
-        }
-      ]
-    },
-    {
       "title": "Designing for sovereign AI: A shared foundation from edge to cloud",
       "url": "https://azure.microsoft.com/en-us/blog/designing-for-sovereign-ai-a-shared-foundation-from-edge-to-cloud/",
       "published": "Mon, 19 Oct 2026 19:00:00 +0000",
@@ -741,6 +741,22 @@
         {
           "name": "Microsoft Azure",
           "url": "https://azure.microsoft.com/en-us/blog/designing-for-sovereign-ai-a-shared-foundation-from-edge-to-cloud/"
+        }
+      ]
+    },
+    {
+      "title": "Quantum-resistant signing on AWS, Part 2: Enforce your ML-DSA algorithm policy with SCPs and IAM",
+      "url": "https://aws.amazon.com/blogs/security/quantum-resistant-signing-on-aws-part-2-enforce-your-ml-dsa-algorithm-policy-with-scps-and-iam/",
+      "published": "Mon, 12 Oct 2026 20:13:06 +0000",
+      "summary": "You want to set a cryptographic algorithm policy and stop non-compliant choices from being made in your Amazon Web Services (AWS) environment. This post shows you how. As you adopt post-quantum cryptography, one of the first decisions you face is which algorithms and parameter sets fit your business needs, balancing security against signature size,",
+      "source": "AWS Security",
+      "source_category": "Vendor",
+      "topic": "Cybersecurity",
+      "score": 6,
+      "sources": [
+        {
+          "name": "AWS Security",
+          "url": "https://aws.amazon.com/blogs/security/quantum-resistant-signing-on-aws-part-2-enforce-your-ml-dsa-algorithm-policy-with-scps-and-iam/"
         }
       ]
     },
@@ -777,6 +793,22 @@
       ]
     },
     {
+      "title": "The hidden network: Inside the phishing infrastructure ecosystem powering global cybercrime",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/10/14/the-hidden-network-inside-the-phishing-infrastructure-ecosystem-powering-global-cybercrime/",
+      "published": "Wed, 14 Oct 2026 13:00:00 +0000",
+      "summary": "Microsoft uncovered a Chinese-language cybercriminal ecosystem, an interconnected network of phishing kit operators (tracked as Storm-2990), and an illicit marketplace (tracked as Storm-3119) selling tools and infrastructure for large-scale phishing. In collaboration with law enforcement agencies and other partners worldwide, Microsoft’s Digital Cr",
+      "source": "Microsoft Security",
+      "source_category": "Vendor",
+      "topic": "Cybersecurity",
+      "score": 5,
+      "sources": [
+        {
+          "name": "Microsoft Security",
+          "url": "https://www.microsoft.com/en-us/security/blog/2026/10/14/the-hidden-network-inside-the-phishing-infrastructure-ecosystem-powering-global-cybercrime/"
+        }
+      ]
+    },
+    {
       "title": "Evolution of Web3 in Cloud Supply Chain Attacks",
       "url": "https://unit42.paloaltonetworks.com/web3-cloud-supply-chain-attacks/",
       "published": "Wed, 07 Oct 2026 22:00:16 +0000",
@@ -789,22 +821,6 @@
         {
           "name": "Palo Alto Unit 42",
           "url": "https://unit42.paloaltonetworks.com/web3-cloud-supply-chain-attacks/"
-        }
-      ]
-    },
-    {
-      "title": "​​Beyond source code: A path to the keys to the kingdom",
-      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/29/beyond-source-code-a-path-to-the-keys-to-the-kingdom/",
-      "published": "Tue, 29 Sep 2026 16:00:00 +0000",
-      "summary": "Explore how Storm-3068 turned a compromised identity into broader cloud access and the steps organizations can take to defend their identities, pipelines, and cloud infrastructure. The post ​​Beyond source code: A path to the keys to the kingdom appeared first on Microsoft Security Blog .",
-      "source": "Microsoft Security",
-      "source_category": "Vendor",
-      "topic": "Cybersecurity",
-      "score": 5,
-      "sources": [
-        {
-          "name": "Microsoft Security",
-          "url": "https://www.microsoft.com/en-us/security/blog/2026/09/29/beyond-source-code-a-path-to-the-keys-to-the-kingdom/"
         }
       ]
     },
@@ -837,6 +853,22 @@
         {
           "name": "The Register",
           "url": "https://www.theregister.com/on-prem/2026/10/27/uk-ministers-had-plenty-of-time-for-ai-datacenter-bosses-but-none-for-environmental-groups/5305654"
+        }
+      ]
+    },
+    {
+      "title": "Tailscale warns of SSH flaws allowing root privilege escalation",
+      "url": "https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/",
+      "published": "Tue, 27 Oct 2026 10:09:46 -0400",
+      "summary": "The Tailscale security team is working to patch almost a dozen security vulnerabilities that could be exploited to steal credentials, crash servers, gain root privileges, and more. [...]",
+      "source": "BleepingComputer",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 5,
+      "sources": [
+        {
+          "name": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/"
         }
       ]
     },
@@ -909,22 +941,6 @@
       ]
     },
     {
-      "title": "PHP2Shell security flaws now sucessfully exploited in the wild",
-      "url": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/",
-      "published": "Mon, 26 Oct 2026 05:19:57 -0400",
-      "summary": "Two critical RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619), collectively tracked as PHP2Shell, have been successfully exploited in the wild. [...]",
-      "source": "BleepingComputer",
-      "source_category": "Journalism",
-      "topic": "Cybersecurity",
-      "score": 5,
-      "sources": [
-        {
-          "name": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/"
-        }
-      ]
-    },
-    {
       "title": "How Commerce.com and Cloudflare are getting storefronts ready for AI agents",
       "url": "https://blog.cloudflare.com/webmcp-commerce/",
       "published": "Wed, 21 Oct 2026 13:00:00 GMT",
@@ -985,6 +1001,38 @@
         {
           "name": "Cisco Talos",
           "url": "https://blog.talosintelligence.com/break-the-silence-kazakhstan-nexus-uat-6275-targets-cis-government-organizations/"
+        }
+      ]
+    },
+    {
+      "title": "UK Home Office May Face Investigation Over Use of OpenAI Tech",
+      "url": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/",
+      "published": "Tue, 27 Oct 2026 15:10:26 +0000",
+      "summary": "A government watchdog is considering a probe into the Home Office’s use of ChatGPT technology to process asylum claims amid concerns over the tools’ accuracy and secrecy surrounding their use.",
+      "source": "WIRED",
+      "source_category": "Journalism",
+      "topic": "Federal IT & Policy",
+      "score": 4,
+      "sources": [
+        {
+          "name": "WIRED",
+          "url": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/"
+        }
+      ]
+    },
+    {
+      "title": "US government says hackers are now exploiting critical PHP web bugs",
+      "url": "https://techcrunch.com/2026/10/27/us-government-says-hackers-are-now-exploiting-critical-php-web-bugs/",
+      "published": "Tue, 27 Oct 2026 14:40:39 +0000",
+      "summary": "The U.S. government cyber agency warns that hackers have figured out a way to exploit the popular PHP software, used in 70% of the web's software.",
+      "source": "TechCrunch",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 4,
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/27/us-government-says-hackers-are-now-exploiting-critical-php-web-bugs/"
         }
       ]
     },
@@ -1181,54 +1229,6 @@
       ]
     },
     {
-      "title": "Anthropic officially files for its public debut",
-      "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
-      "published": "Mon, 26 Oct 2026 14:35:22 +0000",
-      "summary": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.",
-      "source": "TechCrunch",
-      "source_category": "Journalism",
-      "topic": "AI & Emerging Tech",
-      "score": 4,
-      "sources": [
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/"
-        }
-      ]
-    },
-    {
-      "title": "The US Government Is Hiding a Secret Court Ruling About How It Spies on Americans",
-      "url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
-      "published": "Mon, 26 Oct 2026 14:09:00 +0000",
-      "summary": "Two US senators say the Trump administration is breaking the law by withholding the FISA court decision while it presses Congress to renew America’s most sweeping surveillance program.",
-      "source": "WIRED",
-      "source_category": "Journalism",
-      "topic": "Federal IT & Policy",
-      "score": 4,
-      "sources": [
-        {
-          "name": "WIRED",
-          "url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/"
-        }
-      ]
-    },
-    {
-      "title": "Inside the Pentagon, the pressure is on to find a home for a new spaceport",
-      "url": "https://arstechnica.com/space/2026/10/senior-commander-says-space-force-needs-new-spaceport-by-2030/",
-      "published": "Fri, 23 Oct 2026 19:33:58 +0000",
-      "summary": "Space Force considering options: public-private, federal installation, state land.",
-      "source": "Ars Technica",
-      "source_category": "Journalism",
-      "topic": "Federal IT & Policy",
-      "score": 4,
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/10/senior-commander-says-space-force-needs-new-spaceport-by-2030/"
-        }
-      ]
-    },
-    {
       "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
       "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
       "published": "Fri, 23 Oct 2026 00:00:00 GMT",
@@ -1309,18 +1309,18 @@
       ]
     },
     {
-      "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
-      "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
-      "published": "Tue, 27 Oct 2026 13:00:00 +0000",
-      "summary": "General Compute is betting on inference chips from outside the Nvidia ecosystem.",
+      "title": "Japan internet giant GMO says hackers posted stolen customer data",
+      "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
+      "published": "Tue, 27 Oct 2026 13:32:57 +0000",
+      "summary": "Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach.",
       "source": "TechCrunch",
       "source_category": "Journalism",
-      "topic": "Cloud & Infrastructure",
+      "topic": "Cybersecurity",
       "score": 3,
       "sources": [
         {
           "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/"
+          "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/"
         }
       ]
     },
@@ -1337,22 +1337,6 @@
         {
           "name": "SANS Internet Storm Center",
           "url": "https://isc.sans.edu/diary/rss/33458"
-        }
-      ]
-    },
-    {
-      "title": "Japanese virtual desktop cloud hacked so hard it asks to be banned",
-      "url": "https://www.theregister.com/security/2026/10/27/japanese-virtual-desktop-cloud-hacked-so-hard-it-asks-to-be-banned/5305610",
-      "published": "Tue, 27 Oct 2026 01:06:22 +0000",
-      "summary": "CEO admits service used for foreign exchange trading had holes company was slow to fix",
-      "source": "The Register",
-      "source_category": "Journalism",
-      "topic": "Cloud & Infrastructure",
-      "score": 3,
-      "sources": [
-        {
-          "name": "The Register",
-          "url": "https://www.theregister.com/security/2026/10/27/japanese-virtual-desktop-cloud-hacked-so-hard-it-asks-to-be-banned/5305610"
         }
       ]
     },
@@ -1449,6 +1433,22 @@
         {
           "name": "ZDNET",
           "url": "https://www.zdnet.com/tech/microsoft-october-windows-update-disables-security-setting-workaround/"
+        }
+      ]
+    },
+    {
+      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+      "published": "Wed, 21 Oct 2026 16:04:43 GMT",
+      "summary": "",
+      "source": "Hugging Face",
+      "source_category": "Vendor",
+      "topic": "Cloud & Infrastructure",
+      "score": 2,
+      "sources": [
+        {
+          "name": "Hugging Face",
+          "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1"
         }
       ]
     }

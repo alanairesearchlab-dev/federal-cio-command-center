@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-10-27T13:11:28+00:00",
+  "retrieved_at": "2026-10-27T17:08:30+00:00",
   "items": [
     {
       "cve": "CVE-2026-109619",
@@ -8,19 +8,13 @@
       "date_added": "2026-10-26",
       "sources": [
         {
-          "title": "PHP2Shell security flaws now sucessfully exploited in the wild",
-          "url": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/",
-          "source": "BleepingComputer",
-          "kind": "news"
-        },
-        {
           "title": "PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware",
           "url": "https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html",
           "source": "The Hacker News",
           "kind": "news"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "note": "Exact CVE reference correlation, not independent confirmation of claims or agency exposure."
     },
     {
@@ -36,19 +30,13 @@
           "kind": "news"
         },
         {
-          "title": "PHP2Shell security flaws now sucessfully exploited in the wild",
-          "url": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/",
-          "source": "BleepingComputer",
-          "kind": "news"
-        },
-        {
           "title": "PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware",
           "url": "https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html",
           "source": "The Hacker News",
           "kind": "news"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "note": "Exact CVE reference correlation, not independent confirmation of claims or agency exposure."
     },
     {
@@ -66,8 +54,24 @@
       ],
       "source_count": 1,
       "note": "Exact CVE reference correlation, not independent confirmation of claims or agency exposure."
+    },
+    {
+      "cve": "CVE-2026-86950",
+      "vendor": "Apple",
+      "product": "Multiple Products",
+      "date_added": "2026-09-29",
+      "sources": [
+        {
+          "title": "Apple Backports Fix for Exploited CoreGraphics Flaw to Older iPhones and iPads",
+          "url": "https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html",
+          "source": "The Hacker News",
+          "kind": "news"
+        }
+      ],
+      "source_count": 1,
+      "note": "Exact CVE reference correlation, not independent confirmation of claims or agency exposure."
     }
   ],
-  "count": 3,
+  "count": 4,
   "note": "Exact CVE matching only. Multiple reports about one CVE do not represent multiple vulnerabilities."
 }
