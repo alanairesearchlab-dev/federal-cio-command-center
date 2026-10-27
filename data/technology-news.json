@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-10-27T01:11:11+00:00",
+  "retrieved_at": "2026-10-27T04:54:54+00:00",
   "candidate_sources": 40,
   "successful_sources": 34,
   "collected_articles": 589,
@@ -989,18 +989,18 @@
       ]
     },
     {
-      "title": "Want to build a UK datacenter? Please hold while Whitehall transfers you",
-      "url": "https://www.theregister.com/public-sector/2026/10/25/want-to-build-a-uk-datacenter-please-hold-while-whitehall-transfers-you/5304956",
-      "published": "Sun, 25 Oct 2026 10:39:00 +0000",
-      "summary": "Minister insists responsibilities are clear as construction, telecoms, and energy fall under separate departments",
+      "title": "OpenAI rolls out budget-priced mid-tier GPT-6.1 Terra",
+      "url": "https://www.theregister.com/ai-and-ml/2026/10/26/openai-rolls-out-budget-priced-mid-tier-gpt-61-terra/5305574",
+      "published": "Mon, 26 Oct 2026 23:08:59 +0000",
+      "summary": "Not a bombshell, but it rivals pricier models on some tasks at a tenth of Astra's API price",
       "source": "The Register",
       "source_category": "Journalism",
-      "topic": "Cloud & Infrastructure",
+      "topic": "AI & Emerging Tech",
       "score": 4,
       "sources": [
         {
           "name": "The Register",
-          "url": "https://www.theregister.com/public-sector/2026/10/25/want-to-build-a-uk-datacenter-please-hold-while-whitehall-transfers-you/5304956"
+          "url": "https://www.theregister.com/ai-and-ml/2026/10/26/openai-rolls-out-budget-priced-mid-tier-gpt-61-terra/5305574"
         }
       ]
     },
@@ -1261,6 +1261,38 @@
       ]
     },
     {
+      "title": "Apple Patches for October 2026, (Mon, Oct 26th)",
+      "url": "https://isc.sans.edu/diary/rss/33458",
+      "published": "Tue, 27 Oct 2026 02:09:55 GMT",
+      "summary": "Apple today released patches for 304 vulnerabilties. This number is still in line with prior Apple updates, and comes just about a month after the last apple update.",
+      "source": "SANS Internet Storm Center",
+      "source_category": "Research",
+      "topic": "Cybersecurity",
+      "score": 3,
+      "sources": [
+        {
+          "name": "SANS Internet Storm Center",
+          "url": "https://isc.sans.edu/diary/rss/33458"
+        }
+      ]
+    },
+    {
+      "title": "Japanese virtual desktop cloud hacked so hard it asks to be banned",
+      "url": "https://www.theregister.com/security/2026/10/27/japanese-virtual-desktop-cloud-hacked-so-hard-it-asks-to-be-banned/5305610",
+      "published": "Tue, 27 Oct 2026 01:06:22 +0000",
+      "summary": "CEO admits service used for foreign exchange trading had holes company was slow to fix",
+      "source": "The Register",
+      "source_category": "Journalism",
+      "topic": "Cloud & Infrastructure",
+      "score": 3,
+      "sources": [
+        {
+          "name": "The Register",
+          "url": "https://www.theregister.com/security/2026/10/27/japanese-virtual-desktop-cloud-hacked-so-hard-it-asks-to-be-banned/5305610"
+        }
+      ]
+    },
+    {
       "title": "How bug bounty sharpens one researcher’s security skills",
       "url": "https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/",
       "published": "Thu, 22 Oct 2026 17:21:30 +0000",
@@ -1273,22 +1305,6 @@
         {
           "name": "GitHub Blog",
           "url": "https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/"
-        }
-      ]
-    },
-    {
-      "title": "Will AI expose the rickety infrastructure of the internet?",
-      "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
-      "published": "Sat, 24 Oct 2026 20:15:33 +0000",
-      "summary": "The moment you realize the internet is \"held together by glue and dreams.\"",
-      "source": "TechCrunch",
-      "source_category": "Journalism",
-      "topic": "AI & Emerging Tech",
-      "score": 3,
-      "sources": [
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/"
         }
       ]
     },
@@ -1325,18 +1341,18 @@
       ]
     },
     {
-      "title": "Apple Patches for October 2026, (Mon, Oct 26th)",
-      "url": "https://isc.sans.edu/diary/rss/33458",
-      "published": "Mon, 26 Oct 2026 23:34:37 GMT",
-      "summary": "Apple today released patches for 304 vulnerabilties. This number is still in line with prior Apple updates, and comes just about a month after the last apple update.",
-      "source": "SANS Internet Storm Center",
-      "source_category": "Research",
-      "topic": "Cybersecurity",
+      "title": "Databricks co-founder shares his secrets for winning big enterprise customers",
+      "url": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/",
+      "published": "Mon, 26 Oct 2026 22:00:00 +0000",
+      "summary": "Turns out selling to big companies isn’t about having the shiniest tech: It’s about hitching a ride on a giant’s sales team.",
+      "source": "TechCrunch",
+      "source_category": "Journalism",
+      "topic": "Enterprise Technology",
       "score": 3,
       "sources": [
         {
-          "name": "SANS Internet Storm Center",
-          "url": "https://isc.sans.edu/diary/rss/33458"
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/"
         }
       ]
     },
@@ -1353,22 +1369,6 @@
         {
           "name": "The Register",
           "url": "https://www.theregister.com/security/2026/10/26/microsoft-releases-emergency-net-security-fixes-for-google-brotli-bug/5305515"
-        }
-      ]
-    },
-    {
-      "title": "We shouldn't be surprised about the PHPocalypse, as the internet is built on sticks and glue",
-      "url": "https://www.theregister.com/security/2026/10/26/we-shouldnt-be-surprised-about-the-phpocalypse-as-the-internet-is-built-on-sticks-and-glue/5305186",
-      "published": "Mon, 26 Oct 2026 13:14:00 +0000",
-      "summary": "What better way to celebrate Cybersecurity Awareness Month than warning that three-quarters of the web is about to be set on fire?",
-      "source": "The Register",
-      "source_category": "Journalism",
-      "topic": "Cybersecurity",
-      "score": 3,
-      "sources": [
-        {
-          "name": "The Register",
-          "url": "https://www.theregister.com/security/2026/10/26/we-shouldnt-be-surprised-about-the-phpocalypse-as-the-internet-is-built-on-sticks-and-glue/5305186"
         }
       ]
     },
