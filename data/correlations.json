@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-10-28T17:09:29+00:00",
+  "retrieved_at": "2026-10-28T21:01:48+00:00",
   "items": [
     {
       "cve": "CVE-2026-111497",
@@ -22,12 +22,6 @@
         {
           "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
           "url": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
-          "source": "The Hacker News",
-          "kind": "news"
-        },
-        {
-          "title": "Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data",
-          "url": "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html",
           "source": "The Hacker News",
           "kind": "news"
         }

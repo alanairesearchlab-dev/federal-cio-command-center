@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-10-28T17:09:29+00:00",
+  "retrieved_at": "2026-10-28T21:01:48+00:00",
   "candidate_sources": 40,
   "successful_sources": 34,
   "collected_articles": 589,
@@ -129,22 +129,6 @@
         {
           "name": "Kubernetes",
           "url": "https://kubernetes.io/blog/2026/10/14/tracing-kueue-admission-with-headlamp/"
-        }
-      ]
-    },
-    {
-      "title": "CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution",
-      "url": "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html",
-      "published": "Tue, 27 Oct 2026 10:07:59 +0530",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday confirmed active exploitation of the recently patched PHP2Shell flaws by adding them to its Known Exploited Vulnerabilities (KEV) catalog. The PHP vulnerabilities, both rated 9.2 on the CVSS scoring system, facilitate unauthenticated remote code execution on affected deploym",
-      "source": "The Hacker News",
-      "source_category": "Journalism",
-      "topic": "Cybersecurity",
-      "score": 9,
-      "sources": [
-        {
-          "name": "The Hacker News",
-          "url": "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html"
         }
       ]
     },
@@ -293,6 +277,38 @@
       ]
     },
     {
+      "title": "GSA exposed sensitive information to all agency users on Google Drive, OIG finds",
+      "url": "https://fedscoop.com/gsa-exposed-sensitive-information-on-google-drive-watchdog/",
+      "published": "Wed, 28 Oct 2026 19:26:19 +0000",
+      "summary": "Social Security numbers, building security information and vendor proposals were shared with all General Services Administration users and contractors, the watchdog said. The post GSA exposed sensitive information to all agency users on Google Drive, OIG finds appeared first on FedScoop .",
+      "source": "FedScoop",
+      "source_category": "Federal IT",
+      "topic": "Cybersecurity",
+      "score": 7,
+      "sources": [
+        {
+          "name": "FedScoop",
+          "url": "https://fedscoop.com/gsa-exposed-sensitive-information-on-google-drive-watchdog/"
+        }
+      ]
+    },
+    {
+      "title": "Closing the visibility gaps putting public programs at risk",
+      "url": "https://fedscoop.com/closing-the-visibility-gaps-putting-public-programs-at-risk/",
+      "published": "Wed, 28 Oct 2026 18:30:00 +0000",
+      "summary": "Former Social Security Administration official explains why a more complete view of risk is essential to protecting public programs, supporting civil servants and maintaining public trust. The post Closing the visibility gaps putting public programs at risk appeared first on FedScoop .",
+      "source": "FedScoop",
+      "source_category": "Federal IT",
+      "topic": "Cybersecurity",
+      "score": 7,
+      "sources": [
+        {
+          "name": "FedScoop",
+          "url": "https://fedscoop.com/closing-the-visibility-gaps-putting-public-programs-at-risk/"
+        }
+      ]
+    },
+    {
       "title": "Proactive cyber defense for governments and enterprises",
       "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
       "published": "Wed, 02 Sep 2026 16:24:24 +0000",
@@ -337,22 +353,6 @@
         {
           "name": "Federal News Network",
           "url": "https://federalnewsnetwork.com/technology-main/2026/10/cisa-gives-agencies-days-to-patch-critical-php-bugs/"
-        }
-      ]
-    },
-    {
-      "title": "Social Security Administration sees improvements to service delivery",
-      "url": "https://federalnewsnetwork.com/federal-newscast/2026/10/social-security-administration-sees-improvements-to-service-delivery/",
-      "published": "Tue, 27 Oct 2026 17:52:09 +0000",
-      "summary": "The Social Security Administration says it is implementing stronger internal controls to prevent future data-entry inaccuracies.",
-      "source": "Federal News Network",
-      "source_category": "Federal IT",
-      "topic": "Cybersecurity",
-      "score": 7,
-      "sources": [
-        {
-          "name": "Federal News Network",
-          "url": "https://federalnewsnetwork.com/federal-newscast/2026/10/social-security-administration-sees-improvements-to-service-delivery/"
         }
       ]
     },
@@ -501,6 +501,22 @@
       ]
     },
     {
+      "title": "Anthropic's Unreleased AI Model Chains Flaws Into Working Chrome, Safari, Windows and Linux Exploits",
+      "url": "https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html",
+      "published": "Wed, 28 Oct 2026 13:45:07 +0530",
+      "summary": "An unreleased Anthropic AI model found security flaws in Chrome, Safari, Android, Windows, and Linux and chained them into working proof-of-concept exploits, the company said in its latest report. The exploits were built in the lab after the model was prompted, not seen in any real attack, and Anthropic reported every flaw to the vendor first, so a",
+      "source": "The Hacker News",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 6,
+      "sources": [
+        {
+          "name": "The Hacker News",
+          "url": "https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html"
+        }
+      ]
+    },
+    {
       "title": "How Atos uses Red Hat AI to build smaller, specialized models for sovereign AI",
       "url": "https://www.redhat.com/en/blog/how-atos-uses-red-hat-ai-build-smaller-specialized-models-sovereign-ai",
       "published": "Wed, 28 Oct 2026 00:00:00 +0000",
@@ -597,22 +613,6 @@
         {
           "name": "Cisco Talos",
           "url": "https://blog.talosintelligence.com/one-breach-please-and-make-no-mistakes/"
-        }
-      ]
-    },
-    {
-      "title": "CISA confirms PHP2Shell under attack as researchers clock successful exploits",
-      "url": "https://www.theregister.com/cyber-crime/2026/10/27/cisa-confirms-php2shell-under-attack-as-researchers-clock-successful-exploits/5305681",
-      "published": "Tue, 27 Oct 2026 14:45:00 +0000",
-      "summary": "Both critical PHP flaws land on the agency’s exploited list as infosec pros confirm hackers are getting working shells",
-      "source": "The Register",
-      "source_category": "Journalism",
-      "topic": "Cybersecurity",
-      "score": 6,
-      "sources": [
-        {
-          "name": "The Register",
-          "url": "https://www.theregister.com/cyber-crime/2026/10/27/cisa-confirms-php2shell-under-attack-as-researchers-clock-successful-exploits/5305681"
         }
       ]
     },
@@ -905,22 +905,6 @@
       ]
     },
     {
-      "title": "Tailscale warns of SSH flaws allowing root privilege escalation",
-      "url": "https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/",
-      "published": "Tue, 27 Oct 2026 10:09:46 -0400",
-      "summary": "The Tailscale security team is working to patch almost a dozen security vulnerabilities that could be exploited to steal credentials, crash servers, gain root privileges, and more. [...]",
-      "source": "BleepingComputer",
-      "source_category": "Journalism",
-      "topic": "Cybersecurity",
-      "score": 5,
-      "sources": [
-        {
-          "name": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/"
-        }
-      ]
-    },
-    {
       "title": "'Gheist' Weaponizes GitHub Tokens to Steal Cloud Secrets",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/gheist-stolen-github-tokens-cloud-secrets",
       "published": "Mon, 26 Oct 2026 18:01:40 GMT",
@@ -937,18 +921,50 @@
       ]
     },
     {
-      "title": "America needs a national model for solving big problems with AI",
-      "url": "https://fedscoop.com/america-gov-national-ai-model/",
-      "published": "Mon, 26 Oct 2026 15:16:58 +0000",
-      "summary": "Launching America.gov is a start, but what’s happening behind the scenes will determine if the next era of government is successful. The post America needs a national model for solving big problems with AI appeared first on FedScoop .",
-      "source": "FedScoop",
-      "source_category": "Federal IT",
-      "topic": "AI & Emerging Tech",
-      "score": 5,
+      "title": "Cisco AI Defense joins ServiceNow’s Control Tower Alliance",
+      "url": "https://blogs.cisco.com/ai/cisco-ai-defense-joins-servicenows-control-tower-alliance",
+      "published": "Wed, 28 Oct 2026 20:09:41 +0000",
+      "summary": "If you govern AI in ServiceNow, Cisco AI Defense is the security engine you plug in, and it already works today. Now Cisco joins the Control Tower Alliance as a founding member to build on it.",
+      "source": "Cisco Blogs",
+      "source_category": "Vendor",
+      "topic": "Cybersecurity",
+      "score": 4,
       "sources": [
         {
-          "name": "FedScoop",
-          "url": "https://fedscoop.com/america-gov-national-ai-model/"
+          "name": "Cisco Blogs",
+          "url": "https://blogs.cisco.com/ai/cisco-ai-defense-joins-servicenows-control-tower-alliance"
+        }
+      ]
+    },
+    {
+      "title": "Nine ways the Pentagon can fix CMMC without lowering the cybersecurity bar",
+      "url": "https://federalnewsnetwork.com/commentary/2026/10/nine-ways-the-pentagon-can-fix-cmmc-without-lowering-the-cybersecurity-bar/",
+      "published": "Wed, 28 Oct 2026 19:54:29 +0000",
+      "summary": "Russia and Ukraine are already demonstrating how quickly AI, autonomous systems, and software can move from development to operational use.",
+      "source": "Federal News Network",
+      "source_category": "Federal IT",
+      "topic": "Cybersecurity",
+      "score": 4,
+      "sources": [
+        {
+          "name": "Federal News Network",
+          "url": "https://federalnewsnetwork.com/commentary/2026/10/nine-ways-the-pentagon-can-fix-cmmc-without-lowering-the-cybersecurity-bar/"
+        }
+      ]
+    },
+    {
+      "title": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
+      "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
+      "published": "Wed, 28 Oct 2026 19:05:46 +0000",
+      "summary": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities could be patched. According to researchers who found the […]",
+      "source": "TechCrunch",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 4,
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/"
         }
       ]
     },
@@ -981,6 +997,22 @@
         {
           "name": "TechCrunch",
           "url": "https://techcrunch.com/2026/10/28/trump-doe-loans-5b-to-nuclear-plants-that-will-power-data-centers/"
+        }
+      ]
+    },
+    {
+      "title": "Microsoft urges Entra ID admins to migrate users to passkeys",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-entra-id-admins-to-migrate-users-to-passkeys/",
+      "published": "Wed, 28 Oct 2026 10:48:32 -0400",
+      "summary": "Microsoft again asked Entra ID administrators to migrate users to phishing-resistant methods to avoid sign-in disruptions before it retires SMS and voice authentication in February 2027. [...]",
+      "source": "BleepingComputer",
+      "source_category": "Journalism",
+      "topic": "Federal IT & Policy",
+      "score": 4,
+      "sources": [
+        {
+          "name": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-entra-id-admins-to-migrate-users-to-passkeys/"
         }
       ]
     },
@@ -1049,22 +1081,6 @@
       ]
     },
     {
-      "title": "GSA expands OneGov agreement with Anthropic, touting steep discounts",
-      "url": "https://fedscoop.com/gsa-onegov-deal-claude-anthropic/",
-      "published": "Tue, 27 Oct 2026 21:56:53 +0000",
-      "summary": "Federal agencies will have access to a 40% discount on token-based usage across Claude models with no minimum purchase required. The post GSA expands OneGov agreement with Anthropic, touting steep discounts appeared first on FedScoop .",
-      "source": "FedScoop",
-      "source_category": "Federal IT",
-      "topic": "AI & Emerging Tech",
-      "score": 4,
-      "sources": [
-        {
-          "name": "FedScoop",
-          "url": "https://fedscoop.com/gsa-onegov-deal-claude-anthropic/"
-        }
-      ]
-    },
-    {
       "title": "External Teams Chats Anchor 15-Minute Malware Delivery",
       "url": "https://www.darkreading.com/cloud-security/email-bombing-external-teams-chats-repeatable-access-path",
       "published": "Tue, 27 Oct 2026 20:42:40 GMT",
@@ -1077,22 +1093,6 @@
         {
           "name": "Dark Reading",
           "url": "https://www.darkreading.com/cloud-security/email-bombing-external-teams-chats-repeatable-access-path"
-        }
-      ]
-    },
-    {
-      "title": "Warner Bros. drops final trailer for Dune: Part Three",
-      "url": "https://arstechnica.com/culture/2026/10/warner-bros-drops-final-trailer-for-dune-part-three/",
-      "published": "Tue, 27 Oct 2026 18:05:55 +0000",
-      "summary": "\"After years of combat, I've become the oppressor Chani had sworn to fight.\"",
-      "source": "Ars Technica",
-      "source_category": "Journalism",
-      "topic": "Federal IT & Policy",
-      "score": 4,
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/culture/2026/10/warner-bros-drops-final-trailer-for-dune-part-three/"
         }
       ]
     },
@@ -1113,22 +1113,6 @@
       ]
     },
     {
-      "title": "The Partners Who Set the Pace: Our FY26 Global Award Winners",
-      "url": "https://blogs.cisco.com/partner/the-partners-who-set-the-pace-our-fy26-global-award-winners",
-      "published": "Mon, 26 Oct 2026 22:00:01 +0000",
-      "summary": "Fiscal 26 tested us, but our partners delivered record-setting results. We’re celebrating our 2026 Partner of the Year winners who led in AI, security, and ecosystem innovation. See the leaders setting the pace for the year ahead.",
-      "source": "Cisco Blogs",
-      "source_category": "Vendor",
-      "topic": "Cybersecurity",
-      "score": 4,
-      "sources": [
-        {
-          "name": "Cisco Blogs",
-          "url": "https://blogs.cisco.com/partner/the-partners-who-set-the-pace-our-fy26-global-award-winners"
-        }
-      ]
-    },
-    {
       "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
       "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
       "published": "Fri, 23 Oct 2026 00:00:00 GMT",
@@ -1141,6 +1125,22 @@
         {
           "name": "OpenAI News",
           "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership"
+        }
+      ]
+    },
+    {
+      "title": "These Claude Enterprise features let you track AI ROI – what’s new",
+      "url": "https://www.zdnet.com/innovation/claude-enterprise-efficiency-cost-tracking/",
+      "published": "2026-10-28T18:00:00Z",
+      "summary": "Is your pricey Claude Enterprise account worth it? Anthropic is trying to surface insights with three tools.",
+      "source": "ZDNET",
+      "source_category": "Journalism",
+      "topic": "AI & Emerging Tech",
+      "score": 4,
+      "sources": [
+        {
+          "name": "ZDNET",
+          "url": "https://www.zdnet.com/innovation/claude-enterprise-efficiency-cost-tracking/"
         }
       ]
     },
@@ -1177,6 +1177,58 @@
       ]
     },
     {
+      "title": "Most Servers on the Planet Are Vulnerable to This Firmware Code-Execution Flaw",
+      "url": "https://www.wired.com/story/most-servers-on-the-planet-are-vulnerable-to-a-code-execution-flaw-in-uefi-firmware/",
+      "published": "Wed, 28 Oct 2026 20:30:00 +0000",
+      "summary": "The critical flaw in UEFI firmware—used by most server vendors and data centers—allows attackers to execute code early in the boot process.",
+      "source": "WIRED",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 3,
+      "sources": [
+        {
+          "name": "WIRED",
+          "url": "https://www.wired.com/story/most-servers-on-the-planet-are-vulnerable-to-a-code-execution-flaw-in-uefi-firmware/"
+        },
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/"
+        }
+      ]
+    },
+    {
+      "title": "Massive Leak Exposes 41,000 Homeland Security Workers—Including Undercover ICE Agents",
+      "url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
+      "published": "Wed, 28 Oct 2026 20:00:00 +0000",
+      "summary": "The leaked records include the locations of ICE and CBP facilities, workers’ cell phone numbers, and the members of groups tied to wiretap programs, Palantir software, and xAI’s Grok chatbot.",
+      "source": "WIRED",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 3,
+      "sources": [
+        {
+          "name": "WIRED",
+          "url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/"
+        }
+      ]
+    },
+    {
+      "title": "Oracle celebrates end of Cybersecurity Awareness Month with quadruple trouble",
+      "url": "https://www.theregister.com/security/2026/10/28/oracle-celebrates-end-of-cybersecurity-awareness-month-with-quadruple-trouble/5306121",
+      "published": "Wed, 28 Oct 2026 19:56:56 +0000",
+      "summary": "Attackers probe another EBS bug, and ShinyHunters' PeopleSoft 0-day turns out to involve three vulns",
+      "source": "The Register",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 3,
+      "sources": [
+        {
+          "name": "The Register",
+          "url": "https://www.theregister.com/security/2026/10/28/oracle-celebrates-end-of-cybersecurity-awareness-month-with-quadruple-trouble/5306121"
+        }
+      ]
+    },
+    {
       "title": "Cisco IT’s Endpoint Observability Strategy: Right-Sized Telemetry for Splunk Observability Cloud",
       "url": "https://blogs.cisco.com/cisco-on-cisco/cisco-its-endpoint-observability-strategy-right-sized-telemetry-for-splunk-observability-cloud",
       "published": "Wed, 28 Oct 2026 16:59:15 +0000",
@@ -1193,6 +1245,22 @@
       ]
     },
     {
+      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "published": "Wed, 28 Oct 2026 13:15:00 GMT",
+      "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+      "source": "OpenAI News",
+      "source_category": "Vendor",
+      "topic": "AI & Emerging Tech",
+      "score": 3,
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/openai-servicenow-partnership-expansion"
+        }
+      ]
+    },
+    {
       "title": "ICE Is Running One of the Largest Anti-Left Surveillance Operations in US History",
       "url": "https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/",
       "published": "Wed, 28 Oct 2026 09:30:00 +0000",
@@ -1205,22 +1273,6 @@
         {
           "name": "WIRED",
           "url": "https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/"
-        }
-      ]
-    },
-    {
-      "title": "OpenAI models are coming to Google Cloud",
-      "url": "https://openai.com/index/openai-models-google-cloud",
-      "published": "Wed, 21 Oct 2026 12:00:00 GMT",
-      "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
-      "source": "OpenAI News",
-      "source_category": "Vendor",
-      "topic": "AI & Emerging Tech",
-      "score": 3,
-      "sources": [
-        {
-          "name": "OpenAI News",
-          "url": "https://openai.com/index/openai-models-google-cloud"
         }
       ]
     },
@@ -1385,26 +1437,10 @@
       ]
     },
     {
-      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
-      "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
-      "published": "Wed, 28 Oct 2026 17:00:00 +0000",
-      "summary": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
-      "source": "TechCrunch",
-      "source_category": "Journalism",
-      "topic": "AI & Emerging Tech",
-      "score": 1,
-      "sources": [
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/"
-        }
-      ]
-    },
-    {
-      "title": "Amazon tells tokenmaxxing devs to slow their AI roll",
-      "url": "https://www.theregister.com/ai-and-ml/2026/10/28/amazon-tells-tokenmaxxing-devs-to-slow-their-ai-roll/5306090",
-      "published": "Wed, 28 Oct 2026 16:49:14 +0000",
-      "summary": "Focus more on what matters, please, like creating useful software and accomplishing company goals",
+      "title": "Please state the nature of the medical emergency: Google is building a robot medic for NASA",
+      "url": "https://www.theregister.com/offbeat/2026/10/28/please-state-the-nature-of-the-medical-emergency-google-is-building-a-robot-medic-for-nasa/5306130",
+      "published": "Wed, 28 Oct 2026 20:44:22 +0000",
+      "summary": "The AI medical assistant is still being tested. Now the space boffins want to give it hands",
       "source": "The Register",
       "source_category": "Journalism",
       "topic": "AI & Emerging Tech",
@@ -1412,43 +1448,7 @@
       "sources": [
         {
           "name": "The Register",
-          "url": "https://www.theregister.com/ai-and-ml/2026/10/28/amazon-tells-tokenmaxxing-devs-to-slow-their-ai-roll/5306090"
-        }
-      ]
-    },
-    {
-      "title": "The Download: dead startups fueling AI and interspecies communication",
-      "url": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
-      "published": "Wed, 28 Oct 2026 12:10:00 +0000",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI labs are buying data from dead startups to train their models When Keelan Miskell began winding down his crypto startup, he didn’t think its data was worth much. But he’s…",
-      "source": "MIT Technology Review",
-      "source_category": "Research",
-      "topic": "AI & Emerging Tech",
-      "score": 1,
-      "sources": [
-        {
-          "name": "MIT Technology Review",
-          "url": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/"
-        }
-      ]
-    },
-    {
-      "title": "Amazon Adds an Alexa Photo Frame and a Bedside Clock to Its Echo Family",
-      "url": "https://www.wired.com/story/amazon-adds-an-alexa-photo-frame-and-a-bedside-clock-to-its-echo-family/",
-      "published": "Wed, 28 Oct 2026 12:01:00 +0000",
-      "summary": "The new Echo Studio also gets a camera, and the Echo Show 16 debuts an AI-generated Alexa interface.",
-      "source": "WIRED",
-      "source_category": "Journalism",
-      "topic": "AI & Emerging Tech",
-      "score": 1,
-      "sources": [
-        {
-          "name": "WIRED",
-          "url": "https://www.wired.com/story/amazon-adds-an-alexa-photo-frame-and-a-bedside-clock-to-its-echo-family/"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/28/amazon-debuts-the-alexa-photo-frame-and-echo-time-smart-clock-plus-other-upgraded-devices/"
+          "url": "https://www.theregister.com/offbeat/2026/10/28/please-state-the-nature-of-the-medical-emergency-google-is-building-a-robot-medic-for-nasa/5306130"
         }
       ]
     }
