@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-10-28T05:03:42+00:00",
+  "retrieved_at": "2026-10-28T09:09:35+00:00",
   "candidate_sources": 40,
   "successful_sources": 33,
   "collected_articles": 566,
@@ -17,6 +17,22 @@
         {
           "name": "MeriTalk",
           "url": "https://www.meritalk.com/the-first-federal-guidance-on-ai-agents-is-here-most-agencies-cant-meet-it-yet/"
+        }
+      ]
+    },
+    {
+      "title": "Six elements of resilient AI orchestration platforms",
+      "url": "https://www.infoworld.com/article/4240704/six-elements-of-resilient-ai-orchestration-platforms.html",
+      "published": "Wed, 28 Oct 2026 09:00:00 +0000",
+      "summary": "While many organizations are in early AI agent rollouts, research suggests that more will scale to greater numbers of agents and assistants in the coming year. An August 2026 report states that 66% of enterprises are likely to invest in digital workers in the next 12 months. It reports that the top requirements for these agents include demonstrated",
+      "source": "InfoWorld",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 10,
+      "sources": [
+        {
+          "name": "InfoWorld",
+          "url": "https://www.infoworld.com/article/4240704/six-elements-of-resilient-ai-orchestration-platforms.html"
         }
       ]
     },
@@ -81,6 +97,22 @@
         {
           "name": "Kubernetes",
           "url": "https://kubernetes.io/blog/2026/09/04/kubernetes-v1-37-rootless-beta/"
+        }
+      ]
+    },
+    {
+      "title": "Adobe Commerce PolyShell Attacks Breach Hundreds of Stores as Brotli Exploit Traffic Emerges",
+      "url": "https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html",
+      "published": "Wed, 28 Oct 2026 11:12:26 +0530",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two vulnerabilities impacting Adobe Commerce and Magento, and Google's Brotli decoder library to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilities are listed below - CVE-2026-111497 (CVSS score: 9.2) - An un",
+      "source": "The Hacker News",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 9,
+      "sources": [
+        {
+          "name": "The Hacker News",
+          "url": "https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html"
         }
       ]
     },
@@ -165,22 +197,6 @@
       ]
     },
     {
-      "title": "PHP2Shell Exploitation Attempts Continue Amid Suspected N. Korea Global Scanning Activity",
-      "url": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
-      "published": "Sun, 25 Oct 2026 22:49:46 +0530",
-      "summary": "In an update, Palo Alto Networks Unit 42 said it's retracting its earlier assessment that the post-compromise activity targeting the European government agency involved the exploitation of the PHP2Shell flaws. \"What researchers saw was an attack against a European government agency executed in the context of a vulnerable PHP application,\" a spokesp",
-      "source": "The Hacker News",
-      "source_category": "Journalism",
-      "topic": "Cybersecurity",
-      "score": 9,
-      "sources": [
-        {
-          "name": "The Hacker News",
-          "url": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html"
-        }
-      ]
-    },
-    {
       "title": "How Wikipedia’s Editors Keep the Online Encyclopedia Human-Written",
       "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
       "published": "Wed, 21 Oct 2026 13:00:02 +0000",
@@ -241,22 +257,6 @@
         {
           "name": "IEEE Spectrum",
           "url": "https://spectrum.ieee.org/ai-robot-safety-cybersecurity-vicone"
-        }
-      ]
-    },
-    {
-      "title": "OpenAI bets on AI economics with lower-cost GPT-6.1 Terra",
-      "url": "https://www.infoworld.com/article/4241006/openai-bets-on-ai-economics-with-lower-cost-gpt-6-1-terra.html",
-      "published": "Tue, 27 Oct 2026 12:01:56 +0000",
-      "summary": "OpenAI has launched GPT-6.1 Terra, a new reasoning model that it says delivers near-frontier performance on visual reasoning, professional task execution, and computer-use benchmarks without the premium price tag. Replacing GPT-5.6 Terra, the model is aimed at organizations seeking better accuracy and automation capabilities for large-scale operati",
-      "source": "InfoWorld",
-      "source_category": "Journalism",
-      "topic": "Cybersecurity",
-      "score": 8,
-      "sources": [
-        {
-          "name": "InfoWorld",
-          "url": "https://www.infoworld.com/article/4241006/openai-bets-on-ai-economics-with-lower-cost-gpt-6-1-terra.html"
         }
       ]
     },
@@ -517,6 +517,22 @@
       ]
     },
     {
+      "title": "Anthropic's Unreleased AI Model Chains Flaws Into Working Chrome, Safari, Windows and Linux Exploits",
+      "url": "https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html",
+      "published": "Wed, 28 Oct 2026 13:45:07 +0530",
+      "summary": "An unreleased Anthropic AI model found security flaws in Chrome, Safari, Android, Windows, and Linux and chained them into working proof-of-concept exploits, the company said in its latest report. The exploits were built in the lab after the model was prompted, not seen in any real attack, and Anthropic reported every flaw to the vendor first, so a",
+      "source": "The Hacker News",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 6,
+      "sources": [
+        {
+          "name": "The Hacker News",
+          "url": "https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html"
+        }
+      ]
+    },
+    {
       "title": "Linux Foundation Newsletter: October 2026",
       "url": "https://www.linuxfoundation.org/blog/linux-foundation-newsletter-october-2026",
       "published": "Wed, 21 Oct 2026 18:00:00 GMT",
@@ -709,22 +725,6 @@
         {
           "name": "AWS News",
           "url": "https://aws.amazon.com/blogs/aws/announcing-aws-well-architected-agent-an-ai-powered-intelligence-to-optimize-your-cloud-environment-preview/"
-        }
-      ]
-    },
-    {
-      "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
-      "url": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
-      "published": "Sun, 25 Oct 2026 12:24:29 +0530",
-      "summary": "OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal inference of its most advanced AI models. \"Based on the current state of alignment research, monitoring systems, and the security of internet infrastructure, we believe the responsible approach ",
-      "source": "The Hacker News",
-      "source_category": "Journalism",
-      "topic": "Cybersecurity",
-      "score": 6,
-      "sources": [
-        {
-          "name": "The Hacker News",
-          "url": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html"
         }
       ]
     },
@@ -933,10 +933,6 @@
         {
           "name": "Dark Reading",
           "url": "https://www.darkreading.com/cyberattacks-data-breaches/gheist-stolen-github-tokens-cloud-secrets"
-        },
-        {
-          "name": "The Hacker News",
-          "url": "https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html"
         }
       ]
     },
@@ -1069,38 +1065,6 @@
       ]
     },
     {
-      "title": "Massive Groups of Volunteers Are Ready to Face Down ICE at the Polls",
-      "url": "https://www.wired.com/story/massive-groups-of-volunteers-are-ready-to-face-down-ice-at-the-polls/",
-      "published": "Tue, 27 Oct 2026 10:15:00 +0000",
-      "summary": "From heat maps to Signal chats to war rooms, volunteers across the US are ready to act if federal immigration agents show up on Election Day.",
-      "source": "WIRED",
-      "source_category": "Journalism",
-      "topic": "Federal IT & Policy",
-      "score": 4,
-      "sources": [
-        {
-          "name": "WIRED",
-          "url": "https://www.wired.com/story/massive-groups-of-volunteers-are-ready-to-face-down-ice-at-the-polls/"
-        }
-      ]
-    },
-    {
-      "title": "How to Hide Your Baby From the Government",
-      "url": "https://www.wired.com/story/the-rise-of-sovereign-babies/",
-      "published": "Tue, 27 Oct 2026 10:00:00 +0000",
-      "summary": "“Sovereign citizens” think they can live beyond the reach of the state. Now the movement has influencers—and they’re selling all sorts of anarchist courses to expectant families.",
-      "source": "WIRED",
-      "source_category": "Journalism",
-      "topic": "Federal IT & Policy",
-      "score": 4,
-      "sources": [
-        {
-          "name": "WIRED",
-          "url": "https://www.wired.com/story/the-rise-of-sovereign-babies/"
-        }
-      ]
-    },
-    {
       "title": "Designing an AI serving harness built to last",
       "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
       "published": "Thu, 22 Oct 2026 21:17:29 +0000",
@@ -1129,22 +1093,6 @@
         {
           "name": "Cloudflare",
           "url": "https://blog.cloudflare.com/cloudflare-openai-discovery-agentic-web/"
-        }
-      ]
-    },
-    {
-      "title": "OpenAI rolls out budget-priced mid-tier GPT-6.1 Terra",
-      "url": "https://www.theregister.com/ai-and-ml/2026/10/26/openai-rolls-out-budget-priced-mid-tier-gpt-61-terra/5305574",
-      "published": "Mon, 26 Oct 2026 23:08:59 +0000",
-      "summary": "Not a bombshell, but it rivals pricier models on some tasks at a tenth of Astra's API price",
-      "source": "The Register",
-      "source_category": "Journalism",
-      "topic": "AI & Emerging Tech",
-      "score": 4,
-      "sources": [
-        {
-          "name": "The Register",
-          "url": "https://www.theregister.com/ai-and-ml/2026/10/26/openai-rolls-out-budget-priced-mid-tier-gpt-61-terra/5305574"
         }
       ]
     },
@@ -1325,6 +1273,22 @@
       ]
     },
     {
+      "title": "Japanese virtual desktop cloud hacked so hard it asks to be banned",
+      "url": "https://www.theregister.com/security/2026/10/27/japanese-virtual-desktop-cloud-hacked-so-hard-it-asks-to-be-banned/5305610",
+      "published": "Tue, 27 Oct 2026 01:06:22 +0000",
+      "summary": "CEO admits service used for foreign exchange trading had holes company was slow to fix",
+      "source": "The Register",
+      "source_category": "Journalism",
+      "topic": "Cloud & Infrastructure",
+      "score": 3,
+      "sources": [
+        {
+          "name": "The Register",
+          "url": "https://www.theregister.com/security/2026/10/27/japanese-virtual-desktop-cloud-hacked-so-hard-it-asks-to-be-banned/5305610"
+        }
+      ]
+    },
+    {
       "title": "How bug bounty sharpens one researcher’s security skills",
       "url": "https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/",
       "published": "Thu, 22 Oct 2026 17:21:30 +0000",
@@ -1437,6 +1401,22 @@
       ]
     },
     {
+      "title": "Anthropic Flags Gas Supply as One of Its Biggest Near-Term Risks",
+      "url": "https://www.wired.com/story/anthropic-ipo-identifies-gas-supply-as-big-near-term-risks/",
+      "published": "Tue, 27 Oct 2026 18:20:28 +0000",
+      "summary": "The data center buildout could cause a massive increase in gas prices as companies scramble for limited supplies and infrastructure fails to meet demand.",
+      "source": "WIRED",
+      "source_category": "Journalism",
+      "topic": "Cloud & Infrastructure",
+      "score": 2,
+      "sources": [
+        {
+          "name": "WIRED",
+          "url": "https://www.wired.com/story/anthropic-ipo-identifies-gas-supply-as-big-near-term-risks/"
+        }
+      ]
+    },
+    {
       "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
       "url": "https://huggingface.co/blog/hf-torchneuron",
       "published": "Mon, 19 Oct 2026 00:00:00 GMT",
@@ -1449,6 +1429,22 @@
         {
           "name": "Hugging Face",
           "url": "https://huggingface.co/blog/hf-torchneuron"
+        }
+      ]
+    },
+    {
+      "title": "AI Emergency Alerts Are Coming. Humans Might Not Be Ready",
+      "url": "https://www.wired.com/story/ai-emergency-alerts-coming-humans-not-ready/",
+      "published": "Wed, 28 Oct 2026 08:30:00 +0000",
+      "summary": "Human beings struggle with emergency communication. Chatbots can help—if people take them seriously.",
+      "source": "WIRED",
+      "source_category": "Journalism",
+      "topic": "AI & Emerging Tech",
+      "score": 1,
+      "sources": [
+        {
+          "name": "WIRED",
+          "url": "https://www.wired.com/story/ai-emergency-alerts-coming-humans-not-ready/"
         }
       ]
     }

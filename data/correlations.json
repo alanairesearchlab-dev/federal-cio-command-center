@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-10-28T05:03:42+00:00",
+  "retrieved_at": "2026-10-28T09:09:35+00:00",
   "items": [
     {
       "cve": "CVE-2026-111497",
@@ -7,6 +7,12 @@
       "product": "Brotli",
       "date_added": "2026-10-27",
       "sources": [
+        {
+          "title": "Adobe Commerce PolyShell Attacks Breach Hundreds of Stores as Brotli Exploit Traffic Emerges",
+          "url": "https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html",
+          "source": "The Hacker News",
+          "kind": "news"
+        },
         {
           "title": "PHP Issues Second Windows Security Update in Five Days to Fix Brotli Code Execution Flaw",
           "url": "https://thehackernews.com/2026/10/php-issues-second-windows-security.html",
@@ -98,8 +104,24 @@
       ],
       "source_count": 1,
       "note": "Exact CVE reference correlation, not independent confirmation of claims or agency exposure."
+    },
+    {
+      "cve": "CVE-2026-35273",
+      "vendor": "Oracle",
+      "product": " PeopleSoft Enterprise PeopleTools",
+      "date_added": "2026-06-12",
+      "sources": [
+        {
+          "title": "ShinyHunters-Exploited Oracle PeopleSoft Zero-Day Turns Out to Be Three Chained Flaws",
+          "url": "https://thehackernews.com/2026/10/shinyhunters-exploited-oracle.html",
+          "source": "The Hacker News",
+          "kind": "news"
+        }
+      ],
+      "source_count": 1,
+      "note": "Exact CVE reference correlation, not independent confirmation of claims or agency exposure."
     }
   ],
-  "count": 5,
+  "count": 6,
   "note": "Exact CVE matching only. Multiple reports about one CVE do not represent multiple vulnerabilities."
 }
