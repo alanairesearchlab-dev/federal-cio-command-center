@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-10-27T20:55:49+00:00",
+  "retrieved_at": "2026-10-28T01:24:05+00:00",
   "candidate_sources": 40,
   "successful_sources": 34,
   "collected_articles": 589,
@@ -293,22 +293,6 @@
       ]
     },
     {
-      "title": "When an AI Agent Is the Incident, the Identity Record Is the Evidence",
-      "url": "https://www.bleepingcomputer.com/news/security/when-an-ai-agent-is-the-incident-the-identity-record-is-the-evidence/",
-      "published": "Mon, 26 Oct 2026 10:00:10 -0400",
-      "summary": "A new NIST, CISA, and NSA guide treats runaway agents as incidents to be rehearsed. The hard part of the response is answering whose authority the agent used, and that answer has to exist before the incident does. [...]",
-      "source": "BleepingComputer",
-      "source_category": "Journalism",
-      "topic": "AI & Emerging Tech",
-      "score": 8,
-      "sources": [
-        {
-          "name": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/when-an-ai-agent-is-the-incident-the-identity-record-is-the-evidence/"
-        }
-      ]
-    },
-    {
       "title": "Proactive cyber defense for governments and enterprises",
       "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
       "published": "Wed, 02 Sep 2026 16:24:24 +0000",
@@ -321,6 +305,38 @@
         {
           "name": "Google DeepMind",
           "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/"
+        }
+      ]
+    },
+    {
+      "title": "Industry, legal experts urge FAR Council to set standards for AI in federal procurement",
+      "url": "https://federalnewsnetwork.com/acquisition-policy/2026/10/industry-legal-experts-urge-far-council-to-set-standards-for-ai-in-federal-procurement/",
+      "published": "Tue, 27 Oct 2026 23:01:22 +0000",
+      "summary": "Currently, there is no federal acquisition rule governing how agencies can use AI during bid evaluations.",
+      "source": "Federal News Network",
+      "source_category": "Federal IT",
+      "topic": "AI & Emerging Tech",
+      "score": 7,
+      "sources": [
+        {
+          "name": "Federal News Network",
+          "url": "https://federalnewsnetwork.com/acquisition-policy/2026/10/industry-legal-experts-urge-far-council-to-set-standards-for-ai-in-federal-procurement/"
+        }
+      ]
+    },
+    {
+      "title": "CISA gives agencies days to patch critical PHP bugs",
+      "url": "https://federalnewsnetwork.com/cybersecurity/2026/10/cisa-gives-agencies-days-to-patch-critical-php-bugs/",
+      "published": "Tue, 27 Oct 2026 22:31:21 +0000",
+      "summary": "CISA says hackers are actively exploiting the critical PHP vulnerabilities, as agencies have until Thursday to apply patches.",
+      "source": "Federal News Network",
+      "source_category": "Federal IT",
+      "topic": "Cybersecurity",
+      "score": 7,
+      "sources": [
+        {
+          "name": "Federal News Network",
+          "url": "https://federalnewsnetwork.com/cybersecurity/2026/10/cisa-gives-agencies-days-to-patch-critical-php-bugs/"
         }
       ]
     },
@@ -889,22 +905,6 @@
       ]
     },
     {
-      "title": "DoD issues guidance for procuring ‘unbiased’ AI systems",
-      "url": "https://federalnewsnetwork.com/contracting/2026/10/dod-issues-guidance-for-procuring-unbiased-ai-systems/",
-      "published": "Mon, 26 Oct 2026 22:51:17 +0000",
-      "summary": "New guidance advances President Donald Trump’s agenda to “prevent woke AI” in the federal government.",
-      "source": "Federal News Network",
-      "source_category": "Federal IT",
-      "topic": "AI & Emerging Tech",
-      "score": 5,
-      "sources": [
-        {
-          "name": "Federal News Network",
-          "url": "https://federalnewsnetwork.com/contracting/2026/10/dod-issues-guidance-for-procuring-unbiased-ai-systems/"
-        }
-      ]
-    },
-    {
       "title": "Cisco Rethinks Privileged Infrastructure Access",
       "url": "https://blogs.cisco.com/security/cisco-rethinks-privileged-infrastructure-access",
       "published": "Mon, 26 Oct 2026 20:00:16 +0000",
@@ -989,22 +989,6 @@
       ]
     },
     {
-      "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
-      "url": "https://openai.com/index/empowering-cyber-defenders",
-      "published": "Wed, 21 Oct 2026 00:00:00 GMT",
-      "summary": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
-      "source": "OpenAI News",
-      "source_category": "Vendor",
-      "topic": "Cybersecurity",
-      "score": 4,
-      "sources": [
-        {
-          "name": "OpenAI News",
-          "url": "https://openai.com/index/empowering-cyber-defenders"
-        }
-      ]
-    },
-    {
       "title": "Break the silence: Kazakhstan-nexus UAT-6275 targets CIS government organizations",
       "url": "https://blog.talosintelligence.com/break-the-silence-kazakhstan-nexus-uat-6275-targets-cis-government-organizations/",
       "published": "Wed, 14 Oct 2026 14:00:00 GMT",
@@ -1017,6 +1001,22 @@
         {
           "name": "Cisco Talos",
           "url": "https://blog.talosintelligence.com/break-the-silence-kazakhstan-nexus-uat-6275-targets-cis-government-organizations/"
+        }
+      ]
+    },
+    {
+      "title": "GSA expands OneGov agreement with Anthropic, touting steep discounts",
+      "url": "https://fedscoop.com/gsa-onegov-deal-claude-anthropic/",
+      "published": "Tue, 27 Oct 2026 21:56:53 +0000",
+      "summary": "Federal agencies will have access to a 40% discount on token-based usage across Claude models with no minimum purchase required. The post GSA expands OneGov agreement with Anthropic, touting steep discounts appeared first on FedScoop .",
+      "source": "FedScoop",
+      "source_category": "Federal IT",
+      "topic": "AI & Emerging Tech",
+      "score": 4,
+      "sources": [
+        {
+          "name": "FedScoop",
+          "url": "https://fedscoop.com/gsa-onegov-deal-claude-anthropic/"
         }
       ]
     },
@@ -1117,22 +1117,6 @@
       ]
     },
     {
-      "title": "OPM illegally shared millions of employee records with DOGE, federal judge rules",
-      "url": "https://fedscoop.com/opm-illegally-shared-millions-employee-records-doge-judge/",
-      "published": "Thu, 22 Oct 2026 01:18:43 +0000",
-      "summary": "Judge Denise Cote said the government failed to provide a credible explanation for why DOGE needed access to personal information to modernize the human capital agency. The post OPM illegally shared millions of employee records with DOGE, federal judge rules appeared first on FedScoop .",
-      "source": "FedScoop",
-      "source_category": "Federal IT",
-      "topic": "Federal IT & Policy",
-      "score": 4,
-      "sources": [
-        {
-          "name": "FedScoop",
-          "url": "https://fedscoop.com/opm-illegally-shared-millions-employee-records-doge-judge/"
-        }
-      ]
-    },
-    {
       "title": "Cloudflare and OpenAI: Making AI discovery better for everyone",
       "url": "https://blog.cloudflare.com/cloudflare-openai-discovery-agentic-web/",
       "published": "Thu, 15 Oct 2026 13:00:00 GMT",
@@ -1161,22 +1145,6 @@
         {
           "name": "The Register",
           "url": "https://www.theregister.com/ai-and-ml/2026/10/26/openai-rolls-out-budget-priced-mid-tier-gpt-61-terra/5305574"
-        }
-      ]
-    },
-    {
-      "title": "Government efficiency starts before the work begins",
-      "url": "https://federalnewsnetwork.com/commentary/2026/10/government-efficiency-starts-before-the-work-begins/",
-      "published": "Mon, 26 Oct 2026 22:21:35 +0000",
-      "summary": "The objective is straightforward: Stop unnecessary work at the source rather than making government more efficient at handling it.",
-      "source": "Federal News Network",
-      "source_category": "Federal IT",
-      "topic": "Federal IT & Policy",
-      "score": 4,
-      "sources": [
-        {
-          "name": "Federal News Network",
-          "url": "https://federalnewsnetwork.com/commentary/2026/10/government-efficiency-starts-before-the-work-begins/"
         }
       ]
     },
@@ -1309,6 +1277,38 @@
       ]
     },
     {
+      "title": "OpenAI models are coming to Google Cloud",
+      "url": "https://openai.com/index/openai-models-google-cloud",
+      "published": "Wed, 21 Oct 2026 12:00:00 GMT",
+      "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+      "source": "OpenAI News",
+      "source_category": "Vendor",
+      "topic": "AI & Emerging Tech",
+      "score": 3,
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/openai-models-google-cloud"
+        }
+      ]
+    },
+    {
+      "title": "Japan's GMO urges customers to shut down PCs amid ransomware threat",
+      "url": "https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/",
+      "published": "Tue, 27 Oct 2026 19:35:51 -0400",
+      "summary": "The GMO Group has urged customers to disconnect their systems from the internet and shut down computers after a threat actor who breached the company's Onamae Desktop Cloud threatened to launch a ransomware attack today. [...]",
+      "source": "BleepingComputer",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 3,
+      "sources": [
+        {
+          "name": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/"
+        }
+      ]
+    },
+    {
       "title": "Japan internet giant GMO says hackers posted stolen customer data",
       "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
       "published": "Tue, 27 Oct 2026 13:32:57 +0000",
@@ -1321,22 +1321,6 @@
         {
           "name": "TechCrunch",
           "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/"
-        }
-      ]
-    },
-    {
-      "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
-      "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
-      "published": "Tue, 27 Oct 2026 13:00:00 +0000",
-      "summary": "General Compute is betting on inference chips from outside the Nvidia ecosystem.",
-      "source": "TechCrunch",
-      "source_category": "Journalism",
-      "topic": "Cloud & Infrastructure",
-      "score": 3,
-      "sources": [
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/"
         }
       ]
     },
@@ -1449,6 +1433,22 @@
         {
           "name": "GitHub Blog",
           "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/"
+        }
+      ]
+    },
+    {
+      "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+      "url": "https://huggingface.co/blog/hf-torchneuron",
+      "published": "Mon, 19 Oct 2026 00:00:00 GMT",
+      "summary": "",
+      "source": "Hugging Face",
+      "source_category": "Vendor",
+      "topic": "AI & Emerging Tech",
+      "score": 2,
+      "sources": [
+        {
+          "name": "Hugging Face",
+          "url": "https://huggingface.co/blog/hf-torchneuron"
         }
       ]
     }
