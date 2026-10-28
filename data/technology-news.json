@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-10-28T09:09:35+00:00",
+  "retrieved_at": "2026-10-28T13:21:46+00:00",
   "candidate_sources": 40,
   "successful_sources": 33,
   "collected_articles": 566,
@@ -69,22 +69,6 @@
       ]
     },
     {
-      "title": "PHP2Shell exposes the weakness in coordinated vulnerability disclosure",
-      "url": "https://www.infoworld.com/article/4239342/php2shell-exposes-the-weakness-in-coordinated-vulnerability-disclosure.html",
-      "published": "Fri, 23 Oct 2026 00:39:33 +0000",
-      "summary": "Two critical vulnerabilities discovered in the widely-used PHP programming language have shaken up enterprises, and the ramifications will take some time to truly understand. But one of the lesser-known stories centers around disclosure. According to The PHP Foundation , several organizations had agreed to a coordinated release detailing the critic",
-      "source": "InfoWorld",
-      "source_category": "Journalism",
-      "topic": "Cybersecurity",
-      "score": 10,
-      "sources": [
-        {
-          "name": "InfoWorld",
-          "url": "https://www.infoworld.com/article/4239342/php2shell-exposes-the-weakness-in-coordinated-vulnerability-disclosure.html"
-        }
-      ]
-    },
-    {
       "title": "Kubernetes v1.37: KubeletInUserNamespace (aka Rootless mode) Graduates to Beta",
       "url": "https://kubernetes.io/blog/2026/09/04/kubernetes-v1-37-rootless-beta/",
       "published": "Fri, 04 Sep 2026 10:30:00 -0800",
@@ -113,6 +97,22 @@
         {
           "name": "The Hacker News",
           "url": "https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html"
+        }
+      ]
+    },
+    {
+      "title": "CISA warns of hackers now exploiting critical Node2Shell flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/",
+      "published": "Wed, 28 Oct 2026 06:46:23 -0400",
+      "summary": "On Tuesday, the US Cybersecurity and Infrastructure Security Agency (CISA) confirmed that hackers have begun exploiting a critical Brotli vulnerability known as Node2Shell, Broccoli2Shell, and HTTP2Shell. [...]",
+      "source": "BleepingComputer",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 9,
+      "sources": [
+        {
+          "name": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/"
         }
       ]
     },
@@ -257,6 +257,22 @@
         {
           "name": "IEEE Spectrum",
           "url": "https://spectrum.ieee.org/ai-robot-safety-cybersecurity-vicone"
+        }
+      ]
+    },
+    {
+      "title": "OpenAI bets on AI economics with lower-cost GPT-6.1 Terra",
+      "url": "https://www.infoworld.com/article/4241006/openai-bets-on-ai-economics-with-lower-cost-gpt-6-1-terra.html",
+      "published": "Tue, 27 Oct 2026 12:01:56 +0000",
+      "summary": "OpenAI has launched GPT-6.1 Terra, a new reasoning model that it says delivers near-frontier performance on visual reasoning, professional task execution, and computer-use benchmarks without the premium price tag. Replacing GPT-5.6 Terra, the model is aimed at organizations seeking better accuracy and automation capabilities for large-scale operati",
+      "source": "InfoWorld",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 8,
+      "sources": [
+        {
+          "name": "InfoWorld",
+          "url": "https://www.infoworld.com/article/4241006/openai-bets-on-ai-economics-with-lower-cost-gpt-6-1-terra.html"
         }
       ]
     },
@@ -485,6 +501,22 @@
       ]
     },
     {
+      "title": "NeedyMantis: Unpacking a post-compromise malware family used in targeted operations",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/28/needymantis-unpacking-a-post-compromise-malware-family-used-in-targeted-operations/",
+      "published": "Mon, 28 Sep 2026 15:00:00 +0000",
+      "summary": "Microsoft Threat Intelligence identified NeedyMantis, a modular post-compromise malware framework used in targeted intrusions that combines custom loaders, encrypted archives, and extensible components to maintain long-term access and support follow-on operations. The post NeedyMantis: Unpacking a post-compromise malware family used in targeted ope",
+      "source": "Microsoft Security",
+      "source_category": "Vendor",
+      "topic": "Cybersecurity",
+      "score": 7,
+      "sources": [
+        {
+          "name": "Microsoft Security",
+          "url": "https://www.microsoft.com/en-us/security/blog/2026/09/28/needymantis-unpacking-a-post-compromise-malware-family-used-in-targeted-operations/"
+        }
+      ]
+    },
+    {
       "title": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site",
       "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
       "published": "Mon, 19 Oct 2026 13:48:56 +0000",
@@ -529,6 +561,22 @@
         {
           "name": "The Hacker News",
           "url": "https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html"
+        }
+      ]
+    },
+    {
+      "title": "How Atos uses Red Hat AI to build smaller, specialized models for sovereign AI",
+      "url": "https://www.redhat.com/en/blog/how-atos-uses-red-hat-ai-build-smaller-specialized-models-sovereign-ai",
+      "published": "Wed, 28 Oct 2026 00:00:00 +0000",
+      "summary": "For an enterprise, AI sovereignty starts with this primary requirement: Retain control of its own data and infrastructure. But as organizations move from experimenting with AI to deploying it in real business processes, control over the models themselves has become increasingly important. This includes the ability to fine-tune and adapt models to t",
+      "source": "Red Hat",
+      "source_category": "Vendor",
+      "topic": "AI & Emerging Tech",
+      "score": 6,
+      "sources": [
+        {
+          "name": "Red Hat",
+          "url": "https://www.redhat.com/en/blog/how-atos-uses-red-hat-ai-build-smaller-specialized-models-sovereign-ai"
         }
       ]
     },
@@ -793,18 +841,18 @@
       ]
     },
     {
-      "title": "Friday Five — October 23, 2026 | Red Hat",
-      "url": "https://www.redhat.com/en/blog/friday-five-october-23-2026-red-hat",
-      "published": "Fri, 23 Oct 2026 00:00:00 +0000",
-      "summary": "Red Hat AI Factory with NVIDIA Accelerates Agentic AI Security Capabilities Across the Open Hybrid CloudRed Hat and NVIDIA expanded their collaboration around Red Hat AI Factory with NVIDIA, spanning agent security through OpenShell, optimized open weights inference, and Day 0 enablement for NVIDIA Vera Rubin infrastructure to support safer agentic",
-      "source": "Red Hat",
-      "source_category": "Vendor",
-      "topic": "Cybersecurity",
-      "score": 6,
+      "title": "Scale publishes first AI benchmark through CAISSI partnership",
+      "url": "https://fedscoop.com/scale-chemistry-ai-benchmark-caissi-partnership-dualchem/",
+      "published": "Wed, 28 Oct 2026 10:00:00 +0000",
+      "summary": "The new benchmark, DualChem, is aimed at helping government agencies determine AI model risk in chemistry applications. The post Scale publishes first AI benchmark through CAISSI partnership appeared first on FedScoop .",
+      "source": "FedScoop",
+      "source_category": "Federal IT",
+      "topic": "AI & Emerging Tech",
+      "score": 5,
       "sources": [
         {
-          "name": "Red Hat",
-          "url": "https://www.redhat.com/en/blog/friday-five-october-23-2026-red-hat"
+          "name": "FedScoop",
+          "url": "https://fedscoop.com/scale-chemistry-ai-benchmark-caissi-partnership-dualchem/"
         }
       ]
     },
@@ -837,22 +885,6 @@
         {
           "name": "Palo Alto Unit 42",
           "url": "https://unit42.paloaltonetworks.com/web3-cloud-supply-chain-attacks/"
-        }
-      ]
-    },
-    {
-      "title": "​​Beyond source code: A path to the keys to the kingdom",
-      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/29/beyond-source-code-a-path-to-the-keys-to-the-kingdom/",
-      "published": "Tue, 29 Sep 2026 16:00:00 +0000",
-      "summary": "Explore how Storm-3068 turned a compromised identity into broader cloud access and the steps organizations can take to defend their identities, pipelines, and cloud infrastructure. The post ​​Beyond source code: A path to the keys to the kingdom appeared first on Microsoft Security Blog .",
-      "source": "Microsoft Security",
-      "source_category": "Vendor",
-      "topic": "Cybersecurity",
-      "score": 5,
-      "sources": [
-        {
-          "name": "Microsoft Security",
-          "url": "https://www.microsoft.com/en-us/security/blog/2026/09/29/beyond-source-code-a-path-to-the-keys-to-the-kingdom/"
         }
       ]
     },
@@ -953,6 +985,22 @@
       ]
     },
     {
+      "title": "Neocloud thinks AI agents - not meatbags - will be its main customers",
+      "url": "https://www.theregister.com/ai-and-ml/2026/10/28/neocloud-thinks-ai-agents-not-meatbags-will-be-its-main-customers/5305496",
+      "published": "Wed, 28 Oct 2026 09:30:00 +0000",
+      "summary": "Quake AI is developing APIs to let autonomous agents access its services more efficiently",
+      "source": "The Register",
+      "source_category": "Journalism",
+      "topic": "AI & Emerging Tech",
+      "score": 4,
+      "sources": [
+        {
+          "name": "The Register",
+          "url": "https://www.theregister.com/ai-and-ml/2026/10/28/neocloud-thinks-ai-agents-not-meatbags-will-be-its-main-customers/5305496"
+        }
+      ]
+    },
+    {
       "title": "How Commerce.com and Cloudflare are getting storefronts ready for AI agents",
       "url": "https://blog.cloudflare.com/webmcp-commerce/",
       "published": "Wed, 21 Oct 2026 13:00:00 GMT",
@@ -1033,22 +1081,6 @@
       ]
     },
     {
-      "title": "UK Home Office May Face Investigation Over Use of OpenAI Tech",
-      "url": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/",
-      "published": "Tue, 27 Oct 2026 15:10:26 +0000",
-      "summary": "A government watchdog is considering a probe into the Home Office’s use of ChatGPT technology to process asylum claims amid concerns over the tools’ accuracy and secrecy surrounding their use.",
-      "source": "WIRED",
-      "source_category": "Journalism",
-      "topic": "Federal IT & Policy",
-      "score": 4,
-      "sources": [
-        {
-          "name": "WIRED",
-          "url": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/"
-        }
-      ]
-    },
-    {
       "title": "US government says hackers are now exploiting critical PHP web bugs",
       "url": "https://techcrunch.com/2026/10/27/us-government-says-hackers-are-now-exploiting-critical-php-web-bugs/",
       "published": "Tue, 27 Oct 2026 14:40:39 +0000",
@@ -1061,22 +1093,6 @@
         {
           "name": "TechCrunch",
           "url": "https://techcrunch.com/2026/10/27/us-government-says-hackers-are-now-exploiting-critical-php-web-bugs/"
-        }
-      ]
-    },
-    {
-      "title": "Designing an AI serving harness built to last",
-      "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
-      "published": "Thu, 22 Oct 2026 21:17:29 +0000",
-      "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows, higher benchmark scores. Those advances have…",
-      "source": "MIT Technology Review",
-      "source_category": "Research",
-      "topic": "AI & Emerging Tech",
-      "score": 4,
-      "sources": [
-        {
-          "name": "MIT Technology Review",
-          "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/"
         }
       ]
     },
@@ -1109,22 +1125,6 @@
         {
           "name": "Cisco Blogs",
           "url": "https://blogs.cisco.com/partner/the-partners-who-set-the-pace-our-fy26-global-award-winners"
-        }
-      ]
-    },
-    {
-      "title": "Records show White House, DOGE involvement in National Science Foundation grant terminations",
-      "url": "https://fedscoop.com/records-show-white-house-doge-involvement-in-national-science-foundation-grant-terminations/",
-      "published": "Mon, 26 Oct 2026 21:45:02 +0000",
-      "summary": "Federal records show DOGE's role in initiating grant terminations across the National Science Foundation and indicate that the White House also flagged awards to cut. The post Records show White House, DOGE involvement in National Science Foundation grant terminations appeared first on FedScoop .",
-      "source": "FedScoop",
-      "source_category": "Federal IT",
-      "topic": "Federal IT & Policy",
-      "score": 4,
-      "sources": [
-        {
-          "name": "FedScoop",
-          "url": "https://fedscoop.com/records-show-white-house-doge-involvement-in-national-science-foundation-grant-terminations/"
         }
       ]
     },
@@ -1209,6 +1209,22 @@
       ]
     },
     {
+      "title": "ICE Is Running One of the Largest Anti-Left Surveillance Operations in US History",
+      "url": "https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/",
+      "published": "Wed, 28 Oct 2026 09:30:00 +0000",
+      "summary": "ICE’s Homeland Security Investigations is engaged in far-reaching spying against left-wing activists that rivals the FBI and CIA crackdowns on the Civil Rights and anti-war movements.",
+      "source": "WIRED",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 3,
+      "sources": [
+        {
+          "name": "WIRED",
+          "url": "https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/"
+        }
+      ]
+    },
+    {
       "title": "OpenAI models are coming to Google Cloud",
       "url": "https://openai.com/index/openai-models-google-cloud",
       "published": "Wed, 21 Oct 2026 12:00:00 GMT",
@@ -1225,38 +1241,6 @@
       ]
     },
     {
-      "title": "Japan's GMO urges customers to shut down PCs amid ransomware threat",
-      "url": "https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/",
-      "published": "Tue, 27 Oct 2026 19:35:51 -0400",
-      "summary": "The GMO Group has urged customers to disconnect their systems from the internet and shut down computers after a threat actor who breached the company's Onamae Desktop Cloud threatened to launch a ransomware attack today. [...]",
-      "source": "BleepingComputer",
-      "source_category": "Journalism",
-      "topic": "Cybersecurity",
-      "score": 3,
-      "sources": [
-        {
-          "name": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/"
-        }
-      ]
-    },
-    {
-      "title": "Japan internet giant GMO says hackers posted stolen customer data",
-      "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
-      "published": "Tue, 27 Oct 2026 13:32:57 +0000",
-      "summary": "Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach.",
-      "source": "TechCrunch",
-      "source_category": "Journalism",
-      "topic": "Cybersecurity",
-      "score": 3,
-      "sources": [
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/"
-        }
-      ]
-    },
-    {
       "title": "Apple Patches for October 2026, (Mon, Oct 26th)",
       "url": "https://isc.sans.edu/diary/rss/33458",
       "published": "Tue, 27 Oct 2026 02:09:55 GMT",
@@ -1269,22 +1253,6 @@
         {
           "name": "SANS Internet Storm Center",
           "url": "https://isc.sans.edu/diary/rss/33458"
-        }
-      ]
-    },
-    {
-      "title": "Japanese virtual desktop cloud hacked so hard it asks to be banned",
-      "url": "https://www.theregister.com/security/2026/10/27/japanese-virtual-desktop-cloud-hacked-so-hard-it-asks-to-be-banned/5305610",
-      "published": "Tue, 27 Oct 2026 01:06:22 +0000",
-      "summary": "CEO admits service used for foreign exchange trading had holes company was slow to fix",
-      "source": "The Register",
-      "source_category": "Journalism",
-      "topic": "Cloud & Infrastructure",
-      "score": 3,
-      "sources": [
-        {
-          "name": "The Register",
-          "url": "https://www.theregister.com/security/2026/10/27/japanese-virtual-desktop-cloud-hacked-so-hard-it-asks-to-be-banned/5305610"
         }
       ]
     },
@@ -1401,22 +1369,6 @@
       ]
     },
     {
-      "title": "Anthropic Flags Gas Supply as One of Its Biggest Near-Term Risks",
-      "url": "https://www.wired.com/story/anthropic-ipo-identifies-gas-supply-as-big-near-term-risks/",
-      "published": "Tue, 27 Oct 2026 18:20:28 +0000",
-      "summary": "The data center buildout could cause a massive increase in gas prices as companies scramble for limited supplies and infrastructure fails to meet demand.",
-      "source": "WIRED",
-      "source_category": "Journalism",
-      "topic": "Cloud & Infrastructure",
-      "score": 2,
-      "sources": [
-        {
-          "name": "WIRED",
-          "url": "https://www.wired.com/story/anthropic-ipo-identifies-gas-supply-as-big-near-term-risks/"
-        }
-      ]
-    },
-    {
       "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
       "url": "https://huggingface.co/blog/hf-torchneuron",
       "published": "Mon, 19 Oct 2026 00:00:00 GMT",
@@ -1433,10 +1385,26 @@
       ]
     },
     {
-      "title": "AI Emergency Alerts Are Coming. Humans Might Not Be Ready",
-      "url": "https://www.wired.com/story/ai-emergency-alerts-coming-humans-not-ready/",
-      "published": "Wed, 28 Oct 2026 08:30:00 +0000",
-      "summary": "Human beings struggle with emergency communication. Chatbots can help—if people take them seriously.",
+      "title": "The Download: dead startups fueling AI and interspecies communication",
+      "url": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
+      "published": "Wed, 28 Oct 2026 12:10:00 +0000",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI labs are buying data from dead startups to train their models When Keelan Miskell began winding down his crypto startup, he didn’t think its data was worth much. But he’s…",
+      "source": "MIT Technology Review",
+      "source_category": "Research",
+      "topic": "AI & Emerging Tech",
+      "score": 1,
+      "sources": [
+        {
+          "name": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/"
+        }
+      ]
+    },
+    {
+      "title": "Amazon Adds an Alexa Photo Frame and a Bedside Clock to Its Echo Family",
+      "url": "https://www.wired.com/story/amazon-adds-an-alexa-photo-frame-and-a-bedside-clock-to-its-echo-family/",
+      "published": "Wed, 28 Oct 2026 12:01:00 +0000",
+      "summary": "The new Echo Studio also gets a camera, and the Echo Show 16 debuts an AI-generated Alexa interface.",
       "source": "WIRED",
       "source_category": "Journalism",
       "topic": "AI & Emerging Tech",
@@ -1444,7 +1412,39 @@
       "sources": [
         {
           "name": "WIRED",
-          "url": "https://www.wired.com/story/ai-emergency-alerts-coming-humans-not-ready/"
+          "url": "https://www.wired.com/story/amazon-adds-an-alexa-photo-frame-and-a-bedside-clock-to-its-echo-family/"
+        }
+      ]
+    },
+    {
+      "title": "Pairing industrial AI autonomy and human control",
+      "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
+      "published": "Wed, 28 Oct 2026 12:00:00 +0000",
+      "summary": "",
+      "source": "MIT Technology Review",
+      "source_category": "Research",
+      "topic": "AI & Emerging Tech",
+      "score": 1,
+      "sources": [
+        {
+          "name": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/"
+        }
+      ]
+    },
+    {
+      "title": "Macmillan Staff Say the Publisher Threw a Party for a Workplace AI Assistant That Was Later Killed",
+      "url": "https://www.wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/",
+      "published": "Wed, 28 Oct 2026 10:15:00 +0000",
+      "summary": "Workers tell WIRED that NOA—or “No Ordinary Assistant”—was unhelpful. Bestselling authors also say AI is ruining their relationships with Big Five publishers.",
+      "source": "WIRED",
+      "source_category": "Journalism",
+      "topic": "AI & Emerging Tech",
+      "score": 1,
+      "sources": [
+        {
+          "name": "WIRED",
+          "url": "https://www.wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/"
         }
       ]
     }
