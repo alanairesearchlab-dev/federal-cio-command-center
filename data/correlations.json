@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-10-28T13:21:46+00:00",
+  "retrieved_at": "2026-10-28T17:09:29+00:00",
   "items": [
     {
       "cve": "CVE-2026-111497",
@@ -36,22 +36,6 @@
       "note": "Exact CVE reference correlation, not independent confirmation of claims or agency exposure."
     },
     {
-      "cve": "CVE-2026-109619",
-      "vendor": "PHP Group",
-      "product": "PHP",
-      "date_added": "2026-10-26",
-      "sources": [
-        {
-          "title": "PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware",
-          "url": "https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html",
-          "source": "The Hacker News",
-          "kind": "news"
-        }
-      ],
-      "source_count": 1,
-      "note": "Exact CVE reference correlation, not independent confirmation of claims or agency exposure."
-    },
-    {
       "cve": "CVE-2026-109618",
       "vendor": "PHP Group",
       "product": "PHP",
@@ -60,12 +44,6 @@
         {
           "title": "CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution",
           "url": "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html",
-          "source": "The Hacker News",
-          "kind": "news"
-        },
-        {
-          "title": "PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware",
-          "url": "https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html",
           "source": "The Hacker News",
           "kind": "news"
         }
@@ -122,6 +100,6 @@
       "note": "Exact CVE reference correlation, not independent confirmation of claims or agency exposure."
     }
   ],
-  "count": 6,
+  "count": 5,
   "note": "Exact CVE matching only. Multiple reports about one CVE do not represent multiple vulnerabilities."
 }
