@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-10-29T13:23:52+00:00",
+  "retrieved_at": "2026-10-29T17:13:03+00:00",
   "items": [
     {
       "cve": "CVE-2026-41709",
@@ -32,12 +32,6 @@
         {
           "title": "PHP Issues Second Windows Security Update in Five Days to Fix Brotli Code Execution Flaw",
           "url": "https://thehackernews.com/2026/10/php-issues-second-windows-security.html",
-          "source": "The Hacker News",
-          "kind": "news"
-        },
-        {
-          "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
-          "url": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
           "source": "The Hacker News",
           "kind": "news"
         }

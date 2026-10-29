@@ -1,8 +1,8 @@
 {
-  "retrieved_at": "2026-10-29T13:23:52+00:00",
+  "retrieved_at": "2026-10-29T17:13:03+00:00",
   "candidate_sources": 40,
-  "successful_sources": 34,
-  "collected_articles": 589,
+  "successful_sources": 33,
+  "collected_articles": 567,
   "items": [
     {
       "title": "The First Federal Guidance on AI Agents Is Here. Most Agencies Can’t Meet It Yet.",
@@ -85,22 +85,6 @@
       ]
     },
     {
-      "title": "Adobe Commerce PolyShell Attacks Breach Hundreds of Stores as Brotli Exploit Traffic Emerges",
-      "url": "https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html",
-      "published": "Wed, 28 Oct 2026 11:12:26 +0530",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two vulnerabilities impacting Adobe Commerce and Magento, and Google's Brotli decoder library to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilities are listed below - CVE-2026-111497 (CVSS score: 9.2) - An un",
-      "source": "The Hacker News",
-      "source_category": "Journalism",
-      "topic": "Cybersecurity",
-      "score": 9,
-      "sources": [
-        {
-          "name": "The Hacker News",
-          "url": "https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html"
-        }
-      ]
-    },
-    {
       "title": "CISA warns of hackers now exploiting critical Node2Shell flaw",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/",
       "published": "Wed, 28 Oct 2026 06:46:23 -0400",
@@ -161,6 +145,38 @@
         {
           "name": "The Hacker News",
           "url": "https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html"
+        }
+      ]
+    },
+    {
+      "title": "CISA warns of Fragnesia Linux flaw chained in PHP2Shell attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-fragnesia-linux-flaw-chained-in-php2shell-attacks/",
+      "published": "Thu, 29 Oct 2026 09:59:48 -0400",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies to patch a high-severity Linux kernel privilege escalation bug that attackers are chaining with the PHP2Shell flaws in the wild. [...]",
+      "source": "BleepingComputer",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 9,
+      "sources": [
+        {
+          "name": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-fragnesia-linux-flaw-chained-in-php2shell-attacks/"
+        }
+      ]
+    },
+    {
+      "title": "Firefox and Chrome patch 200+ security flaws combined – update both ASAP",
+      "url": "https://www.zdnet.com/tech/firefox-chrome-browsers-patch-200-security-flaws-update-asap/",
+      "published": "2026-10-29T16:30:28Z",
+      "summary": "The latest version of Firefox fixes 167 security vulnerabilities, most of which are of high severity, while the newest version of Chrome patches 52 flaws, four of which are critical.",
+      "source": "ZDNET",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 9,
+      "sources": [
+        {
+          "name": "ZDNET",
+          "url": "https://www.zdnet.com/tech/firefox-chrome-browsers-patch-200-security-flaws-update-asap/"
         }
       ]
     },
@@ -453,6 +469,38 @@
       ]
     },
     {
+      "title": "Bluesky blocks links to leaked DHS employee data as government seeks takedowns",
+      "url": "https://techcrunch.com/2026/10/29/bluesky-blocks-links-to-leaked-dhs-employee-data-as-government-seeks-takedowns/",
+      "published": "Thu, 29 Oct 2026 13:43:53 +0000",
+      "summary": "The social networking site is facing criticism for blocking access to the site, which identifies thousands of ICE agents and other employees working for Homeland Security.",
+      "source": "TechCrunch",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 7,
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/29/bluesky-blocks-links-to-leaked-dhs-employee-data-as-government-seeks-takedowns/"
+        }
+      ]
+    },
+    {
+      "title": "Microsoft fixes Remote Desktop failures caused by recent Windows updates",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-failures-caused-by-recent-windows-updates/",
+      "published": "Thu, 29 Oct 2026 10:35:40 -0400",
+      "summary": "Microsoft has resolved a known issue that prevents non-admin users from connecting to devices via Remote Desktop when the \"Administrator protection\" security feature is enabled. [...]",
+      "source": "BleepingComputer",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 7,
+      "sources": [
+        {
+          "name": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-failures-caused-by-recent-windows-updates/"
+        }
+      ]
+    },
+    {
       "title": "Admin dropped the F-bomb in a password to show hackers who was really 1337",
       "url": "https://www.theregister.com/security/2026/10/29/admin-dropped-the-f-bomb-in-a-password-to-show-hackers-who-was-really-1337/5306139",
       "published": "Thu, 29 Oct 2026 09:00:00 +0000",
@@ -485,22 +533,6 @@
       ]
     },
     {
-      "title": "Preparing governments for an era of interconnected cyber risk",
-      "url": "https://blogs.microsoft.com/on-the-issues/2026/10/01/preparing-governments-for-an-era-of-interconnected-cyber-risk/",
-      "published": "Thu, 01 Oct 2026 14:00:00 +0000",
-      "summary": "According to this year’s Microsoft Digital Defense Report, government agencies and services were the sector most impacted by cyber threats in 2026, accounting for 27% of observed activity, up from 17% in 2025. The post Preparing governments for an era of interconnected cyber risk appeared first on Microsoft Security Blog .",
-      "source": "Microsoft Security",
-      "source_category": "Vendor",
-      "topic": "Cybersecurity",
-      "score": 7,
-      "sources": [
-        {
-          "name": "Microsoft Security",
-          "url": "https://blogs.microsoft.com/on-the-issues/2026/10/01/preparing-governments-for-an-era-of-interconnected-cyber-risk/"
-        }
-      ]
-    },
-    {
       "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
       "url": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
       "published": "Sat, 10 Oct 2026 00:17:42 +0000",
@@ -529,6 +561,22 @@
         {
           "name": "Krebs on Security",
           "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/"
+        }
+      ]
+    },
+    {
+      "title": "Anthropic's Unreleased AI Model Chains Flaws Into Working Chrome, Safari, Windows and Linux Exploits",
+      "url": "https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html",
+      "published": "Wed, 28 Oct 2026 13:45:07 +0530",
+      "summary": "An unreleased Anthropic AI model found security flaws in Chrome, Safari, Android, Windows, and Linux and chained them into working proof-of-concept exploits, the company said in its latest report. The exploits were built in the lab after the model was prompted, not seen in any real attack, and Anthropic reported every flaw to the vendor first, so a",
+      "source": "The Hacker News",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 6,
+      "sources": [
+        {
+          "name": "The Hacker News",
+          "url": "https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html"
         }
       ]
     },
@@ -697,6 +745,22 @@
       ]
     },
     {
+      "title": "DoorDash to acquire Instacart for $17B",
+      "url": "https://techcrunch.com/2026/10/29/doordash-to-acquire-instacart-for-17b/",
+      "published": "Thu, 29 Oct 2026 13:40:57 +0000",
+      "summary": "The acquisition would bring two major players in on-demand delivery under one roof, combining DoorDash’s dominance in restaurant takeout with Instacart’s reach in grocery delivery.",
+      "source": "TechCrunch",
+      "source_category": "Journalism",
+      "topic": "Federal IT & Policy",
+      "score": 6,
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/29/doordash-to-acquire-instacart-for-17b/"
+        }
+      ]
+    },
+    {
       "title": "Google struggling to make AI Mode searches pay",
       "url": "https://www.theregister.com/ai-and-ml/2026/10/29/google-struggling-to-make-ai-mode-searches-pay/5306181",
       "published": "Thu, 29 Oct 2026 01:12:24 +0000",
@@ -825,7 +889,7 @@
       ]
     },
     {
-      "title": "GhostAction Hacking Wave Fizzles, But Attackers Lurk on in GitHub",
+      "title": "GhostAction Hacking Wave Fizzles, but Attackers Lurk on in GitHub",
       "url": "https://www.darkreading.com/application-security/ghostaction-hacking-wave-fizzles-attackers-github",
       "published": "Wed, 28 Oct 2026 19:39:00 GMT",
       "summary": "The supply chain attack campaign's shift toward developer endpoints and cloud access signals what could be next for the cybercrime outfit.",
@@ -853,22 +917,6 @@
         {
           "name": "Cisco Blogs",
           "url": "https://blogs.cisco.com/networking/expect-more-from-your-wireless-network-a-playbook-for-growing-businesses"
-        }
-      ]
-    },
-    {
-      "title": "InfraTrust report warns of exploited flaws in critical network infrastructure",
-      "url": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/",
-      "published": "Wed, 28 Oct 2026 10:00:00 -0400",
-      "summary": "Attackers are actively exploiting vulnerabilities across critical network infrastructure, and PHP flaws known as \"PHP2Shell\" put the web management interfaces of firewalls, VPNs, application delivery controllers, and other appliances at risk. [...]",
-      "source": "BleepingComputer",
-      "source_category": "Journalism",
-      "topic": "Cybersecurity",
-      "score": 5,
-      "sources": [
-        {
-          "name": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/"
         }
       ]
     },
@@ -985,6 +1033,22 @@
       ]
     },
     {
+      "title": "Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/10/23/inside-the-litellm-1-107-0-supply-chain-compromise-credential-theft-through-python-startup-hooks/",
+      "published": "Fri, 23 Oct 2026 18:12:19 +0000",
+      "summary": "Microsoft Threat Intelligence analyzes the LiteLLM 1.107.0 compromise, including Python startup hooks, credential theft, remote code loading, detections, and mitigations. The post Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks appeared first on Microsoft Security Blog .",
+      "source": "Microsoft Security",
+      "source_category": "Vendor",
+      "topic": "Cybersecurity",
+      "score": 5,
+      "sources": [
+        {
+          "name": "Microsoft Security",
+          "url": "https://www.microsoft.com/en-us/security/blog/2026/10/23/inside-the-litellm-1-107-0-supply-chain-compromise-credential-theft-through-python-startup-hooks/"
+        }
+      ]
+    },
+    {
       "title": "OPM’s performance rating system misses the real problem",
       "url": "https://federalnewsnetwork.com/commentary/2026/10/opms-performance-rating-system-misses-the-real-problem/",
       "published": "Wed, 28 Oct 2026 20:55:00 +0000",
@@ -1033,50 +1097,18 @@
       ]
     },
     {
-      "title": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
-      "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
-      "published": "Wed, 28 Oct 2026 19:05:46 +0000",
-      "summary": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities could be patched. According to researchers who found the […]",
-      "source": "TechCrunch",
+      "title": "AI Takes Root in Hospital Corridors, Raises Security Stakes",
+      "url": "https://www.darkreading.com/cybersecurity-operations/ai-root-hospital-corridors-raised-security-stakes",
+      "published": "Wed, 28 Oct 2026 15:29:06 GMT",
+      "summary": "Artificial intelligence (AI) is everywhere in healthcare, from doctors’ intake forms to cancer screenings. But in some cases, life-and-death uses are outpacing cybersecurity.",
+      "source": "Dark Reading",
       "source_category": "Journalism",
       "topic": "Cybersecurity",
       "score": 4,
       "sources": [
         {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/"
-        }
-      ]
-    },
-    {
-      "title": "Reddit is the latest platform to embrace the ‘For You’ feed",
-      "url": "https://techcrunch.com/2026/10/28/reddit-is-the-latest-platform-to-embrace-the-for-you-feed/",
-      "published": "Wed, 28 Oct 2026 16:00:00 +0000",
-      "summary": "The For You feed combines posts from communities users have joined with recommendations tailored to their interests.",
-      "source": "TechCrunch",
-      "source_category": "Journalism",
-      "topic": "Federal IT & Policy",
-      "score": 4,
-      "sources": [
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/28/reddit-is-the-latest-platform-to-embrace-the-for-you-feed/"
-        }
-      ]
-    },
-    {
-      "title": "Microsoft urges Entra ID admins to migrate users to passkeys",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-entra-id-admins-to-migrate-users-to-passkeys/",
-      "published": "Wed, 28 Oct 2026 10:48:32 -0400",
-      "summary": "Microsoft again asked Entra ID administrators to migrate users to phishing-resistant methods to avoid sign-in disruptions before it retires SMS and voice authentication in February 2027. [...]",
-      "source": "BleepingComputer",
-      "source_category": "Journalism",
-      "topic": "Federal IT & Policy",
-      "score": 4,
-      "sources": [
-        {
-          "name": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-entra-id-admins-to-migrate-users-to-passkeys/"
+          "name": "Dark Reading",
+          "url": "https://www.darkreading.com/cybersecurity-operations/ai-root-hospital-corridors-raised-security-stakes"
         }
       ]
     },
@@ -1129,18 +1161,34 @@
       ]
     },
     {
-      "title": "External Teams Chats Anchor 15-Minute Malware Delivery",
-      "url": "https://www.darkreading.com/cloud-security/email-bombing-external-teams-chats-repeatable-access-path",
-      "published": "Tue, 27 Oct 2026 20:42:40 GMT",
-      "summary": "Mail bombing is getting a new look with a wide-scale, ongoing social engineering campaign that might be tied to the Black Basta ransomware gang.",
-      "source": "Dark Reading",
+      "title": "IR trends Q3 2026: Actors impersonate IT help desks in vishing attacks as ransomware activity increases",
+      "url": "https://blog.talosintelligence.com/ir-trends-q3-2026/",
+      "published": "Thu, 29 Oct 2026 14:00:00 GMT",
+      "summary": "Phishing remained the leading initial access technique, while percentage of ransomware and pre-ransomware cases increased. Finance and public administration tied as the top-targeted industries.",
+      "source": "Cisco Talos",
+      "source_category": "Research",
+      "topic": "Cybersecurity",
+      "score": 4,
+      "sources": [
+        {
+          "name": "Cisco Talos",
+          "url": "https://blog.talosintelligence.com/ir-trends-q3-2026/"
+        }
+      ]
+    },
+    {
+      "title": "Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race",
+      "url": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/",
+      "published": "Thu, 29 Oct 2026 14:00:00 +0000",
+      "summary": "The French AI lab claims its latest release matches or outperforms even the best models from DeepSeek and Z.ai in coding and cybersecurity.",
+      "source": "WIRED",
       "source_category": "Journalism",
       "topic": "Cybersecurity",
       "score": 4,
       "sources": [
         {
-          "name": "Dark Reading",
-          "url": "https://www.darkreading.com/cloud-security/email-bombing-external-teams-chats-repeatable-access-path"
+          "name": "WIRED",
+          "url": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/"
         }
       ]
     },
@@ -1221,54 +1269,6 @@
         {
           "name": "Schneier on Security",
           "url": "https://www.schneier.com/blog/archives/2026/10/compromised-tls-certificates.html"
-        }
-      ]
-    },
-    {
-      "title": "Inside KeyDrift: Analyzing historical UAT-11473 activity on Cisco SD-WAN",
-      "url": "https://blog.talosintelligence.com/uat-11473-keydrift/",
-      "published": "Wed, 28 Oct 2026 21:32:02 GMT",
-      "summary": "Talos has identified UAT-11473, a highly sophisticated APT, who exploited CVE-2026-20127, an authentication bypass vulnerability in Cisco SD-WAN Catalyst Controller instances to bypass authentication and gain unauthorized access to affected systems to deploy KeyDrift.",
-      "source": "Cisco Talos",
-      "source_category": "Research",
-      "topic": "Cybersecurity",
-      "score": 3,
-      "sources": [
-        {
-          "name": "Cisco Talos",
-          "url": "https://blog.talosintelligence.com/uat-11473-keydrift/"
-        }
-      ]
-    },
-    {
-      "title": "Most Servers on the Planet Are Vulnerable to This Firmware Code-Execution Flaw",
-      "url": "https://www.wired.com/story/most-servers-on-the-planet-are-vulnerable-to-a-code-execution-flaw-in-uefi-firmware/",
-      "published": "Wed, 28 Oct 2026 20:30:00 +0000",
-      "summary": "The critical flaw in UEFI firmware—used by most server vendors and data centers—allows attackers to execute code early in the boot process.",
-      "source": "WIRED",
-      "source_category": "Journalism",
-      "topic": "Cybersecurity",
-      "score": 3,
-      "sources": [
-        {
-          "name": "WIRED",
-          "url": "https://www.wired.com/story/most-servers-on-the-planet-are-vulnerable-to-a-code-execution-flaw-in-uefi-firmware/"
-        }
-      ]
-    },
-    {
-      "title": "Massive Leak Exposes 41,000 Homeland Security Workers—Including Undercover ICE Agents",
-      "url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
-      "published": "Wed, 28 Oct 2026 20:00:00 +0000",
-      "summary": "The leaked records include the locations of ICE and CBP facilities, workers’ cell phone numbers, and the members of groups tied to wiretap programs, Palantir software, and xAI’s Grok chatbot.",
-      "source": "WIRED",
-      "source_category": "Journalism",
-      "topic": "Cybersecurity",
-      "score": 3,
-      "sources": [
-        {
-          "name": "WIRED",
-          "url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/"
         }
       ]
     },
