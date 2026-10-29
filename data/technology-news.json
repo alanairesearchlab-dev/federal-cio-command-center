@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-10-28T21:01:48+00:00",
+  "retrieved_at": "2026-10-29T01:22:45+00:00",
   "candidate_sources": 40,
   "successful_sources": 34,
   "collected_articles": 589,
@@ -277,6 +277,22 @@
       ]
     },
     {
+      "title": "DHS bans Swiss cyber firm from federal systems",
+      "url": "https://federalnewsnetwork.com/cybersecurity/2026/10/dhs-bans-swiss-cyber-firm-from-federal-systems/",
+      "published": "Wed, 28 Oct 2026 21:57:32 +0000",
+      "summary": "DHS's new order banning Acronis AG from federal systems also sheds new light on security concerns U.S. officials have about the company's products and services.",
+      "source": "Federal News Network",
+      "source_category": "Federal IT",
+      "topic": "Cybersecurity",
+      "score": 7,
+      "sources": [
+        {
+          "name": "Federal News Network",
+          "url": "https://federalnewsnetwork.com/cybersecurity/2026/10/dhs-bans-swiss-cyber-firm-from-federal-systems/"
+        }
+      ]
+    },
+    {
       "title": "GSA exposed sensitive information to all agency users on Google Drive, OIG finds",
       "url": "https://fedscoop.com/gsa-exposed-sensitive-information-on-google-drive-watchdog/",
       "published": "Wed, 28 Oct 2026 19:26:19 +0000",
@@ -309,6 +325,22 @@
       ]
     },
     {
+      "title": "Systems Thinking Is Vital in the Age of AI",
+      "url": "https://spectrum.ieee.org/systems-thinking-vital-in-ai",
+      "published": "Wed, 28 Oct 2026 18:00:02 +0000",
+      "summary": "Modern engineering projects increasingly combine human judgment with machine capability. An engineer can define a problem, then ask an artificial intelligence tool to search relevant research and technical standards, generate design options, test them in simulation, and compare the results. The engineer can then bring the results to specialists who",
+      "source": "IEEE Spectrum",
+      "source_category": "Research",
+      "topic": "AI & Emerging Tech",
+      "score": 7,
+      "sources": [
+        {
+          "name": "IEEE Spectrum",
+          "url": "https://spectrum.ieee.org/systems-thinking-vital-in-ai"
+        }
+      ]
+    },
+    {
       "title": "Proactive cyber defense for governments and enterprises",
       "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
       "published": "Wed, 02 Sep 2026 16:24:24 +0000",
@@ -337,22 +369,6 @@
         {
           "name": "Federal News Network",
           "url": "https://federalnewsnetwork.com/acquisition-policy/2026/10/industry-legal-experts-urge-far-council-to-set-standards-for-ai-in-federal-procurement/"
-        }
-      ]
-    },
-    {
-      "title": "CISA gives agencies days to patch critical PHP bugs",
-      "url": "https://federalnewsnetwork.com/technology-main/2026/10/cisa-gives-agencies-days-to-patch-critical-php-bugs/",
-      "published": "Tue, 27 Oct 2026 22:31:21 +0000",
-      "summary": "CISA says hackers are actively exploiting the critical PHP vulnerabilities, as agencies have until Thursday to apply patches.",
-      "source": "Federal News Network",
-      "source_category": "Federal IT",
-      "topic": "Cybersecurity",
-      "score": 7,
-      "sources": [
-        {
-          "name": "Federal News Network",
-          "url": "https://federalnewsnetwork.com/technology-main/2026/10/cisa-gives-agencies-days-to-patch-critical-php-bugs/"
         }
       ]
     },
@@ -449,22 +465,6 @@
         {
           "name": "Microsoft Security",
           "url": "https://blogs.microsoft.com/on-the-issues/2026/10/01/preparing-governments-for-an-era-of-interconnected-cyber-risk/"
-        }
-      ]
-    },
-    {
-      "title": "This Hidden Device Could Free Up Gigawatts of Grid Power",
-      "url": "https://spectrum.ieee.org/variable-frequency-drives",
-      "published": "Sat, 17 Oct 2026 13:00:02 +0000",
-      "summary": "This article was originally published by Canary Media . America’s energy supply crunch is driving a surge of federal and private investment in new electricity generation —from polluting gas turbines to cleaner developments like solar farms and geothermal plants . But gigawatts of power are already available for the taking across the U.S. economy in",
-      "source": "IEEE Spectrum",
-      "source_category": "Research",
-      "topic": "Cloud & Infrastructure",
-      "score": 7,
-      "sources": [
-        {
-          "name": "IEEE Spectrum",
-          "url": "https://spectrum.ieee.org/variable-frequency-drives"
         }
       ]
     },
@@ -793,6 +793,38 @@
       ]
     },
     {
+      "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
+      "url": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
+      "published": "Wed, 28 Oct 2026 23:15:00 +0000",
+      "summary": "The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price.",
+      "source": "TechCrunch",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 5,
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/"
+        }
+      ]
+    },
+    {
+      "title": "GhostAction Hacking Wave Fizzles, But Attackers Lurk on in GitHub",
+      "url": "https://www.darkreading.com/application-security/ghostaction-hacking-wave-fizzles-attackers-github",
+      "published": "Wed, 28 Oct 2026 19:39:00 GMT",
+      "summary": "The supply chain attack campaign's shift toward developer endpoints and cloud access signals what could be next for the cybercrime outfit.",
+      "source": "Dark Reading",
+      "source_category": "Journalism",
+      "topic": "Cloud & Infrastructure",
+      "score": 5,
+      "sources": [
+        {
+          "name": "Dark Reading",
+          "url": "https://www.darkreading.com/application-security/ghostaction-hacking-wave-fizzles-attackers-github"
+        }
+      ]
+    },
+    {
       "title": "Expect more from your wireless network: A playbook for growing businesses",
       "url": "https://blogs.cisco.com/networking/expect-more-from-your-wireless-network-a-playbook-for-growing-businesses",
       "published": "Wed, 28 Oct 2026 15:00:41 +0000",
@@ -921,6 +953,38 @@
       ]
     },
     {
+      "title": "OPM’s performance rating system misses the real problem",
+      "url": "https://federalnewsnetwork.com/commentary/2026/10/opms-performance-rating-system-misses-the-real-problem/",
+      "published": "Wed, 28 Oct 2026 20:55:00 +0000",
+      "summary": "A long-time federal employee says the new performance ratings system is ‘institutional gaslighting’ and bad for employees and agency mission success.",
+      "source": "Federal News Network",
+      "source_category": "Federal IT",
+      "topic": "Federal IT & Policy",
+      "score": 4,
+      "sources": [
+        {
+          "name": "Federal News Network",
+          "url": "https://federalnewsnetwork.com/commentary/2026/10/opms-performance-rating-system-misses-the-real-problem/"
+        }
+      ]
+    },
+    {
+      "title": "Creating AI value with enterprise context",
+      "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+      "published": "Wed, 28 Oct 2026 20:32:02 +0000",
+      "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outcomes and actions that emerge may be wrong, confuse",
+      "source": "MIT Technology Review",
+      "source_category": "Research",
+      "topic": "AI & Emerging Tech",
+      "score": 4,
+      "sources": [
+        {
+          "name": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/"
+        }
+      ]
+    },
+    {
       "title": "Cisco AI Defense joins ServiceNow’s Control Tower Alliance",
       "url": "https://blogs.cisco.com/ai/cisco-ai-defense-joins-servicenows-control-tower-alliance",
       "published": "Wed, 28 Oct 2026 20:09:41 +0000",
@@ -933,22 +997,6 @@
         {
           "name": "Cisco Blogs",
           "url": "https://blogs.cisco.com/ai/cisco-ai-defense-joins-servicenows-control-tower-alliance"
-        }
-      ]
-    },
-    {
-      "title": "Nine ways the Pentagon can fix CMMC without lowering the cybersecurity bar",
-      "url": "https://federalnewsnetwork.com/commentary/2026/10/nine-ways-the-pentagon-can-fix-cmmc-without-lowering-the-cybersecurity-bar/",
-      "published": "Wed, 28 Oct 2026 19:54:29 +0000",
-      "summary": "Russia and Ukraine are already demonstrating how quickly AI, autonomous systems, and software can move from development to operational use.",
-      "source": "Federal News Network",
-      "source_category": "Federal IT",
-      "topic": "Cybersecurity",
-      "score": 4,
-      "sources": [
-        {
-          "name": "Federal News Network",
-          "url": "https://federalnewsnetwork.com/commentary/2026/10/nine-ways-the-pentagon-can-fix-cmmc-without-lowering-the-cybersecurity-bar/"
         }
       ]
     },
@@ -981,22 +1029,6 @@
         {
           "name": "TechCrunch",
           "url": "https://techcrunch.com/2026/10/28/reddit-is-the-latest-platform-to-embrace-the-for-you-feed/"
-        }
-      ]
-    },
-    {
-      "title": "Trump DOE loans $5B to nuclear plants that will power data centers",
-      "url": "https://techcrunch.com/2026/10/28/trump-doe-loans-5b-to-nuclear-plants-that-will-power-data-centers/",
-      "published": "Wed, 28 Oct 2026 15:53:21 +0000",
-      "summary": "Constellation Energy will get $5 billion in government loans to modernize nuclear reactors. Most of the new capacity is already committed to Google, Amazon, and Meta.",
-      "source": "TechCrunch",
-      "source_category": "Journalism",
-      "topic": "Cloud & Infrastructure",
-      "score": 4,
-      "sources": [
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/28/trump-doe-loans-5b-to-nuclear-plants-that-will-power-data-centers/"
         }
       ]
     },
@@ -1077,22 +1109,6 @@
         {
           "name": "Cisco Talos",
           "url": "https://blog.talosintelligence.com/break-the-silence-kazakhstan-nexus-uat-6275-targets-cis-government-organizations/"
-        }
-      ]
-    },
-    {
-      "title": "External Teams Chats Anchor 15-Minute Malware Delivery",
-      "url": "https://www.darkreading.com/cloud-security/email-bombing-external-teams-chats-repeatable-access-path",
-      "published": "Tue, 27 Oct 2026 20:42:40 GMT",
-      "summary": "Mail bombing is getting a new look with a wide-scale, ongoing social engineering campaign that might be tied to the Black Basta ransomware gang.",
-      "source": "Dark Reading",
-      "source_category": "Journalism",
-      "topic": "Cybersecurity",
-      "score": 4,
-      "sources": [
-        {
-          "name": "Dark Reading",
-          "url": "https://www.darkreading.com/cloud-security/email-bombing-external-teams-chats-repeatable-access-path"
         }
       ]
     },
@@ -1189,10 +1205,6 @@
         {
           "name": "WIRED",
           "url": "https://www.wired.com/story/most-servers-on-the-planet-are-vulnerable-to-a-code-execution-flaw-in-uefi-firmware/"
-        },
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/"
         }
       ]
     },
@@ -1433,22 +1445,6 @@
         {
           "name": "Google DeepMind",
           "url": "https://deepmind.google/blog/introducing-synthid-bio/"
-        }
-      ]
-    },
-    {
-      "title": "Please state the nature of the medical emergency: Google is building a robot medic for NASA",
-      "url": "https://www.theregister.com/offbeat/2026/10/28/please-state-the-nature-of-the-medical-emergency-google-is-building-a-robot-medic-for-nasa/5306130",
-      "published": "Wed, 28 Oct 2026 20:44:22 +0000",
-      "summary": "The AI medical assistant is still being tested. Now the space boffins want to give it hands",
-      "source": "The Register",
-      "source_category": "Journalism",
-      "topic": "AI & Emerging Tech",
-      "score": 1,
-      "sources": [
-        {
-          "name": "The Register",
-          "url": "https://www.theregister.com/offbeat/2026/10/28/please-state-the-nature-of-the-medical-emergency-google-is-building-a-robot-medic-for-nasa/5306130"
         }
       ]
     }
