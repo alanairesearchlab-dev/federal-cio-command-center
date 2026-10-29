@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-10-29T01:22:45+00:00",
+  "retrieved_at": "2026-10-29T05:05:12+00:00",
   "candidate_sources": 40,
   "successful_sources": 34,
   "collected_articles": 589,
@@ -517,22 +517,6 @@
       ]
     },
     {
-      "title": "How Atos uses Red Hat AI to build smaller, specialized models for sovereign AI",
-      "url": "https://www.redhat.com/en/blog/how-atos-uses-red-hat-ai-build-smaller-specialized-models-sovereign-ai",
-      "published": "Wed, 28 Oct 2026 00:00:00 +0000",
-      "summary": "For an enterprise, AI sovereignty starts with this primary requirement: Retain control of its own data and infrastructure. But as organizations move from experimenting with AI to deploying it in real business processes, control over the models themselves has become increasingly important. This includes the ability to fine-tune and adapt models to t",
-      "source": "Red Hat",
-      "source_category": "Vendor",
-      "topic": "AI & Emerging Tech",
-      "score": 6,
-      "sources": [
-        {
-          "name": "Red Hat",
-          "url": "https://www.redhat.com/en/blog/how-atos-uses-red-hat-ai-build-smaller-specialized-models-sovereign-ai"
-        }
-      ]
-    },
-    {
       "title": "Building for tomorrow on Red Hat OpenShift",
       "url": "https://www.redhat.com/en/blog/building-tomorrow-red-hat-openshift",
       "published": "Wed, 28 Oct 2026 00:00:00 +0000",
@@ -545,6 +529,22 @@
         {
           "name": "Red Hat",
           "url": "https://www.redhat.com/en/blog/building-tomorrow-red-hat-openshift"
+        }
+      ]
+    },
+    {
+      "title": "How Atos uses Red Hat AI to build smaller, specialized models for sovereign AI",
+      "url": "https://www.redhat.com/en/blog/how-atos-uses-red-hat-ai-build-smaller-specialized-models-sovereign-ai",
+      "published": "Wed, 28 Oct 2026 00:00:00 +0000",
+      "summary": "For an enterprise, AI sovereignty starts with this primary requirement: Retain control of its own data and infrastructure. But as organizations move from experimenting with AI to deploying it in real business processes, control over the models themselves has become increasingly important. This includes the ability to fine-tune and adapt models to t",
+      "source": "Red Hat",
+      "source_category": "Vendor",
+      "topic": "AI & Emerging Tech",
+      "score": 6,
+      "sources": [
+        {
+          "name": "Red Hat",
+          "url": "https://www.redhat.com/en/blog/how-atos-uses-red-hat-ai-build-smaller-specialized-models-sovereign-ai"
         }
       ]
     },
@@ -693,6 +693,22 @@
         {
           "name": "AWS Security",
           "url": "https://aws.amazon.com/blogs/security/identity-aware-ai-data-agents-with-aws-lake-formation-and-trusted-identity-propagation/"
+        }
+      ]
+    },
+    {
+      "title": "Google struggling to make AI Mode searches pay",
+      "url": "https://www.theregister.com/ai-and-ml/2026/10/29/google-struggling-to-make-ai-mode-searches-pay/5306181",
+      "published": "Thu, 29 Oct 2026 01:12:24 +0000",
+      "summary": "That’s a problem, cos it just spent $51 billion on infrastructure and still needs to rent compute from others to run its cloud",
+      "source": "The Register",
+      "source_category": "Journalism",
+      "topic": "AI & Emerging Tech",
+      "score": 6,
+      "sources": [
+        {
+          "name": "The Register",
+          "url": "https://www.theregister.com/ai-and-ml/2026/10/29/google-struggling-to-make-ai-mode-searches-pay/5306181"
         }
       ]
     },
@@ -1269,22 +1285,6 @@
         {
           "name": "OpenAI News",
           "url": "https://openai.com/index/openai-servicenow-partnership-expansion"
-        }
-      ]
-    },
-    {
-      "title": "ICE Is Running One of the Largest Anti-Left Surveillance Operations in US History",
-      "url": "https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/",
-      "published": "Wed, 28 Oct 2026 09:30:00 +0000",
-      "summary": "ICE’s Homeland Security Investigations is engaged in far-reaching spying against left-wing activists that rivals the FBI and CIA crackdowns on the Civil Rights and anti-war movements.",
-      "source": "WIRED",
-      "source_category": "Journalism",
-      "topic": "Cybersecurity",
-      "score": 3,
-      "sources": [
-        {
-          "name": "WIRED",
-          "url": "https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/"
         }
       ]
     },
