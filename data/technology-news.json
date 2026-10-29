@@ -1,8 +1,8 @@
 {
-  "retrieved_at": "2026-10-29T17:13:03+00:00",
+  "retrieved_at": "2026-10-29T21:03:28+00:00",
   "candidate_sources": 40,
-  "successful_sources": 33,
-  "collected_articles": 567,
+  "successful_sources": 34,
+  "collected_articles": 577,
   "items": [
     {
       "title": "The First Federal Guidance on AI Agents Is Here. Most Agencies Can’t Meet It Yet.",
@@ -85,22 +85,6 @@
       ]
     },
     {
-      "title": "CISA warns of hackers now exploiting critical Node2Shell flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/",
-      "published": "Wed, 28 Oct 2026 06:46:23 -0400",
-      "summary": "On Tuesday, the US Cybersecurity and Infrastructure Security Agency (CISA) confirmed that hackers have begun exploiting a critical Brotli vulnerability known as Node2Shell, Broccoli2Shell, and HTTP2Shell. [...]",
-      "source": "BleepingComputer",
-      "source_category": "Journalism",
-      "topic": "Cybersecurity",
-      "score": 9,
-      "sources": [
-        {
-          "name": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/"
-        }
-      ]
-    },
-    {
       "title": "Why Is My Kubernetes Job Still Pending? Tracing Kueue Admission with Headlamp",
       "url": "https://kubernetes.io/blog/2026/10/14/tracing-kueue-admission-with-headlamp/",
       "published": "Wed, 14 Oct 2026 10:35:00 -0800",
@@ -113,22 +97,6 @@
         {
           "name": "Kubernetes",
           "url": "https://kubernetes.io/blog/2026/10/14/tracing-kueue-admission-with-headlamp/"
-        }
-      ]
-    },
-    {
-      "title": "The FedRAMP High Supply Crisis Is a Federal Security Problem – Not a Procurement Footnote",
-      "url": "https://www.meritalk.com/the-fedramp-high-supply-crisis-is-a-federal-security-problem-not-a-procurement-footnote/",
-      "published": "Tue, 24 Mar 2026 19:40:14 +0000",
-      "summary": "Federal agencies spent $11 billion on cloud services in 2024. Roughly 40 percent of that spending supported high-impact systems, platforms carrying national security operations, law enforcement coordination, emergency services, healthcare records, and financial infrastructure. The data on those systems cannot tolerate compromise. And yet the cloud ",
-      "source": "MeriTalk",
-      "source_category": "Federal IT",
-      "topic": "Cybersecurity",
-      "score": 9,
-      "sources": [
-        {
-          "name": "MeriTalk",
-          "url": "https://www.meritalk.com/the-fedramp-high-supply-crisis-is-a-federal-security-problem-not-a-procurement-footnote/"
         }
       ]
     },
@@ -293,6 +261,22 @@
       ]
     },
     {
+      "title": "Federal security leaders team up as post-quantum deadlines tighten",
+      "url": "https://federalnewsnetwork.com/technology-main/2026/10/federal-security-leaders-team-up-as-post-quantum-deadlines-tighten/",
+      "published": "Thu, 29 Oct 2026 18:49:26 +0000",
+      "summary": "An informal CISO group is helping agencies find gaps as the 2030 post-quantum migration deadline nears.",
+      "source": "Federal News Network",
+      "source_category": "Federal IT",
+      "topic": "Cybersecurity",
+      "score": 8,
+      "sources": [
+        {
+          "name": "Federal News Network",
+          "url": "https://federalnewsnetwork.com/technology-main/2026/10/federal-security-leaders-team-up-as-post-quantum-deadlines-tighten/"
+        }
+      ]
+    },
+    {
       "title": "We urgently need to monitor AI agents’ actions in real time",
       "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
       "published": "Thu, 29 Oct 2026 10:11:12 +0000",
@@ -305,6 +289,22 @@
         {
           "name": "MIT Technology Review",
           "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/"
+        }
+      ]
+    },
+    {
+      "title": "Agentic AI Raises the Stakes for Federal Identity Governance",
+      "url": "https://www.meritalk.com/agentic-ai-raises-the-stakes-for-federal-identity-governance/",
+      "published": "Mon, 27 Jul 2026 13:00:12 +0000",
+      "summary": "By: Nick Apostolu, Manager, Product Marketing, Industries, Okta Federal agencies already struggle to govern identities distributed across cloud platforms, legacy systems, contractors, and mission partners. The rise of agentic artificial intelligence (AI) is making that problem more urgent by introducing autonomous software that can retrieve data, c",
+      "source": "MeriTalk",
+      "source_category": "Federal IT",
+      "topic": "AI & Emerging Tech",
+      "score": 8,
+      "sources": [
+        {
+          "name": "MeriTalk",
+          "url": "https://www.meritalk.com/agentic-ai-raises-the-stakes-for-federal-identity-governance/"
         }
       ]
     },
@@ -389,22 +389,6 @@
       ]
     },
     {
-      "title": "Industry, legal experts urge FAR Council to set standards for AI in federal procurement",
-      "url": "https://federalnewsnetwork.com/acquisition-policy/2026/10/industry-legal-experts-urge-far-council-to-set-standards-for-ai-in-federal-procurement/",
-      "published": "Tue, 27 Oct 2026 23:01:22 +0000",
-      "summary": "Currently, there is no federal acquisition rule governing how agencies can use AI during bid evaluations.",
-      "source": "Federal News Network",
-      "source_category": "Federal IT",
-      "topic": "AI & Emerging Tech",
-      "score": 7,
-      "sources": [
-        {
-          "name": "Federal News Network",
-          "url": "https://federalnewsnetwork.com/acquisition-policy/2026/10/industry-legal-experts-urge-far-council-to-set-standards-for-ai-in-federal-procurement/"
-        }
-      ]
-    },
-    {
       "title": "What took the Internet offline in Q3 2026",
       "url": "https://blog.cloudflare.com/q3-2026-internet-disruption-summary/",
       "published": "Tue, 27 Oct 2026 13:00:00 GMT",
@@ -465,6 +449,22 @@
         {
           "name": "NIST News",
           "url": "https://www.nist.gov/news-events/news/2026/08/nist-joins-national-genesis-mission-accelerate-ai-innovation"
+        }
+      ]
+    },
+    {
+      "title": "Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls",
+      "url": "https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html",
+      "published": "Thu, 29 Oct 2026 17:09:18 +0530",
+      "summary": "A flaw in Telegram for Android could be chained with two other bugs to take full control of a victim's phone through a voice call, once the victim answered, according to security startup NebuSec. The attacker needed only an ordinary Telegram account. Telegram fixed the flaw in version 12.10.4 of the app, released in late September, and NebuSec disc",
+      "source": "The Hacker News",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 7,
+      "sources": [
+        {
+          "name": "The Hacker News",
+          "url": "https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html"
         }
       ]
     },
@@ -561,22 +561,6 @@
         {
           "name": "Krebs on Security",
           "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/"
-        }
-      ]
-    },
-    {
-      "title": "Anthropic's Unreleased AI Model Chains Flaws Into Working Chrome, Safari, Windows and Linux Exploits",
-      "url": "https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html",
-      "published": "Wed, 28 Oct 2026 13:45:07 +0530",
-      "summary": "An unreleased Anthropic AI model found security flaws in Chrome, Safari, Android, Windows, and Linux and chained them into working proof-of-concept exploits, the company said in its latest report. The exploits were built in the lab after the model was prompted, not seen in any real attack, and Anthropic reported every flaw to the vendor first, so a",
-      "source": "The Hacker News",
-      "source_category": "Journalism",
-      "topic": "Cybersecurity",
-      "score": 6,
-      "sources": [
-        {
-          "name": "The Hacker News",
-          "url": "https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html"
         }
       ]
     },
@@ -873,22 +857,6 @@
       ]
     },
     {
-      "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
-      "url": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
-      "published": "Wed, 28 Oct 2026 23:15:00 +0000",
-      "summary": "The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price.",
-      "source": "TechCrunch",
-      "source_category": "Journalism",
-      "topic": "Cybersecurity",
-      "score": 5,
-      "sources": [
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/"
-        }
-      ]
-    },
-    {
       "title": "GhostAction Hacking Wave Fizzles, but Attackers Lurk on in GitHub",
       "url": "https://www.darkreading.com/application-security/ghostaction-hacking-wave-fizzles-attackers-github",
       "published": "Wed, 28 Oct 2026 19:39:00 GMT",
@@ -917,6 +885,22 @@
         {
           "name": "Cisco Blogs",
           "url": "https://blogs.cisco.com/networking/expect-more-from-your-wireless-network-a-playbook-for-growing-businesses"
+        }
+      ]
+    },
+    {
+      "title": "InfraTrust report warns of exploited flaws in critical network infrastructure",
+      "url": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/",
+      "published": "Wed, 28 Oct 2026 10:00:00 -0400",
+      "summary": "Attackers are actively exploiting vulnerabilities across critical network infrastructure, and PHP flaws known as \"PHP2Shell\" put the web management interfaces of firewalls, VPNs, application delivery controllers, and other appliances at risk. [...]",
+      "source": "BleepingComputer",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 5,
+      "sources": [
+        {
+          "name": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/"
         }
       ]
     },
@@ -1001,6 +985,22 @@
       ]
     },
     {
+      "title": "AI safety depends on government capacity. Washington is weakening it.",
+      "url": "https://federalnewsnetwork.com/commentary/2026/10/ai-safety-depends-on-government-capacity-washington-is-weakening-it/",
+      "published": "Thu, 29 Oct 2026 20:45:04 +0000",
+      "summary": "Collective action on AI must include rebuilding the government's expertise, and it must start now.",
+      "source": "Federal News Network",
+      "source_category": "Federal IT",
+      "topic": "AI & Emerging Tech",
+      "score": 5,
+      "sources": [
+        {
+          "name": "Federal News Network",
+          "url": "https://federalnewsnetwork.com/commentary/2026/10/ai-safety-depends-on-government-capacity-washington-is-weakening-it/"
+        }
+      ]
+    },
+    {
       "title": "Attackers turn GitHub issues into supply chain campaign against 61 public repos in less than an hour",
       "url": "https://www.theregister.com/security/2026/10/29/attackers-turn-github-issues-into-supply-chain-campaign-against-61-public-repos-in-less-than-an-hour/5306153",
       "published": "Thu, 29 Oct 2026 12:00:00 +0000",
@@ -1049,18 +1049,18 @@
       ]
     },
     {
-      "title": "OPM’s performance rating system misses the real problem",
-      "url": "https://federalnewsnetwork.com/commentary/2026/10/opms-performance-rating-system-misses-the-real-problem/",
-      "published": "Wed, 28 Oct 2026 20:55:00 +0000",
-      "summary": "A long-time federal employee says the new performance ratings system is ‘institutional gaslighting’ and bad for employees and agency mission success.",
-      "source": "Federal News Network",
-      "source_category": "Federal IT",
+      "title": "Volcano v1.16 Released: NamespaceQueue, fairshare, and a broader HyperNode ecosystem",
+      "url": "https://www.cncf.io/blog/2026/10/28/volcano-v1-16-released-namespacequeue-fairshare-and-a-broader-hypernode-ecosystem/",
+      "published": "Wed, 28 Oct 2026 20:45:08 +0000",
+      "summary": "Volcano v1.16.0 is available . v1.16.0 introduces NamespaceQueue and the fairshare plugin. Tenants can use hierarchical queues within their own namespaces to organize quotas and queue hierarchies within administrator-authorized resource pools. Fairshare brings historical resource consumption...",
+      "source": "CNCF",
+      "source_category": "Research",
       "topic": "Federal IT & Policy",
       "score": 4,
       "sources": [
         {
-          "name": "Federal News Network",
-          "url": "https://federalnewsnetwork.com/commentary/2026/10/opms-performance-rating-system-misses-the-real-problem/"
+          "name": "CNCF",
+          "url": "https://www.cncf.io/blog/2026/10/28/volcano-v1-16-released-namespacequeue-fairshare-and-a-broader-hypernode-ecosystem/"
         }
       ]
     },
@@ -1129,22 +1129,6 @@
       ]
     },
     {
-      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-      "published": "Wed, 21 Oct 2026 07:00:00 GMT",
-      "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
-      "source": "OpenAI News",
-      "source_category": "Vendor",
-      "topic": "Cybersecurity",
-      "score": 4,
-      "sources": [
-        {
-          "name": "OpenAI News",
-          "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities"
-        }
-      ]
-    },
-    {
       "title": "Break the silence: Kazakhstan-nexus UAT-6275 targets CIS government organizations",
       "url": "https://blog.talosintelligence.com/break-the-silence-kazakhstan-nexus-uat-6275-targets-cis-government-organizations/",
       "published": "Wed, 14 Oct 2026 14:00:00 GMT",
@@ -1157,6 +1141,54 @@
         {
           "name": "Cisco Talos",
           "url": "https://blog.talosintelligence.com/break-the-silence-kazakhstan-nexus-uat-6275-targets-cis-government-organizations/"
+        }
+      ]
+    },
+    {
+      "title": "OpenAI-backed Thrive Holdings acquires ADT",
+      "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+      "published": "Thu, 29 Oct 2026 19:56:19 +0000",
+      "summary": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
+      "source": "TechCrunch",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 4,
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/"
+        }
+      ]
+    },
+    {
+      "title": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
+      "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+      "published": "Thu, 29 Oct 2026 18:39:43 +0000",
+      "summary": "Sources tell WIRED that an Accenture employee’s personal Claude agent ran on a DOD network for two months before it was identified and the vulnerability could be patched.",
+      "source": "WIRED",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 4,
+      "sources": [
+        {
+          "name": "WIRED",
+          "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/"
+        }
+      ]
+    },
+    {
+      "title": "Turning a solar power system into its own backup",
+      "url": "https://arstechnica.com/science/2026/10/turning-a-solar-power-system-into-its-own-backup/",
+      "published": "Thu, 29 Oct 2026 18:02:26 +0000",
+      "summary": "Plant design allows it to run on either stored solar heat or combustion.",
+      "source": "Ars Technica",
+      "source_category": "Journalism",
+      "topic": "Federal IT & Policy",
+      "score": 4,
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/science/2026/10/turning-a-solar-power-system-into-its-own-backup/"
         }
       ]
     },
@@ -1305,6 +1337,38 @@
       ]
     },
     {
+      "title": "Before you evaluate an AI SRE, give your existing agent context",
+      "url": "https://www.cncf.io/blog/2026/10/21/before-you-evaluate-an-ai-sre-give-your-existing-agent-context/",
+      "published": "Wed, 21 Oct 2026 11:00:00 +0000",
+      "summary": "If you’re evaluating AI SRE products, you probably own most of one already. The coding agent your engineers use, whether that’s Claude Code, Codex or Cursor, can already investigate a Kubernetes cluster. What it usually lacks...",
+      "source": "CNCF",
+      "source_category": "Research",
+      "topic": "AI & Emerging Tech",
+      "score": 3,
+      "sources": [
+        {
+          "name": "CNCF",
+          "url": "https://www.cncf.io/blog/2026/10/21/before-you-evaluate-an-ai-sre-give-your-existing-agent-context/"
+        }
+      ]
+    },
+    {
+      "title": "Over 500 Golden Kubestronauts: The evolving standard for cloud native mastery",
+      "url": "https://www.cncf.io/blog/2026/10/27/over-500-golden-kubestronauts-the-evolving-standard-for-cloud-native-mastery/",
+      "published": "Tue, 27 Oct 2026 11:30:00 +0000",
+      "summary": "Since launching the Kubestronaut program at KubeCon Paris in 2024, the community has grown faster than expected. Today, more than 570 professionals have reached an even higher bar: Golden Kubestronaut status. Becoming a standard Kubestronaut is...",
+      "source": "CNCF",
+      "source_category": "Research",
+      "topic": "Cloud & Infrastructure",
+      "score": 3,
+      "sources": [
+        {
+          "name": "CNCF",
+          "url": "https://www.cncf.io/blog/2026/10/27/over-500-golden-kubestronauts-the-evolving-standard-for-cloud-native-mastery/"
+        }
+      ]
+    },
+    {
       "title": "Apple Patches for October 2026, (Mon, Oct 26th)",
       "url": "https://isc.sans.edu/diary/rss/33458",
       "published": "Tue, 27 Oct 2026 02:09:55 GMT",
@@ -1321,6 +1385,54 @@
       ]
     },
     {
+      "title": "How Check Point accelerates vulnerability research with Daybreak",
+      "url": "https://openai.com/index/check-point-daybreak",
+      "published": "Tue, 27 Oct 2026 00:00:00 GMT",
+      "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
+      "source": "OpenAI News",
+      "source_category": "Vendor",
+      "topic": "Cybersecurity",
+      "score": 3,
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/check-point-daybreak"
+        }
+      ]
+    },
+    {
+      "title": "Windows 11 gets right-click menu improvements as PC revenue slides",
+      "url": "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/",
+      "published": "Thu, 29 Oct 2026 20:18:49 +0000",
+      "summary": "The latest update also brings a cloud recovery option for PCs that won't boot.",
+      "source": "Ars Technica",
+      "source_category": "Journalism",
+      "topic": "Cloud & Infrastructure",
+      "score": 3,
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/"
+        }
+      ]
+    },
+    {
+      "title": "Trump declares robot imports a national security threat",
+      "url": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/",
+      "published": "Thu, 29 Oct 2026 19:07:53 +0000",
+      "summary": "President orders trade talks on foreign-made factory robots, threatens tariffs.",
+      "source": "Ars Technica",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 3,
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/"
+        }
+      ]
+    },
+    {
       "title": "How bug bounty sharpens one researcher’s security skills",
       "url": "https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/",
       "published": "Thu, 22 Oct 2026 17:21:30 +0000",
@@ -1333,118 +1445,6 @@
         {
           "name": "GitHub Blog",
           "url": "https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/"
-        }
-      ]
-    },
-    {
-      "title": "(Reliable)? php2shell exploitability, (Fri, Oct 23rd)",
-      "url": "https://isc.sans.edu/diary/rss/33452",
-      "published": "Fri, 23 Oct 2026 20:04:47 GMT",
-      "summary": "Yesterday everyone was running around like crazy (me included :) because of the php2shell vulnerability.",
-      "source": "SANS Internet Storm Center",
-      "source_category": "Research",
-      "topic": "Cybersecurity",
-      "score": 3,
-      "sources": [
-        {
-          "name": "SANS Internet Storm Center",
-          "url": "https://isc.sans.edu/diary/rss/33452"
-        }
-      ]
-    },
-    {
-      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-      "published": "Fri, 02 Oct 2026 04:01:31 GMT",
-      "summary": "",
-      "source": "Hugging Face",
-      "source_category": "Vendor",
-      "topic": "Enterprise Technology",
-      "score": 3,
-      "sources": [
-        {
-          "name": "Hugging Face",
-          "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata"
-        }
-      ]
-    },
-    {
-      "title": "Friday Squid Blogging: Increasing Squid Populations",
-      "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-increasing-squid-populations.html",
-      "published": "2026-10-23T21:00:09Z",
-      "summary": "This article in Nature argues that it’s due to an overfishing of predators and warming sea temperatures. As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered. Blog moderation policy.",
-      "source": "Schneier on Security",
-      "source_category": "Research",
-      "topic": "Cybersecurity",
-      "score": 3,
-      "sources": [
-        {
-          "name": "Schneier on Security",
-          "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-increasing-squid-populations.html"
-        }
-      ]
-    },
-    {
-      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
-      "published": "Wed, 21 Oct 2026 16:04:43 GMT",
-      "summary": "",
-      "source": "Hugging Face",
-      "source_category": "Vendor",
-      "topic": "Cloud & Infrastructure",
-      "score": 2,
-      "sources": [
-        {
-          "name": "Hugging Face",
-          "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1"
-        }
-      ]
-    },
-    {
-      "title": "The bridge to agent-scale Git infrastructure",
-      "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
-      "published": "Wed, 21 Oct 2026 16:00:00 +0000",
-      "summary": "We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently. The post The bridge to agent-scale Git infrastructure appeared first on The GitHub Blog .",
-      "source": "GitHub Blog",
-      "source_category": "Vendor",
-      "topic": "Cloud & Infrastructure",
-      "score": 2,
-      "sources": [
-        {
-          "name": "GitHub Blog",
-          "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/"
-        }
-      ]
-    },
-    {
-      "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
-      "url": "https://huggingface.co/blog/hf-torchneuron",
-      "published": "Mon, 19 Oct 2026 00:00:00 GMT",
-      "summary": "",
-      "source": "Hugging Face",
-      "source_category": "Vendor",
-      "topic": "AI & Emerging Tech",
-      "score": 2,
-      "sources": [
-        {
-          "name": "Hugging Face",
-          "url": "https://huggingface.co/blog/hf-torchneuron"
-        }
-      ]
-    },
-    {
-      "title": "Introducing SynthID Bio",
-      "url": "https://deepmind.google/blog/introducing-synthid-bio/",
-      "published": "Wed, 30 Sep 2026 15:03:07 +0000",
-      "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
-      "source": "Google DeepMind",
-      "source_category": "Research",
-      "topic": "AI & Emerging Tech",
-      "score": 1,
-      "sources": [
-        {
-          "name": "Google DeepMind",
-          "url": "https://deepmind.google/blog/introducing-synthid-bio/"
         }
       ]
     }

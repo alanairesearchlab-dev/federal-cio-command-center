@@ -1,6 +1,38 @@
 {
-  "retrieved_at": "2026-10-29T17:13:03+00:00",
+  "retrieved_at": "2026-10-29T21:03:28+00:00",
   "items": [
+    {
+      "cve": "CVE-2026-97229",
+      "vendor": "GitLab",
+      "product": "Community Edition and Enterprise Edition",
+      "date_added": "2026-10-29",
+      "sources": [
+        {
+          "title": "Attacker Tried to Exploit Alpine Linux’s GitLab via CVSS 10.0 Flaw Its Ruby Left Open",
+          "url": "https://thehackernews.com/2026/10/attacker-tried-to-exploit-alpine-linuxs.html",
+          "source": "The Hacker News",
+          "kind": "news"
+        }
+      ],
+      "source_count": 1,
+      "note": "Exact CVE reference correlation, not independent confirmation of claims or agency exposure."
+    },
+    {
+      "cve": "CVE-2026-76418",
+      "vendor": "Cisco",
+      "product": "Secure Firewall ASA Software and Cisco Secure FTD Software",
+      "date_added": "2026-10-29",
+      "sources": [
+        {
+          "title": "Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls",
+          "url": "https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html",
+          "source": "The Hacker News",
+          "kind": "news"
+        }
+      ],
+      "source_count": 1,
+      "note": "Exact CVE reference correlation, not independent confirmation of claims or agency exposure."
+    },
     {
       "cve": "CVE-2026-41709",
       "vendor": "Broadcom",
@@ -86,8 +118,24 @@
       ],
       "source_count": 1,
       "note": "Exact CVE reference correlation, not independent confirmation of claims or agency exposure."
+    },
+    {
+      "cve": "CVE-2026-20127",
+      "vendor": "Cisco",
+      "product": "Catalyst SD-WAN Controller and Manager",
+      "date_added": "2026-02-25",
+      "sources": [
+        {
+          "title": "Hackers exploit Cisco SD-WAN flaw to deploy custom KeyDrift malware",
+          "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-sd-wan-flaw-to-deploy-custom-keydrift-malware/",
+          "source": "BleepingComputer",
+          "kind": "news"
+        }
+      ],
+      "source_count": 1,
+      "note": "Exact CVE reference correlation, not independent confirmation of claims or agency exposure."
     }
   ],
-  "count": 5,
+  "count": 8,
   "note": "Exact CVE matching only. Multiple reports about one CVE do not represent multiple vulnerabilities."
 }
