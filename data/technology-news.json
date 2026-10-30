@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-10-30T09:11:28+00:00",
+  "retrieved_at": "2026-10-30T13:19:59+00:00",
   "candidate_sources": 40,
   "successful_sources": 35,
   "collected_articles": 599,
@@ -161,6 +161,22 @@
         {
           "name": "The Hacker News",
           "url": "https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html"
+        }
+      ]
+    },
+    {
+      "title": "CISA says max severity GitLab flaw now exploited in the wild",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/",
+      "published": "Fri, 30 Oct 2026 09:00:32 -0400",
+      "summary": "Attackers have started exploiting a maximum-severity GitLab vulnerability patched earlier this month, according to the US Cybersecurity and Infrastructure Security Agency (CISA). [...]",
+      "source": "BleepingComputer",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 9,
+      "sources": [
+        {
+          "name": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/"
         }
       ]
     },
@@ -481,22 +497,6 @@
         {
           "name": "BleepingComputer",
           "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-failures-caused-by-recent-windows-updates/"
-        }
-      ]
-    },
-    {
-      "title": "Admin dropped the F-bomb in a password to show hackers who was really 1337",
-      "url": "https://www.theregister.com/security/2026/10/29/admin-dropped-the-f-bomb-in-a-password-to-show-hackers-who-was-really-1337/5306139",
-      "published": "Thu, 29 Oct 2026 09:00:00 +0000",
-      "summary": "Cursing in login credentials can help keep the bad guys out, but not when the rest of your security is BS",
-      "source": "The Register",
-      "source_category": "Journalism",
-      "topic": "Cybersecurity",
-      "score": 7,
-      "sources": [
-        {
-          "name": "The Register",
-          "url": "https://www.theregister.com/security/2026/10/29/admin-dropped-the-f-bomb-in-a-password-to-show-hackers-who-was-really-1337/5306139"
         }
       ]
     },
@@ -1145,6 +1145,22 @@
       ]
     },
     {
+      "title": "Suspected Chinese attackers built a custom PHP2Shell exploit and rooted 25 servers",
+      "url": "https://www.theregister.com/security/2026/10/29/suspected-chinese-attackers-built-a-custom-php2shell-exploit-and-rooted-25-servers/5306456",
+      "published": "Thu, 29 Oct 2026 19:05:17 +0000",
+      "summary": "Snoops 'likely still' have access to US government-affiliated network",
+      "source": "The Register",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 4,
+      "sources": [
+        {
+          "name": "The Register",
+          "url": "https://www.theregister.com/security/2026/10/29/suspected-chinese-attackers-built-a-custom-php2shell-exploit-and-rooted-25-servers/5306456"
+        }
+      ]
+    },
+    {
       "title": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
       "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
       "published": "Thu, 29 Oct 2026 18:39:43 +0000",
@@ -1209,22 +1225,6 @@
       ]
     },
     {
-      "title": "Chrome extensions with 13.4 million installs caught hijacking searches",
-      "url": "https://www.bleepingcomputer.com/news/security/chrome-extensions-with-134-million-installs-caught-hijacking-searches/",
-      "published": "Thu, 29 Oct 2026 12:10:31 -0400",
-      "summary": "A massive search-hijacking campaign involving 319 Chrome extensions with a combined 13.4 million reported installations redirected users' searches through tracking servers to generate advertising revenue from Bing and Yahoo. [...]",
-      "source": "BleepingComputer",
-      "source_category": "Journalism",
-      "topic": "Federal IT & Policy",
-      "score": 4,
-      "sources": [
-        {
-          "name": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/chrome-extensions-with-134-million-installs-caught-hijacking-searches/"
-        }
-      ]
-    },
-    {
       "title": "Cloudflare and OpenAI: Making AI discovery better for everyone",
       "url": "https://blog.cloudflare.com/cloudflare-openai-discovery-agentic-web/",
       "published": "Thu, 15 Oct 2026 13:00:00 GMT",
@@ -1237,6 +1237,22 @@
         {
           "name": "Cloudflare",
           "url": "https://blog.cloudflare.com/cloudflare-openai-discovery-agentic-web/"
+        }
+      ]
+    },
+    {
+      "title": "Eating disorders are on the rise. GLP-1s could make things worse.",
+      "url": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/",
+      "published": "Fri, 30 Oct 2026 09:00:00 +0000",
+      "summary": "GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinical psychologists, they can represent something more sinister—a potential trigger for eating disorders. A new report suggests that the global incidence of anorexia nervosa and bulimia nervosa shot up between 1990 and 2023—by a whopping 71%. By ",
+      "source": "MIT Technology Review",
+      "source_category": "Research",
+      "topic": "Federal IT & Policy",
+      "score": 4,
+      "sources": [
+        {
+          "name": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/"
         }
       ]
     },
@@ -1429,22 +1445,6 @@
         {
           "name": "Ars Technica",
           "url": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/"
-        }
-      ]
-    },
-    {
-      "title": "How bug bounty sharpens one researcher’s security skills",
-      "url": "https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/",
-      "published": "Thu, 22 Oct 2026 17:21:30 +0000",
-      "summary": "As Cybersecurity Awareness Month continues, the GitHub Bug Bounty team spotlights @r31n, diving into their research approach, favorite bug classes, and advice for aspiring hackers. The post How bug bounty sharpens one researcher’s security skills appeared first on The GitHub Blog .",
-      "source": "GitHub Blog",
-      "source_category": "Vendor",
-      "topic": "Cybersecurity",
-      "score": 3,
-      "sources": [
-        {
-          "name": "GitHub Blog",
-          "url": "https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/"
         }
       ]
     }
