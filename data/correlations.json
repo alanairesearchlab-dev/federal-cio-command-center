@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-10-30T05:06:04+00:00",
+  "retrieved_at": "2026-10-30T09:11:27+00:00",
   "items": [
     {
       "cve": "CVE-2026-97229",
@@ -7,6 +7,12 @@
       "product": "Community Edition and Enterprise Edition",
       "date_added": "2026-10-29",
       "sources": [
+        {
+          "title": "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV",
+          "url": "https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html",
+          "source": "The Hacker News",
+          "kind": "news"
+        },
         {
           "title": "Attacker Tried to Exploit Alpine Linux’s GitLab via CVSS 10.0 Flaw Its Ruby Left Open",
           "url": "https://thehackernews.com/2026/10/attacker-tried-to-exploit-alpine-linuxs.html",
