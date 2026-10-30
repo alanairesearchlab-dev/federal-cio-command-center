@@ -1,8 +1,8 @@
 {
-  "retrieved_at": "2026-10-29T21:03:28+00:00",
+  "retrieved_at": "2026-10-30T01:26:01+00:00",
   "candidate_sources": 40,
   "successful_sources": 34,
-  "collected_articles": 577,
+  "collected_articles": 576,
   "items": [
     {
       "title": "The First Federal Guidance on AI Agents Is Here. Most Agencies Can’t Meet It Yet.",
@@ -469,22 +469,6 @@
       ]
     },
     {
-      "title": "Bluesky blocks links to leaked DHS employee data as government seeks takedowns",
-      "url": "https://techcrunch.com/2026/10/29/bluesky-blocks-links-to-leaked-dhs-employee-data-as-government-seeks-takedowns/",
-      "published": "Thu, 29 Oct 2026 13:43:53 +0000",
-      "summary": "The social networking site is facing criticism for blocking access to the site, which identifies thousands of ICE agents and other employees working for Homeland Security.",
-      "source": "TechCrunch",
-      "source_category": "Journalism",
-      "topic": "Cybersecurity",
-      "score": 7,
-      "sources": [
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/29/bluesky-blocks-links-to-leaked-dhs-employee-data-as-government-seeks-takedowns/"
-        }
-      ]
-    },
-    {
       "title": "Microsoft fixes Remote Desktop failures caused by recent Windows updates",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-failures-caused-by-recent-windows-updates/",
       "published": "Thu, 29 Oct 2026 10:35:40 -0400",
@@ -729,18 +713,18 @@
       ]
     },
     {
-      "title": "DoorDash to acquire Instacart for $17B",
-      "url": "https://techcrunch.com/2026/10/29/doordash-to-acquire-instacart-for-17b/",
-      "published": "Thu, 29 Oct 2026 13:40:57 +0000",
-      "summary": "The acquisition would bring two major players in on-demand delivery under one roof, combining DoorDash’s dominance in restaurant takeout with Instacart’s reach in grocery delivery.",
+      "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+      "published": "Thu, 29 Oct 2026 23:42:22 +0000",
+      "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
       "source": "TechCrunch",
       "source_category": "Journalism",
-      "topic": "Federal IT & Policy",
+      "topic": "AI & Emerging Tech",
       "score": 6,
       "sources": [
         {
           "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/29/doordash-to-acquire-instacart-for-17b/"
+          "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/"
         }
       ]
     },
@@ -889,22 +873,6 @@
       ]
     },
     {
-      "title": "InfraTrust report warns of exploited flaws in critical network infrastructure",
-      "url": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/",
-      "published": "Wed, 28 Oct 2026 10:00:00 -0400",
-      "summary": "Attackers are actively exploiting vulnerabilities across critical network infrastructure, and PHP flaws known as \"PHP2Shell\" put the web management interfaces of firewalls, VPNs, application delivery controllers, and other appliances at risk. [...]",
-      "source": "BleepingComputer",
-      "source_category": "Journalism",
-      "topic": "Cybersecurity",
-      "score": 5,
-      "sources": [
-        {
-          "name": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/"
-        }
-      ]
-    },
-    {
       "title": "Scale publishes first AI benchmark through CAISSI partnership",
       "url": "https://fedscoop.com/scale-chemistry-ai-benchmark-caissi-partnership-dualchem/",
       "published": "Wed, 28 Oct 2026 10:00:00 +0000",
@@ -1029,6 +997,22 @@
         {
           "name": "Dark Reading",
           "url": "https://www.darkreading.com/cyberattacks-data-breaches/gheist-stolen-github-tokens-cloud-secrets"
+        }
+      ]
+    },
+    {
+      "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+      "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+      "published": "Fri, 30 Oct 2026 01:20:48 +0000",
+      "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
+      "source": "TechCrunch",
+      "source_category": "Journalism",
+      "topic": "AI & Emerging Tech",
+      "score": 5,
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/"
         }
       ]
     },
@@ -1225,6 +1209,22 @@
       ]
     },
     {
+      "title": "Chrome extensions with 13.4 million installs caught hijacking searches",
+      "url": "https://www.bleepingcomputer.com/news/security/chrome-extensions-with-134-million-installs-caught-hijacking-searches/",
+      "published": "Thu, 29 Oct 2026 12:10:31 -0400",
+      "summary": "A massive search-hijacking campaign involving 319 Chrome extensions with a combined 13.4 million reported installations redirected users' searches through tracking servers to generate advertising revenue from Bing and Yahoo. [...]",
+      "source": "BleepingComputer",
+      "source_category": "Journalism",
+      "topic": "Federal IT & Policy",
+      "score": 4,
+      "sources": [
+        {
+          "name": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/chrome-extensions-with-134-million-installs-caught-hijacking-searches/"
+        }
+      ]
+    },
+    {
       "title": "Cloudflare and OpenAI: Making AI discovery better for everyone",
       "url": "https://blog.cloudflare.com/cloudflare-openai-discovery-agentic-web/",
       "published": "Thu, 15 Oct 2026 13:00:00 GMT",
@@ -1237,6 +1237,22 @@
         {
           "name": "Cloudflare",
           "url": "https://blog.cloudflare.com/cloudflare-openai-discovery-agentic-web/"
+        }
+      ]
+    },
+    {
+      "title": "KubeCon + CloudNativeCon NA 2026: End User TAB recommendations and tips",
+      "url": "https://www.cncf.io/blog/2026/10/29/kubecon-cloudnativecon-na-2026-end-user-tab-recommendations-and-tips/",
+      "published": "Fri, 30 Oct 2026 00:43:04 +0000",
+      "summary": "KubeCon + CloudNativeCon NA 2026 in Salt Lake City will bring the cloud native community together with projects, vendors and end users in what is one of the largest open source events. In this post, we...",
+      "source": "CNCF",
+      "source_category": "Research",
+      "topic": "Cloud & Infrastructure",
+      "score": 4,
+      "sources": [
+        {
+          "name": "CNCF",
+          "url": "https://www.cncf.io/blog/2026/10/29/kubecon-cloudnativecon-na-2026-end-user-tab-recommendations-and-tips/"
         }
       ]
     },
@@ -1353,22 +1369,6 @@
       ]
     },
     {
-      "title": "Over 500 Golden Kubestronauts: The evolving standard for cloud native mastery",
-      "url": "https://www.cncf.io/blog/2026/10/27/over-500-golden-kubestronauts-the-evolving-standard-for-cloud-native-mastery/",
-      "published": "Tue, 27 Oct 2026 11:30:00 +0000",
-      "summary": "Since launching the Kubestronaut program at KubeCon Paris in 2024, the community has grown faster than expected. Today, more than 570 professionals have reached an even higher bar: Golden Kubestronaut status. Becoming a standard Kubestronaut is...",
-      "source": "CNCF",
-      "source_category": "Research",
-      "topic": "Cloud & Infrastructure",
-      "score": 3,
-      "sources": [
-        {
-          "name": "CNCF",
-          "url": "https://www.cncf.io/blog/2026/10/27/over-500-golden-kubestronauts-the-evolving-standard-for-cloud-native-mastery/"
-        }
-      ]
-    },
-    {
       "title": "Apple Patches for October 2026, (Mon, Oct 26th)",
       "url": "https://isc.sans.edu/diary/rss/33458",
       "published": "Tue, 27 Oct 2026 02:09:55 GMT",
@@ -1401,7 +1401,7 @@
       ]
     },
     {
-      "title": "Windows 11 gets right-click menu improvements as PC revenue slides",
+      "title": "Microsoft fixes a Windows 11 annoyance as PC revenue declines",
       "url": "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/",
       "published": "Thu, 29 Oct 2026 20:18:49 +0000",
       "summary": "The latest update also brings a cloud recovery option for PCs that won't boot.",
