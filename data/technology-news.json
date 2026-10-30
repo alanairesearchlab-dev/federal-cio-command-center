@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-10-30T13:19:59+00:00",
+  "retrieved_at": "2026-10-30T17:03:18+00:00",
   "candidate_sources": 40,
   "successful_sources": 35,
   "collected_articles": 599,
@@ -133,22 +133,6 @@
       ]
     },
     {
-      "title": "CISA warns of Fragnesia Linux flaw chained in PHP2Shell attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-fragnesia-linux-flaw-chained-in-php2shell-attacks/",
-      "published": "Thu, 29 Oct 2026 09:59:48 -0400",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies to patch a high-severity Linux kernel privilege escalation bug that attackers are chaining with the PHP2Shell flaws in the wild. [...]",
-      "source": "BleepingComputer",
-      "source_category": "Journalism",
-      "topic": "Cybersecurity",
-      "score": 9,
-      "sources": [
-        {
-          "name": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-fragnesia-linux-flaw-chained-in-php2shell-attacks/"
-        }
-      ]
-    },
-    {
       "title": "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV",
       "url": "https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html",
       "published": "Fri, 30 Oct 2026 12:57:05 +0530",
@@ -193,22 +177,6 @@
         {
           "name": "ZDNET",
           "url": "https://www.zdnet.com/tech/firefox-chrome-browsers-patch-200-security-flaws-update-asap/"
-        }
-      ]
-    },
-    {
-      "title": "PHP2Shell Attack Roots 25 Servers, Breaches U.S. Government-Affiliated Network",
-      "url": "https://thehackernews.com/2026/10/php2shell-attack-roots-25-servers.html",
-      "published": "Wed, 28 Oct 2026 21:32:45 +0530",
-      "summary": "Cybersecurity researchers have disclosed details of what appears to be an artificial intelligence (AI)-assisted attack orchestrated by a suspected China-nexus threat actor that has leveraged the PHP2Shell vulnerabilities to breach exposed systems. The activity, which was observed on October 25, 2026, involved an attacker combining PHP2Shell with a ",
-      "source": "The Hacker News",
-      "source_category": "Journalism",
-      "topic": "Cybersecurity",
-      "score": 8,
-      "sources": [
-        {
-          "name": "The Hacker News",
-          "url": "https://thehackernews.com/2026/10/php2shell-attack-roots-25-servers.html"
         }
       ]
     },
@@ -485,18 +453,18 @@
       ]
     },
     {
-      "title": "Microsoft fixes Remote Desktop failures caused by recent Windows updates",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-failures-caused-by-recent-windows-updates/",
-      "published": "Thu, 29 Oct 2026 10:35:40 -0400",
-      "summary": "Microsoft has resolved a known issue that prevents non-admin users from connecting to devices via Remote Desktop when the \"Administrator protection\" security feature is enabled. [...]",
-      "source": "BleepingComputer",
+      "title": "Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls",
+      "url": "https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html",
+      "published": "Thu, 29 Oct 2026 17:09:18 +0530",
+      "summary": "A flaw in Telegram for Android could be chained with two other bugs to take full control of a victim's phone through a voice call, once the victim answered, according to security startup NebuSec. The attacker needed only an ordinary Telegram account. Telegram fixed the flaw in version 12.10.4 of the app, released in late September, and NebuSec disc",
+      "source": "The Hacker News",
       "source_category": "Journalism",
       "topic": "Cybersecurity",
       "score": 7,
       "sources": [
         {
-          "name": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-failures-caused-by-recent-windows-updates/"
+          "name": "The Hacker News",
+          "url": "https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html"
         }
       ]
     },
@@ -969,22 +937,6 @@
       ]
     },
     {
-      "title": "Attackers turn GitHub issues into supply chain campaign against 61 public repos in less than an hour",
-      "url": "https://www.theregister.com/security/2026/10/29/attackers-turn-github-issues-into-supply-chain-campaign-against-61-public-repos-in-less-than-an-hour/5306153",
-      "published": "Thu, 29 Oct 2026 12:00:00 +0000",
-      "summary": "'The workflow automatically is triggered within a second, and if the workflow is indeed vulnerable, then the attack is executed successfully'",
-      "source": "The Register",
-      "source_category": "Journalism",
-      "topic": "Cybersecurity",
-      "score": 5,
-      "sources": [
-        {
-          "name": "The Register",
-          "url": "https://www.theregister.com/security/2026/10/29/attackers-turn-github-issues-into-supply-chain-campaign-against-61-public-repos-in-less-than-an-hour/5306153"
-        }
-      ]
-    },
-    {
       "title": "'Gheist' Weaponizes GitHub Tokens to Steal Cloud Secrets",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/gheist-stolen-github-tokens-cloud-secrets",
       "published": "Mon, 26 Oct 2026 18:01:40 GMT",
@@ -997,6 +949,38 @@
         {
           "name": "Dark Reading",
           "url": "https://www.darkreading.com/cyberattacks-data-breaches/gheist-stolen-github-tokens-cloud-secrets"
+        }
+      ]
+    },
+    {
+      "title": "AlpineBSD announced – an AI-free FOSS OS",
+      "url": "https://www.theregister.com/os-platforms/2026/10/30/alpinebsd-announced-an-ai-free-foss-os/5306589",
+      "published": "Fri, 30 Oct 2026 14:45:00 +0000",
+      "summary": "Combining the NetBSD kernel with the Alpine Linux userland",
+      "source": "The Register",
+      "source_category": "Journalism",
+      "topic": "AI & Emerging Tech",
+      "score": 5,
+      "sources": [
+        {
+          "name": "The Register",
+          "url": "https://www.theregister.com/os-platforms/2026/10/30/alpinebsd-announced-an-ai-free-foss-os/5306589"
+        }
+      ]
+    },
+    {
+      "title": "SS7 and Diameter Attacks: How Signaling Flaws Expose Your Phone",
+      "url": "https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/",
+      "published": "Fri, 30 Oct 2026 10:00:10 -0400",
+      "summary": "Flaws in SS7 and Diameter signaling protocols can allow attackers to track phone locations, intercept calls and SMS verification codes, and impersonate subscribers without compromising their devices. Cape explains how these attacks exploit trust between networks and how its security-focused mobile service helps defend against them. [...]",
+      "source": "BleepingComputer",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 5,
+      "sources": [
+        {
+          "name": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/"
         }
       ]
     },
@@ -1084,7 +1068,7 @@
       "title": "AI Takes Root in Hospital Corridors, Raises Security Stakes",
       "url": "https://www.darkreading.com/cybersecurity-operations/ai-root-hospital-corridors-raised-security-stakes",
       "published": "Wed, 28 Oct 2026 15:29:06 GMT",
-      "summary": "Artificial intelligence (AI) is everywhere in healthcare, from doctors’ intake forms to cancer screenings. But in some cases, life-and-death uses are outpacing cybersecurity.",
+      "summary": "Artificial intelligence is everywhere in healthcare, from doctors' intake forms to cancer screenings. But in some cases, life-and-death uses are outpacing cybersecurity.",
       "source": "Dark Reading",
       "source_category": "Journalism",
       "topic": "Cybersecurity",
@@ -1221,6 +1205,22 @@
         {
           "name": "WIRED",
           "url": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/"
+        }
+      ]
+    },
+    {
+      "title": "Chrome extensions with 13.4 million installs caught hijacking searches",
+      "url": "https://www.bleepingcomputer.com/news/security/chrome-extensions-with-134-million-installs-caught-hijacking-searches/",
+      "published": "Thu, 29 Oct 2026 12:10:31 -0400",
+      "summary": "A massive search-hijacking campaign involving 319 Chrome extensions with a combined 13.4 million reported installations redirected users' searches through tracking servers to generate advertising revenue from Bing and Yahoo. [...]",
+      "source": "BleepingComputer",
+      "source_category": "Journalism",
+      "topic": "Federal IT & Policy",
+      "score": 4,
+      "sources": [
+        {
+          "name": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/chrome-extensions-with-134-million-installs-caught-hijacking-searches/"
         }
       ]
     },

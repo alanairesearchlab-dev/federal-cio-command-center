@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-10-30T13:19:59+00:00",
+  "retrieved_at": "2026-10-30T17:03:18+00:00",
   "items": [
     {
       "cve": "CVE-2026-97229",
@@ -64,12 +64,6 @@
         {
           "title": "Adobe Commerce PolyShell Attacks Breach Hundreds of Stores as Brotli Exploit Traffic Emerges",
           "url": "https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html",
-          "source": "The Hacker News",
-          "kind": "news"
-        },
-        {
-          "title": "PHP Issues Second Windows Security Update in Five Days to Fix Brotli Code Execution Flaw",
-          "url": "https://thehackernews.com/2026/10/php-issues-second-windows-security.html",
           "source": "The Hacker News",
           "kind": "news"
         }
