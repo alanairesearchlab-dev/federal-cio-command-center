@@ -1,8 +1,8 @@
 {
-  "retrieved_at": "2026-10-31T16:56:17+00:00",
+  "retrieved_at": "2026-10-31T20:55:07+00:00",
   "candidate_sources": 40,
   "successful_sources": 34,
-  "collected_articles": 576,
+  "collected_articles": 593,
   "items": [
     {
       "title": "The First Federal Guidance on AI Agents Is Here. Most Agencies Can’t Meet It Yet.",
@@ -1113,10 +1113,10 @@
       ]
     },
     {
-      "title": "From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.",
-      "url": "https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/",
-      "published": "Sat, 31 Oct 2026 09:10:19 -0400",
-      "summary": "AI-generated vulnerability reports are overwhelming some bug bounty programs, making it harder for aspiring security researchers to know where to start. TryHackMe explains how beginners can build practical cybersecurity skills, use AI responsibly, and produce reproducible findings that stand up to scrutiny. [...]",
+      "title": "Northflank security breach leads to abuse of customers' AI API keys",
+      "url": "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/",
+      "published": "Sat, 31 Oct 2026 14:01:12 -0400",
+      "summary": "Cloud application hosting platform Northflank is warning customers to rotate all credentials and secrets stored on its platform after a security breach led to unauthorized use of customers' AI API keys. [...]",
       "source": "BleepingComputer",
       "source_category": "Journalism",
       "topic": "Cybersecurity",
@@ -1124,7 +1124,7 @@
       "sources": [
         {
           "name": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/"
+          "url": "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/"
         }
       ]
     },
