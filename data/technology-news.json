@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-10-30T20:58:48+00:00",
+  "retrieved_at": "2026-10-31T01:24:07+00:00",
   "candidate_sources": 40,
   "successful_sources": 35,
   "collected_articles": 599,
@@ -261,22 +261,6 @@
       ]
     },
     {
-      "title": "Federal security leaders team up as post-quantum deadlines tighten",
-      "url": "https://federalnewsnetwork.com/technology-main/2026/10/federal-security-leaders-team-up-as-post-quantum-deadlines-tighten/",
-      "published": "Thu, 29 Oct 2026 18:49:26 +0000",
-      "summary": "An informal CISO group is helping agencies find gaps as the 2030 post-quantum migration deadline nears.",
-      "source": "Federal News Network",
-      "source_category": "Federal IT",
-      "topic": "Cybersecurity",
-      "score": 8,
-      "sources": [
-        {
-          "name": "Federal News Network",
-          "url": "https://federalnewsnetwork.com/technology-main/2026/10/federal-security-leaders-team-up-as-post-quantum-deadlines-tighten/"
-        }
-      ]
-    },
-    {
       "title": "We urgently need to monitor AI agents’ actions in real time",
       "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
       "published": "Thu, 29 Oct 2026 10:11:12 +0000",
@@ -305,6 +289,22 @@
         {
           "name": "MeriTalk",
           "url": "https://www.meritalk.com/agentic-ai-raises-the-stakes-for-federal-identity-governance/"
+        }
+      ]
+    },
+    {
+      "title": "‘Dangerous:’ CISA official criticizes company’s decision to release PHP bug early",
+      "url": "https://federalnewsnetwork.com/cybersecurity/2026/10/dangerous-cisa-official-criticizes-companys-decision-to-release-php-bug-early/",
+      "published": "Fri, 30 Oct 2026 22:57:43 +0000",
+      "summary": "Security firm Chainguard broke an embargo on a critical vulnerability. A CISA official says that's \"dangerous\" as AI creates more chaos for cyber defenders.",
+      "source": "Federal News Network",
+      "source_category": "Federal IT",
+      "topic": "Cybersecurity",
+      "score": 8,
+      "sources": [
+        {
+          "name": "Federal News Network",
+          "url": "https://federalnewsnetwork.com/cybersecurity/2026/10/dangerous-cisa-official-criticizes-companys-decision-to-release-php-bug-early/"
         }
       ]
     },
@@ -697,22 +697,6 @@
       ]
     },
     {
-      "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
-      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
-      "published": "Thu, 29 Oct 2026 23:42:22 +0000",
-      "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
-      "source": "TechCrunch",
-      "source_category": "Journalism",
-      "topic": "AI & Emerging Tech",
-      "score": 6,
-      "sources": [
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/"
-        }
-      ]
-    },
-    {
       "title": "AWS Continuum for code vulnerabilities is now generally available",
       "url": "https://aws.amazon.com/blogs/aws/aws-continuum-for-code-vulnerabilities-is-now-generally-available/",
       "published": "Thu, 22 Oct 2026 20:33:10 +0000",
@@ -805,6 +789,22 @@
         {
           "name": "AWS Security",
           "url": "https://aws.amazon.com/blogs/security/quantum-resistant-signing-on-aws-part-2-enforce-your-ml-dsa-algorithm-policy-with-scps-and-iam/"
+        }
+      ]
+    },
+    {
+      "title": "IRS facing new lawsuit over return-to-office policy",
+      "url": "https://federalnewsnetwork.com/unions/2026/10/irs-facing-new-lawsuit-over-return-to-office-policy/",
+      "published": "Fri, 30 Oct 2026 22:08:05 +0000",
+      "summary": "The National Treasury Employees Union contends that the IRS’s refusal to comply with an order to reinstate telework violates the Administrative Procedure Act.",
+      "source": "Federal News Network",
+      "source_category": "Federal IT",
+      "topic": "Cloud & Infrastructure",
+      "score": 6,
+      "sources": [
+        {
+          "name": "Federal News Network",
+          "url": "https://federalnewsnetwork.com/unions/2026/10/irs-facing-new-lawsuit-over-return-to-office-policy/"
         }
       ]
     },
@@ -921,38 +921,6 @@
       ]
     },
     {
-      "title": "AI safety depends on government capacity. Washington is weakening it.",
-      "url": "https://federalnewsnetwork.com/commentary/2026/10/ai-safety-depends-on-government-capacity-washington-is-weakening-it/",
-      "published": "Thu, 29 Oct 2026 20:45:04 +0000",
-      "summary": "Collective action on AI must include rebuilding the government's expertise, and it must start now.",
-      "source": "Federal News Network",
-      "source_category": "Federal IT",
-      "topic": "AI & Emerging Tech",
-      "score": 5,
-      "sources": [
-        {
-          "name": "Federal News Network",
-          "url": "https://federalnewsnetwork.com/commentary/2026/10/ai-safety-depends-on-government-capacity-washington-is-weakening-it/"
-        }
-      ]
-    },
-    {
-      "title": "A discovery at NIST changed how researchers think about an unusual quantum material",
-      "url": "https://federalnewsnetwork.com/technology-main/2026/10/a-discovery-at-nist-changed-how-researchers-think-about-an-unusual-quantum-material/",
-      "published": "Thu, 29 Oct 2026 17:59:18 +0000",
-      "summary": "\"It is essential that we still have funding to do the kind of work that does not have an immediate, obvious financial benefit,\" said Dr. Nicholas Butch.",
-      "source": "Federal News Network",
-      "source_category": "Federal IT",
-      "topic": "AI & Emerging Tech",
-      "score": 5,
-      "sources": [
-        {
-          "name": "Federal News Network",
-          "url": "https://federalnewsnetwork.com/technology-main/2026/10/a-discovery-at-nist-changed-how-researchers-think-about-an-unusual-quantum-material/"
-        }
-      ]
-    },
-    {
       "title": "'Gheist' Weaponizes GitHub Tokens to Steal Cloud Secrets",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/gheist-stolen-github-tokens-cloud-secrets",
       "published": "Mon, 26 Oct 2026 18:01:40 GMT",
@@ -965,6 +933,22 @@
         {
           "name": "Dark Reading",
           "url": "https://www.darkreading.com/cyberattacks-data-breaches/gheist-stolen-github-tokens-cloud-secrets"
+        }
+      ]
+    },
+    {
+      "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+      "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+      "published": "Fri, 30 Oct 2026 21:54:34 +0000",
+      "summary": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
+      "source": "TechCrunch",
+      "source_category": "Journalism",
+      "topic": "AI & Emerging Tech",
+      "score": 5,
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/"
         }
       ]
     },
@@ -1161,22 +1145,6 @@
       ]
     },
     {
-      "title": "Turning a solar power system into its own backup",
-      "url": "https://arstechnica.com/science/2026/10/turning-a-solar-power-system-into-its-own-backup/",
-      "published": "Thu, 29 Oct 2026 18:02:26 +0000",
-      "summary": "Plant design allows it to run on either stored solar heat or combustion.",
-      "source": "Ars Technica",
-      "source_category": "Journalism",
-      "topic": "Federal IT & Policy",
-      "score": 4,
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/10/turning-a-solar-power-system-into-its-own-backup/"
-        }
-      ]
-    },
-    {
       "title": "IR trends Q3 2026: Actors impersonate IT help desks in vishing attacks as ransomware activity increases",
       "url": "https://blog.talosintelligence.com/ir-trends-q3-2026/",
       "published": "Thu, 29 Oct 2026 14:00:00 GMT",
@@ -1209,18 +1177,18 @@
       ]
     },
     {
-      "title": "Chrome extensions with 13.4 million installs caught hijacking searches",
-      "url": "https://www.bleepingcomputer.com/news/security/chrome-extensions-with-134-million-installs-caught-hijacking-searches/",
-      "published": "Thu, 29 Oct 2026 12:10:31 -0400",
-      "summary": "A massive search-hijacking campaign involving 319 Chrome extensions with a combined 13.4 million reported installations redirected users' searches through tracking servers to generate advertising revenue from Bing and Yahoo. [...]",
-      "source": "BleepingComputer",
-      "source_category": "Journalism",
+      "title": "Federal Movers & Shakers | October 30, 2026",
+      "url": "https://federalnewsnetwork.com/leadership-connect/2026/10/federal-movers-shakers-october-30/",
+      "published": "Fri, 30 Oct 2026 22:27:15 +0000",
+      "summary": "Tracking leadership changes across the federal government",
+      "source": "Federal News Network",
+      "source_category": "Federal IT",
       "topic": "Federal IT & Policy",
       "score": 4,
       "sources": [
         {
-          "name": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/chrome-extensions-with-134-million-installs-caught-hijacking-searches/"
+          "name": "Federal News Network",
+          "url": "https://federalnewsnetwork.com/leadership-connect/2026/10/federal-movers-shakers-october-30/"
         }
       ]
     },
@@ -1445,6 +1413,38 @@
         {
           "name": "Ars Technica",
           "url": "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/"
+        }
+      ]
+    },
+    {
+      "title": "Binance probes potential $5.8 billion crypto-theft hack",
+      "url": "https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/",
+      "published": "Thu, 29 Oct 2026 18:45:23 -0400",
+      "summary": "Cryptocurrency exchange Binance is investigating a potential security breach involving up to $5.8 billion in digital assets, in what could become the largest cryptocurrency hack in history. [...]",
+      "source": "BleepingComputer",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 3,
+      "sources": [
+        {
+          "name": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/"
+        }
+      ]
+    },
+    {
+      "title": "How bug bounty sharpens one researcher’s security skills",
+      "url": "https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/",
+      "published": "Thu, 22 Oct 2026 17:21:30 +0000",
+      "summary": "As Cybersecurity Awareness Month continues, the GitHub Bug Bounty team spotlights @r31n, diving into their research approach, favorite bug classes, and advice for aspiring hackers. The post How bug bounty sharpens one researcher’s security skills appeared first on The GitHub Blog .",
+      "source": "GitHub Blog",
+      "source_category": "Vendor",
+      "topic": "Cybersecurity",
+      "score": 3,
+      "sources": [
+        {
+          "name": "GitHub Blog",
+          "url": "https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/"
         }
       ]
     }
