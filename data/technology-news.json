@@ -1,8 +1,8 @@
 {
-  "retrieved_at": "2026-11-01T09:04:19+00:00",
+  "retrieved_at": "2026-11-01T13:14:01+00:00",
   "candidate_sources": 40,
-  "successful_sources": 34,
-  "collected_articles": 576,
+  "successful_sources": 35,
+  "collected_articles": 598,
   "items": [
     {
       "title": "The First Federal Guidance on AI Agents Is Here. Most Agencies Can’t Meet It Yet.",
@@ -1353,22 +1353,6 @@
       ]
     },
     {
-      "title": "Apple Patches for October 2026, (Mon, Oct 26th)",
-      "url": "https://isc.sans.edu/diary/rss/33458",
-      "published": "Tue, 27 Oct 2026 02:09:55 GMT",
-      "summary": "Apple today released patches for 304 vulnerabilties. This number is still in line with prior Apple updates, and comes just about a month after the last apple update.",
-      "source": "SANS Internet Storm Center",
-      "source_category": "Research",
-      "topic": "Cybersecurity",
-      "score": 3,
-      "sources": [
-        {
-          "name": "SANS Internet Storm Center",
-          "url": "https://isc.sans.edu/diary/rss/33458"
-        }
-      ]
-    },
-    {
       "title": "How Check Point accelerates vulnerability research with Daybreak",
       "url": "https://openai.com/index/check-point-daybreak",
       "published": "Tue, 27 Oct 2026 00:00:00 GMT",
@@ -1401,38 +1385,6 @@
       ]
     },
     {
-      "title": "People Are Creating ‘Survival Guides’ to Cope With the ‘AO3 Apocalypse’",
-      "url": "https://www.wired.com/story/people-are-creating-survival-guides-to-cope-with-the-ao3-apocalypse/",
-      "published": "Fri, 30 Oct 2026 15:57:35 +0000",
-      "summary": "The fanfic site could be down for weeks due to a “security incident.” Users are not taking it well.",
-      "source": "WIRED",
-      "source_category": "Journalism",
-      "topic": "Cybersecurity",
-      "score": 3,
-      "sources": [
-        {
-          "name": "WIRED",
-          "url": "https://www.wired.com/story/people-are-creating-survival-guides-to-cope-with-the-ao3-apocalypse/"
-        }
-      ]
-    },
-    {
-      "title": "Male Insecurity Over Penis Size Is a Booming Business",
-      "url": "https://www.wired.com/story/male-insecurity-over-penis-size-is-a-booming-business/",
-      "published": "Fri, 30 Oct 2026 10:30:00 +0000",
-      "summary": "Manhood, a new documentary about “girth enhancement,” explores how wellness professionals are encouraging men to undergo increasingly extreme procedures to be sexually desirable.",
-      "source": "WIRED",
-      "source_category": "Journalism",
-      "topic": "Cybersecurity",
-      "score": 3,
-      "sources": [
-        {
-          "name": "WIRED",
-          "url": "https://www.wired.com/story/male-insecurity-over-penis-size-is-a-booming-business/"
-        }
-      ]
-    },
-    {
       "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
       "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
       "published": "Fri, 02 Oct 2026 04:01:31 GMT",
@@ -1445,6 +1397,54 @@
         {
           "name": "Hugging Face",
           "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata"
+        }
+      ]
+    },
+    {
+      "title": "Friday Squid Blogging: Bigfin Squid Off California Coast",
+      "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-bigfin-squid-off-california-coast.html",
+      "published": "2026-10-30T21:04:36Z",
+      "summary": "Neat video : The sighting, announced September 2, marks the first time anyone has spotted a live bigfin squid, which belongs to the Magnapinna genus, in the northeastern Pacific Ocean. As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered. Blog moderation policy.",
+      "source": "Schneier on Security",
+      "source_category": "Research",
+      "topic": "Cybersecurity",
+      "score": 3,
+      "sources": [
+        {
+          "name": "Schneier on Security",
+          "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-bigfin-squid-off-california-coast.html"
+        }
+      ]
+    },
+    {
+      "title": "Your Netgear router may be vulnerable to a security exploit – how to check and patch it",
+      "url": "https://www.zdnet.com/tech/netgear-routers-vulnerable-security-exploit/",
+      "published": "2026-10-30T16:58:22Z",
+      "summary": "A vulnerability in some Netgear routers could allow an attacker with access to your network to run malicious commands on the device.",
+      "source": "ZDNET",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 3,
+      "sources": [
+        {
+          "name": "ZDNET",
+          "url": "https://www.zdnet.com/tech/netgear-routers-vulnerable-security-exploit/"
+        }
+      ]
+    },
+    {
+      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+      "published": "Wed, 21 Oct 2026 16:04:43 GMT",
+      "summary": "",
+      "source": "Hugging Face",
+      "source_category": "Vendor",
+      "topic": "Cloud & Infrastructure",
+      "score": 2,
+      "sources": [
+        {
+          "name": "Hugging Face",
+          "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1"
         }
       ]
     }
