@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-11-01T20:55:33+00:00",
+  "retrieved_at": "2026-11-02T01:30:18+00:00",
   "candidate_sources": 40,
   "successful_sources": 34,
   "collected_articles": 575,
@@ -1129,22 +1129,6 @@
       ]
     },
     {
-      "title": "Last-minute Halloween costumes for tech nerds",
-      "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
-      "published": "Fri, 30 Oct 2026 21:26:59 +0000",
-      "summary": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
-      "source": "TechCrunch",
-      "source_category": "Journalism",
-      "topic": "Cybersecurity",
-      "score": 4,
-      "sources": [
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/"
-        }
-      ]
-    },
-    {
       "title": "Crim spent $7K+ on AI services in extortion attacks, then left evidence for all to see",
       "url": "https://www.theregister.com/security/2026/10/30/crim-spent-7k-on-ai-services-in-extortion-attacks-then-left-evidence-for-all-to-see/5306754",
       "published": "Fri, 30 Oct 2026 19:37:12 +0000",
@@ -1381,6 +1365,22 @@
         {
           "name": "TechCrunch",
           "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/"
+        }
+      ]
+    },
+    {
+      "title": "Applebee’s exposed customers’ personal data after leaving database password in app",
+      "url": "https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/",
+      "published": "Fri, 30 Oct 2026 21:48:53 +0000",
+      "summary": "EXCLUSIVE: A security researcher discovered the hardcoded credential in Applebee's app, allowing unrestricted access to customers' personal data.",
+      "source": "TechCrunch",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 3,
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/"
         }
       ]
     },
