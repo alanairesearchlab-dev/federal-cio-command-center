@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-11-02T05:22:01+00:00",
+  "retrieved_at": "2026-11-02T09:26:39+00:00",
   "items": [
     {
       "cve": "CVE-2026-111357",
@@ -88,22 +88,6 @@
       "note": "Exact CVE reference correlation, not independent confirmation of claims or agency exposure."
     },
     {
-      "cve": "CVE-2026-86950",
-      "vendor": "Apple",
-      "product": "Multiple Products",
-      "date_added": "2026-09-29",
-      "sources": [
-        {
-          "title": "Apple Backports Fix for Exploited CoreGraphics Flaw to Older iPhones and iPads",
-          "url": "https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html",
-          "source": "The Hacker News",
-          "kind": "news"
-        }
-      ],
-      "source_count": 1,
-      "note": "Exact CVE reference correlation, not independent confirmation of claims or agency exposure."
-    },
-    {
       "cve": "CVE-2026-35273",
       "vendor": "Oracle",
       "product": " PeopleSoft Enterprise PeopleTools",
@@ -120,6 +104,6 @@
       "note": "Exact CVE reference correlation, not independent confirmation of claims or agency exposure."
     }
   ],
-  "count": 7,
+  "count": 6,
   "note": "Exact CVE matching only. Multiple reports about one CVE do not represent multiple vulnerabilities."
 }

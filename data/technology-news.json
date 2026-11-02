@@ -1,8 +1,8 @@
 {
-  "retrieved_at": "2026-11-02T05:22:01+00:00",
+  "retrieved_at": "2026-11-02T09:26:39+00:00",
   "candidate_sources": 40,
-  "successful_sources": 34,
-  "collected_articles": 575,
+  "successful_sources": 35,
+  "collected_articles": 598,
   "items": [
     {
       "title": "The First Federal Guidance on AI Agents Is Here. Most Agencies Can’t Meet It Yet.",
@@ -69,10 +69,10 @@
       ]
     },
     {
-      "title": "AI agents are upending digital business processes",
-      "url": "https://www.infoworld.com/article/4241935/ai-agents-are-upending-digital-business-processes.html",
-      "published": "Fri, 30 Oct 2026 09:00:00 +0000",
-      "summary": "People have discovered AI agents running on cloud-based platforms, and suddenly, those agents are the answer to every bit of financial and operational friction in their lives. Move money from one bank account to another to chase a better interest rate. Pay bills automatically. Analyze spending patterns. Optimize subscriptions. Question fees. Move f",
+      "title": "Are AI certifications still worth it? What changed in 2026",
+      "url": "https://www.infoworld.com/article/4242723/are-ai-certifications-still-worth-it-what-changed-in-2026.html",
+      "published": "Mon, 02 Nov 2026 09:00:00 +0000",
+      "summary": "Same question, a different answer Earlier this year, in Are AI certifications worth the investment? , I argued that AI certifications ranked among the highest-return investments an IT professional could make. Much of that case still holds. But the ground has shifted since I wrote that piece in February, and a responsible update has to say so plainl",
       "source": "InfoWorld",
       "source_category": "Journalism",
       "topic": "Cybersecurity",
@@ -80,7 +80,7 @@
       "sources": [
         {
           "name": "InfoWorld",
-          "url": "https://www.infoworld.com/article/4241935/ai-agents-are-upending-digital-business-processes.html"
+          "url": "https://www.infoworld.com/article/4242723/are-ai-certifications-still-worth-it-what-changed-in-2026.html"
         }
       ]
     },
@@ -517,22 +517,6 @@
       ]
     },
     {
-      "title": "How Atos uses Red Hat AI to build smaller, specialized models for sovereign AI",
-      "url": "https://www.redhat.com/en/blog/how-atos-uses-red-hat-ai-build-smaller-specialized-models-sovereign-ai",
-      "published": "Wed, 28 Oct 2026 00:00:00 +0000",
-      "summary": "For an enterprise, AI sovereignty starts with this primary requirement: Retain control of its own data and infrastructure. But as organizations move from experimenting with AI to deploying it in real business processes, control over the models themselves has become increasingly important. This includes the ability to fine-tune and adapt models to t",
-      "source": "Red Hat",
-      "source_category": "Vendor",
-      "topic": "AI & Emerging Tech",
-      "score": 6,
-      "sources": [
-        {
-          "name": "Red Hat",
-          "url": "https://www.redhat.com/en/blog/how-atos-uses-red-hat-ai-build-smaller-specialized-models-sovereign-ai"
-        }
-      ]
-    },
-    {
       "title": "Building for tomorrow on Red Hat OpenShift",
       "url": "https://www.redhat.com/en/blog/building-tomorrow-red-hat-openshift",
       "published": "Wed, 28 Oct 2026 00:00:00 +0000",
@@ -545,6 +529,22 @@
         {
           "name": "Red Hat",
           "url": "https://www.redhat.com/en/blog/building-tomorrow-red-hat-openshift"
+        }
+      ]
+    },
+    {
+      "title": "How Atos uses Red Hat AI to build smaller, specialized models for sovereign AI",
+      "url": "https://www.redhat.com/en/blog/how-atos-uses-red-hat-ai-build-smaller-specialized-models-sovereign-ai",
+      "published": "Wed, 28 Oct 2026 00:00:00 +0000",
+      "summary": "For an enterprise, AI sovereignty starts with this primary requirement: Retain control of its own data and infrastructure. But as organizations move from experimenting with AI to deploying it in real business processes, control over the models themselves has become increasingly important. This includes the ability to fine-tune and adapt models to t",
+      "source": "Red Hat",
+      "source_category": "Vendor",
+      "topic": "AI & Emerging Tech",
+      "score": 6,
+      "sources": [
+        {
+          "name": "Red Hat",
+          "url": "https://www.redhat.com/en/blog/how-atos-uses-red-hat-ai-build-smaller-specialized-models-sovereign-ai"
         }
       ]
     },
