@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-11-02T01:30:18+00:00",
+  "retrieved_at": "2026-11-02T05:22:01+00:00",
   "candidate_sources": 40,
   "successful_sources": 34,
   "collected_articles": 575,
@@ -517,22 +517,6 @@
       ]
     },
     {
-      "title": "Building for tomorrow on Red Hat OpenShift",
-      "url": "https://www.redhat.com/en/blog/building-tomorrow-red-hat-openshift",
-      "published": "Wed, 28 Oct 2026 00:00:00 +0000",
-      "summary": "IT leaders today must balance core operations to run smoothly while rapidly transforming infrastructure to drive new business value. From navigating budget constraints and complex multicloud environments to accelerating developer productivity and integrating AI, the pressure to modernize without risk has never been higher.Trusted by the world’s big",
-      "source": "Red Hat",
-      "source_category": "Vendor",
-      "topic": "AI & Emerging Tech",
-      "score": 6,
-      "sources": [
-        {
-          "name": "Red Hat",
-          "url": "https://www.redhat.com/en/blog/building-tomorrow-red-hat-openshift"
-        }
-      ]
-    },
-    {
       "title": "How Atos uses Red Hat AI to build smaller, specialized models for sovereign AI",
       "url": "https://www.redhat.com/en/blog/how-atos-uses-red-hat-ai-build-smaller-specialized-models-sovereign-ai",
       "published": "Wed, 28 Oct 2026 00:00:00 +0000",
@@ -545,6 +529,22 @@
         {
           "name": "Red Hat",
           "url": "https://www.redhat.com/en/blog/how-atos-uses-red-hat-ai-build-smaller-specialized-models-sovereign-ai"
+        }
+      ]
+    },
+    {
+      "title": "Building for tomorrow on Red Hat OpenShift",
+      "url": "https://www.redhat.com/en/blog/building-tomorrow-red-hat-openshift",
+      "published": "Wed, 28 Oct 2026 00:00:00 +0000",
+      "summary": "IT leaders today must balance core operations to run smoothly while rapidly transforming infrastructure to drive new business value. From navigating budget constraints and complex multicloud environments to accelerating developer productivity and integrating AI, the pressure to modernize without risk has never been higher.Trusted by the world’s big",
+      "source": "Red Hat",
+      "source_category": "Vendor",
+      "topic": "AI & Emerging Tech",
+      "score": 6,
+      "sources": [
+        {
+          "name": "Red Hat",
+          "url": "https://www.redhat.com/en/blog/building-tomorrow-red-hat-openshift"
         }
       ]
     },
@@ -789,22 +789,6 @@
         {
           "name": "Federal News Network",
           "url": "https://federalnewsnetwork.com/unions/2026/10/irs-facing-new-lawsuit-over-return-to-office-policy/"
-        }
-      ]
-    },
-    {
-      "title": "AWS installs an AI accelerator every 14 seconds and eyes $1 trillion annual revenue",
-      "url": "https://www.theregister.com/off-prem/2026/10/30/aws-installs-an-ai-accelerator-every-14-seconds-and-eyes-1-trillion-annual-revenue/5306547",
-      "published": "Fri, 30 Oct 2026 05:42:24 +0000",
-      "summary": "Before long, we could be writing about a cloud company with a retail side hustle",
-      "source": "The Register",
-      "source_category": "Journalism",
-      "topic": "AI & Emerging Tech",
-      "score": 6,
-      "sources": [
-        {
-          "name": "The Register",
-          "url": "https://www.theregister.com/off-prem/2026/10/30/aws-installs-an-ai-accelerator-every-14-seconds-and-eyes-1-trillion-annual-revenue/5306547"
         }
       ]
     },
@@ -1161,6 +1145,22 @@
       ]
     },
     {
+      "title": "NHS quango warns of risk to GP patient data after website vendor collapse",
+      "url": "https://www.theregister.com/public-sector/2026/10/30/nhs-quango-warns-of-risk-to-gp-patient-data-after-website-vendor-collapse/5306647",
+      "published": "Fri, 30 Oct 2026 12:30:00 +0000",
+      "summary": "Hundreds of practices hit by small health tech firm going into administration",
+      "source": "The Register",
+      "source_category": "Journalism",
+      "topic": "Federal IT & Policy",
+      "score": 4,
+      "sources": [
+        {
+          "name": "The Register",
+          "url": "https://www.theregister.com/public-sector/2026/10/30/nhs-quango-warns-of-risk-to-gp-patient-data-after-website-vendor-collapse/5306647"
+        }
+      ]
+    },
+    {
       "title": "Eating disorders are on the rise. GLP-1s could make things worse.",
       "url": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/",
       "published": "Fri, 30 Oct 2026 09:00:00 +0000",
@@ -1369,22 +1369,6 @@
       ]
     },
     {
-      "title": "Applebee’s exposed customers’ personal data after leaving database password in app",
-      "url": "https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/",
-      "published": "Fri, 30 Oct 2026 21:48:53 +0000",
-      "summary": "EXCLUSIVE: A security researcher discovered the hardcoded credential in Applebee's app, allowing unrestricted access to customers' personal data.",
-      "source": "TechCrunch",
-      "source_category": "Journalism",
-      "topic": "Cybersecurity",
-      "score": 3,
-      "sources": [
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/"
-        }
-      ]
-    },
-    {
       "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
       "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
       "published": "Fri, 02 Oct 2026 04:01:31 GMT",
@@ -1445,6 +1429,22 @@
         {
           "name": "Hugging Face",
           "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1"
+        }
+      ]
+    },
+    {
+      "title": "The bridge to agent-scale Git infrastructure",
+      "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
+      "published": "Wed, 21 Oct 2026 16:00:00 +0000",
+      "summary": "We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently. The post The bridge to agent-scale Git infrastructure appeared first on The GitHub Blog .",
+      "source": "GitHub Blog",
+      "source_category": "Vendor",
+      "topic": "Cloud & Infrastructure",
+      "score": 2,
+      "sources": [
+        {
+          "name": "GitHub Blog",
+          "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/"
         }
       ]
     }
