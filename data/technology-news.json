@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-11-02T09:26:39+00:00",
+  "retrieved_at": "2026-11-02T13:32:45+00:00",
   "candidate_sources": 40,
   "successful_sources": 35,
   "collected_articles": 598,
@@ -69,10 +69,42 @@
       ]
     },
     {
-      "title": "Are AI certifications still worth it? What changed in 2026",
-      "url": "https://www.infoworld.com/article/4242723/are-ai-certifications-still-worth-it-what-changed-in-2026.html",
-      "published": "Mon, 02 Nov 2026 09:00:00 +0000",
-      "summary": "Same question, a different answer Earlier this year, in Are AI certifications worth the investment? , I argued that AI certifications ranked among the highest-return investments an IT professional could make. Much of that case still holds. But the ground has shifted since I wrote that piece in February, and a responsible update has to say so plainl",
+      "title": "Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers",
+      "url": "https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html",
+      "published": "Mon, 02 Nov 2026 17:20:00 +0530",
+      "summary": "Two critical flaws in Langflow could let a remote attacker with no account bypass authentication or run arbitrary code, IBM said last week. Langflow is an open-source tool for building AI agents and workflows, and its vulnerability reports go to IBM. Every release from 1.0.0 through 1.12.8 has the flaws, and the only fix is version 1.13.0. Neither ",
+      "source": "The Hacker News",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 10,
+      "sources": [
+        {
+          "name": "The Hacker News",
+          "url": "https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html"
+        }
+      ]
+    },
+    {
+      "title": "Government Linux Servers Targeted With SysGoRAT and Suspected AI-Generated Scripts",
+      "url": "https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html",
+      "published": "Mon, 02 Nov 2026 16:19:59 +0530",
+      "summary": "Cybersecurity researchers have disclosed details of a cyber espionage campaign specifically targeting Linux infrastructure associated with government entities and state-affiliated infrastructure. The activity, observed by Palo Alto Networks Unit 42 between October 2025 and April 2026, has been tracked under the moniker CL-UNK-1211, where \"CL\" refer",
+      "source": "The Hacker News",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 10,
+      "sources": [
+        {
+          "name": "The Hacker News",
+          "url": "https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html"
+        }
+      ]
+    },
+    {
+      "title": "Cursor removes malicious Claude Code extension after SSH backdoor attempt",
+      "url": "https://www.infoworld.com/article/4243214/cursor-removes-malicious-claude-code-extension-after-ssh-backdoor-attempt-2.html",
+      "published": "Mon, 02 Nov 2026 11:42:28 +0000",
+      "summary": "A malicious version of Anthropic’s Claude Code extension distributed through the Cursor marketplace attempted to install a persistent Secure Shell (SSH) backdoor on developers’ machines, potentially giving attackers remote access to systems holding source code, credentials and other sensitive information. “Between about 2:27am PT and 1:35pm PT toda",
       "source": "InfoWorld",
       "source_category": "Journalism",
       "topic": "Cybersecurity",
@@ -80,7 +112,15 @@
       "sources": [
         {
           "name": "InfoWorld",
-          "url": "https://www.infoworld.com/article/4242723/are-ai-certifications-still-worth-it-what-changed-in-2026.html"
+          "url": "https://www.infoworld.com/article/4243214/cursor-removes-malicious-claude-code-extension-after-ssh-backdoor-attempt-2.html"
+        },
+        {
+          "name": "Dark Reading",
+          "url": "https://www.darkreading.com/cyberattacks-data-breaches/devs-trojanized-claude-code-extension-cursor"
+        },
+        {
+          "name": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/"
         }
       ]
     },
@@ -129,38 +169,6 @@
         {
           "name": "The Hacker News",
           "url": "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html"
-        }
-      ]
-    },
-    {
-      "title": "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV",
-      "url": "https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html",
-      "published": "Fri, 30 Oct 2026 12:57:05 +0530",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Cisco and GitLab software to its Known Exploited Vulnerabilities (KEV), citing evidence of active exploitation. The vulnerabilities are listed below - CVE-2026-97229 (CVSS score: 10.0) - An integer overflow or wraparound vulnerability in ",
-      "source": "The Hacker News",
-      "source_category": "Journalism",
-      "topic": "Cybersecurity",
-      "score": 9,
-      "sources": [
-        {
-          "name": "The Hacker News",
-          "url": "https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html"
-        }
-      ]
-    },
-    {
-      "title": "CISA says max severity GitLab flaw now exploited in the wild",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/",
-      "published": "Fri, 30 Oct 2026 09:00:32 -0400",
-      "summary": "Attackers have started exploiting a maximum-severity GitLab vulnerability patched earlier this month, according to the US Cybersecurity and Infrastructure Security Agency (CISA). [...]",
-      "source": "BleepingComputer",
-      "source_category": "Journalism",
-      "topic": "Cybersecurity",
-      "score": 9,
-      "sources": [
-        {
-          "name": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/"
         }
       ]
     },
@@ -433,22 +441,6 @@
         {
           "name": "NIST News",
           "url": "https://www.nist.gov/news-events/news/2026/08/nist-joins-national-genesis-mission-accelerate-ai-innovation"
-        }
-      ]
-    },
-    {
-      "title": "Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls",
-      "url": "https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html",
-      "published": "Thu, 29 Oct 2026 17:09:18 +0530",
-      "summary": "A flaw in Telegram for Android could be chained with two other bugs to take full control of a victim's phone through a voice call, once the victim answered, according to security startup NebuSec. The attacker needed only an ordinary Telegram account. Telegram fixed the flaw in version 12.10.4 of the app, released in late September, and NebuSec disc",
-      "source": "The Hacker News",
-      "source_category": "Journalism",
-      "topic": "Cybersecurity",
-      "score": 7,
-      "sources": [
-        {
-          "name": "The Hacker News",
-          "url": "https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html"
         }
       ]
     },
@@ -921,6 +913,22 @@
       ]
     },
     {
+      "title": "Ivanti patches two more Connect Secure zero-days chained in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/ivanti-patches-two-more-connect-secure-zero-days-chained-in-attacks/",
+      "published": "Mon, 02 Nov 2026 04:33:26 -0500",
+      "summary": "Ivanti released security updates to patch two more Connect Secure (ICS) remote access gateway flaws that have been chained in zero-day attacks since at least October 1. [...]",
+      "source": "BleepingComputer",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 5,
+      "sources": [
+        {
+          "name": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/ivanti-patches-two-more-connect-secure-zero-days-chained-in-attacks/"
+        }
+      ]
+    },
+    {
       "title": "Intel’s stock crashes, knocking $12B from government’s stake",
       "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
       "published": "Fri, 30 Oct 2026 21:54:34 +0000",
@@ -949,6 +957,22 @@
         {
           "name": "The Register",
           "url": "https://www.theregister.com/os-platforms/2026/10/30/alpinebsd-announced-an-ai-free-foss-os/5306589"
+        }
+      ]
+    },
+    {
+      "title": "Speeding up planning decisions with AI",
+      "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+      "published": "Fri, 30 Oct 2026 14:18:30 +0000",
+      "summary": "Google DeepMind and UK government work together to reduce planning assessment times",
+      "source": "Google DeepMind",
+      "source_category": "Research",
+      "topic": "AI & Emerging Tech",
+      "score": 5,
+      "sources": [
+        {
+          "name": "Google DeepMind",
+          "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/"
         }
       ]
     },
@@ -1145,22 +1169,6 @@
       ]
     },
     {
-      "title": "NHS quango warns of risk to GP patient data after website vendor collapse",
-      "url": "https://www.theregister.com/public-sector/2026/10/30/nhs-quango-warns-of-risk-to-gp-patient-data-after-website-vendor-collapse/5306647",
-      "published": "Fri, 30 Oct 2026 12:30:00 +0000",
-      "summary": "Hundreds of practices hit by small health tech firm going into administration",
-      "source": "The Register",
-      "source_category": "Journalism",
-      "topic": "Federal IT & Policy",
-      "score": 4,
-      "sources": [
-        {
-          "name": "The Register",
-          "url": "https://www.theregister.com/public-sector/2026/10/30/nhs-quango-warns-of-risk-to-gp-patient-data-after-website-vendor-collapse/5306647"
-        }
-      ]
-    },
-    {
       "title": "Eating disorders are on the rise. GLP-1s could make things worse.",
       "url": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/",
       "published": "Fri, 30 Oct 2026 09:00:00 +0000",
@@ -1221,6 +1229,22 @@
         {
           "name": "OpenAI News",
           "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership"
+        }
+      ]
+    },
+    {
+      "title": "AI Vulnerability Finding",
+      "url": "https://www.schneier.com/blog/archives/2026/11/ai-vulnerability-finding-2.html",
+      "published": "2026-11-02T12:02:34Z",
+      "summary": "A comment : 3% of ‘critical’ software security bugs, in all of recorded history, have been found in the last month. This is on pace to find another ~100,000 bugs this year alone, adding ~26% more vulnerabilities to the all time total Do you realize how fucking insane that is? Yes. It is a new world out there.",
+      "source": "Schneier on Security",
+      "source_category": "Research",
+      "topic": "Cybersecurity",
+      "score": 4,
+      "sources": [
+        {
+          "name": "Schneier on Security",
+          "url": "https://www.schneier.com/blog/archives/2026/11/ai-vulnerability-finding-2.html"
         }
       ]
     },
@@ -1305,18 +1329,18 @@
       ]
     },
     {
-      "title": "Before you evaluate an AI SRE, give your existing agent context",
-      "url": "https://www.cncf.io/blog/2026/10/21/before-you-evaluate-an-ai-sre-give-your-existing-agent-context/",
-      "published": "Wed, 21 Oct 2026 11:00:00 +0000",
-      "summary": "If you’re evaluating AI SRE products, you probably own most of one already. The coding agent your engineers use, whether that’s Claude Code, Codex or Cursor, can already investigate a Kubernetes cluster. What it usually lacks...",
+      "title": "Over 500 Golden Kubestronauts: The evolving standard for cloud native mastery",
+      "url": "https://www.cncf.io/blog/2026/10/27/over-500-golden-kubestronauts-the-evolving-standard-for-cloud-native-mastery/",
+      "published": "Tue, 27 Oct 2026 11:30:00 +0000",
+      "summary": "Since launching the Kubestronaut program at KubeCon Paris in 2024, the community has grown faster than expected. Today, more than 570 professionals have reached an even higher bar: Golden Kubestronaut status. Becoming a standard Kubestronaut is...",
       "source": "CNCF",
       "source_category": "Research",
-      "topic": "AI & Emerging Tech",
+      "topic": "Cloud & Infrastructure",
       "score": 3,
       "sources": [
         {
           "name": "CNCF",
-          "url": "https://www.cncf.io/blog/2026/10/21/before-you-evaluate-an-ai-sre-give-your-existing-agent-context/"
+          "url": "https://www.cncf.io/blog/2026/10/27/over-500-golden-kubestronauts-the-evolving-standard-for-cloud-native-mastery/"
         }
       ]
     },
@@ -1369,6 +1393,22 @@
       ]
     },
     {
+      "title": "HTTP/3 is faster with some work and help from Cloudflare",
+      "url": "https://www.theregister.com/devops/2026/10/30/http/3-is-faster-with-some-work-and-help-from-cloudflare/5306767",
+      "published": "Fri, 30 Oct 2026 20:00:29 +0000",
+      "summary": "How the Uber-bound delivery giant tuned its mobile networking stack to cut latency",
+      "source": "The Register",
+      "source_category": "Journalism",
+      "topic": "Cloud & Infrastructure",
+      "score": 3,
+      "sources": [
+        {
+          "name": "The Register",
+          "url": "https://www.theregister.com/devops/2026/10/30/http/3-is-faster-with-some-work-and-help-from-cloudflare/5306767"
+        }
+      ]
+    },
+    {
       "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
       "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
       "published": "Fri, 02 Oct 2026 04:01:31 GMT",
@@ -1381,22 +1421,6 @@
         {
           "name": "Hugging Face",
           "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata"
-        }
-      ]
-    },
-    {
-      "title": "Friday Squid Blogging: Bigfin Squid Off California Coast",
-      "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-bigfin-squid-off-california-coast.html",
-      "published": "2026-10-30T21:04:36Z",
-      "summary": "Neat video : The sighting, announced September 2, marks the first time anyone has spotted a live bigfin squid, which belongs to the Magnapinna genus, in the northeastern Pacific Ocean. As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered. Blog moderation policy.",
-      "source": "Schneier on Security",
-      "source_category": "Research",
-      "topic": "Cybersecurity",
-      "score": 3,
-      "sources": [
-        {
-          "name": "Schneier on Security",
-          "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-bigfin-squid-off-california-coast.html"
         }
       ]
     },
@@ -1429,22 +1453,6 @@
         {
           "name": "Hugging Face",
           "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1"
-        }
-      ]
-    },
-    {
-      "title": "The bridge to agent-scale Git infrastructure",
-      "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
-      "published": "Wed, 21 Oct 2026 16:00:00 +0000",
-      "summary": "We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently. The post The bridge to agent-scale Git infrastructure appeared first on The GitHub Blog .",
-      "source": "GitHub Blog",
-      "source_category": "Vendor",
-      "topic": "Cloud & Infrastructure",
-      "score": 2,
-      "sources": [
-        {
-          "name": "GitHub Blog",
-          "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/"
         }
       ]
     }
