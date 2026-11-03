@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-11-03T17:17:59+00:00",
+  "retrieved_at": "2026-11-03T21:07:09+00:00",
   "items": [
     {
       "cve": "CVE-2026-111357",
@@ -26,12 +26,6 @@
         {
           "title": "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV",
           "url": "https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html",
-          "source": "The Hacker News",
-          "kind": "news"
-        },
-        {
-          "title": "Attacker Tried to Exploit Alpine Linux’s GitLab via CVSS 10.0 Flaw Its Ruby Left Open",
-          "url": "https://thehackernews.com/2026/10/attacker-tried-to-exploit-alpine-linuxs.html",
           "source": "The Hacker News",
           "kind": "news"
         }
