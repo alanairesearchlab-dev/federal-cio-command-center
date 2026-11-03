@@ -1,8 +1,8 @@
 {
-  "retrieved_at": "2026-11-03T13:29:33+00:00",
+  "retrieved_at": "2026-11-03T17:17:59+00:00",
   "candidate_sources": 40,
-  "successful_sources": 34,
-  "collected_articles": 576,
+  "successful_sources": 35,
+  "collected_articles": 598,
   "items": [
     {
       "title": "The First Federal Guidance on AI Agents Is Here. Most Agencies Can’t Meet It Yet.",
@@ -149,22 +149,6 @@
         {
           "name": "Kubernetes",
           "url": "https://kubernetes.io/blog/2026/10/14/tracing-kueue-admission-with-headlamp/"
-        }
-      ]
-    },
-    {
-      "title": "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access",
-      "url": "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html",
-      "published": "Sat, 31 Oct 2026 13:57:43 +0530",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Ivanti Connect Secure (ICS) to its Known Exploited Vulnerabilities (KEV) catalog, following active exploitation in the wild. The vulnerabilities are listed below - CVE-2026-111357 (CVSS score: 8.8) - A missing authentication for a critical ",
-      "source": "The Hacker News",
-      "source_category": "Journalism",
-      "topic": "Cybersecurity",
-      "score": 9,
-      "sources": [
-        {
-          "name": "The Hacker News",
-          "url": "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html"
         }
       ]
     },
@@ -441,6 +425,22 @@
       ]
     },
     {
+      "title": "NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection",
+      "url": "https://thehackernews.com/2026/11/netamloader-malware-targets-government.html",
+      "published": "Sun, 01 Nov 2026 12:32:58 +0530",
+      "summary": "Cybersecurity researchers have disclosed details of what has been described as a \"highly sophisticated infection chain\" targeting government organizations in Asia. The activity, detailed by Kaspersky this week, targeted a custom Windows 10 build used exclusively by government entities in Asia and involves the deployment of a previously undocumented",
+      "source": "The Hacker News",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 7,
+      "sources": [
+        {
+          "name": "The Hacker News",
+          "url": "https://thehackernews.com/2026/11/netamloader-malware-targets-government.html"
+        }
+      ]
+    },
+    {
       "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
       "url": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
       "published": "Sat, 10 Oct 2026 00:17:42 +0000",
@@ -485,38 +485,6 @@
         {
           "name": "FedScoop",
           "url": "https://fedscoop.com/federal-reserve-cybersecurity-watchdog-report/"
-        }
-      ]
-    },
-    {
-      "title": "Building for tomorrow on Red Hat OpenShift",
-      "url": "https://www.redhat.com/en/blog/building-tomorrow-red-hat-openshift",
-      "published": "Wed, 28 Oct 2026 00:00:00 +0000",
-      "summary": "IT leaders today must balance core operations to run smoothly while rapidly transforming infrastructure to drive new business value. From navigating budget constraints and complex multicloud environments to accelerating developer productivity and integrating AI, the pressure to modernize without risk has never been higher.Trusted by the world’s big",
-      "source": "Red Hat",
-      "source_category": "Vendor",
-      "topic": "AI & Emerging Tech",
-      "score": 6,
-      "sources": [
-        {
-          "name": "Red Hat",
-          "url": "https://www.redhat.com/en/blog/building-tomorrow-red-hat-openshift"
-        }
-      ]
-    },
-    {
-      "title": "How Atos uses Red Hat AI to build smaller, specialized models for sovereign AI",
-      "url": "https://www.redhat.com/en/blog/how-atos-uses-red-hat-ai-build-smaller-specialized-models-sovereign-ai",
-      "published": "Wed, 28 Oct 2026 00:00:00 +0000",
-      "summary": "For an enterprise, AI sovereignty starts with this primary requirement: Retain control of its own data and infrastructure. But as organizations move from experimenting with AI to deploying it in real business processes, control over the models themselves has become increasingly important. This includes the ability to fine-tune and adapt models to t",
-      "source": "Red Hat",
-      "source_category": "Vendor",
-      "topic": "AI & Emerging Tech",
-      "score": 6,
-      "sources": [
-        {
-          "name": "Red Hat",
-          "url": "https://www.redhat.com/en/blog/how-atos-uses-red-hat-ai-build-smaller-specialized-models-sovereign-ai"
         }
       ]
     },
@@ -569,22 +537,6 @@
         {
           "name": "AWS Security",
           "url": "https://aws.amazon.com/blogs/security/building-your-ai-vulnerability-harness-part-1/"
-        }
-      ]
-    },
-    {
-      "title": "Securing the enterprise software supply chain in the AI era",
-      "url": "https://www.redhat.com/en/blog/securing-enterprise-software-supply-chain-ai-era",
-      "published": "Tue, 27 Oct 2026 00:00:00 +0000",
-      "summary": "Across Europe, the Middle East, and Africa (EMEA), enterprise IT is undergoing a fundamental shift. Artificial intelligence (AI) is no longer restricted to isolated sandboxes or pilot projects. Autonomous AI agents, embedded software-as-a-service (SaaS) features, and automated workflows are actively running in production across business-critical en",
-      "source": "Red Hat",
-      "source_category": "Vendor",
-      "topic": "AI & Emerging Tech",
-      "score": 6,
-      "sources": [
-        {
-          "name": "Red Hat",
-          "url": "https://www.redhat.com/en/blog/securing-enterprise-software-supply-chain-ai-era"
         }
       ]
     },
@@ -813,6 +765,38 @@
       ]
     },
     {
+      "title": "Introducing Zero Wire, a hub for investigating critical Internet vulnerabilities",
+      "url": "https://blog.cloudflare.com/zero-wire/",
+      "published": "Tue, 03 Nov 2026 14:00:00 GMT",
+      "summary": "Zero Wire on Cloudflare Radar pairs plain-language briefings with global attack telemetry and remediation steps. Triage critical CVEs faster and decide how to protect your infrastructure.",
+      "source": "Cloudflare",
+      "source_category": "Vendor",
+      "topic": "Cybersecurity",
+      "score": 5,
+      "sources": [
+        {
+          "name": "Cloudflare",
+          "url": "https://blog.cloudflare.com/zero-wire/"
+        }
+      ]
+    },
+    {
+      "title": "Drax wants to feed Britain's AI habit with £20B datacenter at biomass power station",
+      "url": "https://www.theregister.com/on-prem/2026/11/03/drax-wants-to-feed-britains-ai-habit-with-20b-datacenter-at-biomass-power-station/5307237",
+      "published": "Tue, 03 Nov 2026 13:27:33 +0000",
+      "summary": "But first it needs planning permission, government approval and, rather importantly, a customer",
+      "source": "The Register",
+      "source_category": "Journalism",
+      "topic": "AI & Emerging Tech",
+      "score": 5,
+      "sources": [
+        {
+          "name": "The Register",
+          "url": "https://www.theregister.com/on-prem/2026/11/03/drax-wants-to-feed-britains-ai-habit-with-20b-datacenter-at-biomass-power-station/5307237"
+        }
+      ]
+    },
+    {
       "title": "OpenKruise Agents v0.6.0: Leaping ahead in agent Sandbox security and automation",
       "url": "https://www.cncf.io/blog/2026/11/03/openkruise-agents-v0-6-0-leaping-ahead-in-agent-sandbox-security-and-automation/",
       "published": "Tue, 03 Nov 2026 12:00:00 +0000",
@@ -825,6 +809,22 @@
         {
           "name": "CNCF",
           "url": "https://www.cncf.io/blog/2026/11/03/openkruise-agents-v0-6-0-leaping-ahead-in-agent-sandbox-security-and-automation/"
+        }
+      ]
+    },
+    {
+      "title": "Barracuda warns of critical flaws allowing root access to devices",
+      "url": "https://www.bleepingcomputer.com/news/security/barracuda-warns-of-critical-flaws-allowing-root-access-to-devices/",
+      "published": "Tue, 03 Nov 2026 10:06:16 -0500",
+      "summary": "Cybersecurity company Barracuda Networks warned customers to patch two vulnerabilities that can let attackers run commands with root privileges. [...]",
+      "source": "BleepingComputer",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 5,
+      "sources": [
+        {
+          "name": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/barracuda-warns-of-critical-flaws-allowing-root-access-to-devices/"
         }
       ]
     },
@@ -877,22 +877,6 @@
       ]
     },
     {
-      "title": "Alpine Linux rebuilds GitLab after attempted RCE attack",
-      "url": "https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/",
-      "published": "Sun, 01 Nov 2026 10:11:21 -0500",
-      "summary": "Hackers attempted to exploit a critical GitLab vulnerability in Alpine Linux's development infrastructure on October 20-21, prompting the open-source project to rebuild its GitLab server and reset all passwords over concerns of a possible compromise. [...]",
-      "source": "BleepingComputer",
-      "source_category": "Journalism",
-      "topic": "Cybersecurity",
-      "score": 5,
-      "sources": [
-        {
-          "name": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/"
-        }
-      ]
-    },
-    {
       "title": "Federal IT needs a new measure of success: Agility",
       "url": "https://federalnewsnetwork.com/commentary/2026/11/federal-it-needs-a-new-measure-of-success-agility/",
       "published": "Mon, 02 Nov 2026 21:50:00 +0000",
@@ -905,22 +889,6 @@
         {
           "name": "Federal News Network",
           "url": "https://federalnewsnetwork.com/commentary/2026/11/federal-it-needs-a-new-measure-of-success-agility/"
-        }
-      ]
-    },
-    {
-      "title": "Readwise takes on Amazon’s Kindle and Goodreads with its new app for book lovers",
-      "url": "https://techcrunch.com/2026/11/02/readwise-takes-on-amazons-kindle-and-goodreads-with-its-new-app-for-book-lovers/",
-      "published": "Mon, 02 Nov 2026 17:49:41 +0000",
-      "summary": "Readwise Books combines an e-book store, reading tracker, detailed reading stats, and AI features in a bid to challenge Amazon's ecosystem.",
-      "source": "TechCrunch",
-      "source_category": "Journalism",
-      "topic": "AI & Emerging Tech",
-      "score": 5,
-      "sources": [
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/02/readwise-takes-on-amazons-kindle-and-goodreads-with-its-new-app-for-book-lovers/"
         }
       ]
     },
@@ -957,22 +925,6 @@
       ]
     },
     {
-      "title": "Ivanti patches two more Connect Secure zero-days chained in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/ivanti-patches-two-more-connect-secure-zero-days-chained-in-attacks/",
-      "published": "Mon, 02 Nov 2026 04:33:26 -0500",
-      "summary": "Ivanti released security updates to patch two more Connect Secure (ICS) remote access gateway flaws that have been chained in zero-day attacks since at least October 1. [...]",
-      "source": "BleepingComputer",
-      "source_category": "Journalism",
-      "topic": "Cybersecurity",
-      "score": 5,
-      "sources": [
-        {
-          "name": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/ivanti-patches-two-more-connect-secure-zero-days-chained-in-attacks/"
-        }
-      ]
-    },
-    {
       "title": "Speeding up planning decisions with AI",
       "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
       "published": "Fri, 30 Oct 2026 14:18:30 +0000",
@@ -985,6 +937,22 @@
         {
           "name": "Google DeepMind",
           "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/"
+        }
+      ]
+    },
+    {
+      "title": "Direct VM networking in AWS: Introducing BGP cloud connector on Red Hat OpenShift Service on AWS",
+      "url": "https://www.redhat.com/en/blog/direct-vm-networking-aws-introducing-bgp-cloud-connector-red-hat-openshift-service-aws",
+      "published": "Fri, 30 Oct 2026 00:00:00 +0000",
+      "summary": "When migrating virtual machines (VMs) to the cloud, virtualization engineers hit a familiar wall: how do you route traffic directly to a Red Hat OpenShift Virtualization guest VM using that VM’s own IP address?OpenShift Virtualization has long offered a solution to this problem with localnets—as long as the cluster is using an on-premise Layer 2 ne",
+      "source": "Red Hat",
+      "source_category": "Vendor",
+      "topic": "Cloud & Infrastructure",
+      "score": 5,
+      "sources": [
+        {
+          "name": "Red Hat",
+          "url": "https://www.redhat.com/en/blog/direct-vm-networking-aws-introducing-bgp-cloud-connector-red-hat-openshift-service-aws"
         }
       ]
     },
@@ -1101,6 +1069,22 @@
       ]
     },
     {
+      "title": "NHS counts Palantir benefits at trusts that say they're not using it",
+      "url": "https://www.theregister.com/public-sector/2026/11/03/nhs-counts-palantir-benefits-at-trusts-that-say-theyre-not-using-it/5307222",
+      "published": "Tue, 03 Nov 2026 14:32:46 +0000",
+      "summary": "Medact flags 29 disputed entries as ministers weigh £330M deal's future",
+      "source": "The Register",
+      "source_category": "Journalism",
+      "topic": "Federal IT & Policy",
+      "score": 4,
+      "sources": [
+        {
+          "name": "The Register",
+          "url": "https://www.theregister.com/public-sector/2026/11/03/nhs-counts-palantir-benefits-at-trusts-that-say-theyre-not-using-it/5307222"
+        }
+      ]
+    },
+    {
       "title": "UK.gov lacks understanding of climate impact, says watchdog",
       "url": "https://www.theregister.com/public-sector/2026/11/03/ukgov-lacks-understanding-of-climate-impact-says-watchdog/5306918",
       "published": "Tue, 03 Nov 2026 10:15:00 +0000",
@@ -1113,6 +1097,22 @@
         {
           "name": "The Register",
           "url": "https://www.theregister.com/public-sector/2026/11/03/ukgov-lacks-understanding-of-climate-impact-says-watchdog/5306918"
+        }
+      ]
+    },
+    {
+      "title": "Gartner Predicts SOCs Will Have 50% More Engineers Than Analysts by 2028",
+      "url": "https://www.bleepingcomputer.com/news/security/gartner-predicts-socs-will-have-50-percent-more-engineers-than-analysts-by-2028/",
+      "published": "Tue, 03 Nov 2026 10:00:10 -0500",
+      "summary": "Gartner predicts that security operations centers will have 50% more engineers than analysts by 2028 as AI agents take over routine alert handling. Prophet Security examines how AI is reshaping SOC roles, from analyst responsibilities and detection engineering to threat hunting and exposure management. [...]",
+      "source": "BleepingComputer",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 4,
+      "sources": [
+        {
+          "name": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/gartner-predicts-socs-will-have-50-percent-more-engineers-than-analysts-by-2028/"
         }
       ]
     },
@@ -1149,6 +1149,22 @@
       ]
     },
     {
+      "title": "Future-proofing enterprise AI: The impact of post-quantum cryptography on Red Hat AI Enterprise",
+      "url": "https://www.redhat.com/en/blog/future-proofing-enterprise-ai-impact-post-quantum-cryptography-red-hat-ai-enterprise",
+      "published": "Tue, 03 Nov 2026 00:00:00 +0000",
+      "summary": "We are rapidly approaching an intersection of 2 generational technology shifts: The explosive adoption of generative artificial intelligence (AI), and the looming reality of cryptographically relevant quantum computers (CRQCs). While AI is transforming how we extract value from data, quantum computing is quietly threatening the very foundation of h",
+      "source": "Red Hat",
+      "source_category": "Vendor",
+      "topic": "Cybersecurity",
+      "score": 4,
+      "sources": [
+        {
+          "name": "Red Hat",
+          "url": "https://www.redhat.com/en/blog/future-proofing-enterprise-ai-impact-post-quantum-cryptography-red-hat-ai-enterprise"
+        }
+      ]
+    },
+    {
       "title": "IR trends Q3 2026: Actors impersonate IT help desks in vishing attacks as ransomware activity increases",
       "url": "https://blog.talosintelligence.com/ir-trends-q3-2026/",
       "published": "Thu, 29 Oct 2026 14:00:00 GMT",
@@ -1161,6 +1177,22 @@
         {
           "name": "Cisco Talos",
           "url": "https://blog.talosintelligence.com/ir-trends-q3-2026/"
+        }
+      ]
+    },
+    {
+      "title": "Sovereignty debt: How APAC boards accumulate it and what it costs to repay",
+      "url": "https://www.redhat.com/en/blog/sovereignty-debt-how-apac-boards-accumulate-it-and-what-it-costs-repay",
+      "published": "Thu, 29 Oct 2026 00:00:00 +0000",
+      "summary": "Sovereignty debt is emerging as a critical board-level liability across the Asia Pacific (APAC) region. The concept of technology debt is not new. It has challenged organizations through successive technology cycles, from data analytics to public cloud adoption and now generative AI.The definition is simple: Sovereignty debt is the disparity betwee",
+      "source": "Red Hat",
+      "source_category": "Vendor",
+      "topic": "AI & Emerging Tech",
+      "score": 4,
+      "sources": [
+        {
+          "name": "Red Hat",
+          "url": "https://www.redhat.com/en/blog/sovereignty-debt-how-apac-boards-accumulate-it-and-what-it-costs-repay"
         }
       ]
     },
@@ -1245,22 +1277,6 @@
       ]
     },
     {
-      "title": "Bringing post-quantum cryptography to geographically fenced key management",
-      "url": "https://blog.cloudflare.com/post-quantum-geo-key-manager/",
-      "published": "Fri, 23 Oct 2026 18:06:56 GMT",
-      "summary": "Cloudflare's new post-quantum GeoKey Manager protects geographically fenced decryption keys from harvest now, decrypt later attacks. Learn how we redesigned our cryptography stack to support strict data sovereignty in a post-quantum world.",
-      "source": "Cloudflare",
-      "source_category": "Vendor",
-      "topic": "AI & Emerging Tech",
-      "score": 4,
-      "sources": [
-        {
-          "name": "Cloudflare",
-          "url": "https://blog.cloudflare.com/post-quantum-geo-key-manager/"
-        }
-      ]
-    },
-    {
       "title": "AIs Hacking the Law",
       "url": "https://www.schneier.com/blog/archives/2026/11/ais-hacking-the-law.html",
       "published": "2026-11-03T12:01:00Z",
@@ -1293,22 +1309,6 @@
       ]
     },
     {
-      "title": "These Claude Enterprise features let you track AI ROI – what’s new",
-      "url": "https://www.zdnet.com/innovation/claude-enterprise-efficiency-cost-tracking/",
-      "published": "2026-10-28T18:00:00Z",
-      "summary": "Is your pricey Claude Enterprise account worth it? Anthropic is trying to surface insights with three tools.",
-      "source": "ZDNET",
-      "source_category": "Journalism",
-      "topic": "AI & Emerging Tech",
-      "score": 4,
-      "sources": [
-        {
-          "name": "ZDNET",
-          "url": "https://www.zdnet.com/innovation/claude-enterprise-efficiency-cost-tracking/"
-        }
-      ]
-    },
-    {
       "title": "Bias in Qwen3-Coder Model",
       "url": "https://www.schneier.com/blog/archives/2026/10/bias-in-qwen3-coder-model.html",
       "published": "2026-10-26T11:03:31Z",
@@ -1337,38 +1337,6 @@
         {
           "name": "Cisco Blogs",
           "url": "https://blogs.cisco.com/cisco-on-cisco/cisco-its-endpoint-observability-strategy-right-sized-telemetry-for-splunk-observability-cloud"
-        }
-      ]
-    },
-    {
-      "title": "Britain on notice: AI-powered ransomware attacks to arrive by 2028",
-      "url": "https://www.theregister.com/security/2026/11/03/britain-on-notice-ai-powered-ransomware-attacks-to-arrive-by-2028/5307200",
-      "published": "Tue, 03 Nov 2026 12:39:25 +0000",
-      "summary": "Cyber agency warns critical infrastructure is a likely target as chief urges bosses to stop doing 'tech on the cheap'",
-      "source": "The Register",
-      "source_category": "Journalism",
-      "topic": "Cybersecurity",
-      "score": 3,
-      "sources": [
-        {
-          "name": "The Register",
-          "url": "https://www.theregister.com/security/2026/11/03/britain-on-notice-ai-powered-ransomware-attacks-to-arrive-by-2028/5307200"
-        }
-      ]
-    },
-    {
-      "title": "Broadcom denied names of cloud providers backing VMware merger challenge",
-      "url": "https://www.theregister.com/virtualization/2026/11/03/broadcom-denied-names-of-cloud-providers-backing-vmware-merger-challenge/5307178",
-      "published": "Tue, 03 Nov 2026 11:00:00 +0000",
-      "summary": "EU court's confidentiality ruling clears a procedural hurdle, not the merits of CISPE's case against Commission approval",
-      "source": "The Register",
-      "source_category": "Journalism",
-      "topic": "Cloud & Infrastructure",
-      "score": 3,
-      "sources": [
-        {
-          "name": "The Register",
-          "url": "https://www.theregister.com/virtualization/2026/11/03/broadcom-denied-names-of-cloud-providers-backing-vmware-merger-challenge/5307178"
         }
       ]
     },
@@ -1449,6 +1417,38 @@
         {
           "name": "GitHub Blog",
           "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/"
+        }
+      ]
+    },
+    {
+      "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+      "url": "https://huggingface.co/blog/hf-torchneuron",
+      "published": "Mon, 19 Oct 2026 00:00:00 GMT",
+      "summary": "",
+      "source": "Hugging Face",
+      "source_category": "Vendor",
+      "topic": "AI & Emerging Tech",
+      "score": 2,
+      "sources": [
+        {
+          "name": "Hugging Face",
+          "url": "https://huggingface.co/blog/hf-torchneuron"
+        }
+      ]
+    },
+    {
+      "title": "Does Your Model Run on AWS Trainium? Look It Up",
+      "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+      "published": "Fri, 23 Oct 2026 00:00:00 GMT",
+      "summary": "",
+      "source": "Hugging Face",
+      "source_category": "Vendor",
+      "topic": "AI & Emerging Tech",
+      "score": 2,
+      "sources": [
+        {
+          "name": "Hugging Face",
+          "url": "https://huggingface.co/blog/torch-neuronx-model-support"
         }
       ]
     }
