@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-11-03T01:28:02+00:00",
+  "retrieved_at": "2026-11-03T05:15:05+00:00",
   "candidate_sources": 40,
   "successful_sources": 35,
   "collected_articles": 598,
@@ -505,22 +505,6 @@
       ]
     },
     {
-      "title": "Building for tomorrow on Red Hat OpenShift",
-      "url": "https://www.redhat.com/en/blog/building-tomorrow-red-hat-openshift",
-      "published": "Wed, 28 Oct 2026 00:00:00 +0000",
-      "summary": "IT leaders today must balance core operations to run smoothly while rapidly transforming infrastructure to drive new business value. From navigating budget constraints and complex multicloud environments to accelerating developer productivity and integrating AI, the pressure to modernize without risk has never been higher.Trusted by the world’s big",
-      "source": "Red Hat",
-      "source_category": "Vendor",
-      "topic": "AI & Emerging Tech",
-      "score": 6,
-      "sources": [
-        {
-          "name": "Red Hat",
-          "url": "https://www.redhat.com/en/blog/building-tomorrow-red-hat-openshift"
-        }
-      ]
-    },
-    {
       "title": "How Atos uses Red Hat AI to build smaller, specialized models for sovereign AI",
       "url": "https://www.redhat.com/en/blog/how-atos-uses-red-hat-ai-build-smaller-specialized-models-sovereign-ai",
       "published": "Wed, 28 Oct 2026 00:00:00 +0000",
@@ -533,6 +517,22 @@
         {
           "name": "Red Hat",
           "url": "https://www.redhat.com/en/blog/how-atos-uses-red-hat-ai-build-smaller-specialized-models-sovereign-ai"
+        }
+      ]
+    },
+    {
+      "title": "Building for tomorrow on Red Hat OpenShift",
+      "url": "https://www.redhat.com/en/blog/building-tomorrow-red-hat-openshift",
+      "published": "Wed, 28 Oct 2026 00:00:00 +0000",
+      "summary": "IT leaders today must balance core operations to run smoothly while rapidly transforming infrastructure to drive new business value. From navigating budget constraints and complex multicloud environments to accelerating developer productivity and integrating AI, the pressure to modernize without risk has never been higher.Trusted by the world’s big",
+      "source": "Red Hat",
+      "source_category": "Vendor",
+      "topic": "AI & Emerging Tech",
+      "score": 6,
+      "sources": [
+        {
+          "name": "Red Hat",
+          "url": "https://www.redhat.com/en/blog/building-tomorrow-red-hat-openshift"
         }
       ]
     },
@@ -829,6 +829,22 @@
       ]
     },
     {
+      "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+      "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+      "published": "Tue, 03 Nov 2026 04:18:47 +0000",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been calling artificial intelligence as “Super Intellige",
+      "source": "MIT Technology Review",
+      "source_category": "Research",
+      "topic": "AI & Emerging Tech",
+      "score": 5,
+      "sources": [
+        {
+          "name": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/"
+        }
+      ]
+    },
+    {
       "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
       "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
       "published": "Tue, 03 Nov 2026 00:35:52 +0000",
@@ -989,22 +1005,6 @@
       ]
     },
     {
-      "title": "Creating AI value with enterprise context",
-      "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
-      "published": "Wed, 28 Oct 2026 20:32:02 +0000",
-      "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outcomes and actions that emerge may be wrong, confuse",
-      "source": "MIT Technology Review",
-      "source_category": "Research",
-      "topic": "AI & Emerging Tech",
-      "score": 4,
-      "sources": [
-        {
-          "name": "MIT Technology Review",
-          "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/"
-        }
-      ]
-    },
-    {
       "title": "Cisco AI Defense joins ServiceNow’s Control Tower Alliance",
       "url": "https://blogs.cisco.com/ai/cisco-ai-defense-joins-servicenows-control-tower-alliance",
       "published": "Wed, 28 Oct 2026 20:09:41 +0000",
@@ -1129,6 +1129,22 @@
         {
           "name": "BleepingComputer",
           "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat/"
+        }
+      ]
+    },
+    {
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "published": "Mon, 02 Nov 2026 18:00:00 GMT",
+      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+      "source": "OpenAI News",
+      "source_category": "Vendor",
+      "topic": "Cybersecurity",
+      "score": 4,
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai"
         }
       ]
     },
@@ -1321,22 +1337,6 @@
         {
           "name": "Cisco Blogs",
           "url": "https://blogs.cisco.com/cisco-on-cisco/cisco-its-endpoint-observability-strategy-right-sized-telemetry-for-splunk-observability-cloud"
-        }
-      ]
-    },
-    {
-      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
-      "published": "Wed, 28 Oct 2026 13:15:00 GMT",
-      "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
-      "source": "OpenAI News",
-      "source_category": "Vendor",
-      "topic": "AI & Emerging Tech",
-      "score": 3,
-      "sources": [
-        {
-          "name": "OpenAI News",
-          "url": "https://openai.com/index/openai-servicenow-partnership-expansion"
         }
       ]
     },
