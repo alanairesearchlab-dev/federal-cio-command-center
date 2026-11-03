@@ -1,8 +1,8 @@
 {
-  "retrieved_at": "2026-11-03T05:15:05+00:00",
+  "retrieved_at": "2026-11-03T09:11:34+00:00",
   "candidate_sources": 40,
-  "successful_sources": 35,
-  "collected_articles": 598,
+  "successful_sources": 34,
+  "collected_articles": 576,
   "items": [
     {
       "title": "The First Federal Guidance on AI Agents Is Here. Most Agencies Can’t Meet It Yet.",
@@ -33,22 +33,6 @@
         {
           "name": "InfoWorld",
           "url": "https://www.infoworld.com/article/4240704/six-elements-of-resilient-ai-orchestration-platforms.html"
-        }
-      ]
-    },
-    {
-      "title": "Digital sovereignty as a design requirement",
-      "url": "https://www.infoworld.com/article/4240607/digital-sovereignty-as-a-design-requirement.html",
-      "published": "Tue, 27 Oct 2026 09:00:00 +0000",
-      "summary": "Digital sovereignty has moved from a policy discussion to a practical enterprise cloud computing problem. For years, most organizations treated public cloud as a location-flexible utility. They placed workloads where performance, price, managed services, and availability looked best. Data residency requirements existed, of course, but they were oft",
-      "source": "InfoWorld",
-      "source_category": "Journalism",
-      "topic": "Cybersecurity",
-      "score": 10,
-      "sources": [
-        {
-          "name": "InfoWorld",
-          "url": "https://www.infoworld.com/article/4240607/digital-sovereignty-as-a-design-requirement.html"
         }
       ]
     },
@@ -117,6 +101,22 @@
         {
           "name": "Dark Reading",
           "url": "https://www.darkreading.com/cyberattacks-data-breaches/devs-trojanized-claude-code-extension-cursor"
+        }
+      ]
+    },
+    {
+      "title": "Are AI certifications still worth it? What changed in 2026",
+      "url": "https://www.infoworld.com/article/4242723/are-ai-certifications-still-worth-it-what-changed-in-2026.html",
+      "published": "Mon, 02 Nov 2026 09:00:00 +0000",
+      "summary": "Same question, a different answer Earlier this year, in Are AI certifications worth the investment? , I argued that AI certifications ranked among the highest-return investments an IT professional could make. Much of that case still holds. But the ground has shifted since I wrote that piece in February, and a responsible update has to say so plainl",
+      "source": "InfoWorld",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 10,
+      "sources": [
+        {
+          "name": "InfoWorld",
+          "url": "https://www.infoworld.com/article/4242723/are-ai-certifications-still-worth-it-what-changed-in-2026.html"
         }
       ]
     },
@@ -505,22 +505,6 @@
       ]
     },
     {
-      "title": "How Atos uses Red Hat AI to build smaller, specialized models for sovereign AI",
-      "url": "https://www.redhat.com/en/blog/how-atos-uses-red-hat-ai-build-smaller-specialized-models-sovereign-ai",
-      "published": "Wed, 28 Oct 2026 00:00:00 +0000",
-      "summary": "For an enterprise, AI sovereignty starts with this primary requirement: Retain control of its own data and infrastructure. But as organizations move from experimenting with AI to deploying it in real business processes, control over the models themselves has become increasingly important. This includes the ability to fine-tune and adapt models to t",
-      "source": "Red Hat",
-      "source_category": "Vendor",
-      "topic": "AI & Emerging Tech",
-      "score": 6,
-      "sources": [
-        {
-          "name": "Red Hat",
-          "url": "https://www.redhat.com/en/blog/how-atos-uses-red-hat-ai-build-smaller-specialized-models-sovereign-ai"
-        }
-      ]
-    },
-    {
       "title": "Building for tomorrow on Red Hat OpenShift",
       "url": "https://www.redhat.com/en/blog/building-tomorrow-red-hat-openshift",
       "published": "Wed, 28 Oct 2026 00:00:00 +0000",
@@ -533,6 +517,22 @@
         {
           "name": "Red Hat",
           "url": "https://www.redhat.com/en/blog/building-tomorrow-red-hat-openshift"
+        }
+      ]
+    },
+    {
+      "title": "How Atos uses Red Hat AI to build smaller, specialized models for sovereign AI",
+      "url": "https://www.redhat.com/en/blog/how-atos-uses-red-hat-ai-build-smaller-specialized-models-sovereign-ai",
+      "published": "Wed, 28 Oct 2026 00:00:00 +0000",
+      "summary": "For an enterprise, AI sovereignty starts with this primary requirement: Retain control of its own data and infrastructure. But as organizations move from experimenting with AI to deploying it in real business processes, control over the models themselves has become increasingly important. This includes the ability to fine-tune and adapt models to t",
+      "source": "Red Hat",
+      "source_category": "Vendor",
+      "topic": "AI & Emerging Tech",
+      "score": 6,
+      "sources": [
+        {
+          "name": "Red Hat",
+          "url": "https://www.redhat.com/en/blog/how-atos-uses-red-hat-ai-build-smaller-specialized-models-sovereign-ai"
         }
       ]
     },
@@ -1197,22 +1197,6 @@
       ]
     },
     {
-      "title": "Ninja’s first-ever microwave just replaced two of my kitchen appliances at once",
-      "url": "https://techcrunch.com/2026/11/02/ninjas-first-ever-microwave-just-replaced-two-of-my-kitchen-appliances-at-once/",
-      "published": "Mon, 02 Nov 2026 14:42:38 +0000",
-      "summary": "The Ninja Crispi Microwave stands out for its FusionCrisp technology, which combines the speed of a microwave with the crispy results you'd expect from an air fryer.",
-      "source": "TechCrunch",
-      "source_category": "Journalism",
-      "topic": "Federal IT & Policy",
-      "score": 4,
-      "sources": [
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/02/ninjas-first-ever-microwave-just-replaced-two-of-my-kitchen-appliances-at-once/"
-        }
-      ]
-    },
-    {
       "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
       "url": "https://openai.com/index/dan-driscoll-joins-openai",
       "published": "Mon, 02 Nov 2026 00:00:00 GMT",
@@ -1389,22 +1373,6 @@
       ]
     },
     {
-      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-      "published": "Fri, 02 Oct 2026 04:01:31 GMT",
-      "summary": "",
-      "source": "Hugging Face",
-      "source_category": "Vendor",
-      "topic": "Enterprise Technology",
-      "score": 3,
-      "sources": [
-        {
-          "name": "Hugging Face",
-          "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata"
-        }
-      ]
-    },
-    {
       "title": "Your Netgear router may be vulnerable to a security exploit – how to check and patch it",
       "url": "https://www.zdnet.com/tech/netgear-routers-vulnerable-security-exploit/",
       "published": "2026-10-30T16:58:22Z",
@@ -1449,6 +1417,38 @@
         {
           "name": "GitHub Blog",
           "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/"
+        }
+      ]
+    },
+    {
+      "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+      "url": "https://huggingface.co/blog/hf-torchneuron",
+      "published": "Mon, 19 Oct 2026 00:00:00 GMT",
+      "summary": "",
+      "source": "Hugging Face",
+      "source_category": "Vendor",
+      "topic": "AI & Emerging Tech",
+      "score": 2,
+      "sources": [
+        {
+          "name": "Hugging Face",
+          "url": "https://huggingface.co/blog/hf-torchneuron"
+        }
+      ]
+    },
+    {
+      "title": "Snap settles lawsuit accusing platform of fueling teen depression and eating disorders",
+      "url": "https://techcrunch.com/2026/11/02/snap-settles-lawsuit-accusing-platform-of-fueling-teen-depression-and-eating-disorders/",
+      "published": "Mon, 02 Nov 2026 19:11:49 +0000",
+      "summary": "The plaintiffs said they started using YouTube as young as age 3 and other social media platforms at around age 9 and developed compulsive usage habits that they attributed to features such as autoplay and infinite scrolling.",
+      "source": "TechCrunch",
+      "source_category": "Journalism",
+      "topic": "Cloud & Infrastructure",
+      "score": 2,
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/02/snap-settles-lawsuit-accusing-platform-of-fueling-teen-depression-and-eating-disorders/"
         }
       ]
     }
