@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-11-03T09:11:34+00:00",
+  "retrieved_at": "2026-11-03T13:29:33+00:00",
   "candidate_sources": 40,
   "successful_sources": 34,
   "collected_articles": 576,
@@ -261,22 +261,6 @@
         {
           "name": "NIST News",
           "url": "https://www.nist.gov/news-events/news/2026/06/nist-mathematical-proof-supports-transition-continuous-monitor-and-update"
-        }
-      ]
-    },
-    {
-      "title": "We urgently need to monitor AI agents’ actions in real time",
-      "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
-      "published": "Thu, 29 Oct 2026 10:11:12 +0000",
-      "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an Australian government website. It’s a problem…",
-      "source": "MIT Technology Review",
-      "source_category": "Research",
-      "topic": "Cybersecurity",
-      "score": 8,
-      "sources": [
-        {
-          "name": "MIT Technology Review",
-          "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/"
         }
       ]
     },
@@ -829,6 +813,38 @@
       ]
     },
     {
+      "title": "OpenKruise Agents v0.6.0: Leaping ahead in agent Sandbox security and automation",
+      "url": "https://www.cncf.io/blog/2026/11/03/openkruise-agents-v0-6-0-leaping-ahead-in-agent-sandbox-security-and-automation/",
+      "published": "Tue, 03 Nov 2026 12:00:00 +0000",
+      "summary": "About OpenKruise Agents OpenKruise Agents is a sub-project of OpenKruise, the CNCF open-source application automation and workload orchestration project. It provides full lifecycle management for Agent Sandboxes running at scale on Kubernetes, together with a complete...",
+      "source": "CNCF",
+      "source_category": "Research",
+      "topic": "Cybersecurity",
+      "score": 5,
+      "sources": [
+        {
+          "name": "CNCF",
+          "url": "https://www.cncf.io/blog/2026/11/03/openkruise-agents-v0-6-0-leaping-ahead-in-agent-sandbox-security-and-automation/"
+        }
+      ]
+    },
+    {
+      "title": "Google adds new $250,000 Cloud VRP reward for Root-in-Cloud bugs",
+      "url": "https://www.bleepingcomputer.com/news/google/google-adds-new-250-000-cloud-vrp-reward-for-root-in-cloud-bugs/",
+      "published": "Tue, 03 Nov 2026 07:05:52 -0500",
+      "summary": "Google has expanded its Cloud Vulnerability Reward Program (VRP) with a new top-tier reward for high-impact architectural security flaws. [...]",
+      "source": "BleepingComputer",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 5,
+      "sources": [
+        {
+          "name": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/google/google-adds-new-250-000-cloud-vrp-reward-for-root-in-cloud-bugs/"
+        }
+      ]
+    },
+    {
       "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
       "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
       "published": "Tue, 03 Nov 2026 04:18:47 +0000",
@@ -1085,6 +1101,38 @@
       ]
     },
     {
+      "title": "UK.gov lacks understanding of climate impact, says watchdog",
+      "url": "https://www.theregister.com/public-sector/2026/11/03/ukgov-lacks-understanding-of-climate-impact-says-watchdog/5306918",
+      "published": "Tue, 03 Nov 2026 10:15:00 +0000",
+      "summary": "Risks of changing climate and cost of transition to low-carbon energy poorly measured by government departments",
+      "source": "The Register",
+      "source_category": "Journalism",
+      "topic": "Federal IT & Policy",
+      "score": 4,
+      "sources": [
+        {
+          "name": "The Register",
+          "url": "https://www.theregister.com/public-sector/2026/11/03/ukgov-lacks-understanding-of-climate-impact-says-watchdog/5306918"
+        }
+      ]
+    },
+    {
+      "title": "Heimstaden is changing residential real estate management with AI",
+      "url": "https://openai.com/index/heimstaden",
+      "published": "Tue, 03 Nov 2026 08:00:00 GMT",
+      "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+      "source": "OpenAI News",
+      "source_category": "Vendor",
+      "topic": "AI & Emerging Tech",
+      "score": 4,
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/heimstaden"
+        }
+      ]
+    },
+    {
       "title": "12 former public servants on the ballot in the midterm elections",
       "url": "https://federalnewsnetwork.com/workforce/2026/11/12-former-public-servants-on-the-ballot-for-the-midterm-elections/",
       "published": "Tue, 03 Nov 2026 00:08:26 +0000",
@@ -1113,22 +1161,6 @@
         {
           "name": "Cisco Talos",
           "url": "https://blog.talosintelligence.com/ir-trends-q3-2026/"
-        }
-      ]
-    },
-    {
-      "title": "OpenAI says it's doubling Pro usage limits and bringing Work features to Chat",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat/",
-      "published": "Sun, 01 Nov 2026 08:53:11 -0500",
-      "summary": "OpenAI has just confirmed that it's rolling out ChatGPT Work capabilities directly into regular Chat, while also combining usage allowances across ChatGPT and Codex. [...]",
-      "source": "BleepingComputer",
-      "source_category": "Journalism",
-      "topic": "Federal IT & Policy",
-      "score": 4,
-      "sources": [
-        {
-          "name": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat/"
         }
       ]
     },
@@ -1181,34 +1213,18 @@
       ]
     },
     {
-      "title": "Here’s How the Trump Administration Is Trying to Undermine the Election",
-      "url": "https://www.wired.com/story/the-trump-administration-is-wreaking-havoc-on-the-electoral-system-before-the-midterms/",
-      "published": "Mon, 02 Nov 2026 15:13:39 +0000",
-      "summary": "So far, Department of Justice–led efforts to sow chaos, even as Americans are already voting, have fallen flat.",
-      "source": "WIRED",
-      "source_category": "Journalism",
+      "title": "Eating disorders are on the rise. GLP-1s could make things worse.",
+      "url": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/",
+      "published": "Fri, 30 Oct 2026 09:00:00 +0000",
+      "summary": "GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinical psychologists, they can represent something more sinister—a potential trigger for eating disorders. A new report suggests that the global incidence of anorexia nervosa and bulimia nervosa shot up between 1990 and 2023—by a whopping 71%. By ",
+      "source": "MIT Technology Review",
+      "source_category": "Research",
       "topic": "Federal IT & Policy",
       "score": 4,
       "sources": [
         {
-          "name": "WIRED",
-          "url": "https://www.wired.com/story/the-trump-administration-is-wreaking-havoc-on-the-electoral-system-before-the-midterms/"
-        }
-      ]
-    },
-    {
-      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-      "url": "https://openai.com/index/dan-driscoll-joins-openai",
-      "published": "Mon, 02 Nov 2026 00:00:00 GMT",
-      "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
-      "source": "OpenAI News",
-      "source_category": "Vendor",
-      "topic": "Cybersecurity",
-      "score": 4,
-      "sources": [
-        {
-          "name": "OpenAI News",
-          "url": "https://openai.com/index/dan-driscoll-joins-openai"
+          "name": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/"
         }
       ]
     },
@@ -1241,6 +1257,22 @@
         {
           "name": "Cloudflare",
           "url": "https://blog.cloudflare.com/post-quantum-geo-key-manager/"
+        }
+      ]
+    },
+    {
+      "title": "AIs Hacking the Law",
+      "url": "https://www.schneier.com/blog/archives/2026/11/ais-hacking-the-law.html",
+      "published": "2026-11-03T12:01:00Z",
+      "summary": "In both a 2021 essay and my 2022 book, A Hacker’s Mind , I talk about AIs finding vulnerabilities and exploits—hacking—the legal system. Here’s some demonstrations of this from Germany: Legal systems encode the foundations of social order in natural language. Similar to computer systems, the written law can contain vulnerabilities that invite explo",
+      "source": "Schneier on Security",
+      "source_category": "Research",
+      "topic": "Cybersecurity",
+      "score": 4,
+      "sources": [
+        {
+          "name": "Schneier on Security",
+          "url": "https://www.schneier.com/blog/archives/2026/11/ais-hacking-the-law.html"
         }
       ]
     },
@@ -1293,22 +1325,6 @@
       ]
     },
     {
-      "title": "Compromised TLS Certificates",
-      "url": "https://www.schneier.com/blog/archives/2026/10/compromised-tls-certificates.html",
-      "published": "2026-10-23T11:04:22Z",
-      "summary": "The Indian CA eMudhra Limited has eight TLS certificates with laughably weak private keys : The compromised eMudhra keys were defective at a level that’s challenging the imagination of many of the engineers studying the incident. A normal size for a NIST P-384 elliptic curve cryptography private key contains roughly 384 bits of entropy, a size allo",
-      "source": "Schneier on Security",
-      "source_category": "Research",
-      "topic": "Federal IT & Policy",
-      "score": 4,
-      "sources": [
-        {
-          "name": "Schneier on Security",
-          "url": "https://www.schneier.com/blog/archives/2026/10/compromised-tls-certificates.html"
-        }
-      ]
-    },
-    {
       "title": "Cisco IT’s Endpoint Observability Strategy: Right-Sized Telemetry for Splunk Observability Cloud",
       "url": "https://blogs.cisco.com/cisco-on-cisco/cisco-its-endpoint-observability-strategy-right-sized-telemetry-for-splunk-observability-cloud",
       "published": "Wed, 28 Oct 2026 16:59:15 +0000",
@@ -1325,18 +1341,34 @@
       ]
     },
     {
-      "title": "Over 500 Golden Kubestronauts: The evolving standard for cloud native mastery",
-      "url": "https://www.cncf.io/blog/2026/10/27/over-500-golden-kubestronauts-the-evolving-standard-for-cloud-native-mastery/",
-      "published": "Tue, 27 Oct 2026 11:30:00 +0000",
-      "summary": "Since launching the Kubestronaut program at KubeCon Paris in 2024, the community has grown faster than expected. Today, more than 570 professionals have reached an even higher bar: Golden Kubestronaut status. Becoming a standard Kubestronaut is...",
-      "source": "CNCF",
-      "source_category": "Research",
+      "title": "Britain on notice: AI-powered ransomware attacks to arrive by 2028",
+      "url": "https://www.theregister.com/security/2026/11/03/britain-on-notice-ai-powered-ransomware-attacks-to-arrive-by-2028/5307200",
+      "published": "Tue, 03 Nov 2026 12:39:25 +0000",
+      "summary": "Cyber agency warns critical infrastructure is a likely target as chief urges bosses to stop doing 'tech on the cheap'",
+      "source": "The Register",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 3,
+      "sources": [
+        {
+          "name": "The Register",
+          "url": "https://www.theregister.com/security/2026/11/03/britain-on-notice-ai-powered-ransomware-attacks-to-arrive-by-2028/5307200"
+        }
+      ]
+    },
+    {
+      "title": "Broadcom denied names of cloud providers backing VMware merger challenge",
+      "url": "https://www.theregister.com/virtualization/2026/11/03/broadcom-denied-names-of-cloud-providers-backing-vmware-merger-challenge/5307178",
+      "published": "Tue, 03 Nov 2026 11:00:00 +0000",
+      "summary": "EU court's confidentiality ruling clears a procedural hurdle, not the merits of CISPE's case against Commission approval",
+      "source": "The Register",
+      "source_category": "Journalism",
       "topic": "Cloud & Infrastructure",
       "score": 3,
       "sources": [
         {
-          "name": "CNCF",
-          "url": "https://www.cncf.io/blog/2026/10/27/over-500-golden-kubestronauts-the-evolving-standard-for-cloud-native-mastery/"
+          "name": "The Register",
+          "url": "https://www.theregister.com/virtualization/2026/11/03/broadcom-denied-names-of-cloud-providers-backing-vmware-merger-challenge/5307178"
         }
       ]
     },
@@ -1417,38 +1449,6 @@
         {
           "name": "GitHub Blog",
           "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/"
-        }
-      ]
-    },
-    {
-      "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
-      "url": "https://huggingface.co/blog/hf-torchneuron",
-      "published": "Mon, 19 Oct 2026 00:00:00 GMT",
-      "summary": "",
-      "source": "Hugging Face",
-      "source_category": "Vendor",
-      "topic": "AI & Emerging Tech",
-      "score": 2,
-      "sources": [
-        {
-          "name": "Hugging Face",
-          "url": "https://huggingface.co/blog/hf-torchneuron"
-        }
-      ]
-    },
-    {
-      "title": "Snap settles lawsuit accusing platform of fueling teen depression and eating disorders",
-      "url": "https://techcrunch.com/2026/11/02/snap-settles-lawsuit-accusing-platform-of-fueling-teen-depression-and-eating-disorders/",
-      "published": "Mon, 02 Nov 2026 19:11:49 +0000",
-      "summary": "The plaintiffs said they started using YouTube as young as age 3 and other social media platforms at around age 9 and developed compulsive usage habits that they attributed to features such as autoplay and infinite scrolling.",
-      "source": "TechCrunch",
-      "source_category": "Journalism",
-      "topic": "Cloud & Infrastructure",
-      "score": 2,
-      "sources": [
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/02/snap-settles-lawsuit-accusing-platform-of-fueling-teen-depression-and-eating-disorders/"
         }
       ]
     }
