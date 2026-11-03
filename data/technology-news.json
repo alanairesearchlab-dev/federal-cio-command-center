@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-11-02T21:00:39+00:00",
+  "retrieved_at": "2026-11-03T01:28:02+00:00",
   "candidate_sources": 40,
   "successful_sources": 35,
   "collected_articles": 598,
@@ -765,22 +765,6 @@
       ]
     },
     {
-      "title": "IRS facing new lawsuit over return-to-office policy",
-      "url": "https://federalnewsnetwork.com/unions/2026/10/irs-facing-new-lawsuit-over-return-to-office-policy/",
-      "published": "Fri, 30 Oct 2026 22:08:05 +0000",
-      "summary": "The National Treasury Employees Union contends that the IRS’s refusal to comply with an order to reinstate telework violates the Administrative Procedure Act.",
-      "source": "Federal News Network",
-      "source_category": "Federal IT",
-      "topic": "Cloud & Infrastructure",
-      "score": 6,
-      "sources": [
-        {
-          "name": "Federal News Network",
-          "url": "https://federalnewsnetwork.com/unions/2026/10/irs-facing-new-lawsuit-over-return-to-office-policy/"
-        }
-      ]
-    },
-    {
       "title": "GhostAction Hacking Wave Fizzles, but Attackers Lurk on in GitHub",
       "url": "https://www.darkreading.com/application-security/ghostaction-hacking-wave-fizzles-attackers-github",
       "published": "Wed, 28 Oct 2026 19:39:00 GMT",
@@ -793,22 +777,6 @@
         {
           "name": "Dark Reading",
           "url": "https://www.darkreading.com/application-security/ghostaction-hacking-wave-fizzles-attackers-github"
-        }
-      ]
-    },
-    {
-      "title": "Expect more from your wireless network: A playbook for growing businesses",
-      "url": "https://blogs.cisco.com/networking/expect-more-from-your-wireless-network-a-playbook-for-growing-businesses",
-      "published": "Wed, 28 Oct 2026 15:00:41 +0000",
-      "summary": "Your business is growing. Can your network infrastructure evolve with you? With wireless operations becoming more complex, IT leaders should ensure the network can handle more locations, devices, and security threats. Read our playbook to see how.",
-      "source": "Cisco Blogs",
-      "source_category": "Vendor",
-      "topic": "Cybersecurity",
-      "score": 5,
-      "sources": [
-        {
-          "name": "Cisco Blogs",
-          "url": "https://blogs.cisco.com/networking/expect-more-from-your-wireless-network-a-playbook-for-growing-businesses"
         }
       ]
     },
@@ -861,6 +829,22 @@
       ]
     },
     {
+      "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+      "published": "Tue, 03 Nov 2026 00:35:52 +0000",
+      "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion.",
+      "source": "TechCrunch",
+      "source_category": "Journalism",
+      "topic": "AI & Emerging Tech",
+      "score": 5,
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/"
+        }
+      ]
+    },
+    {
       "title": "Alpine Linux rebuilds GitLab after attempted RCE attack",
       "url": "https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/",
       "published": "Sun, 01 Nov 2026 10:11:21 -0500",
@@ -873,6 +857,22 @@
         {
           "name": "BleepingComputer",
           "url": "https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/"
+        }
+      ]
+    },
+    {
+      "title": "Federal IT needs a new measure of success: Agility",
+      "url": "https://federalnewsnetwork.com/commentary/2026/11/federal-it-needs-a-new-measure-of-success-agility/",
+      "published": "Mon, 02 Nov 2026 21:50:00 +0000",
+      "summary": "The need for agility is becoming even more apparent as agencies increase their investment in AI and other emerging technologies.",
+      "source": "Federal News Network",
+      "source_category": "Federal IT",
+      "topic": "AI & Emerging Tech",
+      "score": 5,
+      "sources": [
+        {
+          "name": "Federal News Network",
+          "url": "https://federalnewsnetwork.com/commentary/2026/11/federal-it-needs-a-new-measure-of-success-agility/"
         }
       ]
     },
@@ -1085,6 +1085,22 @@
       ]
     },
     {
+      "title": "12 former public servants on the ballot in the midterm elections",
+      "url": "https://federalnewsnetwork.com/workforce/2026/11/12-former-public-servants-on-the-ballot-for-the-midterm-elections/",
+      "published": "Tue, 03 Nov 2026 00:08:26 +0000",
+      "summary": "Federal News Network compiled a list of former public servants running for office who described how their time in government influenced their decision to run.",
+      "source": "Federal News Network",
+      "source_category": "Federal IT",
+      "topic": "Cloud & Infrastructure",
+      "score": 4,
+      "sources": [
+        {
+          "name": "Federal News Network",
+          "url": "https://federalnewsnetwork.com/workforce/2026/11/12-former-public-servants-on-the-ballot-for-the-midterm-elections/"
+        }
+      ]
+    },
+    {
       "title": "IR trends Q3 2026: Actors impersonate IT help desks in vishing attacks as ransomware activity increases",
       "url": "https://blog.talosintelligence.com/ir-trends-q3-2026/",
       "published": "Thu, 29 Oct 2026 14:00:00 GMT",
@@ -1181,34 +1197,18 @@
       ]
     },
     {
-      "title": "Federal Movers & Shakers | October 30, 2026",
-      "url": "https://federalnewsnetwork.com/leadership-connect/2026/10/federal-movers-shakers-october-30/",
-      "published": "Fri, 30 Oct 2026 22:27:15 +0000",
-      "summary": "Tracking leadership changes across the federal government",
-      "source": "Federal News Network",
-      "source_category": "Federal IT",
-      "topic": "Federal IT & Policy",
-      "score": 4,
-      "sources": [
-        {
-          "name": "Federal News Network",
-          "url": "https://federalnewsnetwork.com/leadership-connect/2026/10/federal-movers-shakers-october-30/"
-        }
-      ]
-    },
-    {
-      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
-      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
-      "published": "Fri, 30 Oct 2026 17:38:19 +0000",
-      "summary": "Low costs and offline security mean magnetic tape still has a job.",
-      "source": "Ars Technica",
-      "source_category": "Journalism",
+      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+      "url": "https://openai.com/index/dan-driscoll-joins-openai",
+      "published": "Mon, 02 Nov 2026 00:00:00 GMT",
+      "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
+      "source": "OpenAI News",
+      "source_category": "Vendor",
       "topic": "Cybersecurity",
       "score": 4,
       "sources": [
         {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/"
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/dan-driscoll-joins-openai"
         }
       ]
     },
@@ -1309,6 +1309,22 @@
       ]
     },
     {
+      "title": "Cisco IT’s Endpoint Observability Strategy: Right-Sized Telemetry for Splunk Observability Cloud",
+      "url": "https://blogs.cisco.com/cisco-on-cisco/cisco-its-endpoint-observability-strategy-right-sized-telemetry-for-splunk-observability-cloud",
+      "published": "Wed, 28 Oct 2026 16:59:15 +0000",
+      "summary": "Learn how Cisco IT reduced endpoint telemetry volume by 75% using Splunk Observability Cloud. Discover a right-sized strategy to improve digital resilience and troubleshooting efficiency while keeping data footprints sustainable at scale.",
+      "source": "Cisco Blogs",
+      "source_category": "Vendor",
+      "topic": "Cloud & Infrastructure",
+      "score": 3,
+      "sources": [
+        {
+          "name": "Cisco Blogs",
+          "url": "https://blogs.cisco.com/cisco-on-cisco/cisco-its-endpoint-observability-strategy-right-sized-telemetry-for-splunk-observability-cloud"
+        }
+      ]
+    },
+    {
       "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
       "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
       "published": "Wed, 28 Oct 2026 13:15:00 GMT",
@@ -1341,22 +1357,6 @@
       ]
     },
     {
-      "title": "How Check Point accelerates vulnerability research with Daybreak",
-      "url": "https://openai.com/index/check-point-daybreak",
-      "published": "Tue, 27 Oct 2026 00:00:00 GMT",
-      "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
-      "source": "OpenAI News",
-      "source_category": "Vendor",
-      "topic": "Cybersecurity",
-      "score": 3,
-      "sources": [
-        {
-          "name": "OpenAI News",
-          "url": "https://openai.com/index/check-point-daybreak"
-        }
-      ]
-    },
-    {
       "title": "How bug bounty sharpens one researcher’s security skills",
       "url": "https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/",
       "published": "Thu, 22 Oct 2026 17:21:30 +0000",
@@ -1369,22 +1369,6 @@
         {
           "name": "GitHub Blog",
           "url": "https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/"
-        }
-      ]
-    },
-    {
-      "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
-      "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
-      "published": "Mon, 02 Nov 2026 15:00:00 +0000",
-      "summary": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
-      "source": "TechCrunch",
-      "source_category": "Journalism",
-      "topic": "AI & Emerging Tech",
-      "score": 3,
-      "sources": [
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/"
         }
       ]
     },
@@ -1449,6 +1433,22 @@
         {
           "name": "Hugging Face",
           "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1"
+        }
+      ]
+    },
+    {
+      "title": "The bridge to agent-scale Git infrastructure",
+      "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
+      "published": "Wed, 21 Oct 2026 16:00:00 +0000",
+      "summary": "We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently. The post The bridge to agent-scale Git infrastructure appeared first on The GitHub Blog .",
+      "source": "GitHub Blog",
+      "source_category": "Vendor",
+      "topic": "Cloud & Infrastructure",
+      "score": 2,
+      "sources": [
+        {
+          "name": "GitHub Blog",
+          "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/"
         }
       ]
     }
