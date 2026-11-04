@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-11-04T05:19:43+00:00",
+  "retrieved_at": "2026-11-04T09:16:49+00:00",
   "candidate_sources": 40,
   "successful_sources": 35,
   "collected_articles": 599,
@@ -149,6 +149,22 @@
         {
           "name": "Kubernetes",
           "url": "https://kubernetes.io/blog/2026/10/14/tracing-kueue-admission-with-headlamp/"
+        }
+      ]
+    },
+    {
+      "title": "CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades",
+      "url": "https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html",
+      "published": "Wed, 04 Nov 2026 11:13:11 +0530",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a security flaw in WordPress Core to the Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The high-severity vulnerability, tracked as CVE-2026-119977 (CVSS score: 8.1), is a case of Time-of-check Time-of-use (TOCTOU) race condition that ",
+      "source": "The Hacker News",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 9,
+      "sources": [
+        {
+          "name": "The Hacker News",
+          "url": "https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html"
         }
       ]
     },
@@ -453,22 +469,6 @@
         {
           "name": "Krebs on Security",
           "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/"
-        }
-      ]
-    },
-    {
-      "title": "DarkBlinders Compromises Israeli Target and Iraqi Kurdish Government Cloud Environment",
-      "url": "https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html",
-      "published": "Mon, 02 Nov 2026 20:16:05 +0530",
-      "summary": "Cybersecurity researchers have disclosed details of a cyber espionage campaign targeting Israel and the Kurdistan Region of Iraq by an Iran state-aligned threat actor between August and October 2026. According to a report published by Dream Research Labs, the campaign has led to the compromise of a high-profile individual in Israel, along with addi",
-      "source": "The Hacker News",
-      "source_category": "Journalism",
-      "topic": "Cybersecurity",
-      "score": 7,
-      "sources": [
-        {
-          "name": "The Hacker News",
-          "url": "https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html"
         }
       ]
     },
@@ -1357,6 +1357,34 @@
       ]
     },
     {
+      "title": "Hostinger Promo Code: 79% Off for November 2026",
+      "url": "https://www.wired.com/story/hostinger-coupon-code/",
+      "published": "Wed, 04 Nov 2026 06:00:00 +0000",
+      "summary": "Discover exclusive Hostinger promo codes, discounts, and deals on web hosting, cloud plans, and domain registration. Save big on your next Hostinger purchase today.",
+      "source": "WIRED",
+      "source_category": "Journalism",
+      "topic": "Cloud & Infrastructure",
+      "score": 3,
+      "sources": [
+        {
+          "name": "WIRED",
+          "url": "https://www.wired.com/story/hostinger-coupon-code/"
+        },
+        {
+          "name": "WIRED",
+          "url": "https://www.wired.com/story/doordash-promo-code/"
+        },
+        {
+          "name": "WIRED",
+          "url": "https://www.wired.com/story/the-motley-fool-promo-code/"
+        },
+        {
+          "name": "WIRED",
+          "url": "https://www.wired.com/story/adidas-promo-code/"
+        }
+      ]
+    },
+    {
       "title": "NYT demands Brave shut down its paywall blocker and end deals with AI firms",
       "url": "https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/",
       "published": "Tue, 03 Nov 2026 18:30:27 +0000",
@@ -1433,22 +1461,6 @@
         {
           "name": "ZDNET",
           "url": "https://www.zdnet.com/tech/netgear-routers-vulnerable-security-exploit/"
-        }
-      ]
-    },
-    {
-      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
-      "published": "Wed, 21 Oct 2026 16:04:43 GMT",
-      "summary": "",
-      "source": "Hugging Face",
-      "source_category": "Vendor",
-      "topic": "Cloud & Infrastructure",
-      "score": 2,
-      "sources": [
-        {
-          "name": "Hugging Face",
-          "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1"
         }
       ]
     }

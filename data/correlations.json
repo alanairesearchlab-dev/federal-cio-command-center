@@ -1,6 +1,22 @@
 {
-  "retrieved_at": "2026-11-04T05:19:43+00:00",
+  "retrieved_at": "2026-11-04T09:16:49+00:00",
   "items": [
+    {
+      "cve": "CVE-2026-119977",
+      "vendor": "WordPress",
+      "product": "WordPress Core",
+      "date_added": "2026-11-03",
+      "sources": [
+        {
+          "title": "CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades",
+          "url": "https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html",
+          "source": "The Hacker News",
+          "kind": "news"
+        }
+      ],
+      "source_count": 1,
+      "note": "Exact CVE reference correlation, not independent confirmation of claims or agency exposure."
+    },
     {
       "cve": "CVE-2026-111357",
       "vendor": "Ivanti",
@@ -26,22 +42,6 @@
         {
           "title": "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV",
           "url": "https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html",
-          "source": "The Hacker News",
-          "kind": "news"
-        }
-      ],
-      "source_count": 1,
-      "note": "Exact CVE reference correlation, not independent confirmation of claims or agency exposure."
-    },
-    {
-      "cve": "CVE-2026-76418",
-      "vendor": "Cisco",
-      "product": "Secure Firewall ASA Software and Cisco Secure FTD Software",
-      "date_added": "2026-10-29",
-      "sources": [
-        {
-          "title": "Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls",
-          "url": "https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html",
           "source": "The Hacker News",
           "kind": "news"
         }
