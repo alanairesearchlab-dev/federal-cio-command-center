@@ -1,8 +1,8 @@
 {
-  "retrieved_at": "2026-11-04T01:27:59+00:00",
+  "retrieved_at": "2026-11-04T05:19:43+00:00",
   "candidate_sources": 40,
-  "successful_sources": 34,
-  "collected_articles": 577,
+  "successful_sources": 35,
+  "collected_articles": 599,
   "items": [
     {
       "title": "The First Federal Guidance on AI Agents Is Here. Most Agencies Can’t Meet It Yet.",
@@ -1229,6 +1229,22 @@
       ]
     },
     {
+      "title": "Sovereignty debt: How APAC boards accumulate it and what it costs to repay",
+      "url": "https://www.redhat.com/en/blog/sovereignty-debt-how-apac-boards-accumulate-it-and-what-it-costs-repay",
+      "published": "Thu, 29 Oct 2026 00:00:00 +0000",
+      "summary": "Sovereignty debt is emerging as a critical board-level liability across the Asia Pacific (APAC) region. The concept of technology debt is not new. It has challenged organizations through successive technology cycles, from data analytics to public cloud adoption and now generative AI.The definition is simple: Sovereignty debt is the disparity betwee",
+      "source": "Red Hat",
+      "source_category": "Vendor",
+      "topic": "AI & Emerging Tech",
+      "score": 4,
+      "sources": [
+        {
+          "name": "Red Hat",
+          "url": "https://www.redhat.com/en/blog/sovereignty-debt-how-apac-boards-accumulate-it-and-what-it-costs-repay"
+        }
+      ]
+    },
+    {
       "title": "Raising the quality of insights in agentic analytics",
       "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
       "published": "Mon, 02 Nov 2026 17:00:00 +0000",
@@ -1257,22 +1273,6 @@
         {
           "name": "Cisco Blogs",
           "url": "https://blogs.cisco.com/security/cisco-ai-transit-connects-ai-environments-to-your-sd-wan"
-        }
-      ]
-    },
-    {
-      "title": "Sovereignty in the AI era: Choice, control, and autonomy",
-      "url": "https://www.redhat.com/en/blog/sovereignty-ai-era-choice-control-and-autonomy",
-      "published": "Mon, 02 Nov 2026 00:00:00 +0000",
-      "summary": "For the past few years, AI felt like a high-stakes exhibition game. Teams across every industry were on the pitch experimenting with large language models, running rapid proofs-of-concept, and testing what was possible. That period of passive experimentation is officially over. AI has now moved directly into core enterprise operations, transforming",
-      "source": "Red Hat",
-      "source_category": "Vendor",
-      "topic": "AI & Emerging Tech",
-      "score": 4,
-      "sources": [
-        {
-          "name": "Red Hat",
-          "url": "https://www.redhat.com/en/blog/sovereignty-ai-era-choice-control-and-autonomy"
         }
       ]
     },
