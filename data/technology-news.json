@@ -1,8 +1,8 @@
 {
-  "retrieved_at": "2026-11-04T17:15:24+00:00",
+  "retrieved_at": "2026-11-04T21:10:58+00:00",
   "candidate_sources": 40,
-  "successful_sources": 35,
-  "collected_articles": 599,
+  "successful_sources": 33,
+  "collected_articles": 571,
   "items": [
     {
       "title": "The First Federal Guidance on AI Agents Is Here. Most Agencies Can’t Meet It Yet.",
@@ -233,6 +233,22 @@
       ]
     },
     {
+      "title": "Open source AI is booming. Hugging Face explains who profits.",
+      "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+      "published": "Wed, 04 Nov 2026 19:30:04 +0000",
+      "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up? On this epi",
+      "source": "TechCrunch",
+      "source_category": "Journalism",
+      "topic": "AI & Emerging Tech",
+      "score": 8,
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/"
+        }
+      ]
+    },
+    {
       "title": "Your Robot’s Safety Functions Already Work. What If the Input Lies?",
       "url": "https://spectrum.ieee.org/ai-robot-safety-cybersecurity-vicone",
       "published": "Tue, 27 Oct 2026 16:14:39 +0000",
@@ -293,6 +309,22 @@
         {
           "name": "IEEE Spectrum",
           "url": "https://spectrum.ieee.org/systems-thinking-vital-in-ai"
+        }
+      ]
+    },
+    {
+      "title": "GSA appoints former banking exec as new government contracting head",
+      "url": "https://fedscoop.com/gsa-appoints-jennifer-hill-new-fas-commissioner/",
+      "published": "Wed, 04 Nov 2026 17:49:53 +0000",
+      "summary": "Jennifer Hill is the new commissioner of the Federal Acquisition Service, the agency’s contracting operation recently involved in artificial intelligence procurements. The post GSA appoints former banking exec as new government contracting head appeared first on FedScoop .",
+      "source": "FedScoop",
+      "source_category": "Federal IT",
+      "topic": "AI & Emerging Tech",
+      "score": 7,
+      "sources": [
+        {
+          "name": "FedScoop",
+          "url": "https://fedscoop.com/gsa-appoints-jennifer-hill-new-fas-commissioner/"
         }
       ]
     },
@@ -437,22 +469,6 @@
         {
           "name": "Krebs on Security",
           "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/"
-        }
-      ]
-    },
-    {
-      "title": "DarkBlinders Compromises Israeli Target and Iraqi Kurdish Government Cloud Environment",
-      "url": "https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html",
-      "published": "Mon, 02 Nov 2026 20:16:05 +0530",
-      "summary": "Cybersecurity researchers have disclosed details of a cyber espionage campaign targeting Israel and the Kurdistan Region of Iraq by an Iran state-aligned threat actor between August and October 2026. According to a report published by Dream Research Labs, the campaign has led to the compromise of a high-profile individual in Israel, along with addi",
-      "source": "The Hacker News",
-      "source_category": "Journalism",
-      "topic": "Cybersecurity",
-      "score": 7,
-      "sources": [
-        {
-          "name": "The Hacker News",
-          "url": "https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html"
         }
       ]
     },
@@ -733,6 +749,22 @@
       ]
     },
     {
+      "title": "SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records",
+      "url": "https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html",
+      "published": "Wed, 04 Nov 2026 22:30:38 +0530",
+      "summary": "SonicWall has warned of two vulnerabilities impacting end-of-life Global Management System (GMS) systems that it said will not be patched. Details of the security flaws, which affect SonicWall GMS 9.5.2 and earlier versions, are below - CVE-2026-109593 (CVSS score: 9.1) - An unauthenticated file read vulnerability that could allow an attacker with ",
+      "source": "The Hacker News",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 5,
+      "sources": [
+        {
+          "name": "The Hacker News",
+          "url": "https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html"
+        }
+      ]
+    },
+    {
       "title": "UK Officials Said AI Would Add £400 Billion to the Economy. That Figure Mainly Came From Google",
       "url": "https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/",
       "published": "Wed, 04 Nov 2026 13:49:51 +0000",
@@ -841,22 +873,6 @@
         {
           "name": "Cloudflare",
           "url": "https://blog.cloudflare.com/zero-wire/"
-        }
-      ]
-    },
-    {
-      "title": "Drax wants to feed Britain's AI habit with £20B datacenter at biomass power station",
-      "url": "https://www.theregister.com/on-prem/2026/11/03/drax-wants-to-feed-britains-ai-habit-with-20b-datacenter-at-biomass-power-station/5307237",
-      "published": "Tue, 03 Nov 2026 13:27:33 +0000",
-      "summary": "But first it needs planning permission, government approval and, rather importantly, a customer",
-      "source": "The Register",
-      "source_category": "Journalism",
-      "topic": "AI & Emerging Tech",
-      "score": 5,
-      "sources": [
-        {
-          "name": "The Register",
-          "url": "https://www.theregister.com/on-prem/2026/11/03/drax-wants-to-feed-britains-ai-habit-with-20b-datacenter-at-biomass-power-station/5307237"
         }
       ]
     },
@@ -1149,22 +1165,6 @@
       ]
     },
     {
-      "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
-      "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
-      "published": "Tue, 03 Nov 2026 21:05:55 +0000",
-      "summary": "Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever.",
-      "source": "TechCrunch",
-      "source_category": "Journalism",
-      "topic": "Federal IT & Policy",
-      "score": 4,
-      "sources": [
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/"
-        }
-      ]
-    },
-    {
       "title": "When the storm hits, the private sector must show up",
       "url": "https://fedscoop.com/fema-storm-response-private-sector-assistance/",
       "published": "Tue, 03 Nov 2026 18:46:32 +0000",
@@ -1197,22 +1197,6 @@
       ]
     },
     {
-      "title": "NHS counts Palantir benefits at trusts that say they're not using it",
-      "url": "https://www.theregister.com/public-sector/2026/11/03/nhs-counts-palantir-benefits-at-trusts-that-say-theyre-not-using-it/5307222",
-      "published": "Tue, 03 Nov 2026 14:32:46 +0000",
-      "summary": "Medact flags 29 disputed entries as ministers weigh £330M deal's future",
-      "source": "The Register",
-      "source_category": "Journalism",
-      "topic": "Federal IT & Policy",
-      "score": 4,
-      "sources": [
-        {
-          "name": "The Register",
-          "url": "https://www.theregister.com/public-sector/2026/11/03/nhs-counts-palantir-benefits-at-trusts-that-say-theyre-not-using-it/5307222"
-        }
-      ]
-    },
-    {
       "title": "Future-proofing enterprise AI: The impact of post-quantum cryptography on Red Hat AI Enterprise",
       "url": "https://www.redhat.com/en/blog/future-proofing-enterprise-ai-impact-post-quantum-cryptography-red-hat-ai-enterprise",
       "published": "Tue, 03 Nov 2026 00:00:00 +0000",
@@ -1225,22 +1209,6 @@
         {
           "name": "Red Hat",
           "url": "https://www.redhat.com/en/blog/future-proofing-enterprise-ai-impact-post-quantum-cryptography-red-hat-ai-enterprise"
-        }
-      ]
-    },
-    {
-      "title": "Trump’s AI use to inform military operations questioned by House duo",
-      "url": "https://fedscoop.com/trump-ai-use-military-operations-house-letter/",
-      "published": "Thu, 29 Oct 2026 21:20:09 +0000",
-      "summary": "Ranking members from two House committees requested a closed-door briefing regarding AI-related document retention policies, vendor contracts, cybersecurity safeguards and more. The post Trump’s AI use to inform military operations questioned by House duo appeared first on FedScoop .",
-      "source": "FedScoop",
-      "source_category": "Federal IT",
-      "topic": "Cybersecurity",
-      "score": 4,
-      "sources": [
-        {
-          "name": "FedScoop",
-          "url": "https://fedscoop.com/trump-ai-use-military-operations-house-letter/"
         }
       ]
     },
@@ -1389,30 +1357,18 @@
       ]
     },
     {
-      "title": "Hostinger Promo Code: 79% Off for November 2026",
-      "url": "https://www.wired.com/story/hostinger-coupon-code/",
-      "published": "Wed, 04 Nov 2026 06:00:00 +0000",
-      "summary": "Discover exclusive Hostinger promo codes, discounts, and deals on web hosting, cloud plans, and domain registration. Save big on your next Hostinger purchase today.",
-      "source": "WIRED",
+      "title": "AMD on track to overtake Intel as biggest x86 outfit",
+      "url": "https://www.theregister.com/systems/2026/11/04/amd-on-track-to-overtake-intel-as-biggest-x86-outfit/5307448",
+      "published": "Wed, 04 Nov 2026 04:24:06 +0000",
+      "summary": "CEO says supply chain can cope with surging datacenter and AI demand",
+      "source": "The Register",
       "source_category": "Journalism",
-      "topic": "Cloud & Infrastructure",
+      "topic": "AI & Emerging Tech",
       "score": 3,
       "sources": [
         {
-          "name": "WIRED",
-          "url": "https://www.wired.com/story/hostinger-coupon-code/"
-        },
-        {
-          "name": "WIRED",
-          "url": "https://www.wired.com/story/doordash-promo-code/"
-        },
-        {
-          "name": "WIRED",
-          "url": "https://www.wired.com/story/the-motley-fool-promo-code/"
-        },
-        {
-          "name": "WIRED",
-          "url": "https://www.wired.com/story/adidas-promo-code/"
+          "name": "The Register",
+          "url": "https://www.theregister.com/systems/2026/11/04/amd-on-track-to-overtake-intel-as-biggest-x86-outfit/5307448"
         }
       ]
     },
@@ -1461,6 +1417,38 @@
         {
           "name": "Cisco Blogs",
           "url": "https://blogs.cisco.com/cisco-devnet/foundry-verified-security-findings-part-2"
+        }
+      ]
+    },
+    {
+      "title": "Mutipath TCP: Use and Detection, (Mon, Nov 2nd)",
+      "url": "https://isc.sans.edu/diary/rss/33482",
+      "published": "Mon, 02 Nov 2026 14:52:05 GMT",
+      "summary": "Last week, an often-ignored&#;x26;#;xc2;&#;x26;#;xa0;TCP option, introduced in 2020, made the news due to a new vulnerability in Linux&#;x26;#;39;s implementation (RFC&#;x26;#;xc2;&#;x26;#;xa0;8684, &#;x26;#;xc2;&#;x26;#;xa0;CVE-2026-98432)",
+      "source": "SANS Internet Storm Center",
+      "source_category": "Research",
+      "topic": "Cybersecurity",
+      "score": 3,
+      "sources": [
+        {
+          "name": "SANS Internet Storm Center",
+          "url": "https://isc.sans.edu/diary/rss/33482"
+        }
+      ]
+    },
+    {
+      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+      "published": "Wed, 21 Oct 2026 16:04:43 GMT",
+      "summary": "",
+      "source": "Hugging Face",
+      "source_category": "Vendor",
+      "topic": "Cloud & Infrastructure",
+      "score": 2,
+      "sources": [
+        {
+          "name": "Hugging Face",
+          "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1"
         }
       ]
     }
