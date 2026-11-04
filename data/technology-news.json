@@ -1,8 +1,8 @@
 {
-  "retrieved_at": "2026-11-03T21:07:09+00:00",
+  "retrieved_at": "2026-11-04T01:27:59+00:00",
   "candidate_sources": 40,
-  "successful_sources": 35,
-  "collected_articles": 599,
+  "successful_sources": 34,
+  "collected_articles": 577,
   "items": [
     {
       "title": "The First Federal Guidance on AI Agents Is Here. Most Agencies Can’t Meet It Yet.",
@@ -153,6 +153,38 @@
       ]
     },
     {
+      "title": "Fresh European Fridge Attacks Put Cold-Chain Security in Focus",
+      "url": "https://www.darkreading.com/ics-ot-security/fresh-european-fridge-attacks-cold-chain-security",
+      "published": "Tue, 03 Nov 2026 22:16:49 GMT",
+      "summary": "Beyond food storage, the same combination of Internet connectivity, remote access, and inadequate security practices can put temperature-controlled infrastructure across other critical sectors at risk.",
+      "source": "Dark Reading",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 9,
+      "sources": [
+        {
+          "name": "Dark Reading",
+          "url": "https://www.darkreading.com/ics-ot-security/fresh-european-fridge-attacks-cold-chain-security"
+        }
+      ]
+    },
+    {
+      "title": "CISA turns to former HHS official to lead infrastructure security division",
+      "url": "https://federalnewsnetwork.com/cybersecurity/2026/11/cisa-turns-to-former-hhs-official-to-lead-infrastructure-security-division/",
+      "published": "Tue, 03 Nov 2026 21:24:06 +0000",
+      "summary": "At HHS, Brian Mazanec was charged with helping secure the health sector. Now he'll oversee security efforts across all 16 critical infrastructure sectors.",
+      "source": "Federal News Network",
+      "source_category": "Federal IT",
+      "topic": "Cybersecurity",
+      "score": 9,
+      "sources": [
+        {
+          "name": "Federal News Network",
+          "url": "https://federalnewsnetwork.com/cybersecurity/2026/11/cisa-turns-to-former-hhs-official-to-lead-infrastructure-security-division/"
+        }
+      ]
+    },
+    {
       "title": "Firefox and Chrome patch 200+ security flaws combined – update both ASAP",
       "url": "https://www.zdnet.com/tech/firefox-chrome-browsers-patch-200-security-flaws-update-asap/",
       "published": "2026-10-29T16:30:28Z",
@@ -261,22 +293,6 @@
         {
           "name": "MeriTalk",
           "url": "https://www.meritalk.com/agentic-ai-raises-the-stakes-for-federal-identity-governance/"
-        }
-      ]
-    },
-    {
-      "title": "‘Dangerous:’ CISA official criticizes company’s decision to release PHP bug early",
-      "url": "https://federalnewsnetwork.com/cybersecurity/2026/10/dangerous-cisa-official-criticizes-companys-decision-to-release-php-bug-early/",
-      "published": "Fri, 30 Oct 2026 22:57:43 +0000",
-      "summary": "Security firm Chainguard broke an embargo on a critical vulnerability. A CISA official says that's \"dangerous\" as AI creates more chaos for cyber defenders.",
-      "source": "Federal News Network",
-      "source_category": "Federal IT",
-      "topic": "Cybersecurity",
-      "score": 8,
-      "sources": [
-        {
-          "name": "Federal News Network",
-          "url": "https://federalnewsnetwork.com/cybersecurity/2026/10/dangerous-cisa-official-criticizes-companys-decision-to-release-php-bug-early/"
         }
       ]
     },
@@ -749,6 +765,38 @@
       ]
     },
     {
+      "title": "Government’s next AI challenge: Accountability",
+      "url": "https://federalnewsnetwork.com/commentary/2026/11/governments-next-ai-challenge-accountability/",
+      "published": "Tue, 03 Nov 2026 21:45:17 +0000",
+      "summary": "We all have to get used to moving at AI speeds, and the assurance of genuine human presence throughout the AI agent lifecycle cannot be deferred.",
+      "source": "Federal News Network",
+      "source_category": "Federal IT",
+      "topic": "AI & Emerging Tech",
+      "score": 5,
+      "sources": [
+        {
+          "name": "Federal News Network",
+          "url": "https://federalnewsnetwork.com/commentary/2026/11/governments-next-ai-challenge-accountability/"
+        }
+      ]
+    },
+    {
+      "title": "Hackers hijack cPGuard autoupdate to deploy backdoor, steal data",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/",
+      "published": "Tue, 03 Nov 2026 17:18:50 -0500",
+      "summary": "Attackers have compromised the update infrastructure for the cPGuard web security suite to distribute a backdoor and a data-stealing script. [...]",
+      "source": "BleepingComputer",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 5,
+      "sources": [
+        {
+          "name": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/"
+        }
+      ]
+    },
+    {
       "title": "Introducing Zero Wire, a hub for investigating critical Internet vulnerabilities",
       "url": "https://blog.cloudflare.com/zero-wire/",
       "published": "Tue, 03 Nov 2026 14:00:00 GMT",
@@ -989,22 +1037,6 @@
       ]
     },
     {
-      "title": "AI Takes Root in Hospital Corridors, Raises Security Stakes",
-      "url": "https://www.darkreading.com/cybersecurity-operations/ai-root-hospital-corridors-raised-security-stakes",
-      "published": "Wed, 28 Oct 2026 15:29:06 GMT",
-      "summary": "Artificial intelligence is everywhere in healthcare, from doctors' intake forms to cancer screenings. But in some cases, life-and-death uses are outpacing cybersecurity.",
-      "source": "Dark Reading",
-      "source_category": "Journalism",
-      "topic": "Cybersecurity",
-      "score": 4,
-      "sources": [
-        {
-          "name": "Dark Reading",
-          "url": "https://www.darkreading.com/cybersecurity-operations/ai-root-hospital-corridors-raised-security-stakes"
-        }
-      ]
-    },
-    {
       "title": "How Commerce.com and Cloudflare are getting storefronts ready for AI agents",
       "url": "https://blog.cloudflare.com/webmcp-commerce/",
       "published": "Wed, 21 Oct 2026 13:00:00 GMT",
@@ -1037,18 +1069,50 @@
       ]
     },
     {
-      "title": "Competition for federal business increasingly starts with access to the right contract vehicles",
-      "url": "https://federalnewsnetwork.com/contracting/2026/11/competition-for-federal-business-increasingly-starts-with-access-to-the-right-contract-vehicles/",
-      "published": "Tue, 03 Nov 2026 20:53:12 +0000",
-      "summary": "\"I think with DOGE, there was tremendous departure of experienced contracting officials over the last year,\" said Kathleen Sievers.",
-      "source": "Federal News Network",
-      "source_category": "Federal IT",
+      "title": "Anthropic is working on a system to prove AI models’ identity",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "published": "Tue, 03 Nov 2026 22:41:03 +0000",
+      "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
+      "source": "TechCrunch",
+      "source_category": "Journalism",
+      "topic": "AI & Emerging Tech",
+      "score": 4,
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/"
+        }
+      ]
+    },
+    {
+      "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+      "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+      "published": "Tue, 03 Nov 2026 21:43:08 +0000",
+      "summary": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
+      "source": "TechCrunch",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 4,
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/"
+        }
+      ]
+    },
+    {
+      "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
+      "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
+      "published": "Tue, 03 Nov 2026 21:05:55 +0000",
+      "summary": "Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever.",
+      "source": "TechCrunch",
+      "source_category": "Journalism",
       "topic": "Federal IT & Policy",
       "score": 4,
       "sources": [
         {
-          "name": "Federal News Network",
-          "url": "https://federalnewsnetwork.com/contracting/2026/11/competition-for-federal-business-increasingly-starts-with-access-to-the-right-contract-vehicles/"
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/"
         }
       ]
     },
@@ -1065,22 +1129,6 @@
         {
           "name": "FedScoop",
           "url": "https://fedscoop.com/fema-storm-response-private-sector-assistance/"
-        }
-      ]
-    },
-    {
-      "title": "CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents takes off",
-      "url": "https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/",
-      "published": "Tue, 03 Nov 2026 17:56:52 +0000",
-      "summary": "CrowdStrike said it will buy Fiddler AI, which makes AI agent observability software, and Dreadnode, which helps companies automate AI security testing.",
-      "source": "TechCrunch",
-      "source_category": "Journalism",
-      "topic": "Cybersecurity",
-      "score": 4,
-      "sources": [
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/"
         }
       ]
     },
@@ -1113,22 +1161,6 @@
         {
           "name": "The Register",
           "url": "https://www.theregister.com/public-sector/2026/11/03/nhs-counts-palantir-benefits-at-trusts-that-say-theyre-not-using-it/5307222"
-        }
-      ]
-    },
-    {
-      "title": "Gartner Predicts SOCs Will Have 50% More Engineers Than Analysts by 2028",
-      "url": "https://www.bleepingcomputer.com/news/security/gartner-predicts-socs-will-have-50-percent-more-engineers-than-analysts-by-2028/",
-      "published": "Tue, 03 Nov 2026 10:00:10 -0500",
-      "summary": "Gartner predicts that security operations centers will have 50% more engineers than analysts by 2028 as AI agents take over routine alert handling. Prophet Security examines how AI is reshaping SOC roles, from analyst responsibilities and detection engineering to threat hunting and exposure management. [...]",
-      "source": "BleepingComputer",
-      "source_category": "Journalism",
-      "topic": "Cybersecurity",
-      "score": 4,
-      "sources": [
-        {
-          "name": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/gartner-predicts-socs-will-have-50-percent-more-engineers-than-analysts-by-2028/"
         }
       ]
     },
@@ -1197,22 +1229,6 @@
       ]
     },
     {
-      "title": "Sovereignty debt: How APAC boards accumulate it and what it costs to repay",
-      "url": "https://www.redhat.com/en/blog/sovereignty-debt-how-apac-boards-accumulate-it-and-what-it-costs-repay",
-      "published": "Thu, 29 Oct 2026 00:00:00 +0000",
-      "summary": "Sovereignty debt is emerging as a critical board-level liability across the Asia Pacific (APAC) region. The concept of technology debt is not new. It has challenged organizations through successive technology cycles, from data analytics to public cloud adoption and now generative AI.The definition is simple: Sovereignty debt is the disparity betwee",
-      "source": "Red Hat",
-      "source_category": "Vendor",
-      "topic": "AI & Emerging Tech",
-      "score": 4,
-      "sources": [
-        {
-          "name": "Red Hat",
-          "url": "https://www.redhat.com/en/blog/sovereignty-debt-how-apac-boards-accumulate-it-and-what-it-costs-repay"
-        }
-      ]
-    },
-    {
       "title": "Raising the quality of insights in agentic analytics",
       "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
       "published": "Mon, 02 Nov 2026 17:00:00 +0000",
@@ -1241,6 +1257,22 @@
         {
           "name": "Cisco Blogs",
           "url": "https://blogs.cisco.com/security/cisco-ai-transit-connects-ai-environments-to-your-sd-wan"
+        }
+      ]
+    },
+    {
+      "title": "Sovereignty in the AI era: Choice, control, and autonomy",
+      "url": "https://www.redhat.com/en/blog/sovereignty-ai-era-choice-control-and-autonomy",
+      "published": "Mon, 02 Nov 2026 00:00:00 +0000",
+      "summary": "For the past few years, AI felt like a high-stakes exhibition game. Teams across every industry were on the pitch experimenting with large language models, running rapid proofs-of-concept, and testing what was possible. That period of passive experimentation is officially over. AI has now moved directly into core enterprise operations, transforming",
+      "source": "Red Hat",
+      "source_category": "Vendor",
+      "topic": "AI & Emerging Tech",
+      "score": 4,
+      "sources": [
+        {
+          "name": "Red Hat",
+          "url": "https://www.redhat.com/en/blog/sovereignty-ai-era-choice-control-and-autonomy"
         }
       ]
     },
@@ -1321,38 +1353,6 @@
         {
           "name": "Schneier on Security",
           "url": "https://www.schneier.com/blog/archives/2026/10/bias-in-qwen3-coder-model.html"
-        }
-      ]
-    },
-    {
-      "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
-      "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
-      "published": "Tue, 03 Nov 2026 21:05:55 +0000",
-      "summary": "Palantir delivered such a huge third-quarter earnings report on Monday that its press release even bragged that the numbers were “crushing consensus expectations.” Yet, retail investors were lukewarm on the company on Tuesday, with the stock trading slightly down. That’s because Palantir’s enterprise sales, its big growth area, showed signs of slow",
-      "source": "TechCrunch",
-      "source_category": "Journalism",
-      "topic": "Enterprise Technology",
-      "score": 3,
-      "sources": [
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/"
-        }
-      ]
-    },
-    {
-      "title": "Researchers warned of North Korean hacking tactics years before record $6.3B Binance heist",
-      "url": "https://techcrunch.com/2026/11/03/researchers-warned-of-north-korean-hacking-tactics-years-before-record-6-3b-binance-heist/",
-      "published": "Tue, 03 Nov 2026 19:45:48 +0000",
-      "summary": "Cybersecurity experts have long warned of the persistent and patient threat from North Korea's long-running hacks. The world's largest crypto exchange was still caught off-guard.",
-      "source": "TechCrunch",
-      "source_category": "Journalism",
-      "topic": "Cybersecurity",
-      "score": 3,
-      "sources": [
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/03/researchers-warned-of-north-korean-hacking-tactics-years-before-record-6-3b-binance-heist/"
         }
       ]
     },
