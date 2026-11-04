@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-11-04T09:16:49+00:00",
+  "retrieved_at": "2026-11-04T13:31:30+00:00",
   "candidate_sources": 40,
   "successful_sources": 35,
   "collected_articles": 599,
@@ -65,22 +65,6 @@
         {
           "name": "The Hacker News",
           "url": "https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html"
-        }
-      ]
-    },
-    {
-      "title": "Government Linux Servers Targeted With SysGoRAT and Suspected AI-Generated Scripts",
-      "url": "https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html",
-      "published": "Mon, 02 Nov 2026 16:19:59 +0530",
-      "summary": "Cybersecurity researchers have disclosed details of a cyber espionage campaign specifically targeting Linux infrastructure associated with government entities and state-affiliated infrastructure. The activity, observed by Palo Alto Networks Unit 42 between October 2025 and April 2026, has been tracked under the moniker CL-UNK-1211, where \"CL\" refer",
-      "source": "The Hacker News",
-      "source_category": "Journalism",
-      "topic": "Cybersecurity",
-      "score": 10,
-      "sources": [
-        {
-          "name": "The Hacker News",
-          "url": "https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html"
         }
       ]
     },
@@ -165,6 +149,22 @@
         {
           "name": "The Hacker News",
           "url": "https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html"
+        }
+      ]
+    },
+    {
+      "title": "CISA flags WordPress RCE flaw as actively exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/",
+      "published": "Wed, 04 Nov 2026 07:11:05 -0500",
+      "summary": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers have started exploiting a recently patched high-severity WordPress vulnerability in the wild. [...]",
+      "source": "BleepingComputer",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 9,
+      "sources": [
+        {
+          "name": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/"
         }
       ]
     },
@@ -469,6 +469,22 @@
         {
           "name": "Krebs on Security",
           "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/"
+        }
+      ]
+    },
+    {
+      "title": "DarkBlinders Compromises Israeli Target and Iraqi Kurdish Government Cloud Environment",
+      "url": "https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html",
+      "published": "Mon, 02 Nov 2026 20:16:05 +0530",
+      "summary": "Cybersecurity researchers have disclosed details of a cyber espionage campaign targeting Israel and the Kurdistan Region of Iraq by an Iran state-aligned threat actor between August and October 2026. According to a report published by Dream Research Labs, the campaign has led to the compromise of a high-profile individual in Israel, along with addi",
+      "source": "The Hacker News",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 7,
+      "sources": [
+        {
+          "name": "The Hacker News",
+          "url": "https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html"
         }
       ]
     },
@@ -861,22 +877,6 @@
       ]
     },
     {
-      "title": "Google adds new $250,000 Cloud VRP reward for Root-in-Cloud bugs",
-      "url": "https://www.bleepingcomputer.com/news/google/google-adds-new-250-000-cloud-vrp-reward-for-root-in-cloud-bugs/",
-      "published": "Tue, 03 Nov 2026 07:05:52 -0500",
-      "summary": "Google has expanded its Cloud Vulnerability Reward Program (VRP) with a new top-tier reward for high-impact architectural security flaws. [...]",
-      "source": "BleepingComputer",
-      "source_category": "Journalism",
-      "topic": "Cybersecurity",
-      "score": 5,
-      "sources": [
-        {
-          "name": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/google/google-adds-new-250-000-cloud-vrp-reward-for-root-in-cloud-bugs/"
-        }
-      ]
-    },
-    {
       "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
       "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
       "published": "Tue, 03 Nov 2026 04:18:47 +0000",
@@ -1065,6 +1065,22 @@
         {
           "name": "Cisco Talos",
           "url": "https://blog.talosintelligence.com/break-the-silence-kazakhstan-nexus-uat-6275-targets-cis-government-organizations/"
+        }
+      ]
+    },
+    {
+      "title": "Securing the agentic enterprise with data lineage",
+      "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+      "published": "Wed, 04 Nov 2026 13:00:00 +0000",
+      "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No human checks either handoff. When it’s…",
+      "source": "MIT Technology Review",
+      "source_category": "Research",
+      "topic": "AI & Emerging Tech",
+      "score": 4,
+      "sources": [
+        {
+          "name": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/"
         }
       ]
     },
@@ -1277,22 +1293,6 @@
       ]
     },
     {
-      "title": "Eating disorders are on the rise. GLP-1s could make things worse.",
-      "url": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/",
-      "published": "Fri, 30 Oct 2026 09:00:00 +0000",
-      "summary": "GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinical psychologists, they can represent something more sinister—a potential trigger for eating disorders. A new report suggests that the global incidence of anorexia nervosa and bulimia nervosa shot up between 1990 and 2023—by a whopping 71%. By ",
-      "source": "MIT Technology Review",
-      "source_category": "Research",
-      "topic": "Federal IT & Policy",
-      "score": 4,
-      "sources": [
-        {
-          "name": "MIT Technology Review",
-          "url": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/"
-        }
-      ]
-    },
-    {
       "title": "KubeCon + CloudNativeCon NA 2026: End User TAB recommendations and tips",
       "url": "https://www.cncf.io/blog/2026/10/29/kubecon-cloudnativecon-na-2026-end-user-tab-recommendations-and-tips/",
       "published": "Fri, 30 Oct 2026 00:43:04 +0000",
@@ -1353,6 +1353,22 @@
         {
           "name": "Schneier on Security",
           "url": "https://www.schneier.com/blog/archives/2026/10/bias-in-qwen3-coder-model.html"
+        }
+      ]
+    },
+    {
+      "title": "The Classics Return: Vulnerable E-Mail Scripts, (Wed, Nov 4th)",
+      "url": "https://isc.sans.edu/diary/rss/33488",
+      "published": "Wed, 04 Nov 2026 13:24:13 GMT",
+      "summary": "One of the early web application vulnerabilities I remember was CVE-2000-0411 [CVE]. This was a simple vulnerability in a CGI-bin script used to send e-mail. The vulnerability was pretty straightforward: Adding additional parameters to the URL leaked environment variables. Other vulnerabilities allowed setting the \"To\" address and were heavily abus",
+      "source": "SANS Internet Storm Center",
+      "source_category": "Research",
+      "topic": "Cybersecurity",
+      "score": 3,
+      "sources": [
+        {
+          "name": "SANS Internet Storm Center",
+          "url": "https://isc.sans.edu/diary/rss/33488"
         }
       ]
     },
@@ -1445,22 +1461,6 @@
         {
           "name": "SANS Internet Storm Center",
           "url": "https://isc.sans.edu/diary/rss/33482"
-        }
-      ]
-    },
-    {
-      "title": "Your Netgear router may be vulnerable to a security exploit – how to check and patch it",
-      "url": "https://www.zdnet.com/tech/netgear-routers-vulnerable-security-exploit/",
-      "published": "2026-10-30T16:58:22Z",
-      "summary": "A vulnerability in some Netgear routers could allow an attacker with access to your network to run malicious commands on the device.",
-      "source": "ZDNET",
-      "source_category": "Journalism",
-      "topic": "Cybersecurity",
-      "score": 3,
-      "sources": [
-        {
-          "name": "ZDNET",
-          "url": "https://www.zdnet.com/tech/netgear-routers-vulnerable-security-exploit/"
         }
       ]
     }
