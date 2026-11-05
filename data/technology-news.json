@@ -1,8 +1,8 @@
 {
-  "retrieved_at": "2026-11-05T05:20:25+00:00",
+  "retrieved_at": "2026-11-05T09:22:04+00:00",
   "candidate_sources": 40,
-  "successful_sources": 35,
-  "collected_articles": 599,
+  "successful_sources": 34,
+  "collected_articles": 577,
   "items": [
     {
       "title": "The First Federal Guidance on AI Agents Is Here. Most Agencies Can’t Meet It Yet.",
@@ -33,6 +33,22 @@
         {
           "name": "InfoWorld",
           "url": "https://www.infoworld.com/article/4240704/six-elements-of-resilient-ai-orchestration-platforms.html"
+        }
+      ]
+    },
+    {
+      "title": "Why enterprise AI needs unified metadata infrastructure",
+      "url": "https://www.infoworld.com/article/4244836/why-enterprise-ai-needs-unified-metadata-infrastructure.html",
+      "published": "Thu, 05 Nov 2026 09:00:00 +0000",
+      "summary": "Enterprise AI has produced a lot of noise about models, GPUs, vector databases, and agent frameworks. Those conversations matter. But the shift that will decide whether enterprise AI works is happening underneath the models. For decades, metadata meant documentation. Teams built catalogs so people could find data sets, governance programs recorded ",
+      "source": "InfoWorld",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 10,
+      "sources": [
+        {
+          "name": "InfoWorld",
+          "url": "https://www.infoworld.com/article/4244836/why-enterprise-ai-needs-unified-metadata-infrastructure.html"
         }
       ]
     },
@@ -69,22 +85,6 @@
         {
           "name": "Dark Reading",
           "url": "https://www.darkreading.com/cyberattacks-data-breaches/devs-trojanized-claude-code-extension-cursor"
-        }
-      ]
-    },
-    {
-      "title": "Are AI certifications still worth it? What changed in 2026",
-      "url": "https://www.infoworld.com/article/4242723/are-ai-certifications-still-worth-it-what-changed-in-2026.html",
-      "published": "Mon, 02 Nov 2026 09:00:00 +0000",
-      "summary": "Same question, a different answer Earlier this year, in Are AI certifications worth the investment? , I argued that AI certifications ranked among the highest-return investments an IT professional could make. Much of that case still holds. But the ground has shifted since I wrote that piece in February, and a responsible update has to say so plainl",
-      "source": "InfoWorld",
-      "source_category": "Journalism",
-      "topic": "Cybersecurity",
-      "score": 10,
-      "sources": [
-        {
-          "name": "InfoWorld",
-          "url": "https://www.infoworld.com/article/4242723/are-ai-certifications-still-worth-it-what-changed-in-2026.html"
         }
       ]
     },
@@ -165,6 +165,22 @@
         {
           "name": "Dark Reading",
           "url": "https://www.darkreading.com/ics-ot-security/fresh-european-fridge-attacks-cold-chain-security"
+        }
+      ]
+    },
+    {
+      "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html",
+      "published": "Thu, 05 Nov 2026 10:47:04 +0530",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a medium-severity security flaw impacting multiple Apple operating systems to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation. The vulnerability in question is CVE-2024-27834 (CVSS score: 5.5), a case of improper authentic",
+      "source": "The Hacker News",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 9,
+      "sources": [
+        {
+          "name": "The Hacker News",
+          "url": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html"
         }
       ]
     },
@@ -781,22 +797,6 @@
       ]
     },
     {
-      "title": "SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records",
-      "url": "https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html",
-      "published": "Wed, 04 Nov 2026 22:30:38 +0530",
-      "summary": "SonicWall has warned of two vulnerabilities impacting end-of-life Global Management System (GMS) systems that it said will not be patched. Details of the security flaws, which affect SonicWall GMS 9.5.2 and earlier versions, are below - CVE-2026-109593 (CVSS score: 9.1) - An unauthenticated file read vulnerability that could allow an attacker with ",
-      "source": "The Hacker News",
-      "source_category": "Journalism",
-      "topic": "Cybersecurity",
-      "score": 5,
-      "sources": [
-        {
-          "name": "The Hacker News",
-          "url": "https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html"
-        }
-      ]
-    },
-    {
       "title": "Meet the physicists making NIST the epicenter of quantum advancement",
       "url": "https://fedscoop.com/nist-quantum-physicists-flemming-awards/",
       "published": "Wed, 04 Nov 2026 21:35:05 +0000",
@@ -825,22 +825,6 @@
         {
           "name": "Cisco Blogs",
           "url": "https://blogs.cisco.com/customerexperience/cisco-iq-engineering-apis-for-the-agentic-era"
-        }
-      ]
-    },
-    {
-      "title": "UK Officials Said AI Would Add £400 Billion to the Economy. That Figure Mainly Came From Google",
-      "url": "https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/",
-      "published": "Wed, 04 Nov 2026 13:49:51 +0000",
-      "summary": "The AI minister now concedes the estimated figure is less than a third of that. Researchers blame the country’s slow rate of adoption.",
-      "source": "WIRED",
-      "source_category": "Journalism",
-      "topic": "AI & Emerging Tech",
-      "score": 5,
-      "sources": [
-        {
-          "name": "WIRED",
-          "url": "https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/"
         }
       ]
     },
@@ -1449,6 +1433,22 @@
         {
           "name": "SANS Internet Storm Center",
           "url": "https://isc.sans.edu/diary/rss/33482"
+        }
+      ]
+    },
+    {
+      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+      "published": "Wed, 21 Oct 2026 16:04:43 GMT",
+      "summary": "",
+      "source": "Hugging Face",
+      "source_category": "Vendor",
+      "topic": "Cloud & Infrastructure",
+      "score": 2,
+      "sources": [
+        {
+          "name": "Hugging Face",
+          "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1"
         }
       ]
     }
