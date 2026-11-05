@@ -1,8 +1,8 @@
 {
-  "retrieved_at": "2026-11-04T21:10:58+00:00",
+  "retrieved_at": "2026-11-05T01:31:53+00:00",
   "candidate_sources": 40,
-  "successful_sources": 33,
-  "collected_articles": 571,
+  "successful_sources": 35,
+  "collected_articles": 599,
   "items": [
     {
       "title": "The First Federal Guidance on AI Agents Is Here. Most Agencies Can’t Meet It Yet.",
@@ -169,22 +169,6 @@
       ]
     },
     {
-      "title": "CISA turns to former HHS official to lead infrastructure security division",
-      "url": "https://federalnewsnetwork.com/cybersecurity/2026/11/cisa-turns-to-former-hhs-official-to-lead-infrastructure-security-division/",
-      "published": "Tue, 03 Nov 2026 21:24:06 +0000",
-      "summary": "At HHS, Brian Mazanec was charged with helping secure the health sector. Now he'll oversee security efforts across all 16 critical infrastructure sectors.",
-      "source": "Federal News Network",
-      "source_category": "Federal IT",
-      "topic": "Cybersecurity",
-      "score": 9,
-      "sources": [
-        {
-          "name": "Federal News Network",
-          "url": "https://federalnewsnetwork.com/cybersecurity/2026/11/cisa-turns-to-former-hhs-official-to-lead-infrastructure-security-division/"
-        }
-      ]
-    },
-    {
       "title": "How Wikipedia’s Editors Keep the Online Encyclopedia Human-Written",
       "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
       "published": "Wed, 21 Oct 2026 13:00:02 +0000",
@@ -309,6 +293,38 @@
         {
           "name": "IEEE Spectrum",
           "url": "https://spectrum.ieee.org/systems-thinking-vital-in-ai"
+        }
+      ]
+    },
+    {
+      "title": "Space Force wants civilian employees to embrace guardian identity",
+      "url": "https://federalnewsnetwork.com/defense-main/2026/11/space-force-wants-civilian-employees-to-embrace-guardian-identity/",
+      "published": "Wed, 04 Nov 2026 23:44:36 +0000",
+      "summary": "The Pentagon’s smallest service is trying to rebuild its civilian workforce following the Trump administration’s push to slash federal jobs.",
+      "source": "Federal News Network",
+      "source_category": "Federal IT",
+      "topic": "Federal IT & Policy",
+      "score": 7,
+      "sources": [
+        {
+          "name": "Federal News Network",
+          "url": "https://federalnewsnetwork.com/defense-main/2026/11/space-force-wants-civilian-employees-to-embrace-guardian-identity/"
+        }
+      ]
+    },
+    {
+      "title": "Federal SSO needs cost predictability, not another opaque renewal",
+      "url": "https://federalnewsnetwork.com/commentary/2026/11/federal-sso-needs-cost-predictability-not-another-opaque-renewal/",
+      "published": "Wed, 04 Nov 2026 22:16:24 +0000",
+      "summary": "Identity is often treated as a project that is finished once the login works, when in practice it's a production system that every other application depends on.",
+      "source": "Federal News Network",
+      "source_category": "Federal IT",
+      "topic": "Federal IT & Policy",
+      "score": 7,
+      "sources": [
+        {
+          "name": "Federal News Network",
+          "url": "https://federalnewsnetwork.com/commentary/2026/11/federal-sso-needs-cost-predictability-not-another-opaque-renewal/"
         }
       ]
     },
@@ -541,6 +557,22 @@
       ]
     },
     {
+      "title": "GSA fills two key leadership positions",
+      "url": "https://federalnewsnetwork.com/people/2026/11/gsa-fills-two-key-leadership-positions/",
+      "published": "Wed, 04 Nov 2026 21:35:53 +0000",
+      "summary": "Jennifer Hill and Mark Weiss join the General Services Administration to lead the Federal Acquisition Service and Public Buildings Service, respectively.",
+      "source": "Federal News Network",
+      "source_category": "Federal IT",
+      "topic": "Federal IT & Policy",
+      "score": 6,
+      "sources": [
+        {
+          "name": "Federal News Network",
+          "url": "https://federalnewsnetwork.com/people/2026/11/gsa-fills-two-key-leadership-positions/"
+        }
+      ]
+    },
+    {
       "title": "Russian Police Arrest 3 Suspected VasyGrek Hackers, Dismantle Criminal Infrastructure",
       "url": "https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html",
       "published": "Wed, 04 Nov 2026 13:47:11 +0530",
@@ -765,6 +797,38 @@
       ]
     },
     {
+      "title": "Meet the physicists making NIST the epicenter of quantum advancement",
+      "url": "https://fedscoop.com/nist-quantum-physicists-flemming-awards/",
+      "published": "Wed, 04 Nov 2026 21:35:05 +0000",
+      "summary": "The country’s most notable developments in quantum technology are happening at the agency. Three Flemming Award winners are driving various breakthroughs. The post Meet the physicists making NIST the epicenter of quantum advancement appeared first on FedScoop .",
+      "source": "FedScoop",
+      "source_category": "Federal IT",
+      "topic": "AI & Emerging Tech",
+      "score": 5,
+      "sources": [
+        {
+          "name": "FedScoop",
+          "url": "https://fedscoop.com/nist-quantum-physicists-flemming-awards/"
+        }
+      ]
+    },
+    {
+      "title": "Cisco IQ: Engineering APIs for the Agentic Era",
+      "url": "https://blogs.cisco.com/customerexperience/cisco-iq-engineering-apis-for-the-agentic-era",
+      "published": "Wed, 04 Nov 2026 17:30:28 +0000",
+      "summary": "Discover how Cisco IQ's APIs and MCP server give developers and AI agents one canonical model, deterministic guardrails, and platform-level correlation.",
+      "source": "Cisco Blogs",
+      "source_category": "Vendor",
+      "topic": "AI & Emerging Tech",
+      "score": 5,
+      "sources": [
+        {
+          "name": "Cisco Blogs",
+          "url": "https://blogs.cisco.com/customerexperience/cisco-iq-engineering-apis-for-the-agentic-era"
+        }
+      ]
+    },
+    {
       "title": "UK Officials Said AI Would Add £400 Billion to the Economy. That Figure Mainly Came From Google",
       "url": "https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/",
       "published": "Wed, 04 Nov 2026 13:49:51 +0000",
@@ -825,22 +889,6 @@
         {
           "name": "Palo Alto Unit 42",
           "url": "https://unit42.paloaltonetworks.com/agentic-ai-kubernetes-operator-risks/"
-        }
-      ]
-    },
-    {
-      "title": "Government’s next AI challenge: Accountability",
-      "url": "https://federalnewsnetwork.com/commentary/2026/11/governments-next-ai-challenge-accountability/",
-      "published": "Tue, 03 Nov 2026 21:45:17 +0000",
-      "summary": "We all have to get used to moving at AI speeds, and the assurance of genuine human presence throughout the AI agent lifecycle cannot be deferred.",
-      "source": "Federal News Network",
-      "source_category": "Federal IT",
-      "topic": "AI & Emerging Tech",
-      "score": 5,
-      "sources": [
-        {
-          "name": "Federal News Network",
-          "url": "https://federalnewsnetwork.com/commentary/2026/11/governments-next-ai-challenge-accountability/"
         }
       ]
     },
@@ -1117,86 +1165,6 @@
       ]
     },
     {
-      "title": "Many federal employee separations were not truly ‘voluntary,’ survey shows",
-      "url": "https://federalnewsnetwork.com/workforce/2026/11/many-federal-employee-separations-were-not-truly-voluntary-survey-shows/",
-      "published": "Tue, 03 Nov 2026 23:33:51 +0000",
-      "summary": "Nearly three-quarters of former federal employees who took an exit survey said they left their jobs due to pressure, incentives or an involuntary separation.",
-      "source": "Federal News Network",
-      "source_category": "Federal IT",
-      "topic": "Federal IT & Policy",
-      "score": 4,
-      "sources": [
-        {
-          "name": "Federal News Network",
-          "url": "https://federalnewsnetwork.com/workforce/2026/11/many-federal-employee-separations-were-not-truly-voluntary-survey-shows/"
-        }
-      ]
-    },
-    {
-      "title": "Anthropic is working on a system to prove AI models’ identity",
-      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
-      "published": "Tue, 03 Nov 2026 22:41:03 +0000",
-      "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
-      "source": "TechCrunch",
-      "source_category": "Journalism",
-      "topic": "AI & Emerging Tech",
-      "score": 4,
-      "sources": [
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/"
-        }
-      ]
-    },
-    {
-      "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
-      "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
-      "published": "Tue, 03 Nov 2026 21:43:08 +0000",
-      "summary": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
-      "source": "TechCrunch",
-      "source_category": "Journalism",
-      "topic": "Cybersecurity",
-      "score": 4,
-      "sources": [
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/"
-        }
-      ]
-    },
-    {
-      "title": "When the storm hits, the private sector must show up",
-      "url": "https://fedscoop.com/fema-storm-response-private-sector-assistance/",
-      "published": "Tue, 03 Nov 2026 18:46:32 +0000",
-      "summary": "A former FEMA administrator makes the case for industry to pitch in on disaster response, including for connectivity. The post When the storm hits, the private sector must show up appeared first on FedScoop .",
-      "source": "FedScoop",
-      "source_category": "Federal IT",
-      "topic": "Federal IT & Policy",
-      "score": 4,
-      "sources": [
-        {
-          "name": "FedScoop",
-          "url": "https://fedscoop.com/fema-storm-response-private-sector-assistance/"
-        }
-      ]
-    },
-    {
-      "title": "GSMA warns of growing risks to mobile networks from extreme weather",
-      "url": "https://www.theregister.com/networks/2026/11/03/gsma-warns-of-growing-risks-to-mobile-networks-from-extreme-weather/5307308",
-      "published": "Tue, 03 Nov 2026 17:54:41 +0000",
-      "summary": "Mobile comms body wants a joined-up approach from governments and regulators to mitigate downtime",
-      "source": "The Register",
-      "source_category": "Journalism",
-      "topic": "Cloud & Infrastructure",
-      "score": 4,
-      "sources": [
-        {
-          "name": "The Register",
-          "url": "https://www.theregister.com/networks/2026/11/03/gsma-warns-of-growing-risks-to-mobile-networks-from-extreme-weather/5307308"
-        }
-      ]
-    },
-    {
       "title": "Future-proofing enterprise AI: The impact of post-quantum cryptography on Red Hat AI Enterprise",
       "url": "https://www.redhat.com/en/blog/future-proofing-enterprise-ai-impact-post-quantum-cryptography-red-hat-ai-enterprise",
       "published": "Tue, 03 Nov 2026 00:00:00 +0000",
@@ -1225,6 +1193,22 @@
         {
           "name": "Cisco Talos",
           "url": "https://blog.talosintelligence.com/ir-trends-q3-2026/"
+        }
+      ]
+    },
+    {
+      "title": "Building AI factories at enterprise scale",
+      "url": "https://www.theregister.com/ai-and-ml/2026/11/05/sponsored-building-ai-factories-at-enterprise-scale/5306629",
+      "published": "Thu, 05 Nov 2026 00:01:00 +0000",
+      "summary": "SPONSORED FEATURE: ASUS wants to scale AI everywhere in the enterprise",
+      "source": "The Register",
+      "source_category": "Journalism",
+      "topic": "AI & Emerging Tech",
+      "score": 4,
+      "sources": [
+        {
+          "name": "The Register",
+          "url": "https://www.theregister.com/ai-and-ml/2026/11/05/sponsored-building-ai-factories-at-enterprise-scale/5306629"
         }
       ]
     },
@@ -1341,6 +1325,54 @@
       ]
     },
     {
+      "title": "The Blue Wave Has Tech Bros Scrambling for Data Centers in Space",
+      "url": "https://www.wired.com/story/the-blue-wave-has-tech-bros-scrambling-for-data-centers-in-space/",
+      "published": "Wed, 04 Nov 2026 23:13:14 +0000",
+      "summary": "After Democrats won big in Texas and other AI infrastructure hot spots on Tuesday, data center enthusiasts looked for comfort in low Earth orbit.",
+      "source": "WIRED",
+      "source_category": "Journalism",
+      "topic": "AI & Emerging Tech",
+      "score": 3,
+      "sources": [
+        {
+          "name": "WIRED",
+          "url": "https://www.wired.com/story/the-blue-wave-has-tech-bros-scrambling-for-data-centers-in-space/"
+        }
+      ]
+    },
+    {
+      "title": "Apple turns iCloud into spy cloud, will start looking at public share links",
+      "url": "https://www.theregister.com/security/2026/11/04/apple-turns-icloud-into-spy-cloud-will-start-looking-at-public-share-links/5307681",
+      "published": "Wed, 04 Nov 2026 21:49:38 +0000",
+      "summary": "Content shared with anyone who has the URL will be scanned for 'harmful content,' though the iMaker hasn't defined that term",
+      "source": "The Register",
+      "source_category": "Journalism",
+      "topic": "Cloud & Infrastructure",
+      "score": 3,
+      "sources": [
+        {
+          "name": "The Register",
+          "url": "https://www.theregister.com/security/2026/11/04/apple-turns-icloud-into-spy-cloud-will-start-looking-at-public-share-links/5307681"
+        }
+      ]
+    },
+    {
+      "title": "Hackers stole DreamHost customer files and inboxes during months-long attack",
+      "url": "https://techcrunch.com/2026/11/04/hackers-stole-dreamhost-customer-files-and-inboxes-during-months-long-attack/",
+      "published": "Wed, 04 Nov 2026 20:36:57 +0000",
+      "summary": "The web host said hackers exploited a vulnerability to access customer emails and files during a \"deliberate attack.\"",
+      "source": "TechCrunch",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 3,
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/04/hackers-stole-dreamhost-customer-files-and-inboxes-during-months-long-attack/"
+        }
+      ]
+    },
+    {
       "title": "The Classics Return: Vulnerable E-Mail Scripts, (Wed, Nov 4th)",
       "url": "https://isc.sans.edu/diary/rss/33488",
       "published": "Wed, 04 Nov 2026 13:24:13 GMT",
@@ -1405,22 +1437,6 @@
       ]
     },
     {
-      "title": "Foundry in the real world: Turning LLM hunches into verified findings – Security Loop Series, Part 2",
-      "url": "https://blogs.cisco.com/cisco-devnet/foundry-verified-security-findings-part-2",
-      "published": "Mon, 02 Nov 2026 16:30:13 +0000",
-      "summary": "An LLM's \"look here\" is not \"this is real\". Foundry adds an evidence gate that turns hunches into verified findings, tested on Langflow, MLflow, and PyGoat.",
-      "source": "Cisco Blogs",
-      "source_category": "Vendor",
-      "topic": "Cybersecurity",
-      "score": 3,
-      "sources": [
-        {
-          "name": "Cisco Blogs",
-          "url": "https://blogs.cisco.com/cisco-devnet/foundry-verified-security-findings-part-2"
-        }
-      ]
-    },
-    {
       "title": "Mutipath TCP: Use and Detection, (Mon, Nov 2nd)",
       "url": "https://isc.sans.edu/diary/rss/33482",
       "published": "Mon, 02 Nov 2026 14:52:05 GMT",
@@ -1433,22 +1449,6 @@
         {
           "name": "SANS Internet Storm Center",
           "url": "https://isc.sans.edu/diary/rss/33482"
-        }
-      ]
-    },
-    {
-      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
-      "published": "Wed, 21 Oct 2026 16:04:43 GMT",
-      "summary": "",
-      "source": "Hugging Face",
-      "source_category": "Vendor",
-      "topic": "Cloud & Infrastructure",
-      "score": 2,
-      "sources": [
-        {
-          "name": "Hugging Face",
-          "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1"
         }
       ]
     }
