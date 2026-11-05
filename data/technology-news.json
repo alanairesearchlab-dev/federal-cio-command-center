@@ -1,8 +1,8 @@
 {
-  "retrieved_at": "2026-11-05T09:22:04+00:00",
+  "retrieved_at": "2026-11-05T13:37:13+00:00",
   "candidate_sources": 40,
-  "successful_sources": 34,
-  "collected_articles": 577,
+  "successful_sources": 35,
+  "collected_articles": 599,
   "items": [
     {
       "title": "The First Federal Guidance on AI Agents Is Here. Most Agencies Can’t Meet It Yet.",
@@ -17,22 +17,6 @@
         {
           "name": "MeriTalk",
           "url": "https://www.meritalk.com/the-first-federal-guidance-on-ai-agents-is-here-most-agencies-cant-meet-it-yet/"
-        }
-      ]
-    },
-    {
-      "title": "Six elements of resilient AI orchestration platforms",
-      "url": "https://www.infoworld.com/article/4240704/six-elements-of-resilient-ai-orchestration-platforms.html",
-      "published": "Wed, 28 Oct 2026 09:00:00 +0000",
-      "summary": "While many organizations are in early AI agent rollouts, research suggests that more will scale to greater numbers of agents and assistants in the coming year. An August 2026 report states that 66% of enterprises are likely to invest in digital workers in the next 12 months. It reports that the top requirements for these agents include demonstrated",
-      "source": "InfoWorld",
-      "source_category": "Journalism",
-      "topic": "Cybersecurity",
-      "score": 10,
-      "sources": [
-        {
-          "name": "InfoWorld",
-          "url": "https://www.infoworld.com/article/4240704/six-elements-of-resilient-ai-orchestration-platforms.html"
         }
       ]
     },
@@ -85,6 +69,22 @@
         {
           "name": "Dark Reading",
           "url": "https://www.darkreading.com/cyberattacks-data-breaches/devs-trojanized-claude-code-extension-cursor"
+        }
+      ]
+    },
+    {
+      "title": "Are AI certifications still worth it? What changed in 2026",
+      "url": "https://www.infoworld.com/article/4242723/are-ai-certifications-still-worth-it-what-changed-in-2026.html",
+      "published": "Mon, 02 Nov 2026 09:00:00 +0000",
+      "summary": "Same question, a different answer Earlier this year, in Are AI certifications worth the investment? , I argued that AI certifications ranked among the highest-return investments an IT professional could make. Much of that case still holds. But the ground has shifted since I wrote that piece in February, and a responsible update has to say so plainl",
+      "source": "InfoWorld",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 10,
+      "sources": [
+        {
+          "name": "InfoWorld",
+          "url": "https://www.infoworld.com/article/4242723/are-ai-certifications-still-worth-it-what-changed-in-2026.html"
         }
       ]
     },
@@ -941,6 +941,22 @@
       ]
     },
     {
+      "title": "Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work",
+      "url": "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/",
+      "published": "Thu, 05 Nov 2026 13:00:00 +0000",
+      "summary": "Potential Sciences, a startup backed by the UK government, is betting that training AI models on computer-generated biochemical data can speed up the plodding process of developing new drugs.",
+      "source": "WIRED",
+      "source_category": "Journalism",
+      "topic": "AI & Emerging Tech",
+      "score": 5,
+      "sources": [
+        {
+          "name": "WIRED",
+          "url": "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/"
+        }
+      ]
+    },
+    {
       "title": "Microsoft's AI Risk Report Misses This Key Detail",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/microsoft-ai-cyber-risk-report-miss",
       "published": "Mon, 02 Nov 2026 15:00:00 GMT",
@@ -1069,22 +1085,6 @@
       ]
     },
     {
-      "title": "‘You Don’t Put Your Head in the Sand for 4 Years’: Colossal CEO Ben Lamm on Working With Trump",
-      "url": "https://www.wired.com/story/wired-world-fair-2026-ben-lamm-colossal-biosciences/",
-      "published": "Wed, 04 Nov 2026 16:43:35 +0000",
-      "summary": "The company’s cofounder recently convinced the Trump administration to support an initiative to gather DNA samples from endangered species.",
-      "source": "WIRED",
-      "source_category": "Journalism",
-      "topic": "Federal IT & Policy",
-      "score": 4,
-      "sources": [
-        {
-          "name": "WIRED",
-          "url": "https://www.wired.com/story/wired-world-fair-2026-ben-lamm-colossal-biosciences/"
-        }
-      ]
-    },
-    {
       "title": "More 100G in every rack: Meet the Cisco N9348C8D-H2",
       "url": "https://blogs.cisco.com/datacenter/more-100g-in-every-rack-meet-the-cisco-n9348c8d-h2",
       "published": "Wed, 04 Nov 2026 16:00:25 +0000",
@@ -1181,6 +1181,22 @@
       ]
     },
     {
+      "title": "The ‘Ocarina of Time’ Remake Is Finally Here, but Why Does Link Look so Yassified?",
+      "url": "https://www.wired.com/story/the-legend-of-zelda-ocarina-of-time-remake-yassified-link/",
+      "published": "Thu, 05 Nov 2026 11:30:00 +0000",
+      "summary": "Nintendo has prepped its classic game for a rerelease with a slew of aesthetic upgrades—none more extreme than the protagonist’s curled-eyelash, glossed-lip glow-up.",
+      "source": "WIRED",
+      "source_category": "Journalism",
+      "topic": "Federal IT & Policy",
+      "score": 4,
+      "sources": [
+        {
+          "name": "WIRED",
+          "url": "https://www.wired.com/story/the-legend-of-zelda-ocarina-of-time-remake-yassified-link/"
+        }
+      ]
+    },
+    {
       "title": "Building AI factories at enterprise scale",
       "url": "https://www.theregister.com/ai-and-ml/2026/11/05/sponsored-building-ai-factories-at-enterprise-scale/5306629",
       "published": "Thu, 05 Nov 2026 00:01:00 +0000",
@@ -1193,22 +1209,6 @@
         {
           "name": "The Register",
           "url": "https://www.theregister.com/ai-and-ml/2026/11/05/sponsored-building-ai-factories-at-enterprise-scale/5306629"
-        }
-      ]
-    },
-    {
-      "title": "Raising the quality of insights in agentic analytics",
-      "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
-      "published": "Mon, 02 Nov 2026 17:00:00 +0000",
-      "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The quality of insights that agents currently generate…",
-      "source": "MIT Technology Review",
-      "source_category": "Research",
-      "topic": "AI & Emerging Tech",
-      "score": 4,
-      "sources": [
-        {
-          "name": "MIT Technology Review",
-          "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/"
         }
       ]
     },
@@ -1373,22 +1373,6 @@
       ]
     },
     {
-      "title": "AMD on track to overtake Intel as biggest x86 outfit",
-      "url": "https://www.theregister.com/systems/2026/11/04/amd-on-track-to-overtake-intel-as-biggest-x86-outfit/5307448",
-      "published": "Wed, 04 Nov 2026 04:24:06 +0000",
-      "summary": "CEO says supply chain can cope with surging datacenter and AI demand",
-      "source": "The Register",
-      "source_category": "Journalism",
-      "topic": "AI & Emerging Tech",
-      "score": 3,
-      "sources": [
-        {
-          "name": "The Register",
-          "url": "https://www.theregister.com/systems/2026/11/04/amd-on-track-to-overtake-intel-as-biggest-x86-outfit/5307448"
-        }
-      ]
-    },
-    {
       "title": "NYT demands Brave shut down its paywall blocker and end deals with AI firms",
       "url": "https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/",
       "published": "Tue, 03 Nov 2026 18:30:27 +0000",
@@ -1417,6 +1401,22 @@
         {
           "name": "GitHub Blog",
           "url": "https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/"
+        }
+      ]
+    },
+    {
+      "title": "VMware quietly offers European users extended sales and support for low-end vSphere",
+      "url": "https://www.theregister.com/virtualization/2026/11/05/vmware-quietly-offers-european-users-extended-sales-and-support-for-low-end-vsphere/5307732",
+      "published": "Thu, 05 Nov 2026 04:31:22 +0000",
+      "summary": "Version 8 of Standard and Enterprise Plus will stay alive until October 2028",
+      "source": "The Register",
+      "source_category": "Journalism",
+      "topic": "Enterprise Technology",
+      "score": 3,
+      "sources": [
+        {
+          "name": "The Register",
+          "url": "https://www.theregister.com/virtualization/2026/11/05/vmware-quietly-offers-european-users-extended-sales-and-support-for-low-end-vsphere/5307732"
         }
       ]
     },
