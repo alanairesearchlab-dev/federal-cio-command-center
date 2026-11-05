@@ -1,8 +1,8 @@
 {
-  "retrieved_at": "2026-11-05T13:37:13+00:00",
+  "retrieved_at": "2026-11-05T17:28:34+00:00",
   "candidate_sources": 40,
-  "successful_sources": 35,
-  "collected_articles": 599,
+  "successful_sources": 34,
+  "collected_articles": 581,
   "items": [
     {
       "title": "The First Federal Guidance on AI Agents Is Here. Most Agencies Can’t Meet It Yet.",
@@ -281,18 +281,18 @@
       ]
     },
     {
-      "title": "Agentic AI Raises the Stakes for Federal Identity Governance",
-      "url": "https://www.meritalk.com/agentic-ai-raises-the-stakes-for-federal-identity-governance/",
-      "published": "Mon, 27 Jul 2026 13:00:12 +0000",
-      "summary": "By: Nick Apostolu, Manager, Product Marketing, Industries, Okta Federal agencies already struggle to govern identities distributed across cloud platforms, legacy systems, contractors, and mission partners. The rise of agentic artificial intelligence (AI) is making that problem more urgent by introducing autonomous software that can retrieve data, c",
+      "title": "FedRAMP: Is AI About to Eat the Bureaucracy?",
+      "url": "https://www.meritalk.com/fedramp-is-ai-about-to-eat-the-bureaucracy/",
+      "published": "Thu, 05 Nov 2026 14:00:48 +0000",
+      "summary": "Washington wants AI to move at machine speed. Unfortunately, getting AI into government still moves at the speed of a three-legged tortoise navigating a procurement protest. Meet FedRAMP, the authorization obstacle course that makes getting a security clearance look like ordering lunch. As we all know, for years, cloud authorization has meant mount",
       "source": "MeriTalk",
       "source_category": "Federal IT",
-      "topic": "AI & Emerging Tech",
+      "topic": "Cybersecurity",
       "score": 8,
       "sources": [
         {
           "name": "MeriTalk",
-          "url": "https://www.meritalk.com/agentic-ai-raises-the-stakes-for-federal-identity-governance/"
+          "url": "https://www.meritalk.com/fedramp-is-ai-about-to-eat-the-bureaucracy/"
         }
       ]
     },
@@ -521,22 +521,6 @@
       ]
     },
     {
-      "title": "AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise",
-      "url": "https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/",
-      "published": "Wed, 21 Oct 2026 18:23:55 +0000",
-      "summary": "Storm-0940 used ARTEX agentic AI to accelerate a ConnectWise supply chain compromise, enabling application credential abuse across Microsoft 365 environments. The post AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise appeared first on Microsoft Security Blog .",
-      "source": "Microsoft Security",
-      "source_category": "Vendor",
-      "topic": "Cybersecurity",
-      "score": 6,
-      "sources": [
-        {
-          "name": "Microsoft Security",
-          "url": "https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/"
-        }
-      ]
-    },
-    {
       "title": "Linux Foundation Newsletter: October 2026",
       "url": "https://www.linuxfoundation.org/blog/linux-foundation-newsletter-october-2026",
       "published": "Wed, 21 Oct 2026 18:00:00 GMT",
@@ -697,6 +681,22 @@
         {
           "name": "Microsoft Azure",
           "url": "https://azure.microsoft.com/en-us/blog/evolving-the-cloud-native-foundation-for-the-next-generation-of-ai/"
+        }
+      ]
+    },
+    {
+      "title": "Bridging the open source remediation gap: Introducing two new lessons on Lightwell",
+      "url": "https://www.redhat.com/en/blog/bridging-open-source-remediation-gap-introducing-two-new-lessons-lightwell",
+      "published": "Thu, 05 Nov 2026 00:00:00 +0000",
+      "summary": "Modern enterprise development runs on open source. With this reliance, securing the open source software supply chain has reached a critical inflection point, especially as AI-assisted vulnerability discovery accelerates the speed and volume of CVE disclosures. Enterprise teams now face an urgent challenge: the remediation gap.Software teams often ",
+      "source": "Red Hat",
+      "source_category": "Vendor",
+      "topic": "Cybersecurity",
+      "score": 6,
+      "sources": [
+        {
+          "name": "Red Hat",
+          "url": "https://www.redhat.com/en/blog/bridging-open-source-remediation-gap-introducing-two-new-lessons-lightwell"
         }
       ]
     },
@@ -873,22 +873,6 @@
         {
           "name": "Palo Alto Unit 42",
           "url": "https://unit42.paloaltonetworks.com/agentic-ai-kubernetes-operator-risks/"
-        }
-      ]
-    },
-    {
-      "title": "Hackers hijack cPGuard autoupdate to deploy backdoor, steal data",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/",
-      "published": "Tue, 03 Nov 2026 17:18:50 -0500",
-      "summary": "Attackers have compromised the update infrastructure for the cPGuard web security suite to distribute a backdoor and a data-stealing script. [...]",
-      "source": "BleepingComputer",
-      "source_category": "Journalism",
-      "topic": "Cybersecurity",
-      "score": 5,
-      "sources": [
-        {
-          "name": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/"
         }
       ]
     },
@@ -1117,6 +1101,22 @@
       ]
     },
     {
+      "title": "US charges two Canadians accused of hacking US universities",
+      "url": "https://www.bleepingcomputer.com/news/security/us-charges-two-canadians-accused-of-hacking-us-universities/",
+      "published": "Wed, 04 Nov 2026 08:13:20 -0500",
+      "summary": "A federal grand jury indicted two Canadians suspected of hacking multiple US universities and using the compromised systems to mine for cryptocurrency. [...]",
+      "source": "BleepingComputer",
+      "source_category": "Journalism",
+      "topic": "Federal IT & Policy",
+      "score": 4,
+      "sources": [
+        {
+          "name": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/us-charges-two-canadians-accused-of-hacking-us-universities/"
+        }
+      ]
+    },
+    {
       "title": "Philippine Migrant Worker Data Likely Leaked in 69GB Government Breach",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/philippine-migrant-worker-data-69gb-government-breach",
       "published": "Wed, 04 Nov 2026 02:00:00 GMT",
@@ -1145,6 +1145,26 @@
         {
           "name": "Red Hat",
           "url": "https://www.redhat.com/en/blog/why-lightwell-pairs-dependency-backports-upstream-collaboration"
+        }
+      ]
+    },
+    {
+      "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for AI Agent Management Platforms",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/11/03/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-ai-agent-management-platforms/",
+      "published": "Tue, 03 Nov 2026 17:00:00 +0000",
+      "summary": "Read why Gartner named Microsoft a Leader in the inaugural 2026 Magic Quadrant for AI Agent Management Platforms. The post Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for AI Agent Management Platforms appeared first on Microsoft Security Blog .",
+      "source": "Microsoft Security",
+      "source_category": "Vendor",
+      "topic": "Cybersecurity",
+      "score": 4,
+      "sources": [
+        {
+          "name": "Microsoft Security",
+          "url": "https://www.microsoft.com/en-us/security/blog/2026/11/03/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-ai-agent-management-platforms/"
+        },
+        {
+          "name": "Microsoft Azure",
+          "url": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-server-virtualization-platforms/"
         }
       ]
     },
@@ -1213,38 +1233,6 @@
       ]
     },
     {
-      "title": "Cisco AI Transit connects AI environments to your SD-WAN",
-      "url": "https://blogs.cisco.com/security/cisco-ai-transit-connects-ai-environments-to-your-sd-wan",
-      "published": "Mon, 02 Nov 2026 16:00:32 +0000",
-      "summary": "AI workloads are spreading across specialized cloud environments. Cisco AI Transit is designed to extend the existing SD-WAN fabric to these destinations, helping network teams preserve a common policy model.",
-      "source": "Cisco Blogs",
-      "source_category": "Vendor",
-      "topic": "AI & Emerging Tech",
-      "score": 4,
-      "sources": [
-        {
-          "name": "Cisco Blogs",
-          "url": "https://blogs.cisco.com/security/cisco-ai-transit-connects-ai-environments-to-your-sd-wan"
-        }
-      ]
-    },
-    {
-      "title": "Sovereignty in the AI era: Choice, control, and autonomy",
-      "url": "https://www.redhat.com/en/blog/sovereignty-ai-era-choice-control-and-autonomy",
-      "published": "Mon, 02 Nov 2026 00:00:00 +0000",
-      "summary": "For the past few years, AI felt like a high-stakes exhibition game. Teams across every industry were on the pitch experimenting with large language models, running rapid proofs-of-concept, and testing what was possible. That period of passive experimentation is officially over. AI has now moved directly into core enterprise operations, transforming",
-      "source": "Red Hat",
-      "source_category": "Vendor",
-      "topic": "AI & Emerging Tech",
-      "score": 4,
-      "sources": [
-        {
-          "name": "Red Hat",
-          "url": "https://www.redhat.com/en/blog/sovereignty-ai-era-choice-control-and-autonomy"
-        }
-      ]
-    },
-    {
       "title": "KubeCon + CloudNativeCon NA 2026: End User TAB recommendations and tips",
       "url": "https://www.cncf.io/blog/2026/10/29/kubecon-cloudnativecon-na-2026-end-user-tab-recommendations-and-tips/",
       "published": "Fri, 30 Oct 2026 00:43:04 +0000",
@@ -1305,22 +1293,6 @@
         {
           "name": "Schneier on Security",
           "url": "https://www.schneier.com/blog/archives/2026/10/bias-in-qwen3-coder-model.html"
-        }
-      ]
-    },
-    {
-      "title": "The Blue Wave Has Tech Bros Scrambling for Data Centers in Space",
-      "url": "https://www.wired.com/story/the-blue-wave-has-tech-bros-scrambling-for-data-centers-in-space/",
-      "published": "Wed, 04 Nov 2026 23:13:14 +0000",
-      "summary": "After Democrats won big in Texas and other AI infrastructure hot spots on Tuesday, data center enthusiasts looked for comfort in low Earth orbit.",
-      "source": "WIRED",
-      "source_category": "Journalism",
-      "topic": "AI & Emerging Tech",
-      "score": 3,
-      "sources": [
-        {
-          "name": "WIRED",
-          "url": "https://www.wired.com/story/the-blue-wave-has-tech-bros-scrambling-for-data-centers-in-space/"
         }
       ]
     },
@@ -1405,6 +1377,22 @@
       ]
     },
     {
+      "title": "Vulnerability Scans for Older Cisco IOS Vulnerability / Opt-Out Headers, (Thu, Nov 5th)",
+      "url": "https://isc.sans.edu/diary/rss/33492",
+      "published": "Thu, 05 Nov 2026 15:29:08 GMT",
+      "summary": "This morning, I was browsing our honeypot data for any new and existing PHP exploit attempts. Instead, I first ran into some GeoServer exploits, but found them to be too boring to write up. This Cisco IOS exploit attempt was a bit more interesting. Still nothing new. I suspect this is for CVE-2023-20198.",
+      "source": "SANS Internet Storm Center",
+      "source_category": "Research",
+      "topic": "Cybersecurity",
+      "score": 3,
+      "sources": [
+        {
+          "name": "SANS Internet Storm Center",
+          "url": "https://isc.sans.edu/diary/rss/33492"
+        }
+      ]
+    },
+    {
       "title": "VMware quietly offers European users extended sales and support for low-end vSphere",
       "url": "https://www.theregister.com/virtualization/2026/11/05/vmware-quietly-offers-european-users-extended-sales-and-support-for-low-end-vsphere/5307732",
       "published": "Thu, 05 Nov 2026 04:31:22 +0000",
@@ -1449,6 +1437,22 @@
         {
           "name": "Hugging Face",
           "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1"
+        }
+      ]
+    },
+    {
+      "title": "The bridge to agent-scale Git infrastructure",
+      "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
+      "published": "Wed, 21 Oct 2026 16:00:00 +0000",
+      "summary": "We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently. The post The bridge to agent-scale Git infrastructure appeared first on The GitHub Blog .",
+      "source": "GitHub Blog",
+      "source_category": "Vendor",
+      "topic": "Cloud & Infrastructure",
+      "score": 2,
+      "sources": [
+        {
+          "name": "GitHub Blog",
+          "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/"
         }
       ]
     }
