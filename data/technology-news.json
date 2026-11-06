@@ -1,8 +1,8 @@
 {
-  "retrieved_at": "2026-11-06T13:29:49+00:00",
+  "retrieved_at": "2026-11-06T17:13:57+00:00",
   "candidate_sources": 40,
-  "successful_sources": 35,
-  "collected_articles": 599,
+  "successful_sources": 34,
+  "collected_articles": 577,
   "items": [
     {
       "title": "The First Federal Guidance on AI Agents Is Here. Most Agencies Can’t Meet It Yet.",
@@ -297,22 +297,6 @@
       ]
     },
     {
-      "title": "Space Force wants civilian employees to embrace guardian identity",
-      "url": "https://federalnewsnetwork.com/defense-main/2026/11/space-force-wants-civilian-employees-to-embrace-guardian-identity/",
-      "published": "Wed, 04 Nov 2026 23:44:36 +0000",
-      "summary": "The Pentagon’s smallest service is trying to rebuild its civilian workforce following the Trump administration’s push to slash federal jobs.",
-      "source": "Federal News Network",
-      "source_category": "Federal IT",
-      "topic": "Federal IT & Policy",
-      "score": 7,
-      "sources": [
-        {
-          "name": "Federal News Network",
-          "url": "https://federalnewsnetwork.com/defense-main/2026/11/space-force-wants-civilian-employees-to-embrace-guardian-identity/"
-        }
-      ]
-    },
-    {
       "title": "GSA appoints former banking exec as new government contracting head",
       "url": "https://fedscoop.com/gsa-appoints-jennifer-hill-new-fas-commissioner/",
       "published": "Wed, 04 Nov 2026 17:49:53 +0000",
@@ -573,22 +557,6 @@
       ]
     },
     {
-      "title": "Russian Police Arrest 3 Suspected VasyGrek Hackers, Dismantle Criminal Infrastructure",
-      "url": "https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html",
-      "published": "Wed, 04 Nov 2026 13:47:11 +0530",
-      "summary": "Russian authorities have arrested three suspected members of a threat group known as VasyGrek and dismantled its criminal infrastructure. Also known as Fluffy Wolf, the threat actor has a history of targeting Russian and international companies since 2016. The Ministry of Internal Affairs of the Russian Federation (MVD) said members of the group ar",
-      "source": "The Hacker News",
-      "source_category": "Journalism",
-      "topic": "Cybersecurity",
-      "score": 6,
-      "sources": [
-        {
-          "name": "The Hacker News",
-          "url": "https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html"
-        }
-      ]
-    },
-    {
       "title": "Now on Amazon CloudWatch Omni: collaborative AI-powered observability for your applications",
       "url": "https://aws.amazon.com/blogs/aws/introducing-amazon-cloudwatch-omni-collaborative-ai-powered-observability-for-your-applications/",
       "published": "Tue, 22 Sep 2026 22:23:14 +0000",
@@ -761,6 +729,22 @@
         {
           "name": "AWS Security",
           "url": "https://aws.amazon.com/blogs/security/quantum-resistant-signing-on-aws-part-2-enforce-your-ml-dsa-algorithm-policy-with-scps-and-iam/"
+        }
+      ]
+    },
+    {
+      "title": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits",
+      "url": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html",
+      "published": "Fri, 06 Nov 2026 20:28:32 +0530",
+      "summary": "OpenAI on Thursday unveiled GPT‑6 Cyber, which it described as a major step forward in security research that brings together stronger cybersecurity capabilities with a step-change improvement in model alignment. The new model is \"more capable at finding and fixing vulnerabilities, and far more reliable staying within the boundaries researchers set",
+      "source": "The Hacker News",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 6,
+      "sources": [
+        {
+          "name": "The Hacker News",
+          "url": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html"
         }
       ]
     },
@@ -960,7 +944,7 @@
       "title": "Microsoft's AI Risk Report Misses This Key Detail",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/microsoft-ai-cyber-risk-report-miss",
       "published": "Mon, 02 Nov 2026 15:00:00 GMT",
-      "summary": "The latest \"Digital Defense Report\" identifies government agencies as prime targets for AI attacks but doesn't mention that they are broadly being targeted through Microsoft bugs.",
+      "summary": "The latest \"Digital Defense Report\" identifies government agencies as prime targets for AI attacks, but it doesn't mention that they are broadly being targeted through Microsoft bugs.",
       "source": "Dark Reading",
       "source_category": "Journalism",
       "topic": "AI & Emerging Tech",
@@ -1001,6 +985,22 @@
         {
           "name": "Google DeepMind",
           "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/"
+        }
+      ]
+    },
+    {
+      "title": "3 challenges agencies need to overcome ahead of Q-Day",
+      "url": "https://federalnewsnetwork.com/innovation-in-government/2026/11/3-challenges-agencies-need-to-overcome-ahead-of-q-day/",
+      "published": "Fri, 06 Nov 2026 16:38:30 +0000",
+      "summary": "Rick Muller, the senior VP and chief scientist at IonQ Federal, said quantum computing will be a disruptive technology for agencies and industry alike.",
+      "source": "Federal News Network",
+      "source_category": "Federal IT",
+      "topic": "AI & Emerging Tech",
+      "score": 5,
+      "sources": [
+        {
+          "name": "Federal News Network",
+          "url": "https://federalnewsnetwork.com/innovation-in-government/2026/11/3-challenges-agencies-need-to-overcome-ahead-of-q-day/"
         }
       ]
     },
@@ -1313,6 +1313,22 @@
       ]
     },
     {
+      "title": "Rocket Report: Artemis II literally tore through the atmosphere; New Glenn delay",
+      "url": "https://arstechnica.com/space/2026/11/rocket-report-new-glenn-wont-fly-this-year-china-launches-mini-falcon-heavy/",
+      "published": "Fri, 06 Nov 2026 13:33:20 +0000",
+      "summary": "Interstellar Technologies announces more government funding for the Japanese Zero rocket.",
+      "source": "Ars Technica",
+      "source_category": "Journalism",
+      "topic": "Federal IT & Policy",
+      "score": 4,
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/11/rocket-report-new-glenn-wont-fly-this-year-china-launches-mini-falcon-heavy/"
+        }
+      ]
+    },
+    {
       "title": "At least 10 local governments have moved to drop Flock’s surveillance cameras since summer",
       "url": "https://techcrunch.com/2026/11/05/at-least-10-local-governments-have-moved-to-drop-flocks-surveillance-cameras-since-summer/",
       "published": "Fri, 06 Nov 2026 07:18:44 +0000",
@@ -1437,22 +1453,6 @@
         {
           "name": "SANS Internet Storm Center",
           "url": "https://isc.sans.edu/diary/rss/33492"
-        }
-      ]
-    },
-    {
-      "title": "Mutipath TCP: Use and Detection, (Mon, Nov 2nd)",
-      "url": "https://isc.sans.edu/diary/rss/33482",
-      "published": "Mon, 02 Nov 2026 14:52:05 GMT",
-      "summary": "Last week, an often-ignored&#;x26;#;xc2;&#;x26;#;xa0;TCP option, introduced in 2020, made the news due to a new vulnerability in Linux&#;x26;#;39;s implementation (RFC&#;x26;#;xc2;&#;x26;#;xa0;8684, &#;x26;#;xc2;&#;x26;#;xa0;CVE-2026-98432)",
-      "source": "SANS Internet Storm Center",
-      "source_category": "Research",
-      "topic": "Cybersecurity",
-      "score": 3,
-      "sources": [
-        {
-          "name": "SANS Internet Storm Center",
-          "url": "https://isc.sans.edu/diary/rss/33482"
         }
       ]
     }
