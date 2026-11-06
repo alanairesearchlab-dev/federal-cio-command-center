@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-11-05T21:08:57+00:00",
+  "retrieved_at": "2026-11-06T01:33:58+00:00",
   "candidate_sources": 40,
   "successful_sources": 34,
   "collected_articles": 577,
@@ -313,22 +313,6 @@
       ]
     },
     {
-      "title": "Federal SSO needs cost predictability, not another opaque renewal",
-      "url": "https://federalnewsnetwork.com/commentary/2026/11/federal-sso-needs-cost-predictability-not-another-opaque-renewal/",
-      "published": "Wed, 04 Nov 2026 22:16:24 +0000",
-      "summary": "Identity is often treated as a project that is finished once the login works, when in practice it's a production system that every other application depends on.",
-      "source": "Federal News Network",
-      "source_category": "Federal IT",
-      "topic": "Federal IT & Policy",
-      "score": 7,
-      "sources": [
-        {
-          "name": "Federal News Network",
-          "url": "https://federalnewsnetwork.com/commentary/2026/11/federal-sso-needs-cost-predictability-not-another-opaque-renewal/"
-        }
-      ]
-    },
-    {
       "title": "GSA appoints former banking exec as new government contracting head",
       "url": "https://fedscoop.com/gsa-appoints-jennifer-hill-new-fas-commissioner/",
       "published": "Wed, 04 Nov 2026 17:49:53 +0000",
@@ -637,22 +621,6 @@
       ]
     },
     {
-      "title": "Evolving the cloud-native foundation for the next generation of AI",
-      "url": "https://azure.microsoft.com/en-us/blog/evolving-the-cloud-native-foundation-for-the-next-generation-of-ai/",
-      "published": "Thu, 15 Oct 2026 16:00:00 +0000",
-      "summary": "Discover how Azure is advancing cloud-native infrastructure to help organizations build, run, and optimize applications and agents at scale. The post Evolving the cloud-native foundation for the next generation of AI appeared first on Microsoft Azure Blog .",
-      "source": "Microsoft Azure",
-      "source_category": "Vendor",
-      "topic": "AI & Emerging Tech",
-      "score": 6,
-      "sources": [
-        {
-          "name": "Microsoft Azure",
-          "url": "https://azure.microsoft.com/en-us/blog/evolving-the-cloud-native-foundation-for-the-next-generation-of-ai/"
-        }
-      ]
-    },
-    {
       "title": "OpenAI released a new cybersecurity model. Is that enough?",
       "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
       "published": "Thu, 05 Nov 2026 19:06:12 +0000",
@@ -765,6 +733,22 @@
       ]
     },
     {
+      "title": "Managing open-weight model risk in enterprise deployments",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/10/16/managing-open-weight-model-risk-in-enterprise-deployments/",
+      "published": "Fri, 16 Oct 2026 16:05:00 +0000",
+      "summary": "The growing AI landscape is giving enterprises more choice in how they build, customize, and deploy increasingly capable models. The post Managing open-weight model risk in enterprise deployments appeared first on Microsoft Azure Blog .",
+      "source": "Microsoft Azure",
+      "source_category": "Vendor",
+      "topic": "AI & Emerging Tech",
+      "score": 6,
+      "sources": [
+        {
+          "name": "Microsoft Azure",
+          "url": "https://www.microsoft.com/en-us/security/blog/2026/10/16/managing-open-weight-model-risk-in-enterprise-deployments/"
+        }
+      ]
+    },
+    {
       "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
       "url": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
       "published": "Wed, 21 Oct 2026 15:26:07 +0000",
@@ -825,22 +809,6 @@
         {
           "name": "Cisco Blogs",
           "url": "https://blogs.cisco.com/customerexperience/cisco-iq-engineering-apis-for-the-agentic-era"
-        }
-      ]
-    },
-    {
-      "title": "SonicWall warns of unpatched flaws in end-of-life GMS software",
-      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-unpatched-flaws-in-end-of-life-gms-software/",
-      "published": "Wed, 04 Nov 2026 09:42:25 -0500",
-      "summary": "SonicWall warned customers of two security flaws affecting end-of-life Global Management System (GMS) systems that will not be patched. [...]",
-      "source": "BleepingComputer",
-      "source_category": "Journalism",
-      "topic": "Cybersecurity",
-      "score": 5,
-      "sources": [
-        {
-          "name": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-unpatched-flaws-in-end-of-life-gms-software/"
         }
       ]
     },
@@ -1113,10 +1081,6 @@
         {
           "name": "Microsoft Security",
           "url": "https://www.microsoft.com/en-us/security/blog/2026/11/03/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-ai-agent-management-platforms/"
-        },
-        {
-          "name": "Microsoft Azure",
-          "url": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-server-virtualization-platforms/"
         }
       ]
     },
@@ -1169,6 +1133,70 @@
       ]
     },
     {
+      "title": "Threat actors use agentic AI tooling to find and abuse exposed secrets",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/11/05/threat-actors-use-agentic-ai-tooling-to-find-and-abuse-exposed-secrets/",
+      "published": "Thu, 05 Nov 2026 23:46:50 +0000",
+      "summary": "Microsoft Threat Intelligence has observed threat actors using the agentic offensive security framework ARTEX to search GitHub for OAuth application secrets, which can be used to compromise the associated OAuth application and perform authenticated actions in the application’s tenant. Agents operating on behalf of threat actors then used the compro",
+      "source": "Microsoft Security",
+      "source_category": "Vendor",
+      "topic": "Cybersecurity",
+      "score": 4,
+      "sources": [
+        {
+          "name": "Microsoft Security",
+          "url": "https://www.microsoft.com/en-us/security/blog/2026/11/05/threat-actors-use-agentic-ai-tooling-to-find-and-abuse-exposed-secrets/"
+        }
+      ]
+    },
+    {
+      "title": "How Elon Musk and Big Tech Poured Millions Into the Midterms, and Lost",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-how-elon-musk-and-big-tech-poured-millions-into-the-midterms-and-lost/",
+      "published": "Thu, 05 Nov 2026 22:18:42 +0000",
+      "summary": "This week on “Uncanny Valley,” we discuss the historic blue wave that swept the midterms and delivered a rebuke to the Trump administration, Big Tech, and data centers.",
+      "source": "WIRED",
+      "source_category": "Journalism",
+      "topic": "Cloud & Infrastructure",
+      "score": 4,
+      "sources": [
+        {
+          "name": "WIRED",
+          "url": "https://www.wired.com/story/uncanny-valley-podcast-how-elon-musk-and-big-tech-poured-millions-into-the-midterms-and-lost/"
+        }
+      ]
+    },
+    {
+      "title": "OSC delivered record results for federal employees in fiscal 2026",
+      "url": "https://federalnewsnetwork.com/commentary/2026/11/osc-delivered-record-results-for-federal-employees-in-fiscal-2026/",
+      "published": "Thu, 05 Nov 2026 21:30:54 +0000",
+      "summary": "Charles Baldis, the special counsel in the Office of Special Counsel, highlights the agency’s impact in protecting employees and driving corrective actions.",
+      "source": "Federal News Network",
+      "source_category": "Federal IT",
+      "topic": "Federal IT & Policy",
+      "score": 4,
+      "sources": [
+        {
+          "name": "Federal News Network",
+          "url": "https://federalnewsnetwork.com/commentary/2026/11/osc-delivered-record-results-for-federal-employees-in-fiscal-2026/"
+        }
+      ]
+    },
+    {
+      "title": "FBI, CISA warn of cyberattacks targeting refrigeration systems",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/",
+      "published": "Thu, 05 Nov 2026 19:56:44 -0500",
+      "summary": "The FBI and CISA warn that hackers are actively targeting industrial refrigeration and cold-chain monitoring systems worldwide, potentially causing food spoilage, equipment damage, and fire hazards. [...]",
+      "source": "BleepingComputer",
+      "source_category": "Journalism",
+      "topic": "Federal IT & Policy",
+      "score": 4,
+      "sources": [
+        {
+          "name": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/"
+        }
+      ]
+    },
+    {
       "title": "Partner Summit 26: Building Trusted AI at Scale, Together",
       "url": "https://blogs.cisco.com/partner/partner-summit-26-building-trusted-ai-at-scale-together",
       "published": "Thu, 05 Nov 2026 19:00:28 +0000",
@@ -1197,22 +1225,6 @@
         {
           "name": "TechCrunch",
           "url": "https://techcrunch.com/2026/11/05/u-s-government-warns-of-ongoing-cyber-threat-amid-mass-hacks-of-industrial-retail-and-military-freezers/"
-        }
-      ]
-    },
-    {
-      "title": "​​​​What’s new in Microsoft Security: November 2026",
-      "url": "https://www.microsoft.com/en-us/security/blog/2026/11/05/whats-new-in-microsoft-security-november-2026/",
-      "published": "Thu, 05 Nov 2026 17:00:00 +0000",
-      "summary": "Microsoft Security’s November 2026 updates strengthen AI agent security, least privilege, threat protection, and exposure management. The post ​​​​What’s new in Microsoft Security: November 2026 appeared first on Microsoft Security Blog .",
-      "source": "Microsoft Security",
-      "source_category": "Vendor",
-      "topic": "Cybersecurity",
-      "score": 4,
-      "sources": [
-        {
-          "name": "Microsoft Security",
-          "url": "https://www.microsoft.com/en-us/security/blog/2026/11/05/whats-new-in-microsoft-security-november-2026/"
         }
       ]
     },
@@ -1361,22 +1373,6 @@
       ]
     },
     {
-      "title": "Google Calendar phishing campaign hijacks sessions, bypasses MFA",
-      "url": "https://www.bleepingcomputer.com/news/security/google-calendar-phishing-campaign-hijacks-sessions-bypasses-mfa/",
-      "published": "Wed, 04 Nov 2026 10:00:10 -0500",
-      "summary": "A phishing campaign used Google Calendar invites, trusted redirects, and fake login pages to hijack corporate Google sessions and bypass MFA protections. Material Security examines how Operation CloudFire tracked the attacks, blocked malicious messages, and helped take down nearly 900 domains used by the attackers. [...]",
-      "source": "BleepingComputer",
-      "source_category": "Journalism",
-      "topic": "Cybersecurity",
-      "score": 3,
-      "sources": [
-        {
-          "name": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/google-calendar-phishing-campaign-hijacks-sessions-bypasses-mfa/"
-        }
-      ]
-    },
-    {
       "title": "How bug bounty sharpens one researcher’s security skills",
       "url": "https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/",
       "published": "Thu, 22 Oct 2026 17:21:30 +0000",
@@ -1389,6 +1385,22 @@
         {
           "name": "GitHub Blog",
           "url": "https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/"
+        }
+      ]
+    },
+    {
+      "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
+      "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
+      "published": "Thu, 05 Nov 2026 23:09:36 +0000",
+      "summary": "Certain configurations of Alpine are affected. Other distros may be as well.",
+      "source": "Ars Technica",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 3,
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/"
         }
       ]
     },
@@ -1425,34 +1437,18 @@
       ]
     },
     {
-      "title": "Mutipath TCP: Use and Detection, (Mon, Nov 2nd)",
-      "url": "https://isc.sans.edu/diary/rss/33482",
-      "published": "Mon, 02 Nov 2026 14:52:05 GMT",
-      "summary": "Last week, an often-ignored&#;x26;#;xc2;&#;x26;#;xa0;TCP option, introduced in 2020, made the news due to a new vulnerability in Linux&#;x26;#;39;s implementation (RFC&#;x26;#;xc2;&#;x26;#;xa0;8684, &#;x26;#;xc2;&#;x26;#;xa0;CVE-2026-98432)",
-      "source": "SANS Internet Storm Center",
-      "source_category": "Research",
+      "title": "Nearly 1.5 million exposed secrets targeted in new revocation program",
+      "url": "https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/",
+      "published": "Thu, 05 Nov 2026 15:15:08 -0500",
+      "summary": "Truffle Security has launched the Secrets Revocation Program, a free initiative that helps API key issuers revoke 1.4 million publicly exposed secrets that remain valid. [...]",
+      "source": "BleepingComputer",
+      "source_category": "Journalism",
       "topic": "Cybersecurity",
       "score": 3,
       "sources": [
         {
-          "name": "SANS Internet Storm Center",
-          "url": "https://isc.sans.edu/diary/rss/33482"
-        }
-      ]
-    },
-    {
-      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
-      "published": "Wed, 21 Oct 2026 16:04:43 GMT",
-      "summary": "",
-      "source": "Hugging Face",
-      "source_category": "Vendor",
-      "topic": "Cloud & Infrastructure",
-      "score": 2,
-      "sources": [
-        {
-          "name": "Hugging Face",
-          "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1"
+          "name": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/"
         }
       ]
     }
