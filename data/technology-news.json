@@ -1,8 +1,8 @@
 {
-  "retrieved_at": "2026-11-06T17:13:57+00:00",
+  "retrieved_at": "2026-11-06T21:03:31+00:00",
   "candidate_sources": 40,
-  "successful_sources": 34,
-  "collected_articles": 577,
+  "successful_sources": 35,
+  "collected_articles": 599,
   "items": [
     {
       "title": "The First Federal Guidance on AI Agents Is Here. Most Agencies Can’t Meet It Yet.",
@@ -621,22 +621,6 @@
       ]
     },
     {
-      "title": "Evolving the cloud-native foundation for the next generation of AI",
-      "url": "https://azure.microsoft.com/en-us/blog/evolving-the-cloud-native-foundation-for-the-next-generation-of-ai/",
-      "published": "Thu, 15 Oct 2026 16:00:00 +0000",
-      "summary": "Discover how Azure is advancing cloud-native infrastructure to help organizations build, run, and optimize applications and agents at scale. The post Evolving the cloud-native foundation for the next generation of AI appeared first on Microsoft Azure Blog .",
-      "source": "Microsoft Azure",
-      "source_category": "Vendor",
-      "topic": "AI & Emerging Tech",
-      "score": 6,
-      "sources": [
-        {
-          "name": "Microsoft Azure",
-          "url": "https://azure.microsoft.com/en-us/blog/evolving-the-cloud-native-foundation-for-the-next-generation-of-ai/"
-        }
-      ]
-    },
-    {
       "title": "OpenAI released a new cybersecurity model. Is that enough?",
       "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
       "published": "Thu, 05 Nov 2026 19:06:12 +0000",
@@ -733,6 +717,22 @@
       ]
     },
     {
+      "title": "Managing open-weight model risk in enterprise deployments",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/10/16/managing-open-weight-model-risk-in-enterprise-deployments/",
+      "published": "Fri, 16 Oct 2026 16:05:00 +0000",
+      "summary": "The growing AI landscape is giving enterprises more choice in how they build, customize, and deploy increasingly capable models. The post Managing open-weight model risk in enterprise deployments appeared first on Microsoft Azure Blog .",
+      "source": "Microsoft Azure",
+      "source_category": "Vendor",
+      "topic": "AI & Emerging Tech",
+      "score": 6,
+      "sources": [
+        {
+          "name": "Microsoft Azure",
+          "url": "https://www.microsoft.com/en-us/security/blog/2026/10/16/managing-open-weight-model-risk-in-enterprise-deployments/"
+        }
+      ]
+    },
+    {
       "title": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits",
       "url": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html",
       "published": "Fri, 06 Nov 2026 20:28:32 +0530",
@@ -745,6 +745,26 @@
         {
           "name": "The Hacker News",
           "url": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html"
+        },
+        {
+          "name": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/"
+        }
+      ]
+    },
+    {
+      "title": "How Cisco Built an Enterprise AI Factory: Scaling Economics, Performance, and Security",
+      "url": "https://blogs.cisco.com/cisco-on-cisco/how-cisco-built-an-enterprise-ai-factory",
+      "published": "Fri, 06 Nov 2026 19:35:41 +0000",
+      "summary": "Discover how Cisco IT modernized its infrastructure to create a secure, scalable, and cost-efficient enterprise AI factory to support mission-critical AI.",
+      "source": "Cisco Blogs",
+      "source_category": "Vendor",
+      "topic": "Cybersecurity",
+      "score": 6,
+      "sources": [
+        {
+          "name": "Cisco Blogs",
+          "url": "https://blogs.cisco.com/cisco-on-cisco/how-cisco-built-an-enterprise-ai-factory"
         }
       ]
     },
@@ -1085,22 +1105,6 @@
       ]
     },
     {
-      "title": "More 100G in every rack: Meet the Cisco N9348C8D-H2",
-      "url": "https://blogs.cisco.com/datacenter/more-100g-in-every-rack-meet-the-cisco-n9348c8d-h2",
-      "published": "Wed, 04 Nov 2026 16:00:25 +0000",
-      "summary": "See how the Cisco N9348C8D-H2 combines dense 100G ports, 400G uplinks, and software choice in a compact 1RU leaf switch.",
-      "source": "Cisco Blogs",
-      "source_category": "Vendor",
-      "topic": "Federal IT & Policy",
-      "score": 4,
-      "sources": [
-        {
-          "name": "Cisco Blogs",
-          "url": "https://blogs.cisco.com/datacenter/more-100g-in-every-rack-meet-the-cisco-n9348c8d-h2"
-        }
-      ]
-    },
-    {
       "title": "Securing the agentic enterprise with data lineage",
       "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
       "published": "Wed, 04 Nov 2026 13:00:00 +0000",
@@ -1145,10 +1149,6 @@
         {
           "name": "Microsoft Security",
           "url": "https://www.microsoft.com/en-us/security/blog/2026/11/03/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-ai-agent-management-platforms/"
-        },
-        {
-          "name": "Microsoft Azure",
-          "url": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-server-virtualization-platforms/"
         }
       ]
     },
@@ -1281,22 +1281,6 @@
       ]
     },
     {
-      "title": "The ‘Ocarina of Time’ Remake Is Finally Here, but Why Does Link Look so Yassified?",
-      "url": "https://www.wired.com/story/the-legend-of-zelda-ocarina-of-time-remake-yassified-link/",
-      "published": "Thu, 05 Nov 2026 11:30:00 +0000",
-      "summary": "Nintendo has prepped its classic game for a rerelease with a slew of aesthetic upgrades—none more extreme than the protagonist’s curled-eyelash, glossed-lip glow-up.",
-      "source": "WIRED",
-      "source_category": "Journalism",
-      "topic": "Federal IT & Policy",
-      "score": 4,
-      "sources": [
-        {
-          "name": "WIRED",
-          "url": "https://www.wired.com/story/the-legend-of-zelda-ocarina-of-time-remake-yassified-link/"
-        }
-      ]
-    },
-    {
       "title": "KubeCon + CloudNativeCon NA 2026: End User TAB recommendations and tips",
       "url": "https://www.cncf.io/blog/2026/10/29/kubecon-cloudnativecon-na-2026-end-user-tab-recommendations-and-tips/",
       "published": "Fri, 30 Oct 2026 00:43:04 +0000",
@@ -1313,6 +1297,22 @@
       ]
     },
     {
+      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+      "published": "Fri, 06 Nov 2026 18:44:38 +0000",
+      "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+      "source": "TechCrunch",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 4,
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/"
+        }
+      ]
+    },
+    {
       "title": "Rocket Report: Artemis II literally tore through the atmosphere; New Glenn delay",
       "url": "https://arstechnica.com/space/2026/11/rocket-report-new-glenn-wont-fly-this-year-china-launches-mini-falcon-heavy/",
       "published": "Fri, 06 Nov 2026 13:33:20 +0000",
@@ -1325,22 +1325,6 @@
         {
           "name": "Ars Technica",
           "url": "https://arstechnica.com/space/2026/11/rocket-report-new-glenn-wont-fly-this-year-china-launches-mini-falcon-heavy/"
-        }
-      ]
-    },
-    {
-      "title": "At least 10 local governments have moved to drop Flock’s surveillance cameras since summer",
-      "url": "https://techcrunch.com/2026/11/05/at-least-10-local-governments-have-moved-to-drop-flocks-surveillance-cameras-since-summer/",
-      "published": "Fri, 06 Nov 2026 07:18:44 +0000",
-      "summary": "The concerns range from privacy to how data is shared (and with whom) to procurement concerns.",
-      "source": "TechCrunch",
-      "source_category": "Journalism",
-      "topic": "Federal IT & Policy",
-      "score": 4,
-      "sources": [
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/05/at-least-10-local-governments-have-moved-to-drop-flocks-surveillance-cameras-since-summer/"
         }
       ]
     },
@@ -1453,6 +1437,22 @@
         {
           "name": "SANS Internet Storm Center",
           "url": "https://isc.sans.edu/diary/rss/33492"
+        }
+      ]
+    },
+    {
+      "title": "Mutipath TCP: Use and Detection, (Mon, Nov 2nd)",
+      "url": "https://isc.sans.edu/diary/rss/33482",
+      "published": "Mon, 02 Nov 2026 14:52:05 GMT",
+      "summary": "Last week, an often-ignored&#;x26;#;xc2;&#;x26;#;xa0;TCP option, introduced in 2020, made the news due to a new vulnerability in Linux&#;x26;#;39;s implementation (RFC&#;x26;#;xc2;&#;x26;#;xa0;8684, &#;x26;#;xc2;&#;x26;#;xa0;CVE-2026-98432)",
+      "source": "SANS Internet Storm Center",
+      "source_category": "Research",
+      "topic": "Cybersecurity",
+      "score": 3,
+      "sources": [
+        {
+          "name": "SANS Internet Storm Center",
+          "url": "https://isc.sans.edu/diary/rss/33482"
         }
       ]
     }
