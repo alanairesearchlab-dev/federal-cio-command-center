@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-11-06T05:20:10+00:00",
+  "retrieved_at": "2026-11-06T09:15:58+00:00",
   "candidate_sources": 40,
   "successful_sources": 35,
   "collected_articles": 599,
@@ -501,6 +501,22 @@
         {
           "name": "FedScoop",
           "url": "https://fedscoop.com/federal-reserve-cybersecurity-watchdog-report/"
+        }
+      ]
+    },
+    {
+      "title": "UK Warns Its Critical Infrastructure Faces Grave Risk",
+      "url": "https://www.darkreading.com/cybersecurity-operations/uk-warns-critical-infrastructure-grave-risk",
+      "published": "Fri, 06 Nov 2026 09:00:00 GMT",
+      "summary": "Britain's new Labour-led government is making a concerted push to get ahead of the AI risks to its national networks and the industrial complex.",
+      "source": "Dark Reading",
+      "source_category": "Journalism",
+      "topic": "AI & Emerging Tech",
+      "score": 7,
+      "sources": [
+        {
+          "name": "Dark Reading",
+          "url": "https://www.darkreading.com/cybersecurity-operations/uk-warns-critical-infrastructure-grave-risk"
         }
       ]
     },
@@ -1069,22 +1085,6 @@
       ]
     },
     {
-      "title": "Philippine Migrant Worker Data Likely Leaked in 69GB Government Breach",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/philippine-migrant-worker-data-69gb-government-breach",
-      "published": "Wed, 04 Nov 2026 02:00:00 GMT",
-      "summary": "An unknown operator appears to have exfiltrated SQL Server backups from the Philippine Overseas Employment Administration in under a half hour.",
-      "source": "Dark Reading",
-      "source_category": "Journalism",
-      "topic": "Cybersecurity",
-      "score": 4,
-      "sources": [
-        {
-          "name": "Dark Reading",
-          "url": "https://www.darkreading.com/cyberattacks-data-breaches/philippine-migrant-worker-data-69gb-government-breach"
-        }
-      ]
-    },
-    {
       "title": "Why Lightwell pairs dependency backports with upstream collaboration",
       "url": "https://www.redhat.com/en/blog/why-lightwell-pairs-dependency-backports-upstream-collaboration",
       "published": "Wed, 04 Nov 2026 00:00:00 +0000",
@@ -1265,22 +1265,6 @@
       ]
     },
     {
-      "title": "Building AI factories at enterprise scale",
-      "url": "https://www.theregister.com/ai-and-ml/2026/11/05/sponsored-building-ai-factories-at-enterprise-scale/5306629",
-      "published": "Thu, 05 Nov 2026 00:01:00 +0000",
-      "summary": "SPONSORED FEATURE: ASUS wants to scale AI everywhere in the enterprise",
-      "source": "The Register",
-      "source_category": "Journalism",
-      "topic": "AI & Emerging Tech",
-      "score": 4,
-      "sources": [
-        {
-          "name": "The Register",
-          "url": "https://www.theregister.com/ai-and-ml/2026/11/05/sponsored-building-ai-factories-at-enterprise-scale/5306629"
-        }
-      ]
-    },
-    {
       "title": "KubeCon + CloudNativeCon NA 2026: End User TAB recommendations and tips",
       "url": "https://www.cncf.io/blog/2026/10/29/kubecon-cloudnativecon-na-2026-end-user-tab-recommendations-and-tips/",
       "published": "Fri, 30 Oct 2026 00:43:04 +0000",
@@ -1293,6 +1277,22 @@
         {
           "name": "CNCF",
           "url": "https://www.cncf.io/blog/2026/10/29/kubecon-cloudnativecon-na-2026-end-user-tab-recommendations-and-tips/"
+        }
+      ]
+    },
+    {
+      "title": "AI agents are a 'bane' for some website operators, says Cloudflare",
+      "url": "https://www.theregister.com/networks/2026/11/06/ai-agents-are-a-bane-for-some-website-operators-says-cloudflare/5308022",
+      "published": "Fri, 06 Nov 2026 04:25:14 +0000",
+      "summary": "CEO says sovereigns probably exploited PHP2SHELL ages ago, and suggests containers are dead",
+      "source": "The Register",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 4,
+      "sources": [
+        {
+          "name": "The Register",
+          "url": "https://www.theregister.com/networks/2026/11/06/ai-agents-are-a-bane-for-some-website-operators-says-cloudflare/5308022"
         }
       ]
     },
@@ -1341,22 +1341,6 @@
         {
           "name": "Schneier on Security",
           "url": "https://www.schneier.com/blog/archives/2026/10/bias-in-qwen3-coder-model.html"
-        }
-      ]
-    },
-    {
-      "title": "Apple turns iCloud into spy cloud, will start looking at public share links",
-      "url": "https://www.theregister.com/security/2026/11/04/apple-turns-icloud-into-spy-cloud-will-start-looking-at-public-share-links/5307681",
-      "published": "Wed, 04 Nov 2026 21:49:38 +0000",
-      "summary": "Content shared with anyone who has the URL will be scanned for 'harmful content,' though the iMaker hasn't defined that term",
-      "source": "The Register",
-      "source_category": "Journalism",
-      "topic": "Cloud & Infrastructure",
-      "score": 3,
-      "sources": [
-        {
-          "name": "The Register",
-          "url": "https://www.theregister.com/security/2026/11/04/apple-turns-icloud-into-spy-cloud-will-start-looking-at-public-share-links/5307681"
         }
       ]
     },
@@ -1421,6 +1405,22 @@
         {
           "name": "Ars Technica",
           "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/"
+        }
+      ]
+    },
+    {
+      "title": "Get root on a musl Linux system by slamming it with an overly long password",
+      "url": "https://www.theregister.com/security/2026/11/05/get-root-on-a-musl-linux-system-by-slamming-it-with-an-overly-long-password/5307910",
+      "published": "Thu, 05 Nov 2026 18:29:00 +0000",
+      "summary": "Decade-old vulnerability in OpenSSH is now fixed, so get a-patchin'",
+      "source": "The Register",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 3,
+      "sources": [
+        {
+          "name": "The Register",
+          "url": "https://www.theregister.com/security/2026/11/05/get-root-on-a-musl-linux-system-by-slamming-it-with-an-overly-long-password/5307910"
         }
       ]
     },
