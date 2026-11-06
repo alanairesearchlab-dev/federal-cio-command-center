@@ -1,8 +1,8 @@
 {
-  "retrieved_at": "2026-11-06T01:33:58+00:00",
+  "retrieved_at": "2026-11-06T05:20:10+00:00",
   "candidate_sources": 40,
-  "successful_sources": 34,
-  "collected_articles": 577,
+  "successful_sources": 35,
+  "collected_articles": 599,
   "items": [
     {
       "title": "The First Federal Guidance on AI Agents Is Here. Most Agencies Can’t Meet It Yet.",
@@ -621,6 +621,22 @@
       ]
     },
     {
+      "title": "Evolving the cloud-native foundation for the next generation of AI",
+      "url": "https://azure.microsoft.com/en-us/blog/evolving-the-cloud-native-foundation-for-the-next-generation-of-ai/",
+      "published": "Thu, 15 Oct 2026 16:00:00 +0000",
+      "summary": "Discover how Azure is advancing cloud-native infrastructure to help organizations build, run, and optimize applications and agents at scale. The post Evolving the cloud-native foundation for the next generation of AI appeared first on Microsoft Azure Blog .",
+      "source": "Microsoft Azure",
+      "source_category": "Vendor",
+      "topic": "AI & Emerging Tech",
+      "score": 6,
+      "sources": [
+        {
+          "name": "Microsoft Azure",
+          "url": "https://azure.microsoft.com/en-us/blog/evolving-the-cloud-native-foundation-for-the-next-generation-of-ai/"
+        }
+      ]
+    },
+    {
       "title": "OpenAI released a new cybersecurity model. Is that enough?",
       "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
       "published": "Thu, 05 Nov 2026 19:06:12 +0000",
@@ -733,18 +749,18 @@
       ]
     },
     {
-      "title": "Managing open-weight model risk in enterprise deployments",
-      "url": "https://www.microsoft.com/en-us/security/blog/2026/10/16/managing-open-weight-model-risk-in-enterprise-deployments/",
-      "published": "Fri, 16 Oct 2026 16:05:00 +0000",
-      "summary": "The growing AI landscape is giving enterprises more choice in how they build, customize, and deploy increasingly capable models. The post Managing open-weight model risk in enterprise deployments appeared first on Microsoft Azure Blog .",
-      "source": "Microsoft Azure",
+      "title": "Friday Five — November 6, 2026 | Red Hat",
+      "url": "https://www.redhat.com/en/blog/friday-five-november-6-2026-red-hat",
+      "published": "Fri, 06 Nov 2026 00:00:00 +0000",
+      "summary": "Smart Talks with IBM: The $5 Billion effort to help secure the world’s shared softwareProject Lightwell commits $5 billion and aims for 20,000 engineers to help secure open source software. Malcolm Gladwell talks with Red Hat's Gunnar Hellekson among cybersecurity leaders about AI-driven vulnerability discovery and defending shared digital infrastr",
+      "source": "Red Hat",
       "source_category": "Vendor",
-      "topic": "AI & Emerging Tech",
+      "topic": "Cybersecurity",
       "score": 6,
       "sources": [
         {
-          "name": "Microsoft Azure",
-          "url": "https://www.microsoft.com/en-us/security/blog/2026/10/16/managing-open-weight-model-risk-in-enterprise-deployments/"
+          "name": "Red Hat",
+          "url": "https://www.redhat.com/en/blog/friday-five-november-6-2026-red-hat"
         }
       ]
     },
@@ -889,6 +905,22 @@
         {
           "name": "MIT Technology Review",
           "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/"
+        }
+      ]
+    },
+    {
+      "title": "AWS Kiro aims to solve identity crisis by adding another identity: bot orchestrator",
+      "url": "https://www.theregister.com/ai-and-ml/2026/11/05/aws-kiro-aims-to-solve-identity-crisis-by-adding-another-identity-bot-orchestrator/5307965",
+      "published": "Thu, 05 Nov 2026 22:09:20 +0000",
+      "summary": "The cloud giant refits its agentic dev tools for agent orchestration",
+      "source": "The Register",
+      "source_category": "Journalism",
+      "topic": "AI & Emerging Tech",
+      "score": 5,
+      "sources": [
+        {
+          "name": "The Register",
+          "url": "https://www.theregister.com/ai-and-ml/2026/11/05/aws-kiro-aims-to-solve-identity-crisis-by-adding-another-identity-bot-orchestrator/5307965"
         }
       ]
     },
@@ -1081,22 +1113,10 @@
         {
           "name": "Microsoft Security",
           "url": "https://www.microsoft.com/en-us/security/blog/2026/11/03/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-ai-agent-management-platforms/"
-        }
-      ]
-    },
-    {
-      "title": "Future-proofing enterprise AI: The impact of post-quantum cryptography on Red Hat AI Enterprise",
-      "url": "https://www.redhat.com/en/blog/future-proofing-enterprise-ai-impact-post-quantum-cryptography-red-hat-ai-enterprise",
-      "published": "Tue, 03 Nov 2026 00:00:00 +0000",
-      "summary": "We are rapidly approaching an intersection of 2 generational technology shifts: The explosive adoption of generative artificial intelligence (AI), and the looming reality of cryptographically relevant quantum computers (CRQCs). While AI is transforming how we extract value from data, quantum computing is quietly threatening the very foundation of h",
-      "source": "Red Hat",
-      "source_category": "Vendor",
-      "topic": "Cybersecurity",
-      "score": 4,
-      "sources": [
+        },
         {
-          "name": "Red Hat",
-          "url": "https://www.redhat.com/en/blog/future-proofing-enterprise-ai-impact-post-quantum-cryptography-red-hat-ai-enterprise"
+          "name": "Microsoft Azure",
+          "url": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-server-virtualization-platforms/"
         }
       ]
     },
@@ -1401,22 +1421,6 @@
         {
           "name": "Ars Technica",
           "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/"
-        }
-      ]
-    },
-    {
-      "title": "Get root on a musl Linux system by slamming it with an overly long password",
-      "url": "https://www.theregister.com/security/2026/11/05/get-root-on-a-musl-linux-system-by-slamming-it-with-an-overly-long-password/5307910",
-      "published": "Thu, 05 Nov 2026 18:29:00 +0000",
-      "summary": "Decade-old vulnerability in OpenSSH is now fixed, so get a-patchin'",
-      "source": "The Register",
-      "source_category": "Journalism",
-      "topic": "Cybersecurity",
-      "score": 3,
-      "sources": [
-        {
-          "name": "The Register",
-          "url": "https://www.theregister.com/security/2026/11/05/get-root-on-a-musl-linux-system-by-slamming-it-with-an-overly-long-password/5307910"
         }
       ]
     },
