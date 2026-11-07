@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-11-07T01:25:16+00:00",
+  "retrieved_at": "2026-11-07T05:10:19+00:00",
   "candidate_sources": 40,
   "successful_sources": 34,
   "collected_articles": 577,
@@ -1121,22 +1121,6 @@
       ]
     },
     {
-      "title": "Tracking AI adoption in North Korean threat actor tradecraft",
-      "url": "https://www.microsoft.com/en-us/security/blog/2026/10/29/tracking-ai-adoption-in-north-korean-threat-actor-tradecraft/",
-      "published": "Thu, 29 Oct 2026 16:00:00 +0000",
-      "summary": "As Microsoft Threat Intelligence continues to track how threat actors operationalize AI to increase the speed and efficiency of attacks, we’ve identified North Korean threat actors expanding their use of AI with varying levels of adoption. This blog breaks down how North Korean threat actors are utilizing AI across their operations, reflecting a br",
-      "source": "Microsoft Security",
-      "source_category": "Vendor",
-      "topic": "Cybersecurity",
-      "score": 4,
-      "sources": [
-        {
-          "name": "Microsoft Security",
-          "url": "https://www.microsoft.com/en-us/security/blog/2026/10/29/tracking-ai-adoption-in-north-korean-threat-actor-tradecraft/"
-        }
-      ]
-    },
-    {
       "title": "IR trends Q3 2026: Actors impersonate IT help desks in vishing attacks as ransomware activity increases",
       "url": "https://blog.talosintelligence.com/ir-trends-q3-2026/",
       "published": "Thu, 29 Oct 2026 14:00:00 GMT",
@@ -1213,6 +1197,22 @@
         {
           "name": "Cisco Blogs",
           "url": "https://blogs.cisco.com/partner/partner-summit-26-building-trusted-ai-at-scale-together"
+        }
+      ]
+    },
+    {
+      "title": "​​​​What’s new in Microsoft Security: November 2026",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/11/05/whats-new-in-microsoft-security-november-2026/",
+      "published": "Thu, 05 Nov 2026 17:00:00 +0000",
+      "summary": "Microsoft Security’s November 2026 updates strengthen AI agent security, least privilege, threat protection, and exposure management. The post ​​​​What’s new in Microsoft Security: November 2026 appeared first on Microsoft Security Blog .",
+      "source": "Microsoft Security",
+      "source_category": "Vendor",
+      "topic": "Cybersecurity",
+      "score": 4,
+      "sources": [
+        {
+          "name": "Microsoft Security",
+          "url": "https://www.microsoft.com/en-us/security/blog/2026/11/05/whats-new-in-microsoft-security-november-2026/"
         }
       ]
     },
