@@ -1,8 +1,8 @@
 {
-  "retrieved_at": "2026-11-06T21:03:31+00:00",
+  "retrieved_at": "2026-11-07T01:25:16+00:00",
   "candidate_sources": 40,
-  "successful_sources": 35,
-  "collected_articles": 599,
+  "successful_sources": 34,
+  "collected_articles": 577,
   "items": [
     {
       "title": "The First Federal Guidance on AI Agents Is Here. Most Agencies Can’t Meet It Yet.",
@@ -425,22 +425,6 @@
       ]
     },
     {
-      "title": "When You Can’t Work: Understanding your federal disability benefits before the unexpected",
-      "url": "https://federalnewsnetwork.com/fed-thread/2026/11/when-you-cant-work-understanding-your-federal-disability-benefits-before-the-unexpected/",
-      "published": "Thu, 05 Nov 2026 20:27:48 +0000",
-      "summary": "On this episode, we delve into the ins and outs of federal disability retirement, Social Security Disability Insurance (SSDI) and workplace accommodations.",
-      "source": "Federal News Network",
-      "source_category": "Federal IT",
-      "topic": "Cybersecurity",
-      "score": 7,
-      "sources": [
-        {
-          "name": "Federal News Network",
-          "url": "https://federalnewsnetwork.com/fed-thread/2026/11/when-you-cant-work-understanding-your-federal-disability-benefits-before-the-unexpected/"
-        }
-      ]
-    },
-    {
       "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
       "url": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
       "published": "Sat, 10 Oct 2026 00:17:42 +0000",
@@ -469,22 +453,6 @@
         {
           "name": "Krebs on Security",
           "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/"
-        }
-      ]
-    },
-    {
-      "title": "Fed watchdog pushes central bank toward more streamlined IT operations",
-      "url": "https://fedscoop.com/federal-reserve-cybersecurity-watchdog-report/",
-      "published": "Fri, 30 Oct 2026 19:40:03 +0000",
-      "summary": "The OIG attributed the Federal Reserve’s ineffective information security program to a decentralized IT operation, unaddressed recommendations and changes to FISMA methodology. The post Fed watchdog pushes central bank toward more streamlined IT operations appeared first on FedScoop .",
-      "source": "FedScoop",
-      "source_category": "Federal IT",
-      "topic": "Cybersecurity",
-      "score": 7,
-      "sources": [
-        {
-          "name": "FedScoop",
-          "url": "https://fedscoop.com/federal-reserve-cybersecurity-watchdog-report/"
         }
       ]
     },
@@ -621,22 +589,6 @@
       ]
     },
     {
-      "title": "OpenAI released a new cybersecurity model. Is that enough?",
-      "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
-      "published": "Thu, 05 Nov 2026 19:06:12 +0000",
-      "summary": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
-      "source": "TechCrunch",
-      "source_category": "Journalism",
-      "topic": "Cybersecurity",
-      "score": 6,
-      "sources": [
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/"
-        }
-      ]
-    },
-    {
       "title": "Bridging the open source remediation gap: Introducing two new lessons on Lightwell",
       "url": "https://www.redhat.com/en/blog/bridging-open-source-remediation-gap-introducing-two-new-lessons-lightwell",
       "published": "Thu, 05 Nov 2026 00:00:00 +0000",
@@ -729,6 +681,22 @@
         {
           "name": "Microsoft Azure",
           "url": "https://www.microsoft.com/en-us/security/blog/2026/10/16/managing-open-weight-model-risk-in-enterprise-deployments/"
+        }
+      ]
+    },
+    {
+      "title": "Federal employees seek restoration of gender-affirming care coverage",
+      "url": "https://federalnewsnetwork.com/litigation/2026/11/federal-employees-seek-restoration-of-gender-affirming-care-coverage/",
+      "published": "Fri, 06 Nov 2026 21:56:45 +0000",
+      "summary": "Federal employees' preliminary injunction request in their lawsuit against the Office of Personnel Management comes just ahead of the start of Open Season.",
+      "source": "Federal News Network",
+      "source_category": "Federal IT",
+      "topic": "Cloud & Infrastructure",
+      "score": 6,
+      "sources": [
+        {
+          "name": "Federal News Network",
+          "url": "https://federalnewsnetwork.com/litigation/2026/11/federal-employees-seek-restoration-of-gender-affirming-care-coverage/"
         }
       ]
     },
@@ -849,22 +817,6 @@
       ]
     },
     {
-      "title": "Cisco IQ: Engineering APIs for the Agentic Era",
-      "url": "https://blogs.cisco.com/customerexperience/cisco-iq-engineering-apis-for-the-agentic-era",
-      "published": "Wed, 04 Nov 2026 17:30:28 +0000",
-      "summary": "Discover how Cisco IQ's APIs and MCP server give developers and AI agents one canonical model, deterministic guardrails, and platform-level correlation.",
-      "source": "Cisco Blogs",
-      "source_category": "Vendor",
-      "topic": "AI & Emerging Tech",
-      "score": 5,
-      "sources": [
-        {
-          "name": "Cisco Blogs",
-          "url": "https://blogs.cisco.com/customerexperience/cisco-iq-engineering-apis-for-the-agentic-era"
-        }
-      ]
-    },
-    {
       "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
       "url": "https://openai.com/index/daybreak-red-aws-govcloud",
       "published": "Wed, 04 Nov 2026 07:00:00 GMT",
@@ -877,22 +829,6 @@
         {
           "name": "OpenAI News",
           "url": "https://openai.com/index/daybreak-red-aws-govcloud"
-        }
-      ]
-    },
-    {
-      "title": "OperTraitors: How Kubernetes Operators Betray Your Security Posture",
-      "url": "https://unit42.paloaltonetworks.com/agentic-ai-kubernetes-operator-risks/",
-      "published": "Tue, 29 Sep 2026 10:00:48 +0000",
-      "summary": "We introduce OperTraitor, a tool to audit privileges of Kubernetes operators, identify excessive RBAC risks, and secure non-human identities. The post OperTraitors: How Kubernetes Operators Betray Your Security Posture appeared first on Unit 42 .",
-      "source": "Palo Alto Unit 42",
-      "source_category": "Research",
-      "topic": "Cybersecurity",
-      "score": 5,
-      "sources": [
-        {
-          "name": "Palo Alto Unit 42",
-          "url": "https://unit42.paloaltonetworks.com/agentic-ai-kubernetes-operator-risks/"
         }
       ]
     },
@@ -1009,10 +945,10 @@
       ]
     },
     {
-      "title": "3 challenges agencies need to overcome ahead of Q-Day",
-      "url": "https://federalnewsnetwork.com/innovation-in-government/2026/11/3-challenges-agencies-need-to-overcome-ahead-of-q-day/",
-      "published": "Fri, 06 Nov 2026 16:38:30 +0000",
-      "summary": "Rick Muller, the senior VP and chief scientist at IonQ Federal, said quantum computing will be a disruptive technology for agencies and industry alike.",
+      "title": "DOGE leader outlines AI-driven future for federal service delivery",
+      "url": "https://federalnewsnetwork.com/technology-main/2026/11/doge-leader-outlines-ai-driven-future-for-federal-service-delivery/",
+      "published": "Fri, 06 Nov 2026 22:42:15 +0000",
+      "summary": "DOGE Acting Administrator Amy Gleason says AI chatbots could one day replace agency websites, but agencies lack the talent and tools to get there.",
       "source": "Federal News Network",
       "source_category": "Federal IT",
       "topic": "AI & Emerging Tech",
@@ -1020,7 +956,39 @@
       "sources": [
         {
           "name": "Federal News Network",
-          "url": "https://federalnewsnetwork.com/innovation-in-government/2026/11/3-challenges-agencies-need-to-overcome-ahead-of-q-day/"
+          "url": "https://federalnewsnetwork.com/technology-main/2026/11/doge-leader-outlines-ai-driven-future-for-federal-service-delivery/"
+        }
+      ]
+    },
+    {
+      "title": "The federal employee survey should reveal what is really driving AI resistance",
+      "url": "https://federalnewsnetwork.com/commentary/2026/11/the-federal-employee-survey-should-reveal-what-is-really-driving-ai-resistance/",
+      "published": "Fri, 06 Nov 2026 22:14:05 +0000",
+      "summary": "Before federal managers call employees resistant to artificial intelligence, they should find out what employees are resisting.",
+      "source": "Federal News Network",
+      "source_category": "Federal IT",
+      "topic": "AI & Emerging Tech",
+      "score": 5,
+      "sources": [
+        {
+          "name": "Federal News Network",
+          "url": "https://federalnewsnetwork.com/commentary/2026/11/the-federal-employee-survey-should-reveal-what-is-really-driving-ai-resistance/"
+        }
+      ]
+    },
+    {
+      "title": "After broad workforce cuts, Treasury unit looks to add new IT talent",
+      "url": "https://fedscoop.com/treasury-department-technology-hiring-ai-workforce/",
+      "published": "Fri, 06 Nov 2026 22:09:02 +0000",
+      "summary": "The Treasury Common Services Center is recruiting IT professionals, breaking down technology silos and pushing AI across the division, its administrator said Friday. The post After broad workforce cuts, Treasury unit looks to add new IT talent appeared first on FedScoop .",
+      "source": "FedScoop",
+      "source_category": "Federal IT",
+      "topic": "AI & Emerging Tech",
+      "score": 5,
+      "sources": [
+        {
+          "name": "FedScoop",
+          "url": "https://fedscoop.com/treasury-department-technology-hiring-ai-workforce/"
         }
       ]
     },
@@ -1217,22 +1185,6 @@
       ]
     },
     {
-      "title": "OSC delivered record results for federal employees in fiscal 2026",
-      "url": "https://federalnewsnetwork.com/commentary/2026/11/osc-delivered-record-results-for-federal-employees-in-fiscal-2026/",
-      "published": "Thu, 05 Nov 2026 21:30:54 +0000",
-      "summary": "Charles Baldis, the special counsel in the Office of Special Counsel, highlights the agency’s impact in protecting employees and driving corrective actions.",
-      "source": "Federal News Network",
-      "source_category": "Federal IT",
-      "topic": "Federal IT & Policy",
-      "score": 4,
-      "sources": [
-        {
-          "name": "Federal News Network",
-          "url": "https://federalnewsnetwork.com/commentary/2026/11/osc-delivered-record-results-for-federal-employees-in-fiscal-2026/"
-        }
-      ]
-    },
-    {
       "title": "FBI, CISA warn of cyberattacks targeting refrigeration systems",
       "url": "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/",
       "published": "Thu, 05 Nov 2026 19:56:44 -0500",
@@ -1265,22 +1217,6 @@
       ]
     },
     {
-      "title": "US government warns of ‘ongoing cyber threat’ amid mass hacks of industrial retail and military freezers",
-      "url": "https://techcrunch.com/2026/11/05/u-s-government-warns-of-ongoing-cyber-threat-amid-mass-hacks-of-industrial-retail-and-military-freezers/",
-      "published": "Thu, 05 Nov 2026 18:48:34 +0000",
-      "summary": "A joint U.S. government statement says the hacks are affecting the food, transportation, and healthcare industries after reports of global mass hacks.",
-      "source": "TechCrunch",
-      "source_category": "Journalism",
-      "topic": "Cybersecurity",
-      "score": 4,
-      "sources": [
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/05/u-s-government-warns-of-ongoing-cyber-threat-amid-mass-hacks-of-industrial-retail-and-military-freezers/"
-        }
-      ]
-    },
-    {
       "title": "KubeCon + CloudNativeCon NA 2026: End User TAB recommendations and tips",
       "url": "https://www.cncf.io/blog/2026/10/29/kubecon-cloudnativecon-na-2026-end-user-tab-recommendations-and-tips/",
       "published": "Fri, 30 Oct 2026 00:43:04 +0000",
@@ -1293,6 +1229,22 @@
         {
           "name": "CNCF",
           "url": "https://www.cncf.io/blog/2026/10/29/kubecon-cloudnativecon-na-2026-end-user-tab-recommendations-and-tips/"
+        }
+      ]
+    },
+    {
+      "title": "How Stephen Miller Schemed His Way to the Top",
+      "url": "https://www.wired.com/story/how-stephen-miller-schemed-his-way-to-the-top/",
+      "published": "Fri, 06 Nov 2026 21:10:02 +0000",
+      "summary": "The architect of the Trump administration’s brutal crackdowns on immigration and dissent was already known as “the prime minister.” Now he’ll work as the chief of staff.",
+      "source": "WIRED",
+      "source_category": "Journalism",
+      "topic": "Federal IT & Policy",
+      "score": 4,
+      "sources": [
+        {
+          "name": "WIRED",
+          "url": "https://www.wired.com/story/how-stephen-miller-schemed-his-way-to-the-top/"
         }
       ]
     },
@@ -1325,6 +1277,38 @@
         {
           "name": "Ars Technica",
           "url": "https://arstechnica.com/space/2026/11/rocket-report-new-glenn-wont-fly-this-year-china-launches-mini-falcon-heavy/"
+        }
+      ]
+    },
+    {
+      "title": "At least 10 local governments have moved to drop Flock’s surveillance cameras since summer",
+      "url": "https://techcrunch.com/2026/11/05/at-least-10-local-governments-have-moved-to-drop-flocks-surveillance-cameras-since-summer/",
+      "published": "Fri, 06 Nov 2026 07:18:44 +0000",
+      "summary": "The concerns range from privacy to how data is shared (and with whom) to procurement concerns.",
+      "source": "TechCrunch",
+      "source_category": "Journalism",
+      "topic": "Federal IT & Policy",
+      "score": 4,
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/05/at-least-10-local-governments-have-moved-to-drop-flocks-surveillance-cameras-since-summer/"
+        }
+      ]
+    },
+    {
+      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+      "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+      "published": "Fri, 06 Nov 2026 06:28:32 +0000",
+      "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
+      "source": "TechCrunch",
+      "source_category": "Journalism",
+      "topic": "Cybersecurity",
+      "score": 4,
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/"
         }
       ]
     },
@@ -1389,6 +1373,22 @@
         {
           "name": "SANS Internet Storm Center",
           "url": "https://isc.sans.edu/diary/rss/33488"
+        }
+      ]
+    },
+    {
+      "title": "Active Exploitation of May 2026 PAN-OS CVE-2026-0257 (Updated October 20)",
+      "url": "https://unit42.paloaltonetworks.com/active-exploitation-of-pan-os-cve-2026-0257/",
+      "published": "Tue, 20 Oct 2026 20:30:42 +0000",
+      "summary": "Ransomware operators including Spikey Scorpius (aka Qilin) and Tarnished Scorpius (aka Inc) are exploiting PAN-OS vulnerability CVE-2026-0257. The post Active Exploitation of May 2026 PAN-OS CVE-2026-0257 (Updated October 20) appeared first on Unit 42 .",
+      "source": "Palo Alto Unit 42",
+      "source_category": "Research",
+      "topic": "Cybersecurity",
+      "score": 3,
+      "sources": [
+        {
+          "name": "Palo Alto Unit 42",
+          "url": "https://unit42.paloaltonetworks.com/active-exploitation-of-pan-os-cve-2026-0257/"
         }
       ]
     },
