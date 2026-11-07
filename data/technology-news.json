@@ -1,8 +1,8 @@
 {
-  "retrieved_at": "2026-11-07T05:10:19+00:00",
+  "retrieved_at": "2026-11-07T09:09:00+00:00",
   "candidate_sources": 40,
-  "successful_sources": 34,
-  "collected_articles": 577,
+  "successful_sources": 35,
+  "collected_articles": 599,
   "items": [
     {
       "title": "The First Federal Guidance on AI Agents Is Here. Most Agencies Can’t Meet It Yet.",
@@ -669,22 +669,6 @@
       ]
     },
     {
-      "title": "Managing open-weight model risk in enterprise deployments",
-      "url": "https://www.microsoft.com/en-us/security/blog/2026/10/16/managing-open-weight-model-risk-in-enterprise-deployments/",
-      "published": "Fri, 16 Oct 2026 16:05:00 +0000",
-      "summary": "The growing AI landscape is giving enterprises more choice in how they build, customize, and deploy increasingly capable models. The post Managing open-weight model risk in enterprise deployments appeared first on Microsoft Azure Blog .",
-      "source": "Microsoft Azure",
-      "source_category": "Vendor",
-      "topic": "AI & Emerging Tech",
-      "score": 6,
-      "sources": [
-        {
-          "name": "Microsoft Azure",
-          "url": "https://www.microsoft.com/en-us/security/blog/2026/10/16/managing-open-weight-model-risk-in-enterprise-deployments/"
-        }
-      ]
-    },
-    {
       "title": "Federal employees seek restoration of gender-affirming care coverage",
       "url": "https://federalnewsnetwork.com/litigation/2026/11/federal-employees-seek-restoration-of-gender-affirming-care-coverage/",
       "published": "Fri, 06 Nov 2026 21:56:45 +0000",
@@ -733,6 +717,22 @@
         {
           "name": "Cisco Blogs",
           "url": "https://blogs.cisco.com/cisco-on-cisco/how-cisco-built-an-enterprise-ai-factory"
+        }
+      ]
+    },
+    {
+      "title": "Building the next generation of multimodal AI experiences with fal in Microsoft Foundry",
+      "url": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/building-the-next-generation-of-multimodal-ai-experiences-with-fal-in-microsoft-/4570032",
+      "published": "Fri, 06 Nov 2026 19:08:44 +0000",
+      "summary": "Microsoft and fal partner to expand video generation in Microsoft Foundry, helping developers bring creative ideas into enterprise applications. The post Building the next generation of multimodal AI experiences with fal in Microsoft Foundry appeared first on Microsoft Azure Blog .",
+      "source": "Microsoft Azure",
+      "source_category": "Vendor",
+      "topic": "AI & Emerging Tech",
+      "score": 6,
+      "sources": [
+        {
+          "name": "Microsoft Azure",
+          "url": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/building-the-next-generation-of-multimodal-ai-experiences-with-fal-in-microsoft-/4570032"
         }
       ]
     },
